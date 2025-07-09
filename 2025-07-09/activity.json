@@ -2,9 +2,9 @@
   "date": "2025-07-09",
   "projects": {
     "toolsOpenEmalPass": {
-      "totalLinesAdded": 167,
+      "totalLinesAdded": 397,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_gui.py": [
           {
@@ -26,6 +26,66 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_gui.py",
             "fileType": ".py",
             "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\requirements.txt": [
+          {
+            "timestamp": "2025-07-09T07:59:51.923Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-09T07:59:52.955Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_modern_gui.py": [
+          {
+            "timestamp": "2025-07-09T07:59:57.525Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_modern_gui.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-09T07:59:58.583Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_modern_gui.py",
+            "fileType": ".py",
+            "linesAdded": 226,
             "linesRemoved": 0,
             "projectName": "toolsOpenEmalPass",
             "content": {

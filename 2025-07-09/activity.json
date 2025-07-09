@@ -1,0 +1,61 @@
+{
+  "date": "2025-07-09",
+  "projects": {
+    "toolsOpenEmalPass": {
+      "totalLinesAdded": 167,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_gui.py": [
+          {
+            "timestamp": "2025-07-09T07:56:50.216Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_gui.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-09T07:56:51.257Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_gui.py",
+            "fileType": ".py",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_gui.py"
+      ],
+      "averageChangeSize": 83.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}

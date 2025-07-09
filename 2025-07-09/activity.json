@@ -2,9 +2,9 @@
   "date": "2025-07-09",
   "projects": {
     "toolsOpenEmalPass": {
-      "totalLinesAdded": 461,
+      "totalLinesAdded": 1650,
       "totalLinesRemoved": 13,
-      "totalActiveTime": 12,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_gui.py": [
           {
@@ -149,6 +149,200 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-09T10:53:41.034Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_app_password_modern_gui.py",
+            "fileType": ".py",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\main.py": [
+          {
+            "timestamp": "2025-07-09T10:54:28.245Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-09T10:54:29.453Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\main.py",
+            "fileType": ".py",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\utils.py": [
+          {
+            "timestamp": "2025-07-09T10:54:45.468Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\utils.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-09T10:54:46.663Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\utils.py",
+            "fileType": ".py",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\data_manager.py": [
+          {
+            "timestamp": "2025-07-09T10:55:09.977Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\data_manager.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-09T10:55:11.135Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\data_manager.py",
+            "fileType": ".py",
+            "linesAdded": 159,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_automation.py": [
+          {
+            "timestamp": "2025-07-09T10:55:57.621Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_automation.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-09T10:55:58.667Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_automation.py",
+            "fileType": ".py",
+            "linesAdded": 226,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\account_manager.py": [
+          {
+            "timestamp": "2025-07-09T10:57:14.376Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\account_manager.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-09T10:57:15.470Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\account_manager.py",
+            "fileType": ".py",
+            "linesAdded": 318,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gui_main.py": [
+          {
+            "timestamp": "2025-07-09T10:58:16.465Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gui_main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-09T10:58:17.527Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gui_main.py",
+            "fileType": ".py",
+            "linesAdded": 266,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]

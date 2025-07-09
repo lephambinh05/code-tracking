@@ -4,16 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 461                                          |
+| **Lines Added** (➕)   | 1650                                          |
 | **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 448                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Net Change** (↕)    | 1637                |
+| **Active Time** (⌚)   | 26 minutes |
 
 
 ## Modified Files
 - **gmail_app_password_gui.py** (+167, -0)
 - **requirements.txt** (+3, -0)
-- **gmail_app_password_modern_gui.py** (+291, -13)
+- **gmail_app_password_modern_gui.py** (+400, -13)
+- **main.py** (+21, -0)
+- **utils.py** (+86, -0)
+- **data_manager.py** (+160, -0)
+- **gmail_automation.py** (+227, -0)
+- **account_manager.py** (+319, -0)
+- **gui_main.py** (+267, -0)
 
 ## Visualizations
 
@@ -22,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 471
+".py" : 1660
 ".txt" : 3
 ```
 
@@ -33,7 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "14h" : 6
 "15h" : 4
+"17h" : 13
 ```
 
 
-> **Last Updated:** 7/9/2025, 3:27:16 PM
+> **Last Updated:** 7/9/2025, 5:58:21 PM

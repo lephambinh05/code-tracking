@@ -2694,9 +2694,9 @@
       "averageChangeSize": 353
     },
     "shopaccv1": {
-      "totalLinesAdded": 4483,
+      "totalLinesAdded": 4902,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 86,
+      "totalActiveTime": 91,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json": [
           {
@@ -3956,6 +3956,36 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\sql\\setup.sql": [
+          {
+            "timestamp": "2025-07-10T16:41:13.245Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\sql\\setup.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-10T16:41:14.281Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\sql\\setup.sql",
+            "fileType": ".sql",
+            "linesAdded": 418,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
           }
         ]
       },

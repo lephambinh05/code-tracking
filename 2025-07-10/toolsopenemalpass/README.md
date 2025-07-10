@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 802                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 802                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Lines Added** (➕)   | 873                                          |
+| **Lines Removed** (➖) | 568                                        |
+| **Net Change** (↕)    | 305                |
+| **Active Time** (⌚)   | 63 minutes |
 
 
 ## Modified Files
-- **account_manager.py** (+319, -0)
-- **main.py** (+21, -0)
-- **gmail_automation.py** (+227, -0)
+- **account_manager.py** (+327, -318)
+- **main.py** (+31, -20)
+- **gmail_automation.py** (+233, -226)
 - **package.json** (+24, -0)
 - **main.js** (+23, -0)
 - **preload.js** (+6, -0)
 - **gmailAutomation.js** (+9, -0)
 - **dataManager.js** (+15, -0)
 - **utils.js** (+4, -0)
-- **accounts.json** (+3, -0)
+- **accounts.json** (+3, -2)
 - **index.html** (+11, -0)
 - **main.js** (+7, -0)
 - **App.svelte** (+14, -0)
@@ -36,6 +36,11 @@
 - **AccountForm.svelte** (+8, -0)
 - **AccountTable.svelte** (+8, -0)
 - **LogBox.svelte** (+9, -0)
+- **.npmrc** (+2, -0)
+- **requirements.txt** (+3, -2)
+- **gui_main.py** (+23, -0)
+- **data_manager.py** (+12, -0)
+- **utils.py** (+7, -0)
 
 ## Visualizations
 
@@ -44,11 +49,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 567
-".json" : 27
+".py" : 1197
+".json" : 29
 ".js" : 71
 ".html" : 11
 ".svelte" : 126
+"unknown" : 2
+".txt" : 5
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -57,8 +64,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "07h" : 3
-"08h" : 46
+"08h" : 62
 ```
 
 
-> **Last Updated:** 7/10/2025, 8:47:21 AM
+> **Last Updated:** 7/10/2025, 8:52:21 AM

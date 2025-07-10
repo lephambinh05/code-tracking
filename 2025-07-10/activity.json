@@ -2694,9 +2694,9 @@
       "averageChangeSize": 353
     },
     "shopaccv1": {
-      "totalLinesAdded": 2033,
+      "totalLinesAdded": 3346,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 20,
+      "totalActiveTime": 64,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json": [
           {
@@ -2958,6 +2958,666 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000001_create_users_table.php",
             "fileType": ".php",
             "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000002_create_oauth_accounts_table.php": [
+          {
+            "timestamp": "2025-07-10T16:30:20.833Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000002_create_oauth_accounts_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:30:21.991Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000002_create_oauth_accounts_table.php",
+            "fileType": ".php",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000003_create_categories_table.php": [
+          {
+            "timestamp": "2025-07-10T16:30:29.816Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000003_create_categories_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:30:30.998Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000003_create_categories_table.php",
+            "fileType": ".php",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000004_create_products_table.php": [
+          {
+            "timestamp": "2025-07-10T16:30:41.303Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000004_create_products_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:30:42.400Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000004_create_products_table.php",
+            "fileType": ".php",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000005_create_product_images_table.php": [
+          {
+            "timestamp": "2025-07-10T16:30:49.914Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000005_create_product_images_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:30:51.096Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000005_create_product_images_table.php",
+            "fileType": ".php",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000006_create_orders_table.php": [
+          {
+            "timestamp": "2025-07-10T16:31:03.024Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000006_create_orders_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:31:04.220Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000006_create_orders_table.php",
+            "fileType": ".php",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000007_create_transactions_table.php": [
+          {
+            "timestamp": "2025-07-10T16:31:15.265Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000007_create_transactions_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:31:16.490Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000007_create_transactions_table.php",
+            "fileType": ".php",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000008_create_game_wallets_table.php": [
+          {
+            "timestamp": "2025-07-10T16:31:24.511Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000008_create_game_wallets_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:31:25.724Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000008_create_game_wallets_table.php",
+            "fileType": ".php",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000009_create_withdrawal_requests_table.php": [
+          {
+            "timestamp": "2025-07-10T16:31:34.638Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000009_create_withdrawal_requests_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:31:35.853Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000009_create_withdrawal_requests_table.php",
+            "fileType": ".php",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000010_create_affiliate_logs_table.php": [
+          {
+            "timestamp": "2025-07-10T16:31:45.138Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000010_create_affiliate_logs_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:31:46.334Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000010_create_affiliate_logs_table.php",
+            "fileType": ".php",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000011_create_articles_table.php": [
+          {
+            "timestamp": "2025-07-10T16:31:54.407Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000011_create_articles_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:31:55.472Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000011_create_articles_table.php",
+            "fileType": ".php",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000012_create_settings_table.php": [
+          {
+            "timestamp": "2025-07-10T16:32:04.048Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000012_create_settings_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:32:05.277Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000012_create_settings_table.php",
+            "fileType": ".php",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000013_create_mini_games_table.php": [
+          {
+            "timestamp": "2025-07-10T16:32:18.539Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000013_create_mini_games_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:32:19.777Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000013_create_mini_games_table.php",
+            "fileType": ".php",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000014_create_game_rewards_table.php": [
+          {
+            "timestamp": "2025-07-10T16:32:28.874Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000014_create_game_rewards_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:32:30.086Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000014_create_game_rewards_table.php",
+            "fileType": ".php",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000015_create_payment_gateways_table.php": [
+          {
+            "timestamp": "2025-07-10T16:32:38.103Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000015_create_payment_gateways_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:32:39.340Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000015_create_payment_gateways_table.php",
+            "fileType": ".php",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000016_create_payment_logs_table.php": [
+          {
+            "timestamp": "2025-07-10T16:32:49.179Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000016_create_payment_logs_table.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:32:50.386Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\migrations\\2024_01_01_000016_create_payment_logs_table.php",
+            "fileType": ".php",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\DatabaseSeeder.php": [
+          {
+            "timestamp": "2025-07-10T16:32:57.097Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\DatabaseSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:32:58.328Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\DatabaseSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\UserSeeder.php": [
+          {
+            "timestamp": "2025-07-10T16:33:14.928Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\UserSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:33:16.114Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\UserSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 111,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\CategorySeeder.php": [
+          {
+            "timestamp": "2025-07-10T16:33:34.009Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\CategorySeeder.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:33:35.212Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\CategorySeeder.php",
+            "fileType": ".php",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\ProductSeeder.php": [
+          {
+            "timestamp": "2025-07-10T16:34:05.356Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\ProductSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:34:06.495Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\ProductSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 188,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\SettingSeeder.php": [
+          {
+            "timestamp": "2025-07-10T16:34:34.479Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\SettingSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:34:35.663Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\SettingSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 145,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\MiniGameSeeder.php": [
+          {
+            "timestamp": "2025-07-10T16:34:52.046Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\MiniGameSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:34:53.212Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\database\\seeders\\MiniGameSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Models\\Category.php": [
+          {
+            "timestamp": "2025-07-10T16:35:03.253Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Models\\Category.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-10T16:35:04.465Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Models\\Category.php",
+            "fileType": ".php",
+            "linesAdded": 72,
             "linesRemoved": 0,
             "projectName": "shopaccv1",
             "content": {

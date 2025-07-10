@@ -2237,6 +2237,53 @@
         "c:\\Users\\lephambinh\\Downloads\\mail-listener2-0.1.3\\mail-listener2-0.1.3\\facebook-otp-example.js"
       ],
       "averageChangeSize": 65.25
+    },
+    "getMailOTP": {
+      "totalLinesAdded": 706,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package-lock.json": [
+          {
+            "timestamp": "2025-07-10T15:07:56.137Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 455,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T15:10:14.026Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 251,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "22": 3
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package-lock.json"
+      ],
+      "averageChangeSize": 353
     }
   },
   "totalActiveTime": 2,

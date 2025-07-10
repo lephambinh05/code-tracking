@@ -2,9 +2,9 @@
   "date": "2025-07-10",
   "projects": {
     "toolsOpenEmalPass": {
-      "totalLinesAdded": 2314,
-      "totalLinesRemoved": 598,
-      "totalActiveTime": 99,
+      "totalLinesAdded": 2315,
+      "totalLinesRemoved": 762,
+      "totalActiveTime": 106,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\account_manager.py": [
           {
@@ -1012,6 +1012,20 @@
             },
             "duration": 0,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-07-10T02:37:24.209Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gui_main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 163,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\data_manager.py": [
@@ -1330,6 +1344,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\db\\users.json",
             "fileType": ".json",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T02:41:27.024Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\db\\users.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T02:41:30.306Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\db\\users.json",
+            "fileType": ".json",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "toolsOpenEmalPass",
             "content": {

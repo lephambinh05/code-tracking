@@ -2,9 +2,9 @@
   "date": "2025-07-10",
   "projects": {
     "toolsOpenEmalPass": {
-      "totalLinesAdded": 2506,
+      "totalLinesAdded": 2516,
       "totalLinesRemoved": 767,
-      "totalActiveTime": 123,
+      "totalActiveTime": 127,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\account_manager.py": [
           {
@@ -443,6 +443,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T03:55:45.166Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\db\\accounts.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ],

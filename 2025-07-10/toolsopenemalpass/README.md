@@ -4,16 +4,31 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 567                                          |
+| **Lines Added** (➕)   | 727                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 567                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Net Change** (↕)    | 727                |
+| **Active Time** (⌚)   | 31 minutes |
 
 
 ## Modified Files
 - **account_manager.py** (+319, -0)
 - **main.py** (+21, -0)
 - **gmail_automation.py** (+227, -0)
+- **package.json** (+19, -0)
+- **main.js** (+23, -0)
+- **preload.js** (+6, -0)
+- **gmailAutomation.js** (+9, -0)
+- **dataManager.js** (+15, -0)
+- **utils.js** (+4, -0)
+- **accounts.json** (+3, -0)
+- **index.html** (+11, -0)
+- **main.js** (+7, -0)
+- **App.svelte** (+14, -0)
+- **MainPage.svelte** (+16, -0)
+- **AccountManagerPage.svelte** (+8, -0)
+- **AccountForm.svelte** (+8, -0)
+- **AccountTable.svelte** (+8, -0)
+- **LogBox.svelte** (+9, -0)
 
 ## Visualizations
 
@@ -23,6 +38,10 @@
 pie showData
 title Lines changed by file type
 ".py" : 567
+".json" : 22
+".js" : 64
+".html" : 11
+".svelte" : 63
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +50,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "07h" : 3
+"08h" : 30
 ```
 
 
-> **Last Updated:** 7/10/2025, 8:02:21 AM
+> **Last Updated:** 7/10/2025, 8:12:21 AM

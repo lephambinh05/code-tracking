@@ -1,0 +1,81 @@
+{
+  "date": "2025-07-10",
+  "projects": {
+    "toolsOpenEmalPass": {
+      "totalLinesAdded": 567,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\account_manager.py": [
+          {
+            "timestamp": "2025-07-10T00:58:50.691Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\account_manager.py",
+            "fileType": ".py",
+            "linesAdded": 319,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\main.py": [
+          {
+            "timestamp": "2025-07-10T00:59:23.572Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\main.py",
+            "fileType": ".py",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_automation.py": [
+          {
+            "timestamp": "2025-07-10T00:59:34.573Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_automation.py",
+            "fileType": ".py",
+            "linesAdded": 227,
+            "linesRemoved": 0,
+            "projectName": "toolsOpenEmalPass",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "7": 2
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\account_manager.py",
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\main.py",
+        "c:\\Users\\lephambinh\\Downloads\\toolsOpenEmalPass\\gmail_automation.py"
+      ],
+      "averageChangeSize": 189
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}

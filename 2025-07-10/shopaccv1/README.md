@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3346                                          |
+| **Lines Added** (➕)   | 4483                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 3346                |
-| **Active Time** (⌚)   | 64 minutes |
+| **Net Change** (↕)    | 4483                |
+| **Active Time** (⌚)   | 86 minutes |
 
 
 ## Modified Files
@@ -42,6 +42,17 @@
 - **SettingSeeder.php** (+146, -0)
 - **MiniGameSeeder.php** (+90, -0)
 - **Category.php** (+73, -0)
+- **Product.php** (+139, -0)
+- **Order.php** (+126, -0)
+- **Transaction.php** (+99, -0)
+- **GameWallet.php** (+107, -0)
+- **Setting.php** (+83, -0)
+- **MiniGame.php** (+82, -0)
+- **GameReward.php** (+93, -0)
+- **ProductImage.php** (+34, -0)
+- **WithdrawalRequest.php** (+125, -0)
+- **AffiliateLog.php** (+122, -0)
+- **Article.php** (+127, -0)
 
 ## Visualizations
 
@@ -52,7 +63,7 @@ pie showData
 title Lines changed by file type
 ".json" : 130
 ".example" : 123
-".php" : 2699
+".php" : 3836
 ".ts" : 218
 ".yml" : 176
 ```
@@ -62,8 +73,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"23h" : 62
+"23h" : 84
 ```
 
 
-> **Last Updated:** 7/10/2025, 11:35:19 PM
+> **Last Updated:** 7/10/2025, 11:40:19 PM

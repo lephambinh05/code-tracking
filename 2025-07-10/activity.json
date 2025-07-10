@@ -2694,9 +2694,9 @@
       "averageChangeSize": 353
     },
     "shopaccv1": {
-      "totalLinesAdded": 1536,
+      "totalLinesAdded": 1983,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalActiveTime": 19,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json": [
           {
@@ -2846,6 +2846,96 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\package.json": [
+          {
+            "timestamp": "2025-07-10T16:15:58.977Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T16:16:00.057Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\nuxt.config.ts": [
+          {
+            "timestamp": "2025-07-10T16:16:30.039Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\nuxt.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-10T16:16:31.100Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\nuxt.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 217,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\docker-compose.yml": [
+          {
+            "timestamp": "2025-07-10T16:16:52.797Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-07-10T16:16:53.927Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 175,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ]
       },

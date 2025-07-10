@@ -2239,9 +2239,9 @@
       "averageChangeSize": 65.25
     },
     "getMailOTP": {
-      "totalLinesAdded": 1030,
+      "totalLinesAdded": 1059,
       "totalLinesRemoved": 158,
-      "totalActiveTime": 9,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package-lock.json": [
           {
@@ -2370,6 +2370,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-10T15:37:02.460Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js",
+            "fileType": ".js",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-10T15:38:14.180Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js",
+            "fileType": ".js",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

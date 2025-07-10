@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 732                                          |
+| **Lines Added** (➕)   | 802                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 732                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Net Change** (↕)    | 802                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
@@ -29,6 +29,13 @@
 - **AccountForm.svelte** (+8, -0)
 - **AccountTable.svelte** (+8, -0)
 - **LogBox.svelte** (+9, -0)
+- **App.svelte** (+14, -0)
+- **main.js** (+7, -0)
+- **MainPage.svelte** (+16, -0)
+- **AccountManagerPage.svelte** (+8, -0)
+- **AccountForm.svelte** (+8, -0)
+- **AccountTable.svelte** (+8, -0)
+- **LogBox.svelte** (+9, -0)
 
 ## Visualizations
 
@@ -39,9 +46,9 @@ pie showData
 title Lines changed by file type
 ".py" : 567
 ".json" : 27
-".js" : 64
+".js" : 71
 ".html" : 11
-".svelte" : 63
+".svelte" : 126
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -50,8 +57,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "07h" : 3
-"08h" : 32
+"08h" : 46
 ```
 
 
-> **Last Updated:** 7/10/2025, 8:22:21 AM
+> **Last Updated:** 7/10/2025, 8:47:21 AM

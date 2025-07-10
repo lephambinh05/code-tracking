@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1882                                          |
+| **Lines Added** (➕)   | 2094                                          |
 | **Lines Removed** (➖) | 579                                        |
-| **Net Change** (↕)    | 1303                |
-| **Active Time** (⌚)   | 73 minutes |
+| **Net Change** (↕)    | 1515                |
+| **Active Time** (⌚)   | 86 minutes |
 
 
 ## Modified Files
 - **account_manager.py** (+656, -318)
-- **main.py** (+31, -20)
+- **main.py** (+50, -20)
 - **gmail_automation.py** (+477, -226)
 - **package.json** (+24, -0)
 - **main.js** (+23, -0)
@@ -38,9 +38,15 @@
 - **LogBox.svelte** (+9, -0)
 - **.npmrc** (+2, -0)
 - **requirements.txt** (+3, -2)
-- **gui_main.py** (+223, -0)
+- **gui_main.py** (+250, -0)
 - **data_manager.py** (+125, -11)
 - **utils.py** (+130, -0)
+- **settings.json** (+4, -0)
+- **settings_manager.py** (+18, -0)
+- **generate_license.py** (+15, -0)
+- **license_api.py** (+22, -0)
+- **gui_settings.py** (+38, -0)
+- **gui_bulk_add.py** (+69, -0)
 
 ## Visualizations
 
@@ -49,8 +55,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 2217
-".json" : 29
+".py" : 2425
+".json" : 33
 ".js" : 71
 ".html" : 11
 ".svelte" : 126
@@ -65,7 +71,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "07h" : 3
 "08h" : 68
+"09h" : 14
 ```
 
 
-> **Last Updated:** 7/10/2025, 8:57:21 AM
+> **Last Updated:** 7/10/2025, 9:22:21 AM

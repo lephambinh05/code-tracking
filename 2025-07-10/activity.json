@@ -2239,9 +2239,9 @@
       "averageChangeSize": 65.25
     },
     "getMailOTP": {
-      "totalLinesAdded": 706,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 761,
+      "totalLinesRemoved": 158,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package-lock.json": [
           {
@@ -2271,6 +2271,64 @@
             },
             "duration": 3,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T15:11:12.526Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 141,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js": [
+          {
+            "timestamp": "2025-07-10T15:11:50.266Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-10T15:11:51.274Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js",
+            "fileType": ".js",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-10T15:13:18.790Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ]
       },

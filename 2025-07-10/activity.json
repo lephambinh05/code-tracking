@@ -1745,9 +1745,9 @@
       "averageChangeSize": 189
     },
     "mail-listener2-0.1.3": {
-      "totalLinesAdded": 530,
-      "totalLinesRemoved": 210,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 803,
+      "totalLinesRemoved": 222,
+      "totalActiveTime": 25,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\mail-listener2-0.1.3\\mail-listener2-0.1.3\\index.js": [
           {
@@ -2118,6 +2118,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\mail-listener2-0.1.3\\mail-listener2-0.1.3\\package.json": [
+          {
+            "timestamp": "2025-07-10T04:41:36.915Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\mail-listener2-0.1.3\\mail-listener2-0.1.3\\package.json",
+            "fileType": ".json",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "mail-listener2-0.1.3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T04:41:37.939Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\mail-listener2-0.1.3\\mail-listener2-0.1.3\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "mail-listener2-0.1.3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\mail-listener2-0.1.3\\mail-listener2-0.1.3\\facebook-otp-listener.js": [
+          {
+            "timestamp": "2025-07-10T04:42:07.827Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\mail-listener2-0.1.3\\mail-listener2-0.1.3\\facebook-otp-listener.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mail-listener2-0.1.3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-10T04:42:08.881Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\mail-listener2-0.1.3\\mail-listener2-0.1.3\\facebook-otp-listener.js",
+            "fileType": ".js",
+            "linesAdded": 242,
+            "linesRemoved": 0,
+            "projectName": "mail-listener2-0.1.3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

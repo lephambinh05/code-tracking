@@ -2622,6 +2622,85 @@
         "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package-lock.json"
       ],
       "averageChangeSize": 353
+    },
+    "shopaccv1": {
+      "totalLinesAdded": 200,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json": [
+          {
+            "timestamp": "2025-07-10T16:09:08.297Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-10T16:09:09.492Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json",
+            "fileType": ".json",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\env.example": [
+          {
+            "timestamp": "2025-07-10T16:09:37.810Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\env.example",
+            "fileType": ".example",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "example"
+          },
+          {
+            "timestamp": "2025-07-10T16:09:38.876Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\env.example",
+            "fileType": ".example",
+            "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "example"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1,
+        "example": 2
+      },
+      "changeFrequency": {
+        "23": 3
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json",
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\env.example"
+      ],
+      "averageChangeSize": 50
     }
   },
   "totalActiveTime": 2,

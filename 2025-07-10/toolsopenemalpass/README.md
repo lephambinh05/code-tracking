@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2516                                          |
-| **Lines Removed** (➖) | 767                                        |
-| **Net Change** (↕)    | 1749                |
+| **Lines Removed** (➖) | 859                                        |
+| **Net Change** (↕)    | 1657                |
 | **Active Time** (⌚)   | 127 minutes |
 
 
@@ -38,7 +38,7 @@
 - **LogBox.svelte** (+9, -0)
 - **.npmrc** (+2, -0)
 - **requirements.txt** (+3, -2)
-- **gui_main.py** (+478, -167)
+- **gui_main.py** (+478, -259)
 - **data_manager.py** (+125, -11)
 - **utils.py** (+130, -0)
 - **settings.json** (+4, -0)
@@ -62,7 +62,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 2977
+".py" : 3069
 ".json" : 57
 ".js" : 105
 ".html" : 11
@@ -80,7 +80,8 @@ title Coding activity by hour (count of changes)
 "08h" : 68
 "09h" : 30
 "10h" : 13
+"11h" : 1
 ```
 
 
-> **Last Updated:** 7/10/2025, 10:57:21 AM
+> **Last Updated:** 7/10/2025, 11:07:21 AM

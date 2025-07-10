@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2181                                          |
+| **Lines Added** (➕)   | 2314                                          |
 | **Lines Removed** (➖) | 598                                        |
-| **Net Change** (↕)    | 1583                |
-| **Active Time** (⌚)   | 89 minutes |
+| **Net Change** (↕)    | 1716                |
+| **Active Time** (⌚)   | 99 minutes |
 
 
 ## Modified Files
@@ -45,8 +45,13 @@
 - **settings_manager.py** (+18, -0)
 - **generate_license.py** (+15, -0)
 - **license_api.py** (+22, -0)
-- **gui_settings.py** (+38, -0)
+- **gui_settings.py** (+59, -0)
 - **gui_bulk_add.py** (+69, -0)
+- **users.json** (+6, -0)
+- **session.json** (+3, -0)
+- **user_manager.py** (+60, -0)
+- **gui_login.py** (+36, -0)
+- **license_utils.py** (+7, -0)
 
 ## Visualizations
 
@@ -55,8 +60,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 2531
-".json" : 33
+".py" : 2655
+".json" : 42
 ".js" : 71
 ".html" : 11
 ".svelte" : 126
@@ -71,8 +76,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "07h" : 3
 "08h" : 68
-"09h" : 16
+"09h" : 27
 ```
 
 
-> **Last Updated:** 7/10/2025, 9:27:21 AM
+> **Last Updated:** 7/10/2025, 9:37:21 AM

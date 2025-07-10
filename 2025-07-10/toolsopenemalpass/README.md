@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2497                                          |
-| **Lines Removed** (➖) | 763                                        |
-| **Net Change** (↕)    | 1734                |
-| **Active Time** (⌚)   | 116 minutes |
+| **Lines Added** (➕)   | 2506                                          |
+| **Lines Removed** (➖) | 767                                        |
+| **Net Change** (↕)    | 1739                |
+| **Active Time** (⌚)   | 123 minutes |
 
 
 ## Modified Files
@@ -38,15 +38,15 @@
 - **LogBox.svelte** (+9, -0)
 - **.npmrc** (+2, -0)
 - **requirements.txt** (+3, -2)
-- **gui_main.py** (+478, -163)
+- **gui_main.py** (+478, -167)
 - **data_manager.py** (+125, -11)
 - **utils.py** (+130, -0)
 - **settings.json** (+4, -0)
 - **settings_manager.py** (+18, -0)
 - **generate_license.py** (+15, -0)
 - **license_api.py** (+26, -1)
-- **gui_settings.py** (+59, -0)
-- **gui_bulk_add.py** (+69, -0)
+- **gui_settings.py** (+60, -0)
+- **gui_bulk_add.py** (+77, -0)
 - **users.json** (+7, -1)
 - **session.json** (+3, -0)
 - **user_manager.py** (+60, -0)
@@ -62,7 +62,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 2964
+".py" : 2977
 ".json" : 47
 ".js" : 105
 ".html" : 11
@@ -79,8 +79,8 @@ title Coding activity by hour (count of changes)
 "07h" : 3
 "08h" : 68
 "09h" : 30
-"10h" : 9
+"10h" : 12
 ```
 
 
-> **Last Updated:** 7/10/2025, 10:47:21 AM
+> **Last Updated:** 7/10/2025, 10:52:21 AM

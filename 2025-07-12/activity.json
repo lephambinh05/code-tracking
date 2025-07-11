@@ -1,0 +1,156 @@
+{
+  "date": "2025-07-12",
+  "projects": {
+    "shopaccv1": {
+      "totalLinesAdded": 176,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\backend\\Dockerfile": [
+          {
+            "timestamp": "2025-07-11T19:05:38.686Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\backend\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-11T19:05:39.755Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\backend\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\frontend\\Dockerfile": [
+          {
+            "timestamp": "2025-07-11T19:05:45.722Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\frontend\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-11T19:05:46.770Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\frontend\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\nginx\\nginx.conf": [
+          {
+            "timestamp": "2025-07-11T19:05:57.694Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\nginx\\nginx.conf",
+            "fileType": ".conf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "conf"
+          },
+          {
+            "timestamp": "2025-07-11T19:05:58.759Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\nginx\\nginx.conf",
+            "fileType": ".conf",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "conf"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\nginx\\conf.d\\default.conf": [
+          {
+            "timestamp": "2025-07-11T19:06:07.399Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\nginx\\conf.d\\default.conf",
+            "fileType": ".conf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "conf"
+          },
+          {
+            "timestamp": "2025-07-11T19:06:08.460Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\nginx\\conf.d\\default.conf",
+            "fileType": ".conf",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "conf"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 3,
+        "conf": 4
+      },
+      "changeFrequency": {
+        "2": 7
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\backend\\Dockerfile",
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\frontend\\Dockerfile",
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\nginx\\nginx.conf",
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\nginx\\conf.d\\default.conf"
+      ],
+      "averageChangeSize": 22
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "conf",
+    "unknown"
+  ]
+}

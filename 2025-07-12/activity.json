@@ -2,7 +2,7 @@
   "date": "2025-07-12",
   "projects": {
     "shopaccv1": {
-      "totalLinesAdded": 531,
+      "totalLinesAdded": 749,
       "totalLinesRemoved": 131,
       "totalActiveTime": 21,
       "files": {
@@ -270,6 +270,22 @@
             },
             "duration": 1,
             "language": "bat"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\nuxt.config.ts": [
+          {
+            "timestamp": "2025-07-11T20:37:03.767Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\nuxt.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 218,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },

@@ -2,9 +2,9 @@
   "date": "2025-07-12",
   "projects": {
     "shopaccv1": {
-      "totalLinesAdded": 1793,
+      "totalLinesAdded": 1880,
       "totalLinesRemoved": 133,
-      "totalActiveTime": 50,
+      "totalActiveTime": 53,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\backend\\Dockerfile": [
           {
@@ -570,6 +570,66 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\assets\\css\\main.css": [
+          {
+            "timestamp": "2025-07-11T21:10:59.586Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\assets\\css\\main.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-11T21:11:00.675Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\assets\\css\\main.css",
+            "fileType": ".css",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\assets\\scss\\variables.scss": [
+          {
+            "timestamp": "2025-07-11T21:11:13.594Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\assets\\scss\\variables.scss",
+            "fileType": ".scss",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
+          },
+          {
+            "timestamp": "2025-07-11T21:11:14.641Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\assets\\scss\\variables.scss",
+            "fileType": ".scss",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "scss"
           }
         ]
       },

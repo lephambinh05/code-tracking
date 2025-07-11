@@ -2,9 +2,9 @@
   "date": "2025-07-11",
   "projects": {
     "shopaccv1": {
-      "totalLinesAdded": 217,
+      "totalLinesAdded": 935,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 43,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\artisan": [
           {
@@ -116,6 +116,546 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Kernel.php",
             "fileType": ".php",
             "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Exceptions\\Handler.php": [
+          {
+            "timestamp": "2025-07-11T05:29:07.529Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Exceptions\\Handler.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:29:08.564Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Exceptions\\Handler.php",
+            "fileType": ".php",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\TrustProxies.php": [
+          {
+            "timestamp": "2025-07-11T05:29:17.353Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\TrustProxies.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:29:18.417Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\TrustProxies.php",
+            "fileType": ".php",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\PreventRequestsDuringMaintenance.php": [
+          {
+            "timestamp": "2025-07-11T05:29:26.097Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:29:27.159Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
+            "fileType": ".php",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\TrimStrings.php": [
+          {
+            "timestamp": "2025-07-11T05:29:35.420Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\TrimStrings.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:29:36.458Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\TrimStrings.php",
+            "fileType": ".php",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\EncryptCookies.php": [
+          {
+            "timestamp": "2025-07-11T05:29:48.181Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\EncryptCookies.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:29:49.257Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\EncryptCookies.php",
+            "fileType": ".php",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\VerifyCsrfToken.php": [
+          {
+            "timestamp": "2025-07-11T05:29:56.049Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\VerifyCsrfToken.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:29:57.096Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\VerifyCsrfToken.php",
+            "fileType": ".php",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\Authenticate.php": [
+          {
+            "timestamp": "2025-07-11T05:30:03.079Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\Authenticate.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:30:04.130Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\Authenticate.php",
+            "fileType": ".php",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\RedirectIfAuthenticated.php": [
+          {
+            "timestamp": "2025-07-11T05:30:11.559Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\RedirectIfAuthenticated.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:30:12.622Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\RedirectIfAuthenticated.php",
+            "fileType": ".php",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\ValidateSignature.php": [
+          {
+            "timestamp": "2025-07-11T05:30:19.959Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\ValidateSignature.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:30:21.024Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Middleware\\ValidateSignature.php",
+            "fileType": ".php",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\routes\\web.php": [
+          {
+            "timestamp": "2025-07-11T05:30:28.086Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:30:29.150Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\routes\\api.php": [
+          {
+            "timestamp": "2025-07-11T05:30:37.341Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\routes\\api.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:30:38.389Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\routes\\api.php",
+            "fileType": ".php",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\routes\\console.php": [
+          {
+            "timestamp": "2025-07-11T05:30:47.248Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\routes\\console.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:30:48.290Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\routes\\console.php",
+            "fileType": ".php",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\RouteServiceProvider.php": [
+          {
+            "timestamp": "2025-07-11T05:30:57.614Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\RouteServiceProvider.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:30:58.689Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\RouteServiceProvider.php",
+            "fileType": ".php",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\config\\app.php": [
+          {
+            "timestamp": "2025-07-11T05:31:23.310Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\config\\app.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:31:24.377Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\config\\app.php",
+            "fileType": ".php",
+            "linesAdded": 187,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\config\\database.php": [
+          {
+            "timestamp": "2025-07-11T05:31:50.093Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\config\\database.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:31:51.151Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\config\\database.php",
+            "fileType": ".php",
+            "linesAdded": 150,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\AppServiceProvider.php": [
+          {
+            "timestamp": "2025-07-11T05:31:57.791Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\AppServiceProvider.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:31:58.823Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\AppServiceProvider.php",
+            "fileType": ".php",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\AuthServiceProvider.php": [
+          {
+            "timestamp": "2025-07-11T05:32:06.303Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\AuthServiceProvider.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:32:07.346Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\AuthServiceProvider.php",
+            "fileType": ".php",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\EventServiceProvider.php": [
+          {
+            "timestamp": "2025-07-11T05:32:16.922Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\EventServiceProvider.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-11T05:32:18.003Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Providers\\EventServiceProvider.php",
+            "fileType": ".php",
+            "linesAdded": 37,
             "linesRemoved": 0,
             "projectName": "shopaccv1",
             "content": {

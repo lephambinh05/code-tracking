@@ -2,9 +2,9 @@
   "date": "2025-07-12",
   "projects": {
     "shopaccv1": {
-      "totalLinesAdded": 1736,
-      "totalLinesRemoved": 131,
-      "totalActiveTime": 36,
+      "totalLinesAdded": 1789,
+      "totalLinesRemoved": 132,
+      "totalActiveTime": 42,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\backend\\Dockerfile": [
           {
@@ -496,6 +496,36 @@
             },
             "duration": 1,
             "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\package.json": [
+          {
+            "timestamp": "2025-07-11T20:56:07.294Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-11T20:56:08.313Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

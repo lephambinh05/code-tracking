@@ -2,9 +2,9 @@
   "date": "2025-07-12",
   "projects": {
     "shopaccv1": {
-      "totalLinesAdded": 408,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 531,
+      "totalLinesRemoved": 131,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\backend\\Dockerfile": [
           {
@@ -139,6 +139,76 @@
               "removed": []
             },
             "duration": 5,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-11T19:49:32.785Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 121,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-11T19:49:48.271Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-11T19:50:46.649Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-11T19:50:48.210Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-11T19:53:08.376Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "unknown"
           }
         ],

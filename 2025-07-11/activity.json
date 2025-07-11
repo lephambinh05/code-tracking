@@ -683,9 +683,9 @@
       "averageChangeSize": 27.125
     },
     "eduWallet-main": {
-      "totalLinesAdded": 69,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 22116,
+      "totalLinesRemoved": 12331,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\package.json": [
           {
@@ -700,6 +700,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\package-lock.json": [
+          {
+            "timestamp": "2025-07-11T15:54:08.285Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 9716,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-11T15:54:32.453Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 12331,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-11T15:58:30.901Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 12331,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ]

@@ -2,9 +2,9 @@
   "date": "2025-07-12",
   "projects": {
     "shopaccv1": {
-      "totalLinesAdded": 299,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 408,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\docker\\backend\\Dockerfile": [
           {
@@ -140,6 +140,66 @@
             },
             "duration": 5,
             "language": "unknown"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json": [
+          {
+            "timestamp": "2025-07-11T19:16:08.500Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json",
+            "fileType": ".json",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-11T19:16:09.509Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\composer.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\install-dependencies.bat": [
+          {
+            "timestamp": "2025-07-11T19:16:28.350Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\install-dependencies.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-11T19:16:29.402Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\install-dependencies.bat",
+            "fileType": ".bat",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "shopaccv1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
           }
         ]
       },

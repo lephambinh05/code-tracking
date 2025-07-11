@@ -681,6 +681,39 @@
         "c:\\Users\\lephambinh\\Downloads\\shopaccv1\\backend\\app\\Http\\Kernel.php"
       ],
       "averageChangeSize": 27.125
+    },
+    "eduWallet-main": {
+      "totalLinesAdded": 69,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\package.json": [
+          {
+            "timestamp": "2025-07-11T15:51:20.469Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\package.json",
+            "fileType": ".json",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\package.json"
+      ],
+      "averageChangeSize": 69
     }
   },
   "totalActiveTime": 7,

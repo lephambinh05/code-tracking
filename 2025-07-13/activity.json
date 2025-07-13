@@ -3,8 +3,8 @@
   "projects": {
     "rentOTP": {
       "totalLinesAdded": 2468,
-      "totalLinesRemoved": 121,
-      "totalActiveTime": 88,
+      "totalLinesRemoved": 122,
+      "totalActiveTime": 93,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\.env": [
           {
@@ -859,6 +859,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-13T16:53:45.702Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\guards\\auth.guard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ],

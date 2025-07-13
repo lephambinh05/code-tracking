@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2272                                          |
-| **Lines Removed** (➖) | 120                                        |
-| **Net Change** (↕)    | 2152                |
-| **Active Time** (⌚)   | 83 minutes |
+| **Lines Removed** (➖) | 121                                        |
+| **Net Change** (↕)    | 2151                |
+| **Active Time** (⌚)   | 87 minutes |
 
 
 ## Modified Files
@@ -33,7 +33,7 @@
 - **api.js** (+64, -0)
 - **Login.vue** (+186, -0)
 - **auth.guard.js** (+57, -2)
-- **Landing.vue** (+637, -92)
+- **Landing.vue** (+637, -93)
 - **AuthNavbar.vue** (+117, -12)
 - **Footer.vue** (+172, -7)
 - **main.js** (+158, -0)
@@ -50,7 +50,7 @@ title Lines changed by file type
 ".ts" : 766
 ".json" : 88
 ".js" : 281
-".vue" : 1223
+".vue" : 1224
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,8 +60,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "15h" : 63
 "21h" : 2
-"22h" : 5
+"22h" : 6
 ```
 
 
-> **Last Updated:** 7/13/2025, 10:55:05 PM
+> **Last Updated:** 7/13/2025, 11:00:05 PM

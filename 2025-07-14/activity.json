@@ -2,9 +2,9 @@
   "date": "2025-07-14",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 3093,
+      "totalLinesAdded": 3097,
       "totalLinesRemoved": 15,
-      "totalActiveTime": 67,
+      "totalActiveTime": 68,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Dashboard.vue": [
           {
@@ -710,6 +710,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T18:28:43.044Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\payment\\deposit.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\payment\\deposit.controller.ts": [
@@ -820,6 +834,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\client\\client.service.ts",
             "fileType": ".ts",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T18:28:25.942Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\client\\client.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "rentOTP",
             "content": {

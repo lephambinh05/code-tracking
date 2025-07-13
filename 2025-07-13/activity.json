@@ -2,9 +2,9 @@
   "date": "2025-07-13",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 2243,
-      "totalLinesRemoved": 118,
-      "totalActiveTime": 75,
+      "totalLinesAdded": 2262,
+      "totalLinesRemoved": 120,
+      "totalActiveTime": 78,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\.env": [
           {
@@ -966,6 +966,50 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\main.ts": [
+          {
+            "timestamp": "2025-07-13T15:07:06.962Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\main.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T15:07:07.954Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\main.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-13T15:09:01.893Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\main.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },

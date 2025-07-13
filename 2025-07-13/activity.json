@@ -2,9 +2,9 @@
   "date": "2025-07-13",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 2094,
+      "totalLinesAdded": 2243,
       "totalLinesRemoved": 118,
-      "totalActiveTime": 74,
+      "totalActiveTime": 75,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\.env": [
           {
@@ -936,6 +936,36 @@
             },
             "duration": 1,
             "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\main.js": [
+          {
+            "timestamp": "2025-07-13T14:44:32.982Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\main.js",
+            "fileType": ".js",
+            "linesAdded": 145,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-13T14:44:39.356Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\main.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

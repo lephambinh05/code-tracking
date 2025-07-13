@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 83                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 83                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Lines Added** (➕)   | 134                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 131                |
+| **Active Time** (⌚)   | 27 minutes |
 
 
 ## Modified Files
 - **huongdanb1.txt** (+73, -0)
-- **baitap1.py** (+10, -0)
+- **baitap1.py** (+61, -3)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 pie showData
 title Lines changed by file type
 ".txt" : 73
-".py" : 10
+".py" : 64
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 2
-"22h" : 8
+"22h" : 25
 ```
 
 
-> **Last Updated:** 7/13/2025, 10:42:16 PM
+> **Last Updated:** 7/13/2025, 10:47:16 PM

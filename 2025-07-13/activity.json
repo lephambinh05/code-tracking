@@ -1039,9 +1039,9 @@
       "averageChangeSize": 15.5
     },
     "Lab8": {
-      "totalLinesAdded": 83,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 134,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 27,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\Lab8\\huongdanb1.txt": [
           {
@@ -1178,6 +1178,244 @@
             "fileType": ".py",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:42:34.016Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:42:41.793Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:43:01.754Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:43:30.518Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:44:41.727Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:45:15.222Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:45:18.585Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:45:20.414Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:45:29.567Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:45:38.817Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:46:35.603Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:46:47.895Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:46:49.804Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:46:57.160Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:47:01.920Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:47:06.415Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:47:12.225Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Lab8",
             "content": {
               "added": [],

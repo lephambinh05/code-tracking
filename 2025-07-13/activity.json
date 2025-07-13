@@ -979,6 +979,53 @@
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\.env"
       ],
       "averageChangeSize": 15.5
+    },
+    "Lab8": {
+      "totalLinesAdded": 35,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\Lab8\\huongdanb1.txt": [
+          {
+            "timestamp": "2025-07-13T14:58:39.689Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\huongdanb1.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-13T14:58:39.882Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\huongdanb1.txt",
+            "fileType": ".txt",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\Lab8\\huongdanb1.txt"
+      ],
+      "averageChangeSize": 17.5
     }
   },
   "totalActiveTime": 1,

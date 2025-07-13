@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1791                                          |
-| **Lines Removed** (➖) | 7                                        |
-| **Net Change** (↕)    | 1784                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Lines Added** (➕)   | 2094                                          |
+| **Lines Removed** (➖) | 118                                        |
+| **Net Change** (↕)    | 1976                |
+| **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
@@ -33,7 +33,9 @@
 - **api.js** (+64, -0)
 - **Login.vue** (+186, -0)
 - **auth.guard.js** (+57, -2)
-- **Landing.vue** (+622, -0)
+- **Landing.vue** (+636, -92)
+- **AuthNavbar.vue** (+117, -12)
+- **Footer.vue** (+172, -7)
 
 ## Visualizations
 
@@ -46,7 +48,7 @@ title Lines changed by file type
 ".ts" : 745
 ".json" : 88
 ".js" : 123
-".vue" : 808
+".vue" : 1222
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +56,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"15h" : 57
+"15h" : 63
 ```
 
 
-> **Last Updated:** 7/13/2025, 3:45:04 PM
+> **Last Updated:** 7/13/2025, 3:50:04 PM

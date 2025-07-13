@@ -2,9 +2,9 @@
   "date": "2025-07-13",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 1791,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 68,
+      "totalLinesAdded": 2094,
+      "totalLinesRemoved": 118,
+      "totalActiveTime": 74,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\.env": [
           {
@@ -847,6 +847,94 @@
               "removed": []
             },
             "duration": 5,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-07-13T08:45:04.673Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\Landing.vue",
+            "fileType": ".vue",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-07-13T08:45:07.037Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\Landing.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 92,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Navbars\\AuthNavbar.vue": [
+          {
+            "timestamp": "2025-07-13T08:45:40.900Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Navbars\\AuthNavbar.vue",
+            "fileType": ".vue",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-07-13T08:45:41.935Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Navbars\\AuthNavbar.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Footers\\Footer.vue": [
+          {
+            "timestamp": "2025-07-13T08:46:10.102Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Footers\\Footer.vue",
+            "fileType": ".vue",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-07-13T08:46:11.540Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Footers\\Footer.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "vue"
           }
         ]

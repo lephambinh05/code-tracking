@@ -2,9 +2,9 @@
   "date": "2025-07-13",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 1112,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 62,
+      "totalLinesAdded": 1791,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 68,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\.env": [
           {
@@ -801,6 +801,52 @@
               "removed": []
             },
             "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\guards\\auth.guard.js": [
+          {
+            "timestamp": "2025-07-13T08:40:54.013Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\guards\\auth.guard.js",
+            "fileType": ".js",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-13T08:40:55.047Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\guards\\auth.guard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\Landing.vue": [
+          {
+            "timestamp": "2025-07-13T08:45:03.652Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\Landing.vue",
+            "fileType": ".vue",
+            "linesAdded": 622,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "vue"
           }
         ]

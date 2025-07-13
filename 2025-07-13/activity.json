@@ -1039,9 +1039,9 @@
       "averageChangeSize": 15.5
     },
     "Lab8": {
-      "totalLinesAdded": 35,
+      "totalLinesAdded": 83,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\Lab8\\huongdanb1.txt": [
           {
@@ -1071,6 +1071,120 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-13T15:38:39.031Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\huongdanb1.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-13T15:39:47.607Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\huongdanb1.txt",
+            "fileType": ".txt",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py": [
+          {
+            "timestamp": "2025-07-13T15:40:31.601Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:40:35.697Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:41:02.316Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:41:39.285Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:41:58.235Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T15:42:11.093Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\Lab8\\baitap1.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Lab8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },

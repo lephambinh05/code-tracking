@@ -3,8 +3,8 @@
   "projects": {
     "rentOTP": {
       "totalLinesAdded": 31,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\.env": [
           {
@@ -27,6 +27,34 @@
             "fileType": "unknown",
             "linesAdded": 30,
             "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-13T08:17:51.576Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-07-13T08:17:54.021Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "rentOTP",
             "content": {
               "added": [],

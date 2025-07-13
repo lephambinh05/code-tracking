@@ -4,15 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 495                                          |
+| **Lines Added** (➕)   | 2101                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 495                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Net Change** (↕)    | 2101                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
 - **Dashboard.vue** (+208, -0)
 - **RentOTP.vue** (+287, -0)
+- **History.vue** (+442, -0)
+- **Deposit.vue** (+414, -0)
+- **Profile.vue** (+491, -0)
+- **main.js** (+195, -0)
+- **api.js** (+64, -0)
 
 ## Visualizations
 
@@ -21,7 +26,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".vue" : 495
+".vue" : 1842
+".js" : 259
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 4
+"00h" : 15
 ```
 
 
-> **Last Updated:** 7/14/2025, 12:27:11 AM
+> **Last Updated:** 7/14/2025, 12:32:11 AM

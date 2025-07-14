@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 950                                          |
+| **Lines Added** (➕)   | 1039                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 949                |
-| **Active Time** (⌚)   | 45 minutes |
+| **Net Change** (↕)    | 1038                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
@@ -25,8 +25,8 @@
 - **ApplicationDbContext.cs** (+65, -0)
 - **Program.cs** (+41, -0)
 - **SeedData.cs** (+71, -1)
-- **_Layout.cshtml** (+78, -0)
-- **site.css** (+51, -0)
+- **_Layout.cshtml** (+128, -0)
+- **site.css** (+90, -0)
 - **Index.cshtml** (+100, -0)
 
 ## Visualizations
@@ -39,8 +39,8 @@ title Lines changed by file type
 ".sql" : 137
 ".json" : 13
 ".cs" : 572
-".cshtml" : 178
-".css" : 51
+".cshtml" : 228
+".css" : 90
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +49,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "22h" : 34
-"23h" : 6
+"23h" : 8
 ```
 
 
-> **Last Updated:** 7/14/2025, 11:01:00 PM
+> **Last Updated:** 7/14/2025, 11:26:00 PM

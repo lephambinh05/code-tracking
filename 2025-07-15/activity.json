@@ -1,0 +1,185 @@
+{
+  "date": "2025-07-15",
+  "projects": {
+    "nhaHang": {
+      "totalLinesAdded": 141,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 11,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Index.cshtml.cs": [
+          {
+            "timestamp": "2025-07-14T16:56:52.670Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Index.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-14T16:56:54.509Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Index.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Create.cshtml.cs": [
+          {
+            "timestamp": "2025-07-14T16:57:00.374Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Create.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-14T16:57:01.446Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Create.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Edit.cshtml.cs": [
+          {
+            "timestamp": "2025-07-14T16:57:06.668Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Edit.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-14T16:57:07.711Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Edit.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Delete.cshtml.cs": [
+          {
+            "timestamp": "2025-07-14T16:57:13.738Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Delete.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-14T16:57:14.789Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Delete.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Details.cshtml.cs": [
+          {
+            "timestamp": "2025-07-14T16:57:20.142Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Details.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-14T16:57:21.189Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Details.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 11
+      },
+      "changeFrequency": {
+        "23": 11
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Index.cshtml.cs",
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Create.cshtml.cs",
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Edit.cshtml.cs",
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Delete.cshtml.cs",
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Details.cshtml.cs"
+      ],
+      "averageChangeSize": 14.1
+    }
+  },
+  "totalActiveTime": 11,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "cs"
+  ]
+}

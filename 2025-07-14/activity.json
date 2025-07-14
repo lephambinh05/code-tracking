@@ -1146,6 +1146,53 @@
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\RentOTP.vue"
       ],
       "averageChangeSize": 123.75
+    },
+    "nhaHang": {
+      "totalLinesAdded": 137,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\sql.sql": [
+          {
+            "timestamp": "2025-07-14T15:15:38.738Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\sql.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-14T15:15:39.771Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\sql.sql",
+            "fileType": ".sql",
+            "linesAdded": 136,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 1
+      },
+      "changeFrequency": {
+        "22": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\sql.sql"
+      ],
+      "averageChangeSize": 68.5
     }
   },
   "totalActiveTime": 3,

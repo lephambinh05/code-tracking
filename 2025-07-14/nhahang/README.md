@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 686                                          |
+| **Lines Added** (➕)   | 950                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 685                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Net Change** (↕)    | 949                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
@@ -22,9 +22,12 @@
 - **ChiTietDonHang.cs** (+40, -0)
 - **HoaDon.cs** (+43, -0)
 - **QuanTriVien.cs** (+41, -0)
-- **ApplicationDbContext.cs** (+30, -0)
+- **ApplicationDbContext.cs** (+65, -0)
 - **Program.cs** (+41, -0)
 - **SeedData.cs** (+71, -1)
+- **_Layout.cshtml** (+78, -0)
+- **site.css** (+51, -0)
+- **Index.cshtml** (+100, -0)
 
 ## Visualizations
 
@@ -35,7 +38,9 @@ pie showData
 title Lines changed by file type
 ".sql" : 137
 ".json" : 13
-".cs" : 537
+".cs" : 572
+".cshtml" : 178
+".css" : 51
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +48,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"22h" : 30
+"22h" : 34
+"23h" : 6
 ```
 
 
-> **Last Updated:** 7/14/2025, 10:56:00 PM
+> **Last Updated:** 7/14/2025, 11:01:00 PM

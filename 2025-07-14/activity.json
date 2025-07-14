@@ -1149,7 +1149,7 @@
     },
     "nhaHang": {
       "totalLinesAdded": 686,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 31,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\sql.sql": [
@@ -1583,6 +1583,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-14T15:54:00.373Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Data\\SeedData.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ]

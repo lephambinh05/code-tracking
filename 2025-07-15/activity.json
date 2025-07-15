@@ -2417,6 +2417,39 @@
         "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Data\\ApplicationDbContext.cs"
       ],
       "averageChangeSize": 8.25
+    },
+    "eduWallet-main": {
+      "totalLinesAdded": 19,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\server\\package.json": [
+          {
+            "timestamp": "2025-07-15T12:20:09.868Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\server\\package.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "19": 0
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\server\\package.json"
+      ],
+      "averageChangeSize": 19
     }
   },
   "totalActiveTime": 11,

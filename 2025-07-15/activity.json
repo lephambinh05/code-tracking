@@ -1733,9 +1733,9 @@
       "averageChangeSize": 14.1
     },
     "FootballStatsApp": {
-      "totalLinesAdded": 631,
+      "totalLinesAdded": 683,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 27,
+      "totalActiveTime": 35,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs": [
           {
@@ -2121,6 +2121,84 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\DoiBong\\Delete.cshtml",
             "fileType": ".cshtml",
             "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Index.cshtml": [
+          {
+            "timestamp": "2025-07-15T07:13:32.980Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Privacy.cshtml": [
+          {
+            "timestamp": "2025-07-15T07:13:38.575Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Privacy.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Error.cshtml": [
+          {
+            "timestamp": "2025-07-15T07:13:43.521Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Error.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml": [
+          {
+            "timestamp": "2025-07-15T07:13:59.624Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T07:14:00.741Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "FootballStatsApp",
             "content": {

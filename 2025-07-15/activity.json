@@ -2419,9 +2419,9 @@
       "averageChangeSize": 8.25
     },
     "eduWallet-main": {
-      "totalLinesAdded": 19,
+      "totalLinesAdded": 678,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\server\\package.json": [
           {
@@ -2437,6 +2437,102 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Home.js": [
+          {
+            "timestamp": "2025-07-15T12:44:22.999Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Home.js",
+            "fileType": ".js",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\About.js": [
+          {
+            "timestamp": "2025-07-15T12:44:28.700Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\About.js",
+            "fileType": ".js",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Marketplace.js": [
+          {
+            "timestamp": "2025-07-15T12:44:34.398Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Marketplace.js",
+            "fileType": ".js",
+            "linesAdded": 133,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\LearnPass.js": [
+          {
+            "timestamp": "2025-07-15T12:44:40.379Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\LearnPass.js",
+            "fileType": ".js",
+            "linesAdded": 165,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Verify.js": [
+          {
+            "timestamp": "2025-07-15T12:44:48.520Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Verify.js",
+            "fileType": ".js",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Badges.js": [
+          {
+            "timestamp": "2025-07-15T12:44:54.676Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Badges.js",
+            "fileType": ".js",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

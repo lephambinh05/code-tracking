@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 678                                          |
+| **Lines Added** (➕)   | 1290                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 678                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Net Change** (↕)    | 1290                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,8 @@
 - **LearnPass.js** (+165, -0)
 - **Verify.js** (+70, -0)
 - **Badges.js** (+71, -0)
+- **demoData.json** (+103, -0)
+- **Sidebar.js** (+509, -0)
 
 ## Visualizations
 
@@ -26,8 +28,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 19
-".js" : 659
+".json" : 122
+".js" : 1168
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"19h" : 7
+"19h" : 9
 ```
 
 
-> **Last Updated:** 7/15/2025, 7:45:09 PM
+> **Last Updated:** 7/15/2025, 7:50:09 PM

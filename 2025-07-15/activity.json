@@ -2419,9 +2419,9 @@
       "averageChangeSize": 8.25
     },
     "eduWallet-main": {
-      "totalLinesAdded": 678,
+      "totalLinesAdded": 1290,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\server\\package.json": [
           {
@@ -2525,6 +2525,38 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Badges.js",
             "fileType": ".js",
             "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\data\\demoData.json": [
+          {
+            "timestamp": "2025-07-15T12:46:57.005Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\data\\demoData.json",
+            "fileType": ".json",
+            "linesAdded": 103,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\components\\Sidebar.js": [
+          {
+            "timestamp": "2025-07-15T12:47:17.586Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\components\\Sidebar.js",
+            "fileType": ".js",
+            "linesAdded": 509,
             "linesRemoved": 0,
             "projectName": "eduWallet-main",
             "content": {

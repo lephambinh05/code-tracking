@@ -1731,6 +1731,146 @@
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Details.cshtml.cs"
       ],
       "averageChangeSize": 14.1
+    },
+    "FootballStatsApp": {
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs": [
+          {
+            "timestamp": "2025-07-15T06:57:05.541Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T06:57:06.734Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs",
+            "fileType": ".cs",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\TruongHoc.cs": [
+          {
+            "timestamp": "2025-07-15T06:57:12.634Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\TruongHoc.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T06:57:13.728Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\TruongHoc.cs",
+            "fileType": ".cs",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\ErrorViewModel.cs": [
+          {
+            "timestamp": "2025-07-15T06:57:18.307Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\ErrorViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T06:57:19.439Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\ErrorViewModel.cs",
+            "fileType": ".cs",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Data\\ApplicationDbContext.cs": [
+          {
+            "timestamp": "2025-07-15T06:57:26.511Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Data\\ApplicationDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T06:57:27.725Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Data\\ApplicationDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 7
+      },
+      "changeFrequency": {
+        "13": 7
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs",
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\TruongHoc.cs",
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\ErrorViewModel.cs",
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Data\\ApplicationDbContext.cs"
+      ],
+      "averageChangeSize": 8.25
     }
   },
   "totalActiveTime": 11,

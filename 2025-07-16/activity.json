@@ -2,9 +2,9 @@
   "date": "2025-07-16",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 944,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 1005,
+      "totalLinesRemoved": 38,
+      "totalActiveTime": 56,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Index.cshtml.cs": [
           {
@@ -628,6 +628,20 @@
             },
             "duration": 1,
             "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T19:15:30.908Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Menu\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 0,
+            "linesRemoved": 32,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Orders\\Index.cshtml": [
@@ -762,6 +776,36 @@
             },
             "duration": 1,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Menu\\Create.cshtml": [
+          {
+            "timestamp": "2025-07-15T19:15:25.610Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Menu\\Create.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T19:15:25.906Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Menu\\Create.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ]
       },

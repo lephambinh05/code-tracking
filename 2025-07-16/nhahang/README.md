@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 166                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 166                |
+| **Lines Removed** (➖) | 6                                        |
+| **Net Change** (↕)    | 160                |
 | **Active Time** (⌚)   | 4 minutes |
 
 
@@ -16,7 +16,7 @@
 - **Edit.cshtml.cs** (+40, -0)
 - **Details.cshtml.cs** (+23, -0)
 - **Delete.cshtml.cs** (+39, -0)
-- **_AdminLayout.cshtml** (+6, -0)
+- **_AdminLayout.cshtml** (+6, -6)
 
 ## Visualizations
 
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".cs" : 160
-".cshtml" : 6
+".cshtml" : 12
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,9 +35,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 2
-"01h" : 1
+"01h" : 2
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/16/2025, 1:07:53 AM
+> **Last Updated:** 7/16/2025, 1:17:53 AM

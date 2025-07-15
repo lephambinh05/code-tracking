@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 389                                          |
+| **Lines Added** (➕)   | 453                                          |
 | **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 383                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Net Change** (↕)    | 447                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
@@ -17,16 +17,16 @@
 - **Details.cshtml.cs** (+23, -0)
 - **Delete.cshtml.cs** (+39, -0)
 - **_AdminLayout.cshtml** (+6, -6)
-- **Index.cshtml** (+32, -0)
-- **Index.cshtml** (+30, -0)
-- **Create.cshtml** (+33, -0)
-- **Edit.cshtml** (+38, -0)
+- **Index.cshtml** (+40, -0)
+- **Index.cshtml** (+38, -0)
+- **Create.cshtml** (+41, -0)
+- **Edit.cshtml** (+46, -0)
 - **Details.cshtml** (+15, -0)
-- **Delete.cshtml** (+11, -0)
-- **Create.cshtml** (+20, -0)
-- **Edit.cshtml** (+20, -0)
+- **Delete.cshtml** (+19, -0)
+- **Create.cshtml** (+28, -0)
+- **Edit.cshtml** (+28, -0)
 - **Details.cshtml** (+13, -0)
-- **Delete.cshtml** (+11, -0)
+- **Delete.cshtml** (+19, -0)
 
 ## Visualizations
 
@@ -36,7 +36,7 @@
 pie showData
 title Lines changed by file type
 ".cs" : 160
-".cshtml" : 235
+".cshtml" : 299
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,9 +45,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 2
-"01h" : 25
+"01h" : 33
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/16/2025, 1:47:53 AM
+> **Last Updated:** 7/16/2025, 1:52:53 AM

@@ -2,9 +2,9 @@
   "date": "2025-07-16",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 389,
+      "totalLinesAdded": 453,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 31,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Index.cshtml.cs": [
           {
@@ -158,6 +158,20 @@
             },
             "duration": 1,
             "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T18:49:31.453Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\DanhMuc\\Index.cshtml": [
@@ -202,6 +216,20 @@
             },
             "duration": 1,
             "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T18:49:37.006Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\DanhMuc\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Create.cshtml": [
@@ -224,6 +252,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Create.cshtml",
             "fileType": ".cshtml",
             "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T18:50:19.019Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Create.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "nhaHang",
             "content": {
@@ -275,6 +317,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T18:50:24.898Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Edit.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cshtml"
           }
         ],
@@ -336,6 +392,20 @@
             },
             "duration": 1,
             "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T18:51:40.214Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Delete.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cshtml"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\DanhMuc\\Create.cshtml": [
@@ -366,6 +436,20 @@
             },
             "duration": 1,
             "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T18:50:30.211Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\DanhMuc\\Create.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\DanhMuc\\Edit.cshtml": [
@@ -388,6 +472,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\DanhMuc\\Edit.cshtml",
             "fileType": ".cshtml",
             "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T18:50:35.769Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\DanhMuc\\Edit.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "nhaHang",
             "content": {
@@ -448,6 +546,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\DanhMuc\\Delete.cshtml",
             "fileType": ".cshtml",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T18:51:46.316Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\DanhMuc\\Delete.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "nhaHang",
             "content": {

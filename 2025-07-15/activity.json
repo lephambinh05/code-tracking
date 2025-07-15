@@ -1733,9 +1733,9 @@
       "averageChangeSize": 14.1
     },
     "FootballStatsApp": {
-      "totalLinesAdded": 747,
+      "totalLinesAdded": 1108,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 41,
+      "totalActiveTime": 56,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs": [
           {
@@ -1875,6 +1875,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Data\\ApplicationDbContext.cs",
             "fileType": ".cs",
             "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T07:57:31.592Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Data\\ApplicationDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T07:57:34.272Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Data\\ApplicationDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "FootballStatsApp",
             "content": {
@@ -2250,6 +2278,128 @@
               "removed": []
             },
             "duration": 5,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Stats.cshtml.cs": [
+          {
+            "timestamp": "2025-07-15T07:55:51.049Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Stats.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T07:55:52.060Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Stats.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Login.cshtml.cs": [
+          {
+            "timestamp": "2025-07-15T07:55:56.094Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Login.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Register.cshtml.cs": [
+          {
+            "timestamp": "2025-07-15T07:56:01.061Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Register.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T07:56:02.074Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\Register.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\EditMatch.cshtml.cs": [
+          {
+            "timestamp": "2025-07-15T07:56:05.914Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\EditMatch.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\SelectMatch.cshtml.cs": [
+          {
+            "timestamp": "2025-07-15T07:56:12.389Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\SelectMatch.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T07:56:13.438Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\SelectMatch.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cs"
           }
         ]

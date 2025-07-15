@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3520                                          |
+| **Lines Added** (➕)   | 3556                                          |
 | **Lines Removed** (➖) | 32                                        |
-| **Net Change** (↕)    | 3488                |
-| **Active Time** (⌚)   | 123 minutes |
+| **Net Change** (↕)    | 3524                |
+| **Active Time** (⌚)   | 135 minutes |
 
 
 ## Modified Files
@@ -58,7 +58,7 @@
 - **ChiNhanh.cs** (+2, -0)
 - **SeedData.cs** (+12, -0)
 - **Login.cshtml** (+53, -0)
-- **Login.cshtml.cs** (+96, -0)
+- **Login.cshtml.cs** (+109, -0)
 - **_AdminLayout.cshtml** (+125, -0)
 - **_ViewStart.cshtml** (+3, -0)
 - **_ViewImports.cshtml** (+5, -0)
@@ -69,6 +69,8 @@
 - **_Layout.cshtml** (+128, -32)
 - **Program.cs** (+117, -0)
 - **_AdminLoginLayout.cshtml** (+27, -0)
+- **Logout.cshtml** (+8, -0)
+- **Logout.cshtml.cs** (+15, -0)
 
 ## Visualizations
 
@@ -77,8 +79,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 2856
-".cshtml" : 696
+".cs" : 2884
+".cshtml" : 704
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -89,9 +91,9 @@ title Coding activity by hour (count of changes)
 "00h" : 34
 "01h" : 45
 "02h" : 25
-"22h" : 8
-"23h" : 10
+"22h" : 9
+"23h" : 14
 ```
 
 
-> **Last Updated:** 7/15/2025, 10:55:58 PM
+> **Last Updated:** 7/15/2025, 11:00:58 PM

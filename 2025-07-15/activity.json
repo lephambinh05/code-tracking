@@ -2,9 +2,9 @@
   "date": "2025-07-15",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 3353,
+      "totalLinesAdded": 3407,
       "totalLinesRemoved": 32,
-      "totalActiveTime": 118,
+      "totalActiveTime": 121,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Index.cshtml.cs": [
           {
@@ -1428,6 +1428,34 @@
             },
             "duration": 1,
             "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T15:29:30.937Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Login.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T15:29:32.024Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Login.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Login.cshtml.cs": [
@@ -1714,6 +1742,36 @@
             },
             "duration": 0,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\_AdminLoginLayout.cshtml": [
+          {
+            "timestamp": "2025-07-15T15:29:10.866Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\_AdminLoginLayout.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T15:29:12.093Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\_AdminLoginLayout.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ]
       },

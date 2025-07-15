@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 291                                          |
+| **Lines Added** (➕)   | 378                                          |
 | **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 285                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Net Change** (↕)    | 372                |
+| **Active Time** (⌚)   | 26 minutes |
 
 
 ## Modified Files
@@ -18,10 +18,14 @@
 - **Delete.cshtml.cs** (+39, -0)
 - **_AdminLayout.cshtml** (+6, -6)
 - **Index.cshtml** (+32, -0)
-- **Index.cshtml** (+7, -0)
+- **Index.cshtml** (+30, -0)
 - **Create.cshtml** (+33, -0)
 - **Edit.cshtml** (+27, -0)
 - **Details.cshtml** (+15, -0)
+- **Delete.cshtml** (+11, -0)
+- **Create.cshtml** (+20, -0)
+- **Edit.cshtml** (+20, -0)
+- **Details.cshtml** (+13, -0)
 - **Delete.cshtml** (+11, -0)
 
 ## Visualizations
@@ -32,7 +36,7 @@
 pie showData
 title Lines changed by file type
 ".cs" : 160
-".cshtml" : 137
+".cshtml" : 224
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,9 +45,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 2
-"01h" : 15
+"01h" : 24
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/16/2025, 1:37:53 AM
+> **Last Updated:** 7/16/2025, 1:42:53 AM

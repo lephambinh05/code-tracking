@@ -2419,9 +2419,9 @@
       "averageChangeSize": 8.25
     },
     "eduWallet-main": {
-      "totalLinesAdded": 1290,
+      "totalLinesAdded": 1311,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\server\\package.json": [
           {
@@ -2516,6 +2516,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-15T12:51:08.649Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\MVP_EduWallet _ Lê Phạm Bình (Cybernix Team)\\eduWallet-main\\src\\pages\\Verify.js",
+            "fileType": ".js",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ],

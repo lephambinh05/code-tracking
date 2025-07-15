@@ -4,25 +4,27 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2076                                          |
+| **Lines Added** (➕)   | 2718                                          |
 | **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 2072                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Net Change** (↕)    | 2714                |
+| **Active Time** (⌚)   | 36 minutes |
 
 
 ## Modified Files
 - **package.json** (+19, -0)
 - **Home.js** (+168, -0)
 - **About.js** (+52, -0)
-- **Marketplace.js** (+133, -0)
-- **LearnPass.js** (+165, -0)
-- **Verify.js** (+91, -0)
-- **Badges.js** (+71, -0)
+- **Marketplace.js** (+140, -0)
+- **LearnPass.js** (+174, -0)
+- **Verify.js** (+95, -0)
+- **Badges.js** (+72, -0)
 - **demoData.json** (+103, -0)
 - **Sidebar.js** (+511, -0)
-- **Dashboard.js** (+467, -4)
+- **Dashboard.js** (+477, -4)
 - **LinkedAccounts.js** (+168, -0)
 - **App.js** (+128, -0)
+- **Register.js** (+331, -0)
+- **Login.js** (+280, -0)
 
 ## Visualizations
 
@@ -32,7 +34,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 122
-".js" : 1958
+".js" : 2600
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +43,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 10
-"20h" : 9
+"20h" : 18
 ```
 
 
-> **Last Updated:** 7/15/2025, 8:35:09 PM
+> **Last Updated:** 7/15/2025, 8:40:09 PM

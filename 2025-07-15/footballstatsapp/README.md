@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 723                                          |
+| **Lines Added** (➕)   | 747                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 720                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Net Change** (↕)    | 744                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
-- **DoiBong.cs** (+22, -0)
+- **DoiBong.cs** (+46, -0)
 - **TruongHoc.cs** (+18, -0)
 - **ErrorViewModel.cs** (+9, -0)
 - **ApplicationDbContext.cs** (+17, -0)
@@ -39,7 +39,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 323
+".cs" : 347
 ".cshtml" : 403
 ```
 
@@ -49,8 +49,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 8
-"14h" : 24
+"14h" : 26
 ```
 
 
-> **Last Updated:** 7/15/2025, 2:21:20 PM
+> **Last Updated:** 7/15/2025, 2:54:24 PM

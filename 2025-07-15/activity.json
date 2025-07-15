@@ -1733,9 +1733,9 @@
       "averageChangeSize": 14.1
     },
     "FootballStatsApp": {
-      "totalLinesAdded": 723,
+      "totalLinesAdded": 747,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 40,
+      "totalActiveTime": 41,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs": [
           {
@@ -1757,6 +1757,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs",
             "fileType": ".cs",
             "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T07:51:31.343Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs",
+            "fileType": ".cs",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "FootballStatsApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-15T07:51:35.968Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\DoiBong.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "FootballStatsApp",
             "content": {

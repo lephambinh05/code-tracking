@@ -2,9 +2,9 @@
   "date": "2025-07-15",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 3557,
+      "totalLinesAdded": 3696,
       "totalLinesRemoved": 39,
-      "totalActiveTime": 140,
+      "totalActiveTime": 142,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Index.cshtml.cs": [
           {
@@ -1558,6 +1558,34 @@
             },
             "duration": 1,
             "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T16:22:09.840Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\_AdminLayout.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T16:22:11.218Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\_AdminLayout.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\_ViewStart.cshtml": [
@@ -1879,6 +1907,20 @@
             "fileType": ".cshtml",
             "linesAdded": 0,
             "linesRemoved": 7,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-15T16:21:34.917Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Logout.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "nhaHang",
             "content": {
               "added": [],

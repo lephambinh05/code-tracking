@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1780                                          |
+| **Lines Added** (➕)   | 2076                                          |
 | **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 1776                |
-| **Active Time** (⌚)   | 17 minutes |
+| **Net Change** (↕)    | 2072                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,8 @@
 - **demoData.json** (+103, -0)
 - **Sidebar.js** (+511, -0)
 - **Dashboard.js** (+467, -4)
+- **LinkedAccounts.js** (+168, -0)
+- **App.js** (+128, -0)
 
 ## Visualizations
 
@@ -30,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 122
-".js" : 1662
+".js" : 1958
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +41,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 10
-"20h" : 4
+"20h" : 9
 ```
 
 
-> **Last Updated:** 7/15/2025, 8:30:09 PM
+> **Last Updated:** 7/15/2025, 8:35:09 PM

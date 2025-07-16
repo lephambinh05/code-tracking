@@ -2,9 +2,9 @@
   "date": "2025-07-17",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 725,
+      "totalLinesAdded": 738,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 41,
+      "totalActiveTime": 42,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Create.cshtml": [
           {
@@ -284,6 +284,20 @@
             },
             "duration": 0,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-16T18:43:18.718Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Marketing\\Create.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Marketing\\Edit.cshtml.cs": [
@@ -371,6 +385,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-16T18:43:26.370Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Marketing\\Create.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cshtml"
           }
         ],

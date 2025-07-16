@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1610                                          |
+| **Lines Added** (➕)   | 1644                                          |
 | **Lines Removed** (➖) | 41                                        |
-| **Net Change** (↕)    | 1569                |
-| **Active Time** (⌚)   | 90 minutes |
+| **Net Change** (↕)    | 1603                |
+| **Active Time** (⌚)   | 91 minutes |
 
 
 ## Modified Files
@@ -41,6 +41,7 @@
 - **Edit.cshtml.cs** (+57, -0)
 - **Create.cshtml.cs** (+53, -0)
 - **Create.cshtml.cs** (+46, -0)
+- **DanhMuc.cs** (+34, -0)
 
 ## Visualizations
 
@@ -49,7 +50,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 474
+".cs" : 508
 ".cshtml" : 1177
 ```
 
@@ -61,8 +62,8 @@ title Coding activity by hour (count of changes)
 "00h" : 2
 "01h" : 43
 "02h" : 16
-"23h" : 23
+"23h" : 25
 ```
 
 
-> **Last Updated:** 7/16/2025, 11:49:44 PM
+> **Last Updated:** 7/16/2025, 11:54:44 PM

@@ -2,9 +2,9 @@
   "date": "2025-07-17",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 545,
+      "totalLinesAdded": 668,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 29,
+      "totalActiveTime": 36,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Create.cshtml": [
           {
@@ -360,6 +360,52 @@
             },
             "duration": 1,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\KhuyenMai.cs": [
+          {
+            "timestamp": "2025-07-16T17:52:40.634Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\KhuyenMai.cs",
+            "fileType": ".cs",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-16T17:52:41.666Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\KhuyenMai.cs",
+            "fileType": ".cs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Marketing\\Edit.cshtml": [
+          {
+            "timestamp": "2025-07-16T17:54:12.511Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Marketing\\Edit.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cshtml"
           }
         ]
       },

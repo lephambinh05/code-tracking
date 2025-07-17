@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2164                                          |
-| **Lines Removed** (➖) | 344                                        |
-| **Net Change** (↕)    | 1820                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Lines Added** (➕)   | 2459                                          |
+| **Lines Removed** (➖) | 497                                        |
+| **Net Change** (↕)    | 1962                |
+| **Active Time** (⌚)   | 145 minutes |
 
 
 ## Modified Files
@@ -26,14 +26,14 @@
 - **Delete.cshtml** (+26, -0)
 - **Index.cshtml** (+120, -0)
 - **Index.cshtml.cs** (+358, -227)
-- **Details.cshtml** (+28, -0)
-- **Details.cshtml.cs** (+78, -0)
-- **Create.cshtml** (+45, -0)
-- **Create.cshtml.cs** (+213, -0)
-- **Index.cshtml** (+36, -0)
-- **Index.cshtml.cs** (+70, -1)
-- **Index.cshtml** (+33, -0)
-- **Index.cshtml.cs** (+69, -0)
+- **Details.cshtml** (+56, -0)
+- **Details.cshtml.cs** (+105, -27)
+- **Create.cshtml** (+90, -0)
+- **Create.cshtml.cs** (+291, -78)
+- **Index.cshtml** (+72, -0)
+- **Index.cshtml.cs** (+94, -25)
+- **Index.cshtml** (+66, -0)
+- **Index.cshtml.cs** (+93, -24)
 - **Index.cshtml** (+79, -46)
 - **Index.cshtml.cs** (+26, -4)
 - **Register.cshtml** (+38, -0)
@@ -49,8 +49,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cshtml" : 972
-".cs" : 1536
+".cshtml" : 1114
+".cs" : 1842
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -62,8 +62,8 @@ title Coding activity by hour (count of changes)
 "01h" : 14
 "02h" : 46
 "10h" : 8
-"11h" : 16
+"11h" : 32
 ```
 
 
-> **Last Updated:** 7/17/2025, 11:21:54 AM
+> **Last Updated:** 7/17/2025, 11:26:54 AM

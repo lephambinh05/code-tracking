@@ -3,7 +3,7 @@
   "projects": {
     "nhaHang": {
       "totalLinesAdded": 117,
-      "totalLinesRemoved": 41,
+      "totalLinesRemoved": 50,
       "totalActiveTime": 19,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu.cshtml": [
@@ -171,6 +171,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-17T17:56:32.775Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\ShopService.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ]

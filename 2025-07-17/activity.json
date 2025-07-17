@@ -3,8 +3,8 @@
   "projects": {
     "nhaHang": {
       "totalLinesAdded": 5765,
-      "totalLinesRemoved": 697,
-      "totalActiveTime": 302,
+      "totalLinesRemoved": 704,
+      "totalActiveTime": 305,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Create.cshtml": [
           {
@@ -2913,6 +2913,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-17T16:15:56.818Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Shared\\_Layout.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "cshtml"
           }
         ],

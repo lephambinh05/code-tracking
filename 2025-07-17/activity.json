@@ -2,9 +2,9 @@
   "date": "2025-07-17",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 3812,
+      "totalLinesAdded": 3962,
       "totalLinesRemoved": 513,
-      "totalActiveTime": 194,
+      "totalActiveTime": 196,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Create.cshtml": [
           {
@@ -1944,6 +1944,20 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-17T06:07:44.995Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Shop\\Create.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\SessionExtensions.cs": [
@@ -1996,6 +2010,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Shop\\Create.cshtml",
             "fileType": ".cshtml",
             "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-17T06:08:26.122Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Shop\\Create.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 31,
             "linesRemoved": 0,
             "projectName": "nhaHang",
             "content": {
@@ -2462,6 +2490,22 @@
             },
             "duration": 1,
             "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\DonHang.cs": [
+          {
+            "timestamp": "2025-07-17T06:08:43.176Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\DonHang.cs",
+            "fileType": ".cs",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ]
       },

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5069                                          |
+| **Lines Added** (➕)   | 5086                                          |
 | **Lines Removed** (➖) | 534                                        |
-| **Net Change** (↕)    | 4535                |
-| **Active Time** (⌚)   | 237 minutes |
+| **Net Change** (↕)    | 4552                |
+| **Active Time** (⌚)   | 242 minutes |
 
 
 ## Modified Files
@@ -60,7 +60,7 @@
 - **DonHang.cs** (+61, -0)
 - **_Layout.cshtml** (+114, -0)
 - **SeedData.cs** (+82, -0)
-- **Login.cshtml.cs** (+62, -0)
+- **Login.cshtml.cs** (+65, -0)
 - **Create.cshtml.cs** (+34, -0)
 - **Edit.cshtml.cs** (+40, -0)
 - **Details.cshtml.cs** (+23, -0)
@@ -77,7 +77,7 @@
 - **OrderService.cs** (+57, -0)
 - **Details.cshtml** (+40, -0)
 - **Details.cshtml.cs** (+29, -0)
-- **Logout.cshtml.cs** (+21, -0)
+- **Logout.cshtml.cs** (+35, -0)
 
 ## Visualizations
 
@@ -87,7 +87,7 @@
 pie showData
 title Lines changed by file type
 ".cshtml" : 2095
-".cs" : 3508
+".cs" : 3525
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -105,8 +105,8 @@ title Coding activity by hour (count of changes)
 "14h" : 1
 "19h" : 23
 "20h" : 18
-"22h" : 2
+"22h" : 4
 ```
 
 
-> **Last Updated:** 7/17/2025, 10:18:42 PM
+> **Last Updated:** 7/17/2025, 10:23:42 PM

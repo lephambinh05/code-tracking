@@ -2,9 +2,9 @@
   "date": "2025-07-17",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 1764,
-      "totalLinesRemoved": 163,
-      "totalActiveTime": 105,
+      "totalLinesAdded": 1810,
+      "totalLinesRemoved": 209,
+      "totalActiveTime": 110,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\QuanTriVien\\Create.cshtml": [
           {
@@ -765,6 +765,34 @@
           },
           {
             "timestamp": "2025-07-17T03:47:54.934Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Index.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-17T03:51:57.390Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Index.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 46,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-17T03:51:58.594Z",
             "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu\\Index.cshtml.cs",
             "fileType": ".cs",
             "linesAdded": 46,

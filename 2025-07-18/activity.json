@@ -2,9 +2,9 @@
   "date": "2025-07-18",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 100,
+      "totalLinesAdded": 112,
       "totalLinesRemoved": 41,
-      "totalActiveTime": 14,
+      "totalActiveTime": 19,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu.cshtml": [
           {
@@ -141,6 +141,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\ShopService.cs": [
+          {
+            "timestamp": "2025-07-17T17:41:05.972Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\ShopService.cs",
+            "fileType": ".cs",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "cs"
           }
         ]

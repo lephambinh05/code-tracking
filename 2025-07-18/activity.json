@@ -2,7 +2,7 @@
   "date": "2025-07-18",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 2294,
+      "totalLinesAdded": 2317,
       "totalLinesRemoved": 273,
       "totalActiveTime": 67,
       "files": {
@@ -809,6 +809,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-18T07:03:57.948Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\wwwroot\\css\\site.css",
+            "fileType": ".css",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "css"
           }
         ]

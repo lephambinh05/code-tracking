@@ -2,9 +2,9 @@
   "date": "2025-07-19",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 13,
+      "totalLinesAdded": 26,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\appsettings.json": [
           {
@@ -19,6 +19,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\appsettings.Development.json": [
+          {
+            "timestamp": "2025-07-18T17:10:46.457Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\appsettings.Development.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-18T17:10:47.476Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\appsettings.Development.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]

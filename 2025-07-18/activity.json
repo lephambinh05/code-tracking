@@ -2,9 +2,9 @@
   "date": "2025-07-18",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 1832,
-      "totalLinesRemoved": 136,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 1853,
+      "totalLinesRemoved": 206,
+      "totalActiveTime": 55,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Menu.cshtml": [
           {
@@ -398,6 +398,34 @@
             },
             "duration": 1,
             "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-18T04:53:20.854Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-18T04:53:42.934Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\wwwroot\\css\\custom-style.css": [
@@ -522,6 +550,62 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\wwwroot\\css\\site.css",
             "fileType": ".css",
             "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-18T04:51:27.736Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\wwwroot\\css\\site.css",
+            "fileType": ".css",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-18T04:51:34.698Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\wwwroot\\css\\site.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-18T04:53:58.655Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\wwwroot\\css\\site.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-18T04:54:05.155Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\wwwroot\\css\\site.css",
+            "fileType": ".css",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "nhaHang",
             "content": {

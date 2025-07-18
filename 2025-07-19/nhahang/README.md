@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 879                                          |
+| **Lines Added** (➕)   | 1067                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 876                |
-| **Active Time** (⌚)   | 43 minutes |
+| **Net Change** (↕)    | 1064                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,8 @@
 - **Program.cs** (+39, -0)
 - **Index.cshtml.cs** (+132, -0)
 - **Index.cshtml** (+145, -0)
+- **Details.cshtml.cs** (+64, -0)
+- **Details.cshtml** (+124, -0)
 
 ## Visualizations
 
@@ -34,8 +36,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 26
-".cs" : 417
-".cshtml" : 410
+".cs" : 481
+".cshtml" : 534
 ".csproj" : 29
 ```
 
@@ -48,8 +50,9 @@ title Coding activity by hour (count of changes)
 "01h" : 22
 "02h" : 3
 "03h" : 11
+"04h" : 4
 "23h" : 1
 ```
 
 
-> **Last Updated:** 7/19/2025, 3:51:57 AM
+> **Last Updated:** 7/19/2025, 4:06:57 AM

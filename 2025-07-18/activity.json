@@ -2,7 +2,7 @@
   "date": "2025-07-18",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 2662,
+      "totalLinesAdded": 2739,
       "totalLinesRemoved": 284,
       "totalActiveTime": 80,
       "files": {
@@ -956,6 +956,22 @@
             },
             "duration": 1,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Orders\\Edit.cshtml": [
+          {
+            "timestamp": "2025-07-18T07:40:27.815Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Orders\\Edit.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
           }
         ]
       },

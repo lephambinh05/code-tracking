@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 478                                          |
+| **Lines Added** (➕)   | 483                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 475                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Net Change** (↕)    | 480                |
+| **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **nhaHang.csproj** (+27, -2)
 - **ShopService.cs** (+6, -0)
 - **_AdminLayout.cshtml** (+147, -0)
-- **Index.cshtml** (+47, -0)
+- **Index.cshtml** (+52, -0)
 - **Index.cshtml.cs** (+51, -0)
 - **Login.cshtml.cs** (+76, -1)
 
@@ -32,7 +32,7 @@ pie showData
 title Lines changed by file type
 ".json" : 26
 ".cs" : 172
-".cshtml" : 254
+".cshtml" : 259
 ".csproj" : 29
 ```
 
@@ -43,9 +43,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 2
 "01h" : 22
-"02h" : 2
+"02h" : 3
 "23h" : 1
 ```
 
 
-> **Last Updated:** 7/19/2025, 2:04:09 AM
+> **Last Updated:** 7/19/2025, 2:09:09 AM

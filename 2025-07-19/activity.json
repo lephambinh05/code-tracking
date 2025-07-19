@@ -727,9 +727,9 @@
       "averageChangeSize": 13
     },
     "eduWallet-main": {
-      "totalLinesAdded": 4495,
-      "totalLinesRemoved": 362,
-      "totalActiveTime": 64,
+      "totalLinesAdded": 5341,
+      "totalLinesRemoved": 1073,
+      "totalActiveTime": 76,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\server\\config\\database.js": [
           {
@@ -1283,6 +1283,20 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-07-19T05:58:28.930Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\components\\Navbar.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 306,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\pages\\Dashboard.js": [
@@ -1306,6 +1320,20 @@
             "fileType": ".js",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-19T05:59:34.524Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\pages\\Dashboard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 138,
             "projectName": "eduWallet-main",
             "content": {
               "added": [],
@@ -1343,6 +1371,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-07-19T06:00:16.421Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\pages\\Home.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 125,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\pages\\Login.js": [
@@ -1366,6 +1408,20 @@
             "fileType": ".js",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-19T06:01:07.175Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\pages\\Login.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 142,
             "projectName": "eduWallet-main",
             "content": {
               "added": [],
@@ -1607,6 +1663,126 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Sidebar.css",
             "fileType": ".css",
             "linesAdded": 356,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Navbar.css": [
+          {
+            "timestamp": "2025-07-19T05:57:52.682Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Navbar.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-19T05:57:53.817Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Navbar.css",
+            "fileType": ".css",
+            "linesAdded": 357,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Dashboard.css": [
+          {
+            "timestamp": "2025-07-19T05:58:53.883Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Dashboard.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-19T05:58:55.066Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Dashboard.css",
+            "fileType": ".css",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Home.css": [
+          {
+            "timestamp": "2025-07-19T06:00:00.119Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Home.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-19T06:00:01.226Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Home.css",
+            "fileType": ".css",
+            "linesAdded": 146,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Login.css": [
+          {
+            "timestamp": "2025-07-19T06:00:44.358Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Login.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "eduWallet-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-07-19T06:00:45.547Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\eduWallet-main\\src\\styles\\Login.css",
+            "fileType": ".css",
+            "linesAdded": 171,
             "linesRemoved": 0,
             "projectName": "eduWallet-main",
             "content": {

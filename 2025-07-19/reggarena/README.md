@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1726                                          |
-| **Lines Removed** (➖) | 96                                        |
-| **Net Change** (↕)    | 1630                |
-| **Active Time** (⌚)   | 39 minutes |
+| **Lines Added** (➕)   | 1799                                          |
+| **Lines Removed** (➖) | 198                                        |
+| **Net Change** (↕)    | 1601                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **GarenaRegTool.csproj** (+19, -3)
 - **Program.cs** (+20, -0)
 - **Account.cs** (+43, -0)
-- **GarenaService.cs** (+329, -75)
+- **GarenaService.cs** (+402, -177)
 - **AccountGenerator.cs** (+101, -17)
 - **MainForm.cs** (+564, -1)
 - **MainForm.Designer.cs** (+39, -0)
@@ -34,7 +34,7 @@ pie showData
 title Lines changed by file type
 ".sln" : 18
 ".csproj" : 22
-".cs" : 1394
+".cs" : 1569
 "unknown" : 365
 ".bat" : 23
 ```
@@ -45,8 +45,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 31
-"22h" : 6
+"22h" : 8
 ```
 
 
-> **Last Updated:** 7/19/2025, 10:15:13 PM
+> **Last Updated:** 7/19/2025, 10:35:13 PM

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8007                                          |
-| **Lines Removed** (➖) | 1311                                        |
-| **Net Change** (↕)    | 6696                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Lines Added** (➕)   | 8184                                          |
+| **Lines Removed** (➖) | 1570                                        |
+| **Net Change** (↕)    | 6614                |
+| **Active Time** (⌚)   | 126 minutes |
 
 
 ## Modified Files
@@ -23,11 +23,11 @@
 - **config.env** (+3, -0)
 - **testConnection.js** (+21, -0)
 - **Sidebar.js** (+511, -320)
-- **ProfileLink.js** (+510, -0)
+- **ProfileLink.js** (+510, -243)
 - **package.json** (+74, -0)
 - **start-app.bat** (+18, -17)
 - **start-app.sh** (+17, -0)
-- **index.css** (+213, -25)
+- **index.css** (+214, -25)
 - **Navbar.js** (+522, -306)
 - **Dashboard.js** (+325, -138)
 - **Home.js** (+169, -125)
@@ -60,6 +60,8 @@
 - **ErrorBoundary.css** (+87, -0)
 - **ErrorBoundary.js** (+103, -49)
 - **ProfileLink.css** (+286, -0)
+- **Verify.css** (+106, -0)
+- **Verify.js** (+70, -16)
 
 ## Visualizations
 
@@ -68,12 +70,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 5672
+".js" : 6001
 ".json" : 96
 ".env" : 3
 ".bat" : 35
 ".sh" : 17
-".css" : 3495
+".css" : 3602
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -82,8 +84,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 65
-"13h" : 44
+"13h" : 50
 ```
 
 
-> **Last Updated:** 7/19/2025, 1:12:09 PM
+> **Last Updated:** 7/19/2025, 1:17:09 PM

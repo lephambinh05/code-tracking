@@ -3070,6 +3070,53 @@
         "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Services\\GarenaService.cs"
       ],
       "averageChangeSize": 48.916666666666664
+    },
+    "reg-account-garena": {
+      "totalLinesAdded": 19,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\reg-account-garena\\package.json": [
+          {
+            "timestamp": "2025-07-19T14:53:18.755Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg-account-garena\\package.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "reg-account-garena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-19T14:53:41.227Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg-account-garena\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "reg-account-garena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\reg-account-garena\\package.json"
+      ],
+      "averageChangeSize": 10
     }
   },
   "totalActiveTime": 0,

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5341                                          |
-| **Lines Removed** (➖) | 1073                                        |
-| **Net Change** (↕)    | 4268                |
-| **Active Time** (⌚)   | 76 minutes |
+| **Lines Added** (➕)   | 6731                                          |
+| **Lines Removed** (➖) | 1227                                        |
+| **Net Change** (↕)    | 5504                |
+| **Active Time** (⌚)   | 92 minutes |
 
 
 ## Modified Files
@@ -32,10 +32,10 @@
 - **Dashboard.js** (+325, -138)
 - **Home.js** (+169, -125)
 - **Login.js** (+275, -142)
-- **Register.js** (+325, -0)
-- **LearnPass.js** (+169, -0)
-- **Badges.js** (+72, -0)
-- **Marketplace.js** (+135, -0)
+- **Register.js** (+325, -132)
+- **LearnPass.js** (+169, -22)
+- **Badges.js** (+196, -0)
+- **Marketplace.js** (+179, -0)
 - **Transfer.js** (+106, -0)
 - **About.js** (+57, -0)
 - **Footer.js** (+22, -0)
@@ -45,6 +45,11 @@
 - **Dashboard.css** (+169, -0)
 - **Home.css** (+147, -0)
 - **Login.css** (+172, -0)
+- **Register.css** (+182, -0)
+- **LearnPass.css** (+245, -0)
+- **Badges.css** (+299, -0)
+- **Marketplace.css** (+279, -0)
+- **Transfer.css** (+217, -0)
 
 ## Visualizations
 
@@ -53,12 +58,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 4822
+".js" : 5144
 ".json" : 96
 ".env" : 3
 ".bat" : 35
 ".sh" : 17
-".css" : 1441
+".css" : 2663
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,8 +72,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 65
-"13h" : 6
+"13h" : 20
 ```
 
 
-> **Last Updated:** 7/19/2025, 1:02:09 PM
+> **Last Updated:** 7/19/2025, 1:07:09 PM

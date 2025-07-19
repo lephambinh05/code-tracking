@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1592                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1592                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Lines Added** (➕)   | 1914                                          |
+| **Lines Removed** (➖) | 42                                        |
+| **Net Change** (↕)    | 1872                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,10 @@
 - **testConnection.js** (+21, -0)
 - **Sidebar.js** (+511, -0)
 - **ProfileLink.js** (+510, -0)
+- **package.json** (+74, -0)
+- **start-app.bat** (+18, -17)
+- **start-app.sh** (+17, -0)
+- **index.css** (+213, -25)
 
 ## Visualizations
 
@@ -33,8 +37,11 @@
 pie showData
 title Lines changed by file type
 ".js" : 1567
-".json" : 22
+".json" : 96
 ".env" : 3
+".bat" : 35
+".sh" : 17
+".css" : 238
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +49,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 27
+"12h" : 35
 ```
 
 
-> **Last Updated:** 7/19/2025, 12:47:09 PM
+> **Last Updated:** 7/19/2025, 12:52:09 PM

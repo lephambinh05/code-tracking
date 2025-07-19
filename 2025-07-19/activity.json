@@ -2587,7 +2587,7 @@
       "averageChangeSize": 29.555555555555557
     },
     "regGarena": {
-      "totalLinesAdded": 1709,
+      "totalLinesAdded": 1726,
       "totalLinesRemoved": 96,
       "totalActiveTime": 39,
       "files": {
@@ -2938,6 +2938,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-19T15:14:25.255Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\MainForm.cs",
+            "fileType": ".cs",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "regGarena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cs"
           }
         ],

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6731                                          |
-| **Lines Removed** (➖) | 1227                                        |
-| **Net Change** (↕)    | 5504                |
-| **Active Time** (⌚)   | 92 minutes |
+| **Lines Added** (➕)   | 8007                                          |
+| **Lines Removed** (➖) | 1311                                        |
+| **Net Change** (↕)    | 6696                |
+| **Active Time** (⌚)   | 117 minutes |
 
 
 ## Modified Files
@@ -36,9 +36,9 @@
 - **LearnPass.js** (+169, -22)
 - **Badges.js** (+196, -0)
 - **Marketplace.js** (+179, -0)
-- **Transfer.js** (+106, -0)
-- **About.js** (+57, -0)
-- **Footer.js** (+22, -0)
+- **Transfer.js** (+175, -0)
+- **About.js** (+151, -0)
+- **Footer.js** (+73, -0)
 - **LoadingSpinner.js** (+47, -0)
 - **Sidebar.css** (+357, -0)
 - **Navbar.css** (+358, -0)
@@ -50,6 +50,16 @@
 - **Badges.css** (+299, -0)
 - **Marketplace.css** (+279, -0)
 - **Transfer.css** (+217, -0)
+- **About.css** (+235, -0)
+- **Footer.css** (+103, -0)
+- **LoadingSpinner.css** (+39, -0)
+- **PageWrapper.css** (+23, -0)
+- **PageWrapper.js** (+49, -5)
+- **Layout.css** (+59, -0)
+- **Layout.js** (+78, -30)
+- **ErrorBoundary.css** (+87, -0)
+- **ErrorBoundary.js** (+103, -49)
+- **ProfileLink.css** (+286, -0)
 
 ## Visualizations
 
@@ -58,12 +68,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 5144
+".js" : 5672
 ".json" : 96
 ".env" : 3
 ".bat" : 35
 ".sh" : 17
-".css" : 2663
+".css" : 3495
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -72,8 +82,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 65
-"13h" : 20
+"13h" : 44
 ```
 
 
-> **Last Updated:** 7/19/2025, 1:07:09 PM
+> **Last Updated:** 7/19/2025, 1:12:09 PM

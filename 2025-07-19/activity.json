@@ -2587,9 +2587,9 @@
       "averageChangeSize": 29.555555555555557
     },
     "regGarena": {
-      "totalLinesAdded": 1174,
+      "totalLinesAdded": 1650,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 23,
+      "totalActiveTime": 30,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool.sln": [
           {
@@ -2648,6 +2648,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "csproj"
+          },
+          {
+            "timestamp": "2025-07-19T14:46:43.042Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\GarenaRegTool.csproj",
+            "fileType": ".csproj",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "regGarena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "csproj"
           }
         ],
@@ -2709,6 +2723,20 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-19T14:46:52.184Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Models\\Account.cs",
+            "fileType": ".cs",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "regGarena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Services\\GarenaService.cs": [
@@ -2731,6 +2759,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Services\\GarenaService.cs",
             "fileType": ".cs",
             "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "regGarena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-19T14:47:30.124Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Services\\GarenaService.cs",
+            "fileType": ".cs",
+            "linesAdded": 236,
             "linesRemoved": 0,
             "projectName": "regGarena",
             "content": {
@@ -2769,6 +2811,20 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-19T14:47:47.594Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Utils\\AccountGenerator.cs",
+            "fileType": ".cs",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "regGarena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\MainForm.cs": [
@@ -2798,6 +2854,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-19T14:49:23.683Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\MainForm.cs",
+            "fileType": ".cs",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "regGarena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "cs"
           }
         ],
@@ -2941,6 +3011,36 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Config\\AppSettings.cs",
             "fileType": ".cs",
             "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "regGarena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Services\\ExportService.cs": [
+          {
+            "timestamp": "2025-07-19T14:48:02.153Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Services\\ExportService.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "regGarena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-19T14:48:03.402Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Services\\ExportService.cs",
+            "fileType": ".cs",
+            "linesAdded": 128,
             "linesRemoved": 0,
             "projectName": "regGarena",
             "content": {

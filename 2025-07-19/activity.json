@@ -2588,8 +2588,8 @@
     },
     "regGarena": {
       "totalLinesAdded": 2577,
-      "totalLinesRemoved": 389,
-      "totalActiveTime": 60,
+      "totalLinesRemoved": 399,
+      "totalActiveTime": 65,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool.sln": [
           {
@@ -2764,6 +2764,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-19T15:51:07.826Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\regGarena\\GarenaRegTool\\Models\\Account.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "regGarena",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "cs"
           }
         ],

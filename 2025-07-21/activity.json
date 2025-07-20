@@ -1140,9 +1140,9 @@
       "averageChangeSize": 29.555555555555557
     },
     "nhaHang": {
-      "totalLinesAdded": 1130,
+      "totalLinesAdded": 1217,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\About.cshtml": [
           {
@@ -1240,6 +1240,22 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Shared\\_Layout.cshtml",
             "fileType": ".cshtml",
             "linesAdded": 124,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\_AdminLayout.cshtml": [
+          {
+            "timestamp": "2025-07-20T20:09:58.982Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\_AdminLayout.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 87,
             "linesRemoved": 0,
             "projectName": "nhaHang",
             "content": {

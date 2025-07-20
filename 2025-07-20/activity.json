@@ -799,9 +799,9 @@
       "averageChangeSize": 108.625
     },
     "reg": {
-      "totalLinesAdded": 619,
+      "totalLinesAdded": 693,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 13,
+      "totalActiveTime": 14,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py": [
           {
@@ -851,6 +851,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py",
             "fileType": ".py",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T16:13:30.094Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py",
+            "fileType": ".py",
+            "linesAdded": 74,
             "linesRemoved": 0,
             "projectName": "reg",
             "content": {

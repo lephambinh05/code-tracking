@@ -2,7 +2,7 @@
   "date": "2025-07-20",
   "projects": {
     "nhaHang": {
-      "totalLinesAdded": 922,
+      "totalLinesAdded": 983,
       "totalLinesRemoved": 42,
       "totalActiveTime": 21,
       "files": {
@@ -77,6 +77,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-20T03:56:52.029Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Auth\\Login.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "cshtml"
           }
         ],

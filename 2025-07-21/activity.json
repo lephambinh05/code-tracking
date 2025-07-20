@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "reg": {
-      "totalLinesAdded": 1349,
+      "totalLinesAdded": 1926,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 24,
+      "totalActiveTime": 32,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py": [
           {
@@ -316,6 +316,66 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\simulate_garena_flow.py",
             "fileType": ".py",
             "linesAdded": 304,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\reg\\reverse_engineer_garena.py": [
+          {
+            "timestamp": "2025-07-20T17:35:48.399Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\reverse_engineer_garena.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T17:35:49.445Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\reverse_engineer_garena.py",
+            "fileType": ".py",
+            "linesAdded": 350,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\reg\\update_tool_params.py": [
+          {
+            "timestamp": "2025-07-20T17:36:49.489Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\update_tool_params.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T17:36:50.550Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\update_tool_params.py",
+            "fileType": ".py",
+            "linesAdded": 225,
             "linesRemoved": 0,
             "projectName": "reg",
             "content": {

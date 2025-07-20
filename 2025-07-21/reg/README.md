@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3133                                          |
+| **Lines Added** (➕)   | 3538                                          |
 | **Lines Removed** (➖) | 45                                        |
-| **Net Change** (↕)    | 3088                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Net Change** (↕)    | 3493                |
+| **Active Time** (⌚)   | 50 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,9 @@
 - **setup_selenium.py** (+222, -45)
 - **run_selenium_tool.bat** (+38, -0)
 - **requirements.txt** (+1, -0)
-- **garena_simple_selenium.py** (+427, -0)
+- **garena_simple_selenium.py** (+472, -0)
+- **test_register_urls.py** (+234, -0)
+- **test_updated_tool.py** (+126, -0)
 
 ## Visualizations
 
@@ -32,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 3139
+".py" : 3544
 ".bat" : 38
 ".txt" : 1
 ```
@@ -43,8 +45,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 32
-"01h" : 6
+"01h" : 12
 ```
 
 
-> **Last Updated:** 7/21/2025, 1:03:25 AM
+> **Last Updated:** 7/21/2025, 1:28:25 AM

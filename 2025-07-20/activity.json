@@ -3,8 +3,8 @@
   "projects": {
     "nhaHang": {
       "totalLinesAdded": 1298,
-      "totalLinesRemoved": 444,
-      "totalActiveTime": 26,
+      "totalLinesRemoved": 645,
+      "totalActiveTime": 27,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Orders\\Edit.cshtml": [
           {
@@ -201,6 +201,20 @@
             "fileType": ".cshtml",
             "linesAdded": 37,
             "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-20T04:12:28.105Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Auth\\ForgotPassword.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 0,
+            "linesRemoved": 201,
             "projectName": "nhaHang",
             "content": {
               "added": [],

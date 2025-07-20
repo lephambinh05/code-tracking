@@ -1,0 +1,61 @@
+{
+  "date": "2025-07-20",
+  "projects": {
+    "nhaHang": {
+      "totalLinesAdded": 165,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Orders\\Edit.cshtml": [
+          {
+            "timestamp": "2025-07-20T03:29:30.385Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Orders\\Edit.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 164,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-20T03:29:31.399Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Orders\\Edit.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ]
+      },
+      "languageStats": {
+        "cshtml": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Pages\\Admin\\Orders\\Edit.cshtml"
+      ],
+      "averageChangeSize": 82.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "cshtml"
+  ]
+}

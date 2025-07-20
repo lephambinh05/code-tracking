@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "reg": {
-      "totalLinesAdded": 513,
+      "totalLinesAdded": 793,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 18,
+      "totalActiveTime": 22,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py": [
           {
@@ -103,6 +103,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T17:14:56.045Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py",
+            "fileType": ".py",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ],
@@ -212,6 +226,36 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_garena_url.py",
             "fileType": ".py",
             "linesAdded": 205,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\reg\\test_api_register.py": [
+          {
+            "timestamp": "2025-07-20T17:13:40.402Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_api_register.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T17:13:42.081Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_api_register.py",
+            "fileType": ".py",
+            "linesAdded": 233,
             "linesRemoved": 0,
             "projectName": "reg",
             "content": {

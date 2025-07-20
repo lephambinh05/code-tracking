@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 513                                          |
+| **Lines Added** (➕)   | 793                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 513                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Net Change** (↕)    | 793                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
-- **garena_reg_tool.py** (+62, -0)
+- **garena_reg_tool.py** (+108, -0)
 - **garena_analyzer.py** (+245, -0)
 - **test_garena_url.py** (+206, -0)
+- **test_api_register.py** (+234, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 513
+".py" : 793
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 15
+"00h" : 18
 ```
 
 
-> **Last Updated:** 7/21/2025, 12:13:25 AM
+> **Last Updated:** 7/21/2025, 12:18:25 AM

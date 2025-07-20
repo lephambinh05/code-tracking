@@ -799,9 +799,9 @@
       "averageChangeSize": 108.625
     },
     "reg": {
-      "totalLinesAdded": 693,
+      "totalLinesAdded": 786,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 14,
+      "totalActiveTime": 16,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py": [
           {
@@ -865,6 +865,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py",
             "fileType": ".py",
             "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T16:43:49.449Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py",
+            "fileType": ".py",
+            "linesAdded": 14,
             "linesRemoved": 0,
             "projectName": "reg",
             "content": {
@@ -947,6 +961,20 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T16:43:56.385Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\config.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\reg\\run_tool.bat": [
@@ -1006,6 +1034,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T16:43:34.887Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\captcha_solver.py",
+            "fileType": ".py",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]

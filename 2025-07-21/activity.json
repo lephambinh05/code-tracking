@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "reg": {
-      "totalLinesAdded": 5700,
+      "totalLinesAdded": 5864,
       "totalLinesRemoved": 45,
-      "totalActiveTime": 71,
+      "totalActiveTime": 74,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py": [
           {
@@ -902,6 +902,20 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T19:40:32.208Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\temp_email_otp.py",
+            "fileType": ".py",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\reg\\test_temp_email.py": [
@@ -924,6 +938,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_temp_email.py",
             "fileType": ".py",
             "linesAdded": 264,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T19:41:02.939Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_temp_email.py",
+            "fileType": ".py",
+            "linesAdded": 22,
             "linesRemoved": 0,
             "projectName": "reg",
             "content": {
@@ -962,6 +990,36 @@
             },
             "duration": 1,
             "language": "bat"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\reg\\test_10minutemail_net.py": [
+          {
+            "timestamp": "2025-07-20T19:41:27.046Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_10minutemail_net.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T19:41:28.089Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_10minutemail_net.py",
+            "fileType": ".py",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },

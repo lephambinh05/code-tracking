@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1926                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1926                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Lines Added** (➕)   | 3133                                          |
+| **Lines Removed** (➖) | 45                                        |
+| **Net Change** (↕)    | 3088                |
+| **Active Time** (⌚)   | 44 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,11 @@
 - **simulate_garena_flow.py** (+305, -0)
 - **reverse_engineer_garena.py** (+351, -0)
 - **update_tool_params.py** (+226, -0)
+- **garena_selenium_tool.py** (+519, -0)
+- **setup_selenium.py** (+222, -45)
+- **run_selenium_tool.bat** (+38, -0)
+- **requirements.txt** (+1, -0)
+- **garena_simple_selenium.py** (+427, -0)
 
 ## Visualizations
 
@@ -27,7 +32,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 1926
+".py" : 3139
+".bat" : 38
+".txt" : 1
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +42,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 26
+"00h" : 32
+"01h" : 6
 ```
 
 
-> **Last Updated:** 7/21/2025, 12:38:25 AM
+> **Last Updated:** 7/21/2025, 1:03:25 AM

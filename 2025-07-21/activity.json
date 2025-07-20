@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "reg": {
-      "totalLinesAdded": 4478,
+      "totalLinesAdded": 4987,
       "totalLinesRemoved": 45,
-      "totalActiveTime": 57,
+      "totalActiveTime": 63,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py": [
           {
@@ -532,6 +532,20 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-20T19:26:23.564Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\reg\\garena_simple_selenium.py": [
@@ -768,6 +782,96 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\reg\\email_otp_api.py": [
+          {
+            "timestamp": "2025-07-20T19:25:53.420Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\email_otp_api.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T19:25:54.483Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\email_otp_api.py",
+            "fileType": ".py",
+            "linesAdded": 331,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\reg\\test_otp_api.py": [
+          {
+            "timestamp": "2025-07-20T19:26:13.975Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_otp_api.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T19:26:15.034Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_otp_api.py",
+            "fileType": ".py",
+            "linesAdded": 161,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\reg\\run_otp_api.bat": [
+          {
+            "timestamp": "2025-07-20T19:26:33.630Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\run_otp_api.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-20T19:26:34.702Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\run_otp_api.bat",
+            "fileType": ".bat",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
           }
         ]
       },

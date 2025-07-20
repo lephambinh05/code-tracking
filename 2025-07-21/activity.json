@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "reg": {
-      "totalLinesAdded": 3763,
+      "totalLinesAdded": 4478,
       "totalLinesRemoved": 45,
-      "totalActiveTime": 54,
+      "totalActiveTime": 57,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\reg\\garena_reg_tool.py": [
           {
@@ -700,6 +700,66 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\analyze_form_structure.py",
             "fileType": ".py",
             "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\reg\\email_otp_tool.py": [
+          {
+            "timestamp": "2025-07-20T18:58:56.330Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\email_otp_tool.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T18:58:57.372Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\email_otp_tool.py",
+            "fileType": ".py",
+            "linesAdded": 488,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\reg\\test_email_otp.py": [
+          {
+            "timestamp": "2025-07-20T18:59:35.978Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_email_otp.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "reg",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-20T18:59:37.048Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\reg\\test_email_otp.py",
+            "fileType": ".py",
+            "linesAdded": 225,
             "linesRemoved": 0,
             "projectName": "reg",
             "content": {

@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2895                                          |
+| **Lines Added** (➕)   | 2897                                          |
 | **Lines Removed** (➖) | 581                                        |
-| **Net Change** (↕)    | 2314                |
+| **Net Change** (↕)    | 2316                |
 | **Active Time** (⌚)   | 140 minutes |
 
 
 ## Modified Files
 - **SQLrapphim.sql** (+433, -26)
 - **KhachHangController.cs** (+1054, -81)
-- **HoaDon.cs** (+38, -0)
+- **HoaDon.cs** (+40, -0)
 - **TempGioHangItem.cs** (+41, -0)
 - **CinemaDbContext.cs** (+76, -0)
 - **HuongDanChuyenKhoanViewModel.cs** (+8, -0)
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".sql" : 459
-".cs" : 1298
+".cs" : 1300
 ".cshtml" : 770
 ".txt" : 949
 ```
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "02h" : 24
 "03h" : 24
 "04h" : 41
-"05h" : 7
+"05h" : 8
 ```
 
 
-> **Last Updated:** 7/23/2025, 5:44:17 AM
+> **Last Updated:** 7/23/2025, 5:54:17 AM

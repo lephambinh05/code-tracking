@@ -241,9 +241,9 @@
       "averageChangeSize": 46
     },
     "nhaHang": {
-      "totalLinesAdded": 1162,
+      "totalLinesAdded": 1418,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 57,
+      "totalActiveTime": 74,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AboutController.cs": [
           {
@@ -985,6 +985,276 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminNewsController.cs",
             "fileType": ".cs",
             "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\News\\Index.cshtml": [
+          {
+            "timestamp": "2025-07-22T15:07:34.165Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\News\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T15:07:35.203Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\News\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\News\\Details.cshtml": [
+          {
+            "timestamp": "2025-07-22T15:07:39.722Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\News\\Details.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T15:07:40.764Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\News\\Details.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Index.cshtml": [
+          {
+            "timestamp": "2025-07-22T15:07:46.280Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T15:07:47.341Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Create.cshtml": [
+          {
+            "timestamp": "2025-07-22T15:07:53.267Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Create.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T15:07:54.309Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Create.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Edit.cshtml": [
+          {
+            "timestamp": "2025-07-22T15:07:59.021Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Edit.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T15:08:00.064Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Edit.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Delete.cshtml": [
+          {
+            "timestamp": "2025-07-22T15:08:04.204Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Delete.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T15:08:05.263Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Delete.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Details.cshtml": [
+          {
+            "timestamp": "2025-07-22T15:08:10.801Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Details.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T15:08:11.863Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminNews\\Details.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\FAQController.cs": [
+          {
+            "timestamp": "2025-07-22T15:09:02.685Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\FAQController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T15:09:03.730Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\FAQController.cs",
+            "fileType": ".cs",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminFAQController.cs": [
+          {
+            "timestamp": "2025-07-22T15:09:09.613Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminFAQController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T15:09:10.663Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminFAQController.cs",
+            "fileType": ".cs",
+            "linesAdded": 80,
             "linesRemoved": 0,
             "projectName": "nhaHang",
             "content": {

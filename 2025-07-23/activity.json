@@ -2,9 +2,9 @@
   "date": "2025-07-23",
   "projects": {
     "CNPM_TH_BA": {
-      "totalLinesAdded": 547,
+      "totalLinesAdded": 982,
       "totalLinesRemoved": 18,
-      "totalActiveTime": 6,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\CNPM_TH_BA\\appsettings.json": [
           {
@@ -92,6 +92,36 @@
             },
             "duration": 5,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM_TH_BA\\Views\\QuanLy\\QuanLyPhim.cshtml": [
+          {
+            "timestamp": "2025-07-22T18:32:09.744Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM_TH_BA\\Views\\QuanLy\\QuanLyPhim.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 316,
+            "linesRemoved": 0,
+            "projectName": "CNPM_TH_BA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T18:32:10.074Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM_TH_BA\\Views\\QuanLy\\QuanLyPhim.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "CNPM_TH_BA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ]
       },

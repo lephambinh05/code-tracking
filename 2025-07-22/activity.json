@@ -239,6 +239,85 @@
         "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\SelectMatch.cshtml.cs"
       ],
       "averageChangeSize": 46
+    },
+    "nhaHang": {
+      "totalLinesAdded": 186,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AboutController.cs": [
+          {
+            "timestamp": "2025-07-22T14:00:56.983Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AboutController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:00:58.122Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AboutController.cs",
+            "fileType": ".cs",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\About\\Index.cshtml": [
+          {
+            "timestamp": "2025-07-22T14:01:35.796Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\About\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T14:01:36.996Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\About\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 173,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 1,
+        "cshtml": 2
+      },
+      "changeFrequency": {
+        "21": 3
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AboutController.cs",
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\About\\Index.cshtml"
+      ],
+      "averageChangeSize": 46.5
     }
   },
   "totalActiveTime": 0,

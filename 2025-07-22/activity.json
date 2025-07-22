@@ -241,9 +241,9 @@
       "averageChangeSize": 46
     },
     "nhaHang": {
-      "totalLinesAdded": 608,
+      "totalLinesAdded": 737,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 18,
+      "totalActiveTime": 25,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AboutController.cs": [
           {
@@ -543,6 +543,66 @@
             },
             "duration": 1,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminCustomersController.cs": [
+          {
+            "timestamp": "2025-07-22T14:24:21.038Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminCustomersController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:24:22.124Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminCustomersController.cs",
+            "fileType": ".cs",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminCustomers\\Index.cshtml": [
+          {
+            "timestamp": "2025-07-22T14:24:32.213Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminCustomers\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-22T14:24:33.288Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Views\\AdminCustomers\\Index.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ]
       },

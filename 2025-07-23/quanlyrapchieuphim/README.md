@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 390                                          |
+| **Lines Added** (➕)   | 1358                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 390                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 1358                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
-- **SQLrapphim.sql** (+390, -0)
+- **SQLrapphim.sql** (+392, -0)
+- **KhachHangController.cs** (+928, -0)
+- **HoaDon.cs** (+38, -0)
 
 ## Visualizations
 
@@ -20,7 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".sql" : 390
+".sql" : 392
+".cs" : 966
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"02h" : 2
+"02h" : 8
 ```
 
 
-> **Last Updated:** 7/23/2025, 2:14:16 AM
+> **Last Updated:** 7/23/2025, 2:34:16 AM

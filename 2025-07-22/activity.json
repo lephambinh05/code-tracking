@@ -2,9 +2,9 @@
   "date": "2025-07-22",
   "projects": {
     "CNPM": {
-      "totalLinesAdded": 46,
+      "totalLinesAdded": 72,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\SelectMatch.cshtml.cs": [
           {
@@ -19,6 +19,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\FootballStatsContext.cs": [
+          {
+            "timestamp": "2025-07-22T06:37:12.745Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\FootballStatsContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CNPM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T06:37:14.038Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\FootballStatsContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "CNPM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\Team.cs": [
+          {
+            "timestamp": "2025-07-22T06:37:51.594Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\Team.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CNPM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T06:37:52.685Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Models\\Team.cs",
+            "fileType": ".cs",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "CNPM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "cs"
           }
         ]

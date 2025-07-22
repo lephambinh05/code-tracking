@@ -2,9 +2,9 @@
   "date": "2025-07-22",
   "projects": {
     "CNPM": {
-      "totalLinesAdded": 72,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 128,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\SelectMatch.cshtml.cs": [
           {
@@ -73,6 +73,36 @@
             "fileType": ".cs",
             "linesAdded": 12,
             "linesRemoved": 0,
+            "projectName": "CNPM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\DoiBong\\Create.cshtml.cs": [
+          {
+            "timestamp": "2025-07-22T06:44:51.244Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\DoiBong\\Create.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "CNPM",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T06:44:52.393Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CNPM\\FootballStatsApp\\Pages\\DoiBong\\Create.cshtml.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 13,
             "projectName": "CNPM",
             "content": {
               "added": [],

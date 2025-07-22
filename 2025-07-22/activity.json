@@ -241,9 +241,9 @@
       "averageChangeSize": 46
     },
     "nhaHang": {
-      "totalLinesAdded": 1042,
+      "totalLinesAdded": 1162,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 49,
+      "totalActiveTime": 57,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AboutController.cs": [
           {
@@ -933,6 +933,66 @@
             },
             "duration": 1,
             "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\NewsController.cs": [
+          {
+            "timestamp": "2025-07-22T14:39:31.972Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\NewsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:39:33.624Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\NewsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminNewsController.cs": [
+          {
+            "timestamp": "2025-07-22T14:39:39.936Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminNewsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:39:41.628Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AdminNewsController.cs",
+            "fileType": ".cs",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ]
       },

@@ -303,6 +303,53 @@
         "c:\\Users\\lephambinh\\Downloads\\CNPM_TH_BA\\appsettings.json"
       ],
       "averageChangeSize": 13
+    },
+    "quanlyRapChieuPhim": {
+      "totalLinesAdded": 390,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql": [
+          {
+            "timestamp": "2025-07-22T19:12:07.858Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql",
+            "fileType": ".sql",
+            "linesAdded": 389,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-22T19:12:08.881Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 1
+      },
+      "changeFrequency": {
+        "2": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql"
+      ],
+      "averageChangeSize": 195
     }
   },
   "totalActiveTime": 0,

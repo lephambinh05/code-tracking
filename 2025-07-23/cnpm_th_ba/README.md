@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13                                          |
+| **Lines Added** (➕)   | 528                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 13                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 528                |
+| **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **appsettings.json** (+13, -0)
+- **QuanLyController.cs** (+515, -0)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 13
+".cs" : 515
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 1
+"00h" : 3
 ```
 
 
-> **Last Updated:** 7/23/2025, 12:07:41 AM
+> **Last Updated:** 7/23/2025, 12:47:41 AM

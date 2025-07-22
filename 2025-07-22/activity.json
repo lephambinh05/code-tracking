@@ -241,9 +241,9 @@
       "averageChangeSize": 46
     },
     "nhaHang": {
-      "totalLinesAdded": 186,
+      "totalLinesAdded": 608,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 18,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Controllers\\AboutController.cs": [
           {
@@ -303,6 +303,246 @@
             },
             "duration": 1,
             "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\ContactMessage.cs": [
+          {
+            "timestamp": "2025-07-22T14:20:03.418Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\ContactMessage.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:20:04.470Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\ContactMessage.cs",
+            "fileType": ".cs",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\News.cs": [
+          {
+            "timestamp": "2025-07-22T14:20:10.100Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\News.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:20:11.151Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\News.cs",
+            "fileType": ".cs",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\FAQ.cs": [
+          {
+            "timestamp": "2025-07-22T14:20:15.974Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\FAQ.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:20:17.028Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Models\\FAQ.cs",
+            "fileType": ".cs",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Data\\ApplicationDbContext.cs": [
+          {
+            "timestamp": "2025-07-22T14:20:24.882Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Data\\ApplicationDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:20:25.918Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Data\\ApplicationDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\ContactService.cs": [
+          {
+            "timestamp": "2025-07-22T14:20:34.325Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\ContactService.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:20:35.382Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\ContactService.cs",
+            "fileType": ".cs",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\NewsService.cs": [
+          {
+            "timestamp": "2025-07-22T14:20:51.420Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\NewsService.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:20:52.648Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\NewsService.cs",
+            "fileType": ".cs",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\FAQService.cs": [
+          {
+            "timestamp": "2025-07-22T14:20:59.696Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\FAQService.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:21:01.658Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Services\\FAQService.cs",
+            "fileType": ".cs",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Program.cs": [
+          {
+            "timestamp": "2025-07-22T14:21:18.276Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 146,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-22T14:21:20.734Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\nhaHang\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "nhaHang",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ]
       },

@@ -305,9 +305,9 @@
       "averageChangeSize": 13
     },
     "quanlyRapChieuPhim": {
-      "totalLinesAdded": 2415,
+      "totalLinesAdded": 2452,
       "totalLinesRemoved": 33,
-      "totalActiveTime": 51,
+      "totalActiveTime": 58,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql": [
           {
@@ -357,6 +357,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql",
             "fileType": ".sql",
             "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-22T20:39:58.778Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql",
+            "fileType": ".sql",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-22T20:40:11.411Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql",
+            "fileType": ".sql",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim",
             "content": {
@@ -788,6 +816,48 @@
           },
           {
             "timestamp": "2025-07-22T20:33:23.339Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-22T20:40:24.859Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-22T20:42:31.742Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-22T20:43:59.436Z",
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
             "fileType": ".txt",
             "linesAdded": 11,

@@ -306,7 +306,7 @@
     },
     "quanlyRapChieuPhim": {
       "totalLinesAdded": 6875,
-      "totalLinesRemoved": 1070,
+      "totalLinesRemoved": 1376,
       "totalActiveTime": 297,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql": [
@@ -2968,6 +2968,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-23T15:27:44.202Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 306,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "txt"
           }
         ],

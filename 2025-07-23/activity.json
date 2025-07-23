@@ -305,9 +305,9 @@
       "averageChangeSize": 13
     },
     "quanlyRapChieuPhim": {
-      "totalLinesAdded": 3282,
+      "totalLinesAdded": 3309,
       "totalLinesRemoved": 870,
-      "totalActiveTime": 185,
+      "totalActiveTime": 186,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql": [
           {
@@ -2113,6 +2113,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\Views\\KhachHang\\HuongDanChuyenKhoan.cshtml",
             "fileType": ".cshtml",
             "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-23T05:57:21.336Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\Views\\KhachHang\\HuongDanChuyenKhoan.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-23T05:57:22.377Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\Views\\KhachHang\\HuongDanChuyenKhoan.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim",
             "content": {

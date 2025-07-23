@@ -305,9 +305,9 @@
       "averageChangeSize": 13
     },
     "quanlyRapChieuPhim": {
-      "totalLinesAdded": 4711,
+      "totalLinesAdded": 4745,
       "totalLinesRemoved": 870,
-      "totalActiveTime": 201,
+      "totalActiveTime": 203,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql": [
           {
@@ -2146,6 +2146,48 @@
           },
           {
             "timestamp": "2025-07-23T10:18:13.346Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-23T13:35:43.278Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-23T13:35:55.387Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-23T13:36:03.738Z",
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
             "fileType": ".txt",
             "linesAdded": 11,

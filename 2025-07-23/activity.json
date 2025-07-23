@@ -305,9 +305,9 @@
       "averageChangeSize": 13
     },
     "quanlyRapChieuPhim": {
-      "totalLinesAdded": 4666,
+      "totalLinesAdded": 4711,
       "totalLinesRemoved": 870,
-      "totalActiveTime": 196,
+      "totalActiveTime": 201,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql": [
           {
@@ -1052,6 +1052,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-23T10:19:04.887Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\Controllers\\KhachHangController.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-23T10:21:39.863Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\Controllers\\KhachHangController.cs",
+            "fileType": ".cs",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "cs"
           }
         ],
@@ -2093,6 +2121,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
             "fileType": ".txt",
             "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-23T10:18:07.146Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-23T10:18:13.346Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim",
             "content": {

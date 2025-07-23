@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 6939                                          |
-| **Lines Removed** (➖) | 1376                                        |
-| **Net Change** (↕)    | 5563                |
+| **Lines Removed** (➖) | 1556                                        |
+| **Net Change** (↕)    | 5383                |
 | **Active Time** (⌚)   | 308 minutes |
 
 
@@ -24,7 +24,7 @@
 - **HuongDanChuyenKhoan.cshtml** (+168, -9)
 - **LichSuDatVe.cshtml** (+200, -0)
 - **KhachHangViewModels.cs** (+82, -0)
-- **ThanhToan.cshtml** (+446, -24)
+- **ThanhToan.cshtml** (+446, -204)
 
 ## Visualizations
 
@@ -35,7 +35,7 @@ pie showData
 title Lines changed by file type
 ".sql" : 459
 ".cs" : 3626
-".cshtml" : 1617
+".cshtml" : 1797
 ".txt" : 2613
 ```
 
@@ -55,8 +55,8 @@ title Coding activity by hour (count of changes)
 "17h" : 4
 "20h" : 19
 "21h" : 49
-"22h" : 7
+"22h" : 8
 ```
 
 
-> **Last Updated:** 7/23/2025, 10:38:09 PM
+> **Last Updated:** 7/23/2025, 10:43:09 PM

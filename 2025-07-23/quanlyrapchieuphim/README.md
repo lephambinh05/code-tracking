@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4584                                          |
+| **Lines Added** (➕)   | 4666                                          |
 | **Lines Removed** (➖) | 870                                        |
-| **Net Change** (↕)    | 3714                |
-| **Active Time** (⌚)   | 195 minutes |
+| **Net Change** (↕)    | 3796                |
+| **Active Time** (⌚)   | 196 minutes |
 
 
 ## Modified Files
@@ -23,6 +23,7 @@
 - **HDVoucher.cs** (+29, -0)
 - **HuongDanChuyenKhoan.cshtml** (+49, -0)
 - **LichSuDatVe.cshtml** (+200, -0)
+- **KhachHangViewModels.cs** (+82, -0)
 
 ## Visualizations
 
@@ -32,7 +33,7 @@
 pie showData
 title Lines changed by file type
 ".sql" : 459
-".cs" : 2391
+".cs" : 2473
 ".cshtml" : 1019
 ".txt" : 1585
 ```
@@ -49,7 +50,8 @@ title Coding activity by hour (count of changes)
 "06h" : 31
 "12h" : 2
 "13h" : 7
+"15h" : 2
 ```
 
 
-> **Last Updated:** 7/23/2025, 1:27:57 PM
+> **Last Updated:** 7/23/2025, 3:07:57 PM

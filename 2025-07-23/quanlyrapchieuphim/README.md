@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6316                                          |
-| **Lines Removed** (➖) | 872                                        |
-| **Net Change** (↕)    | 5444                |
-| **Active Time** (⌚)   | 238 minutes |
+| **Lines Added** (➕)   | 6322                                          |
+| **Lines Removed** (➖) | 894                                        |
+| **Net Change** (↕)    | 5428                |
+| **Active Time** (⌚)   | 247 minutes |
 
 
 ## Modified Files
@@ -18,13 +18,13 @@
 - **CinemaDbContext.cs** (+76, -0)
 - **HuongDanChuyenKhoanViewModel.cs** (+8, -0)
 - **Index.cshtml** (+770, -0)
-- **error_log.txt** (+939, -761)
+- **error_log.txt** (+945, -761)
 - **CTHD.cs** (+31, -0)
 - **HDVoucher.cs** (+29, -0)
 - **HuongDanChuyenKhoan.cshtml** (+49, -0)
 - **LichSuDatVe.cshtml** (+200, -0)
 - **KhachHangViewModels.cs** (+82, -0)
-- **ThanhToan.cshtml** (+442, -0)
+- **ThanhToan.cshtml** (+442, -22)
 
 ## Visualizations
 
@@ -35,8 +35,8 @@ pie showData
 title Lines changed by file type
 ".sql" : 459
 ".cs" : 3568
-".cshtml" : 1461
-".txt" : 1700
+".cshtml" : 1483
+".txt" : 1706
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "15h" : 2
 "17h" : 4
 "20h" : 19
-"21h" : 5
+"21h" : 9
 ```
 
 
-> **Last Updated:** 7/23/2025, 9:08:09 PM
+> **Last Updated:** 7/23/2025, 9:13:09 PM

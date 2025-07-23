@@ -305,9 +305,9 @@
       "averageChangeSize": 13
     },
     "quanlyRapChieuPhim": {
-      "totalLinesAdded": 7207,
+      "totalLinesAdded": 7226,
       "totalLinesRemoved": 1716,
-      "totalActiveTime": 331,
+      "totalActiveTime": 333,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\SQLrapphim.sql": [
           {
@@ -1248,6 +1248,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-23T16:08:46.496Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\Controllers\\KhachHangController.cs",
+            "fileType": ".cs",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "cs"
           }
         ],

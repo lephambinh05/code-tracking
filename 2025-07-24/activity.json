@@ -64,8 +64,8 @@
     },
     "quanlyRapChieuPhim-1": {
       "totalLinesAdded": 2476,
-      "totalLinesRemoved": 662,
-      "totalActiveTime": 36,
+      "totalLinesRemoved": 663,
+      "totalActiveTime": 37,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\CronController.cs": [
           {
@@ -334,6 +334,20 @@
             "fileType": ".cs",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-24T16:17:25.338Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\KhachHangController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "quanlyRapChieuPhim-1",
             "content": {
               "added": [],

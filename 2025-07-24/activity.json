@@ -61,6 +61,53 @@
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim\\Controllers\\CronController.cs"
       ],
       "averageChangeSize": 52
+    },
+    "quanlyRapChieuPhim-1": {
+      "totalLinesAdded": 144,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\CronController.cs": [
+          {
+            "timestamp": "2025-07-24T14:21:20.393Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\CronController.cs",
+            "fileType": ".cs",
+            "linesAdded": 105,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-24T14:21:21.378Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\CronController.cs",
+            "fileType": ".cs",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\CronController.cs"
+      ],
+      "averageChangeSize": 72
     }
   },
   "totalActiveTime": 1,

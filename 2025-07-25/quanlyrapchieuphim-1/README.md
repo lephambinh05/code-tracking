@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2013                                          |
-| **Lines Removed** (➖) | 550                                        |
-| **Net Change** (↕)    | 1463                |
-| **Active Time** (⌚)   | 165 minutes |
+| **Lines Added** (➕)   | 2103                                          |
+| **Lines Removed** (➖) | 622                                        |
+| **Net Change** (↕)    | 1481                |
+| **Active Time** (⌚)   | 180 minutes |
 
 
 ## Modified Files
-- **error_log.txt** (+550, -526)
+- **error_log.txt** (+638, -598)
 - **ThanhToan.cshtml** (+43, -3)
-- **KhachHangController.cs** (+51, -8)
+- **KhachHangController.cs** (+53, -8)
 - **ChonGhe.cshtml** (+916, -13)
 - **sql.sql** (+453, -0)
 
@@ -24,9 +24,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 1076
+".txt" : 1236
 ".cshtml" : 975
-".cs" : 59
+".cs" : 61
 ".sql" : 453
 ```
 
@@ -38,8 +38,8 @@ title Coding activity by hour (count of changes)
 "00h" : 19
 "01h" : 60
 "02h" : 27
-"03h" : 17
+"03h" : 30
 ```
 
 
-> **Last Updated:** 7/25/2025, 3:27:17 AM
+> **Last Updated:** 7/25/2025, 3:32:17 AM

@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2454                                          |
+| **Lines Added** (➕)   | 2467                                          |
 | **Lines Removed** (➖) | 660                                        |
-| **Net Change** (↕)    | 1794                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Net Change** (↕)    | 1807                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
 - **CronController.cs** (+144, -2)
-- **ThanhToan.cshtml** (+220, -0)
+- **ThanhToan.cshtml** (+233, -0)
 - **HuongDanChuyenKhoan.cshtml** (+127, -0)
 - **HuongDanChuyenKhoanViewModel.cs** (+9, -0)
 - **KhachHangController.cs** (+1244, -32)
@@ -27,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".cs" : 1514
-".cshtml" : 347
+".cshtml" : 360
 ".txt" : 1253
 ```
 
@@ -37,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 14
-"22h" : 4
+"22h" : 5
 ```
 
 
-> **Last Updated:** 7/24/2025, 10:47:17 PM
+> **Last Updated:** 7/24/2025, 10:52:17 PM

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1725                                          |
+| **Lines Added** (➕)   | 1808                                          |
 | **Lines Removed** (➖) | 32                                        |
-| **Net Change** (↕)    | 1693                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Net Change** (↕)    | 1776                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **HuongDanChuyenKhoan.cshtml** (+127, -0)
 - **HuongDanChuyenKhoanViewModel.cs** (+9, -0)
 - **KhachHangController.cs** (+1225, -32)
+- **KhachHangViewModels.cs** (+83, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 1410
+".cs" : 1493
 ".cshtml" : 347
 ```
 
@@ -33,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"21h" : 12
+"21h" : 14
 ```
 
 
-> **Last Updated:** 7/24/2025, 9:42:17 PM
+> **Last Updated:** 7/24/2025, 9:47:17 PM

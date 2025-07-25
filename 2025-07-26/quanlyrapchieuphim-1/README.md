@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 410                                          |
+| **Lines Added** (➕)   | 1092                                          |
 | **Lines Removed** (➖) | 209                                        |
-| **Net Change** (↕)    | 201                |
+| **Net Change** (↕)    | 883                |
 | **Active Time** (⌚)   | 101 minutes |
 
 
@@ -16,6 +16,7 @@
 - **KhachHangViewModels.cs** (+1, -0)
 - **ThanhToan.cshtml** (+12, -0)
 - **CronController.cs** (+6, -4)
+- **BanVeController.cs** (+682, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".txt" : 557
-".cs" : 50
+".cs" : 732
 ".cshtml" : 12
 ```
 
@@ -37,7 +38,8 @@ title Coding activity by hour (count of changes)
 "00h" : 54
 "01h" : 17
 "02h" : 10
+"03h" : 1
 ```
 
 
-> **Last Updated:** 7/26/2025, 2:45:49 AM
+> **Last Updated:** 7/26/2025, 3:10:49 AM

@@ -2,9 +2,9 @@
   "date": "2025-07-25",
   "projects": {
     "quanlyRapChieuPhim-1": {
-      "totalLinesAdded": 5199,
+      "totalLinesAdded": 5426,
       "totalLinesRemoved": 1190,
-      "totalActiveTime": 316,
+      "totalActiveTime": 320,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt": [
           {
@@ -2890,6 +2890,20 @@
             },
             "duration": 2,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-25T14:06:53.347Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Views\\KhachHang\\ThanhToan.cshtml": [
@@ -3278,6 +3292,22 @@
             },
             "duration": 2,
             "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Views\\KhachHang\\LichSuDatVe.cshtml": [
+          {
+            "timestamp": "2025-07-25T14:10:21.611Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Views\\KhachHang\\LichSuDatVe.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 200,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "cshtml"
           }
         ]
       },

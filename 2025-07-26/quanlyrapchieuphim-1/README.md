@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 3                |
-| **Active Time** (⌚)   | 1 minute |
+| **Lines Added** (➕)   | 160                                          |
+| **Lines Removed** (➖) | 141                                        |
+| **Net Change** (↕)    | 19                |
+| **Active Time** (⌚)   | 19 minutes |
 
 
 ## Modified Files
-- **error_log.txt** (+3, -0)
+- **error_log.txt** (+159, -140)
+- **KhachHangController.cs** (+1, -1)
 
 ## Visualizations
 
@@ -20,7 +21,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 3
+".txt" : 299
+".cs" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 3
+"00h" : 19
 ```
 
 
-> **Last Updated:** 7/26/2025, 12:15:49 AM
+> **Last Updated:** 7/26/2025, 12:20:49 AM

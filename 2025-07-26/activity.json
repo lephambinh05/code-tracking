@@ -2,7 +2,7 @@
   "date": "2025-07-26",
   "projects": {
     "quanlyRapChieuPhim-1": {
-      "totalLinesAdded": 3913,
+      "totalLinesAdded": 3914,
       "totalLinesRemoved": 1276,
       "totalActiveTime": 195,
       "files": {
@@ -1461,6 +1461,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-25T22:38:37.284Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "txt"
           }
         ],

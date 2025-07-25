@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4911                                          |
+| **Lines Added** (➕)   | 5199                                          |
 | **Lines Removed** (➖) | 1190                                        |
-| **Net Change** (↕)    | 3721                |
-| **Active Time** (⌚)   | 315 minutes |
+| **Net Change** (↕)    | 4009                |
+| **Active Time** (⌚)   | 316 minutes |
 
 
 ## Modified Files
 - **error_log.txt** (+1241, -1166)
-- **ThanhToan.cshtml** (+43, -3)
+- **ThanhToan.cshtml** (+331, -3)
 - **KhachHangController.cs** (+1331, -8)
 - **ChonGhe.cshtml** (+1840, -13)
 - **sql.sql** (+453, -0)
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".txt" : 2407
-".cshtml" : 1899
+".cshtml" : 2187
 ".cs" : 1342
 ".sql" : 453
 ```
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "04h" : 22
 "14h" : 27
 "15h" : 18
-"20h" : 23
+"20h" : 25
 ```
 
 
-> **Last Updated:** 7/25/2025, 8:30:48 PM
+> **Last Updated:** 7/25/2025, 8:40:48 PM

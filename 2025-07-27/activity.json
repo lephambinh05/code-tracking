@@ -2,9 +2,9 @@
   "date": "2025-07-27",
   "projects": {
     "quanlyRapChieuPhim-1": {
-      "totalLinesAdded": 1433,
+      "totalLinesAdded": 2082,
       "totalLinesRemoved": 21,
-      "totalActiveTime": 36,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt": [
           {
@@ -308,6 +308,20 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-26T17:48:51.884Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Services\\EmailService.cs",
+            "fileType": ".cs",
+            "linesAdded": 375,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Services\\PasswordResetService.cs": [
@@ -374,6 +388,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\AuthController.cs",
             "fileType": ".cs",
             "linesAdded": 138,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-26T17:49:01.364Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-1",
             "content": {
@@ -472,6 +500,36 @@
             },
             "duration": 1,
             "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Email_Templates_Demo.html": [
+          {
+            "timestamp": "2025-07-26T17:49:40.023Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Email_Templates_Demo.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-07-26T17:49:41.070Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Email_Templates_Demo.html",
+            "fileType": ".html",
+            "linesAdded": 269,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },

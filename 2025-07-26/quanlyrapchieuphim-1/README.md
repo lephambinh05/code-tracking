@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4783                                          |
-| **Lines Removed** (➖) | 1417                                        |
-| **Net Change** (↕)    | 3366                |
-| **Active Time** (⌚)   | 345 minutes |
+| **Lines Added** (➕)   | 4801                                          |
+| **Lines Removed** (➖) | 1465                                        |
+| **Net Change** (↕)    | 3336                |
+| **Active Time** (⌚)   | 353 minutes |
 
 
 ## Modified Files
-- **error_log.txt** (+560, -505)
+- **error_log.txt** (+569, -553)
 - **KhachHangController.cs** (+103, -23)
 - **KhachHangViewModels.cs** (+1, -0)
 - **ThanhToan.cshtml** (+106, -13)
@@ -21,7 +21,7 @@
 - **thanh-toan-custom.css** (+619, -0)
 - **CinemaManagement.csproj** (+20, -0)
 - **appsettings.json** (+55, -18)
-- **Program.cs** (+408, -107)
+- **Program.cs** (+417, -107)
 - **AuthController.cs** (+1291, -453)
 - **Login.cshtml** (+367, -0)
 - **.gitignore** (+50, -0)
@@ -37,8 +37,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 1065
-".cs" : 3079
+".txt" : 1122
+".cs" : 3088
 ".cshtml" : 1169
 ".css" : 619
 ".csproj" : 20
@@ -65,8 +65,8 @@ title Coding activity by hour (count of changes)
 "20h" : 1
 "21h" : 6
 "22h" : 40
-"23h" : 1
+"23h" : 9
 ```
 
 
-> **Last Updated:** 7/26/2025, 11:13:35 PM
+> **Last Updated:** 7/26/2025, 11:38:35 PM

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3380                                          |
-| **Lines Removed** (➖) | 59                                        |
-| **Net Change** (↕)    | 3321                |
-| **Active Time** (⌚)   | 75 minutes |
+| **Lines Added** (➕)   | 3652                                          |
+| **Lines Removed** (➖) | 60                                        |
+| **Net Change** (↕)    | 3592                |
+| **Active Time** (⌚)   | 81 minutes |
 
 
 ## Modified Files
@@ -23,13 +23,14 @@
 - **Login.cshtml** (+372, -0)
 - **Email_Templates_Demo.html** (+270, -0)
 - **TaiKhoan.cs** (+48, -0)
-- **TwoFactorService.cs** (+168, -0)
+- **TwoFactorService.cs** (+202, -1)
 - **CinemaManagement.csproj** (+22, -0)
-- **TwoFactorViewModels.cs** (+53, -0)
+- **TwoFactorViewModels.cs** (+54, -0)
 - **TwoFactorSetup.cshtml** (+154, -0)
 - **TwoFactorVerify.cshtml** (+176, -0)
 - **TwoFactorStatus.cshtml** (+210, -0)
 - **TwoFactorDisable.cshtml** (+119, -0)
+- **TwoFactorBackupCodes.cshtml** (+237, -0)
 
 ## Visualizations
 
@@ -39,9 +40,9 @@
 pie showData
 title Lines changed by file type
 ".txt" : 33
-".cs" : 1801
+".cs" : 1837
 ".json" : 13
-".cshtml" : 1300
+".cshtml" : 1537
 ".html" : 270
 ".csproj" : 22
 ```
@@ -52,8 +53,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 38
-"01h" : 28
+"01h" : 34
 ```
 
 
-> **Last Updated:** 7/27/2025, 1:18:36 AM
+> **Last Updated:** 7/27/2025, 1:23:36 AM

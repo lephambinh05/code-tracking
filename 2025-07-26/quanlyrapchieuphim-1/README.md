@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4669                                          |
-| **Lines Removed** (➖) | 1397                                        |
-| **Net Change** (↕)    | 3272                |
-| **Active Time** (⌚)   | 307 minutes |
+| **Lines Added** (➕)   | 4712                                          |
+| **Lines Removed** (➖) | 1415                                        |
+| **Net Change** (↕)    | 3297                |
+| **Active Time** (⌚)   | 314 minutes |
 
 
 ## Modified Files
-- **error_log.txt** (+524, -505)
+- **error_log.txt** (+528, -505)
 - **KhachHangController.cs** (+103, -23)
 - **KhachHangViewModels.cs** (+1, -0)
 - **ThanhToan.cshtml** (+106, -13)
@@ -20,8 +20,8 @@
 - **LichSuDatVe.cshtml** (+389, -294)
 - **thanh-toan-custom.css** (+619, -0)
 - **CinemaManagement.csproj** (+20, -0)
-- **appsettings.json** (+38, -0)
-- **Program.cs** (+347, -105)
+- **appsettings.json** (+55, -18)
+- **Program.cs** (+369, -105)
 - **AuthController.cs** (+1291, -453)
 - **Login.cshtml** (+367, -0)
 - **.gitignore** (+50, -0)
@@ -37,12 +37,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 1029
-".cs" : 3016
+".txt" : 1033
+".cs" : 3038
 ".cshtml" : 1169
 ".css" : 619
 ".csproj" : 20
-".json" : 98
+".json" : 133
 "unknown" : 50
 ".bat" : 30
 ".ps1" : 35
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "18h" : 7
 "20h" : 1
 "21h" : 6
-"22h" : 12
+"22h" : 17
 ```
 
 
-> **Last Updated:** 7/26/2025, 10:18:35 PM
+> **Last Updated:** 7/26/2025, 10:23:35 PM

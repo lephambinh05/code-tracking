@@ -2,9 +2,9 @@
   "date": "2025-07-26",
   "projects": {
     "quanlyRapChieuPhim-1": {
-      "totalLinesAdded": 4568,
-      "totalLinesRemoved": 1371,
-      "totalActiveTime": 287,
+      "totalLinesAdded": 4628,
+      "totalLinesRemoved": 1375,
+      "totalActiveTime": 299,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt": [
           {
@@ -1854,6 +1854,76 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-26T15:00:03.982Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-26T15:00:18.550Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-26T15:01:02.065Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-26T15:01:03.645Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-26T15:03:23.603Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\KhachHangController.cs": [
@@ -2910,6 +2980,34 @@
             },
             "duration": 0,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-26T15:01:57.675Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-26T15:02:08.957Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\AuthController.cs": [
@@ -3030,6 +3128,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\AuthController.cs",
             "fileType": ".cs",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-26T14:58:50.463Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-26T14:59:01.927Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\AuthController.cs",
+            "fileType": ".cs",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-1",
             "content": {

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4389                                          |
+| **Lines Added** (➕)   | 6378                                          |
 | **Lines Removed** (➖) | 337                                        |
-| **Net Change** (↕)    | 4052                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Net Change** (↕)    | 6041                |
+| **Active Time** (⌚)   | 130 minutes |
 
 
 ## Modified Files
@@ -37,6 +37,9 @@
 - **run_migration.bat** (+58, -0)
 - **2FA_Migration_Simple.sql** (+48, -0)
 - **_Layout.cshtml** (+239, -0)
+- **Index.cshtml** (+770, -0)
+- **LichSuDatVe.cshtml** (+295, -0)
+- **ChonGhe.cshtml** (+924, -0)
 
 ## Visualizations
 
@@ -48,7 +51,7 @@ title Lines changed by file type
 ".txt" : 38
 ".cs" : 1860
 ".json" : 13
-".cshtml" : 1802
+".cshtml" : 3791
 ".html" : 270
 ".csproj" : 22
 ".sql" : 529
@@ -63,7 +66,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 38
 "01h" : 71
+"02h" : 3
 ```
 
 
-> **Last Updated:** 7/27/2025, 2:03:36 AM
+> **Last Updated:** 7/27/2025, 2:08:36 AM

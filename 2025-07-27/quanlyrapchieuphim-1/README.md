@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11058                                          |
+| **Lines Added** (➕)   | 11064                                          |
 | **Lines Removed** (➖) | 797                                        |
-| **Net Change** (↕)    | 10261                |
-| **Active Time** (⌚)   | 235 minutes |
+| **Net Change** (↕)    | 10267                |
+| **Active Time** (⌚)   | 238 minutes |
 
 
 ## Modified Files
-- **error_log.txt** (+51, -14)
+- **error_log.txt** (+54, -14)
 - **Program.cs** (+20, -12)
 - **appsettings.json** (+11, -2)
 - **ResetPasswordModel.cs** (+37, -0)
@@ -40,7 +40,7 @@
 - **Index.cshtml** (+1496, -0)
 - **LichSuDatVe.cshtml** (+295, -0)
 - **ChonGhe.cshtml** (+924, -0)
-- **KhachHangController.cs** (+1573, -0)
+- **KhachHangController.cs** (+1576, -0)
 - **ChiTietPhim.cshtml** (+923, -329)
 - **chi-tiet-phim.css** (+431, -0)
 - **KhachHangViewModels.cs** (+109, -0)
@@ -61,8 +61,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 65
-".cs" : 4088
+".txt" : 68
+".cs" : 4091
 ".json" : 13
 ".cshtml" : 6245
 ".html" : 270
@@ -82,8 +82,8 @@ title Coding activity by hour (count of changes)
 "01h" : 71
 "02h" : 25
 "03h" : 59
-"04h" : 6
+"04h" : 9
 ```
 
 
-> **Last Updated:** 7/27/2025, 4:43:36 AM
+> **Last Updated:** 7/27/2025, 4:48:36 AM

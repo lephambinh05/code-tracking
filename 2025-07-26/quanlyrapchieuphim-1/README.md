@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4628                                          |
+| **Lines Added** (➕)   | 4665                                          |
 | **Lines Removed** (➖) | 1397                                        |
-| **Net Change** (↕)    | 3231                |
-| **Active Time** (⌚)   | 302 minutes |
+| **Net Change** (↕)    | 3268                |
+| **Active Time** (⌚)   | 303 minutes |
 
 
 ## Modified Files
@@ -20,12 +20,12 @@
 - **LichSuDatVe.cshtml** (+389, -294)
 - **thanh-toan-custom.css** (+619, -0)
 - **CinemaManagement.csproj** (+20, -0)
-- **appsettings.json** (+19, -0)
+- **appsettings.json** (+38, -0)
 - **Program.cs** (+347, -105)
 - **AuthController.cs** (+1291, -453)
 - **Login.cshtml** (+367, -0)
 - **.gitignore** (+50, -0)
-- **appsettings.Development.json** (+18, -0)
+- **appsettings.Development.json** (+36, -0)
 - **run-app.bat** (+30, -0)
 - **run-app.ps1** (+35, -0)
 - **launchSettings.json** (+24, -0)
@@ -42,7 +42,7 @@ title Lines changed by file type
 ".cshtml" : 1169
 ".css" : 619
 ".csproj" : 20
-".json" : 61
+".json" : 98
 "unknown" : 50
 ".bat" : 30
 ".ps1" : 35
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "18h" : 7
 "20h" : 1
 "21h" : 6
-"22h" : 8
+"22h" : 10
 ```
 
 
-> **Last Updated:** 7/26/2025, 10:08:35 PM
+> **Last Updated:** 7/26/2025, 10:13:35 PM

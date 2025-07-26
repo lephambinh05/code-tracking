@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9379                                          |
+| **Lines Added** (➕)   | 10087                                          |
 | **Lines Removed** (➖) | 796                                        |
-| **Net Change** (↕)    | 8583                |
-| **Active Time** (⌚)   | 195 minutes |
+| **Net Change** (↕)    | 9291                |
+| **Active Time** (⌚)   | 208 minutes |
 
 
 ## Modified Files
@@ -37,13 +37,15 @@
 - **run_migration.bat** (+58, -0)
 - **2FA_Migration_Simple.sql** (+48, -0)
 - **_Layout.cshtml** (+239, -0)
-- **Index.cshtml** (+1002, -0)
+- **Index.cshtml** (+1496, -0)
 - **LichSuDatVe.cshtml** (+295, -0)
 - **ChonGhe.cshtml** (+924, -0)
-- **KhachHangController.cs** (+1443, -0)
+- **KhachHangController.cs** (+1572, -0)
 - **ChiTietPhim.cshtml** (+870, -329)
 - **chi-tiet-phim.css** (+327, -0)
 - **KhachHangViewModels.cs** (+109, -0)
+- **DanhGia.cs** (+38, -0)
+- **Phim.cs** (+47, -0)
 
 ## Visualizations
 
@@ -53,9 +55,9 @@
 pie showData
 title Lines changed by file type
 ".txt" : 58
-".cs" : 3489
+".cs" : 3703
 ".json" : 13
-".cshtml" : 5275
+".cshtml" : 5769
 ".html" : 270
 ".csproj" : 22
 ".sql" : 529
@@ -72,8 +74,8 @@ title Coding activity by hour (count of changes)
 "00h" : 38
 "01h" : 71
 "02h" : 25
-"03h" : 32
+"03h" : 41
 ```
 
 
-> **Last Updated:** 7/27/2025, 3:48:36 AM
+> **Last Updated:** 7/27/2025, 3:53:36 AM

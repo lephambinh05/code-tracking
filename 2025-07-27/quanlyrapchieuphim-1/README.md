@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3783                                          |
-| **Lines Removed** (➖) | 67                                        |
-| **Net Change** (↕)    | 3716                |
-| **Active Time** (⌚)   | 104 minutes |
+| **Lines Added** (➕)   | 4143                                          |
+| **Lines Removed** (➖) | 309                                        |
+| **Net Change** (↕)    | 3834                |
+| **Active Time** (⌚)   | 119 minutes |
 
 
 ## Modified Files
 - **error_log.txt** (+19, -14)
-- **Program.cs** (+16, -8)
+- **Program.cs** (+20, -10)
 - **appsettings.json** (+11, -2)
 - **ResetPasswordModel.cs** (+37, -0)
 - **EmailService.cs** (+817, -37)
@@ -31,7 +31,11 @@
 - **TwoFactorStatus.cshtml** (+210, -0)
 - **TwoFactorDisable.cshtml** (+119, -0)
 - **TwoFactorBackupCodes.cshtml** (+237, -0)
-- **database_2fa_migration.sql** (+125, -0)
+- **database_2fa_migration.sql** (+241, -240)
+- **run_database_migration.bat** (+58, -0)
+- **run_database_migration.ps1** (+76, -0)
+- **run_migration.bat** (+58, -0)
+- **2FA_Migration_Simple.sql** (+48, -0)
 
 ## Visualizations
 
@@ -41,12 +45,14 @@
 pie showData
 title Lines changed by file type
 ".txt" : 33
-".cs" : 1850
+".cs" : 1856
 ".json" : 13
 ".cshtml" : 1537
 ".html" : 270
 ".csproj" : 22
-".sql" : 125
+".sql" : 529
+".bat" : 116
+".ps1" : 76
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,8 +61,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 38
-"01h" : 48
+"01h" : 62
 ```
 
 
-> **Last Updated:** 7/27/2025, 1:43:36 AM
+> **Last Updated:** 7/27/2025, 1:48:36 AM

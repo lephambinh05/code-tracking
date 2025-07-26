@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10087                                          |
-| **Lines Removed** (➖) | 796                                        |
-| **Net Change** (↕)    | 9291                |
-| **Active Time** (⌚)   | 208 minutes |
+| **Lines Added** (➕)   | 11050                                          |
+| **Lines Removed** (➖) | 797                                        |
+| **Net Change** (↕)    | 10253                |
+| **Active Time** (⌚)   | 226 minutes |
 
 
 ## Modified Files
@@ -41,11 +41,18 @@
 - **LichSuDatVe.cshtml** (+295, -0)
 - **ChonGhe.cshtml** (+924, -0)
 - **KhachHangController.cs** (+1572, -0)
-- **ChiTietPhim.cshtml** (+870, -329)
-- **chi-tiet-phim.css** (+327, -0)
+- **ChiTietPhim.cshtml** (+923, -329)
+- **chi-tiet-phim.css** (+431, -0)
 - **KhachHangViewModels.cs** (+109, -0)
 - **DanhGia.cs** (+38, -0)
 - **Phim.cs** (+47, -0)
+- **KhachHang.cs** (+26, -0)
+- **CinemaDbContext.cs** (+78, -0)
+- **DanhGiaViewModels.cs** (+49, -0)
+- **DanhGiaController.cs** (+231, -0)
+- **Create.cshtml** (+128, -0)
+- **Edit.cshtml** (+129, -1)
+- **List.cshtml** (+165, -0)
 
 ## Visualizations
 
@@ -55,15 +62,15 @@
 pie showData
 title Lines changed by file type
 ".txt" : 58
-".cs" : 3703
+".cs" : 4087
 ".json" : 13
-".cshtml" : 5769
+".cshtml" : 6245
 ".html" : 270
 ".csproj" : 22
 ".sql" : 529
 ".bat" : 116
 ".ps1" : 76
-".css" : 327
+".css" : 431
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -74,8 +81,8 @@ title Coding activity by hour (count of changes)
 "00h" : 38
 "01h" : 71
 "02h" : 25
-"03h" : 41
+"03h" : 59
 ```
 
 
-> **Last Updated:** 7/27/2025, 3:53:36 AM
+> **Last Updated:** 7/27/2025, 3:58:36 AM

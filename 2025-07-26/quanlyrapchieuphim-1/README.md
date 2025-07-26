@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4628                                          |
-| **Lines Removed** (➖) | 1375                                        |
-| **Net Change** (↕)    | 3253                |
-| **Active Time** (⌚)   | 299 minutes |
+| **Lines Removed** (➖) | 1397                                        |
+| **Net Change** (↕)    | 3231                |
+| **Active Time** (⌚)   | 302 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **thanh-toan-custom.css** (+619, -0)
 - **CinemaManagement.csproj** (+20, -0)
 - **appsettings.json** (+19, -0)
-- **Program.cs** (+347, -83)
+- **Program.cs** (+347, -105)
 - **AuthController.cs** (+1291, -453)
 - **Login.cshtml** (+367, -0)
 - **.gitignore** (+50, -0)
@@ -38,7 +38,7 @@
 pie showData
 title Lines changed by file type
 ".txt" : 1025
-".cs" : 2994
+".cs" : 3016
 ".cshtml" : 1169
 ".css" : 619
 ".csproj" : 20
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "18h" : 7
 "20h" : 1
 "21h" : 6
-"22h" : 7
+"22h" : 8
 ```
 
 
-> **Last Updated:** 7/26/2025, 10:03:35 PM
+> **Last Updated:** 7/26/2025, 10:08:35 PM

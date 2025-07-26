@@ -3,8 +3,8 @@
   "projects": {
     "quanlyRapChieuPhim-1": {
       "totalLinesAdded": 4628,
-      "totalLinesRemoved": 1375,
-      "totalActiveTime": 299,
+      "totalLinesRemoved": 1397,
+      "totalActiveTime": 302,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt": [
           {
@@ -3007,6 +3007,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-26T15:05:28.633Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "cs"
           }
         ],

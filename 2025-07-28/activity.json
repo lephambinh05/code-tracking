@@ -2,9 +2,9 @@
   "date": "2025-07-28",
   "projects": {
     "quanlyRapChieuPhim-1": {
-      "totalLinesAdded": 13300,
+      "totalLinesAdded": 14462,
       "totalLinesRemoved": 1147,
-      "totalActiveTime": 439,
+      "totalActiveTime": 451,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\ViewModels\\DanhGiaViewModels.cs": [
           {
@@ -3684,6 +3684,34 @@
             },
             "duration": 3,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T23:18:43.793Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 285,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T23:21:52.530Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 284,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\ViewModels\\ScheduleDto.cs": [
@@ -5108,6 +5136,140 @@
             },
             "duration": 1,
             "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\PhatHanhVeController.cs": [
+          {
+            "timestamp": "2025-07-27T23:19:13.042Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\PhatHanhVeController.cs",
+            "fileType": ".cs",
+            "linesAdded": 389,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-27T23:19:14.074Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\PhatHanhVeController.cs",
+            "fileType": ".cs",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-27T23:19:21.168Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\PhatHanhVeController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\fix_duplicate_tickets.sql": [
+          {
+            "timestamp": "2025-07-27T23:19:33.520Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\fix_duplicate_tickets.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-27T23:19:34.567Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\fix_duplicate_tickets.sql",
+            "fileType": ".sql",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\run_fix_duplicates.ps1": [
+          {
+            "timestamp": "2025-07-27T23:22:14.598Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\run_fix_duplicates.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-07-27T23:22:15.630Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\run_fix_duplicates.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\run_add_schedules.ps1": [
+          {
+            "timestamp": "2025-07-27T23:22:30.625Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\run_add_schedules.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-07-27T23:22:31.680Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\run_add_schedules.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
           }
         ]
       },

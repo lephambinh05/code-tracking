@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13300                                          |
+| **Lines Added** (➕)   | 14462                                          |
 | **Lines Removed** (➖) | 1147                                        |
-| **Net Change** (↕)    | 12153                |
-| **Active Time** (⌚)   | 439 minutes |
+| **Net Change** (↕)    | 13315                |
+| **Active Time** (⌚)   | 451 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **KhachHangController.cs** (+1619, -18)
 - **ChatController.cs** (+180, -4)
 - **HomeController.cs** (+58, -0)
-- **error_log.txt** (+835, -733)
+- **error_log.txt** (+1404, -733)
 - **ScheduleDto.cs** (+30, -0)
 - **DanhGiaController.cs** (+344, -0)
 - **chi-tiet-phim.css** (+531, -35)
@@ -57,6 +57,10 @@
 - **complete_schedule_setup.sql** (+279, -0)
 - **run_schedule_setup.ps1** (+109, -0)
 - **add_new_schedules.sql** (+246, -0)
+- **PhatHanhVeController.cs** (+403, -0)
+- **fix_duplicate_tickets.sql** (+65, -0)
+- **run_fix_duplicates.ps1** (+54, -0)
+- **run_add_schedules.ps1** (+71, -0)
 
 ## Visualizations
 
@@ -65,14 +69,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 4062
+".cs" : 4465
 ".cshtml" : 5452
-".txt" : 1568
+".txt" : 2137
 ".css" : 566
 ".js" : 214
-".sql" : 1987
+".sql" : 2052
 ".json" : 15
-".ps1" : 583
+".ps1" : 708
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -86,9 +90,9 @@ title Coding activity by hour (count of changes)
 "03h" : 88
 "04h" : 31
 "05h" : 51
-"06h" : 13
+"06h" : 24
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 6:13:23 AM
+> **Last Updated:** 7/28/2025, 6:23:23 AM

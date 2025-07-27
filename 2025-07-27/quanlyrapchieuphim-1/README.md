@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12156                                          |
+| **Lines Added** (➕)   | 13131                                          |
 | **Lines Removed** (➖) | 797                                        |
-| **Net Change** (↕)    | 11359                |
-| **Active Time** (⌚)   | 272 minutes |
+| **Net Change** (↕)    | 12334                |
+| **Active Time** (⌚)   | 281 minutes |
 
 
 ## Modified Files
@@ -60,6 +60,8 @@
 - **ChatHub.cs** (+210, -0)
 - **ChatViewModels.cs** (+66, -0)
 - **ChatController.cs** (+259, -0)
+- **Index.cshtml** (+397, -0)
+- **Manage.cshtml** (+578, -0)
 
 ## Visualizations
 
@@ -71,7 +73,7 @@ title Lines changed by file type
 ".txt" : 140
 ".cs" : 5016
 ".json" : 85
-".cshtml" : 6245
+".cshtml" : 7220
 ".html" : 270
 ".csproj" : 45
 ".sql" : 529
@@ -92,8 +94,8 @@ title Coding activity by hour (count of changes)
 "04h" : 16
 "12h" : 4
 "13h" : 2
-"14h" : 16
+"14h" : 21
 ```
 
 
-> **Last Updated:** 7/27/2025, 2:54:14 PM
+> **Last Updated:** 7/27/2025, 2:59:14 PM

@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11208                                          |
+| **Lines Added** (➕)   | 12156                                          |
 | **Lines Removed** (➖) | 797                                        |
-| **Net Change** (↕)    | 10411                |
-| **Active Time** (⌚)   | 257 minutes |
+| **Net Change** (↕)    | 11359                |
+| **Active Time** (⌚)   | 272 minutes |
 
 
 ## Modified Files
 - **error_log.txt** (+126, -14)
-- **Program.cs** (+20, -12)
+- **Program.cs** (+227, -12)
 - **appsettings.json** (+38, -2)
 - **ResetPasswordModel.cs** (+37, -0)
 - **EmailService.cs** (+817, -37)
@@ -24,7 +24,7 @@
 - **Email_Templates_Demo.html** (+270, -0)
 - **TaiKhoan.cs** (+48, -1)
 - **TwoFactorService.cs** (+207, -33)
-- **CinemaManagement.csproj** (+22, -0)
+- **CinemaManagement.csproj** (+45, -0)
 - **TwoFactorViewModels.cs** (+55, -1)
 - **TwoFactorSetup.cshtml** (+154, -27)
 - **TwoFactorVerify.cshtml** (+176, -11)
@@ -47,7 +47,7 @@
 - **DanhGia.cs** (+38, -0)
 - **Phim.cs** (+47, -0)
 - **KhachHang.cs** (+26, -0)
-- **CinemaDbContext.cs** (+78, -0)
+- **CinemaDbContext.cs** (+186, -0)
 - **DanhGiaViewModels.cs** (+49, -0)
 - **DanhGiaController.cs** (+231, -0)
 - **Create.cshtml** (+128, -0)
@@ -55,6 +55,11 @@
 - **List.cshtml** (+165, -0)
 - **appsettings.Development.json** (+18, -0)
 - **appsettings.json** (+27, -0)
+- **ChatMessage.cs** (+41, -0)
+- **ChatRoom.cs** (+34, -0)
+- **ChatHub.cs** (+210, -0)
+- **ChatViewModels.cs** (+66, -0)
+- **ChatController.cs** (+259, -0)
 
 ## Visualizations
 
@@ -64,11 +69,11 @@
 pie showData
 title Lines changed by file type
 ".txt" : 140
-".cs" : 4091
+".cs" : 5016
 ".json" : 85
 ".cshtml" : 6245
 ".html" : 270
-".csproj" : 22
+".csproj" : 45
 ".sql" : 529
 ".bat" : 116
 ".ps1" : 76
@@ -87,7 +92,8 @@ title Coding activity by hour (count of changes)
 "04h" : 16
 "12h" : 4
 "13h" : 2
+"14h" : 16
 ```
 
 
-> **Last Updated:** 7/27/2025, 1:04:14 PM
+> **Last Updated:** 7/27/2025, 2:54:14 PM

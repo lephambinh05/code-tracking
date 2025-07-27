@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10287                                          |
-| **Lines Removed** (➖) | 296                                        |
-| **Net Change** (↕)    | 9991                |
-| **Active Time** (⌚)   | 311 minutes |
+| **Lines Added** (➕)   | 10468                                          |
+| **Lines Removed** (➖) | 944                                        |
+| **Net Change** (↕)    | 9524                |
+| **Active Time** (⌚)   | 319 minutes |
 
 
 ## Modified Files
@@ -21,9 +21,9 @@
 - **Edit.cshtml** (+160, -59)
 - **AuthController.cs** (+884, -0)
 - **KhachHangController.cs** (+1615, -12)
-- **ChatController.cs** (+77, -4)
+- **ChatController.cs** (+115, -4)
 - **HomeController.cs** (+58, -0)
-- **error_log.txt** (+667, -85)
+- **error_log.txt** (+671, -733)
 - **ScheduleDto.cs** (+30, -0)
 - **DanhGiaController.cs** (+344, -0)
 - **chi-tiet-phim.css** (+531, -35)
@@ -35,11 +35,12 @@
 - **ChonGhe.cshtml** (+924, -0)
 - **CinemaDbContext.cs** (+17, -29)
 - **chat_tables_fixed.sql** (+19, -0)
-- **ChatHub.cs** (+112, -0)
+- **ChatHub.cs** (+134, -0)
 - **ChatMessage.cs** (+0, -2)
 - **ChatRoom.cs** (+0, -2)
 - **appsettings.json** (+3, -0)
-- **TestConnection.cshtml** (+202, -0)
+- **TestConnection.cshtml** (+226, -0)
+- **create_chat_tables.sql** (+93, -0)
 
 ## Visualizations
 
@@ -48,12 +49,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 3750
-".cshtml" : 5279
-".txt" : 752
+".cs" : 3810
+".cshtml" : 5303
+".txt" : 1404
 ".css" : 566
 ".js" : 214
-".sql" : 19
+".sql" : 112
 ".json" : 3
 ```
 
@@ -66,9 +67,9 @@ title Coding activity by hour (count of changes)
 "01h" : 47
 "02h" : 93
 "03h" : 88
-"04h" : 6
+"04h" : 14
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 4:13:23 AM
+> **Last Updated:** 7/28/2025, 4:18:23 AM

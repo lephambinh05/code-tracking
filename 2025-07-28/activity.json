@@ -2,9 +2,9 @@
   "date": "2025-07-28",
   "projects": {
     "quanlyRapChieuPhim-1": {
-      "totalLinesAdded": 5008,
-      "totalLinesRemoved": 83,
-      "totalActiveTime": 65,
+      "totalLinesAdded": 5050,
+      "totalLinesRemoved": 99,
+      "totalActiveTime": 74,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\ViewModels\\DanhGiaViewModels.cs": [
           {
@@ -660,6 +660,90 @@
             },
             "duration": 3,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T18:40:19.623Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T18:40:21.993Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T18:40:29.185Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T18:40:30.641Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T18:40:31.430Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-27T18:40:33.130Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\error_log.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\ViewModels\\ScheduleDto.cs": [
@@ -768,6 +852,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\DanhGiaController.cs",
             "fileType": ".cs",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-27T18:38:37.153Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\DanhGiaController.cs",
+            "fileType": ".cs",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-27T18:41:09.490Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\DanhGiaController.cs",
+            "fileType": ".cs",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-1",
             "content": {

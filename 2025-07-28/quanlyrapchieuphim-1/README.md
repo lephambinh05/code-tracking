@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4555                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 4555                |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 4552                |
 | **Active Time** (⌚)   | 11 minutes |
 
 
@@ -20,7 +20,7 @@
 - **Create.cshtml** (+128, -0)
 - **Edit.cshtml** (+128, -0)
 - **AuthController.cs** (+882, -0)
-- **KhachHangController.cs** (+1579, -0)
+- **KhachHangController.cs** (+1579, -3)
 
 ## Visualizations
 
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 3025
+".cs" : 3028
 ".cshtml" : 1530
 ```
 
@@ -38,9 +38,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 9
+"00h" : 10
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 12:13:24 AM
+> **Last Updated:** 7/28/2025, 12:18:24 AM

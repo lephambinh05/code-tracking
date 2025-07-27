@@ -3,7 +3,7 @@
   "projects": {
     "quanlyRapChieuPhim-1": {
       "totalLinesAdded": 4555,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 3,
       "totalActiveTime": 11,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\ViewModels\\DanhGiaViewModels.cs": [
@@ -185,6 +185,20 @@
             "fileType": ".cs",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-27T17:18:15.684Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\KhachHangController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "quanlyRapChieuPhim-1",
             "content": {
               "added": [],

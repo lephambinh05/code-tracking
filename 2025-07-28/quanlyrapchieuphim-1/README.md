@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11600                                          |
-| **Lines Removed** (➖) | 1146                                        |
-| **Net Change** (↕)    | 10454                |
-| **Active Time** (⌚)   | 413 minutes |
+| **Lines Added** (➕)   | 12384                                          |
+| **Lines Removed** (➖) | 1147                                        |
+| **Net Change** (↕)    | 11237                |
+| **Active Time** (⌚)   | 423 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **KhachHangController.cs** (+1619, -18)
 - **ChatController.cs** (+180, -4)
 - **HomeController.cs** (+58, -0)
-- **error_log.txt** (+826, -733)
+- **error_log.txt** (+835, -733)
 - **ScheduleDto.cs** (+30, -0)
 - **DanhGiaController.cs** (+344, -0)
 - **chi-tiet-phim.css** (+531, -35)
@@ -51,6 +51,7 @@
 - **setup_chat_database.sql** (+108, -0)
 - **test_chat_system.ps1** (+73, -0)
 - **quick_test.ps1** (+24, -0)
+- **sql.sql** (+775, -1)
 
 ## Visualizations
 
@@ -61,10 +62,10 @@ pie showData
 title Lines changed by file type
 ".cs" : 4062
 ".cshtml" : 5452
-".txt" : 1559
+".txt" : 1568
 ".css" : 566
 ".js" : 214
-".sql" : 404
+".sql" : 1180
 ".json" : 15
 ".ps1" : 474
 ```
@@ -79,9 +80,10 @@ title Coding activity by hour (count of changes)
 "02h" : 93
 "03h" : 88
 "04h" : 31
-"05h" : 50
+"05h" : 51
+"06h" : 3
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 5:58:23 AM
+> **Last Updated:** 7/28/2025, 6:03:23 AM

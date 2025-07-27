@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13581                                          |
+| **Lines Added** (➕)   | 13762                                          |
 | **Lines Removed** (➖) | 797                                        |
-| **Net Change** (↕)    | 12784                |
-| **Active Time** (⌚)   | 288 minutes |
+| **Net Change** (↕)    | 12965                |
+| **Active Time** (⌚)   | 292 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **ResetPassword.cshtml** (+185, -0)
 - **Login.cshtml** (+372, -0)
 - **Email_Templates_Demo.html** (+270, -0)
-- **TaiKhoan.cs** (+48, -1)
+- **TaiKhoan.cs** (+95, -1)
 - **TwoFactorService.cs** (+207, -33)
 - **CinemaManagement.csproj** (+45, -0)
 - **TwoFactorViewModels.cs** (+55, -1)
@@ -44,9 +44,9 @@
 - **ChiTietPhim.cshtml** (+923, -329)
 - **chi-tiet-phim.css** (+431, -0)
 - **KhachHangViewModels.cs** (+109, -0)
-- **DanhGia.cs** (+38, -0)
+- **DanhGia.cs** (+76, -0)
 - **Phim.cs** (+47, -0)
-- **KhachHang.cs** (+26, -0)
+- **KhachHang.cs** (+52, -0)
 - **CinemaDbContext.cs** (+190, -0)
 - **DanhGiaViewModels.cs** (+49, -0)
 - **DanhGiaController.cs** (+231, -0)
@@ -65,6 +65,8 @@
 - **chat_tables.sql** (+64, -0)
 - **Demo.cshtml** (+315, -0)
 - **chat_tables_fixed.sql** (+62, -0)
+- **NhanVien.cs** (+32, -0)
+- **HoaDon.cs** (+38, -0)
 
 ## Visualizations
 
@@ -74,7 +76,7 @@
 pie showData
 title Lines changed by file type
 ".txt" : 140
-".cs" : 5025
+".cs" : 5206
 ".json" : 85
 ".cshtml" : 7535
 ".html" : 270
@@ -100,7 +102,8 @@ title Coding activity by hour (count of changes)
 "14h" : 21
 "15h" : 5
 "17h" : 3
+"23h" : 5
 ```
 
 
-> **Last Updated:** 7/27/2025, 5:24:14 PM
+> **Last Updated:** 7/27/2025, 11:48:24 PM

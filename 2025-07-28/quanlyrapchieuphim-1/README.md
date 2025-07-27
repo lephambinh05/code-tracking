@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5812                                          |
-| **Lines Removed** (➖) | 185                                        |
-| **Net Change** (↕)    | 5627                |
-| **Active Time** (⌚)   | 107 minutes |
+| **Lines Added** (➕)   | 5933                                          |
+| **Lines Removed** (➖) | 198                                        |
+| **Net Change** (↕)    | 5735                |
+| **Active Time** (⌚)   | 127 minutes |
 
 
 ## Modified Files
@@ -17,16 +17,16 @@
 - **TaiKhoan.cshtml** (+234, -0)
 - **ThanhToanThanhCong.cshtml** (+494, -0)
 - **QuanLyController.cs** (+515, -0)
-- **Create.cshtml** (+128, -48)
-- **Edit.cshtml** (+128, -38)
+- **Create.cshtml** (+139, -48)
+- **Edit.cshtml** (+139, -38)
 - **AuthController.cs** (+884, -0)
 - **KhachHangController.cs** (+1601, -12)
 - **ChatController.cs** (+3, -2)
 - **HomeController.cs** (+58, -0)
-- **error_log.txt** (+130, -85)
+- **error_log.txt** (+183, -85)
 - **ScheduleDto.cs** (+30, -0)
 - **DanhGiaController.cs** (+344, -0)
-- **chi-tiet-phim.css** (+460, -0)
+- **chi-tiet-phim.css** (+506, -13)
 - **site.js** (+208, -0)
 
 ## Visualizations
@@ -37,9 +37,9 @@
 pie showData
 title Lines changed by file type
 ".cs" : 3498
-".cshtml" : 1616
-".txt" : 215
-".css" : 460
+".cshtml" : 1638
+".txt" : 268
+".css" : 519
 ".js" : 208
 ```
 
@@ -50,9 +50,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 32
 "01h" : 47
-"02h" : 7
+"02h" : 26
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 2:08:24 AM
+> **Last Updated:** 7/28/2025, 2:13:24 AM

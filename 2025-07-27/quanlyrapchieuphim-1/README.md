@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11136                                          |
+| **Lines Added** (➕)   | 11208                                          |
 | **Lines Removed** (➖) | 797                                        |
-| **Net Change** (↕)    | 10339                |
-| **Active Time** (⌚)   | 251 minutes |
+| **Net Change** (↕)    | 10411                |
+| **Active Time** (⌚)   | 257 minutes |
 
 
 ## Modified Files
 - **error_log.txt** (+126, -14)
 - **Program.cs** (+20, -12)
-- **appsettings.json** (+11, -2)
+- **appsettings.json** (+38, -2)
 - **ResetPasswordModel.cs** (+37, -0)
 - **EmailService.cs** (+817, -37)
 - **PasswordResetService.cs** (+134, -0)
@@ -53,6 +53,8 @@
 - **Create.cshtml** (+128, -0)
 - **Edit.cshtml** (+129, -1)
 - **List.cshtml** (+165, -0)
+- **appsettings.Development.json** (+18, -0)
+- **appsettings.json** (+27, -0)
 
 ## Visualizations
 
@@ -63,7 +65,7 @@ pie showData
 title Lines changed by file type
 ".txt" : 140
 ".cs" : 4091
-".json" : 13
+".json" : 85
 ".cshtml" : 6245
 ".html" : 270
 ".csproj" : 22
@@ -83,8 +85,9 @@ title Coding activity by hour (count of changes)
 "02h" : 25
 "03h" : 59
 "04h" : 16
-"12h" : 3
+"12h" : 4
+"13h" : 2
 ```
 
 
-> **Last Updated:** 7/27/2025, 12:59:14 PM
+> **Last Updated:** 7/27/2025, 1:04:14 PM

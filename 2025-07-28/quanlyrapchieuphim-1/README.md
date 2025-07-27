@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10668                                          |
+| **Lines Added** (➕)   | 10949                                          |
 | **Lines Removed** (➖) | 944                                        |
-| **Net Change** (↕)    | 9724                |
-| **Active Time** (⌚)   | 335 minutes |
+| **Net Change** (↕)    | 10005                |
+| **Active Time** (⌚)   | 339 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **Edit.cshtml** (+160, -59)
 - **AuthController.cs** (+884, -0)
 - **KhachHangController.cs** (+1615, -12)
-- **ChatController.cs** (+115, -4)
+- **ChatController.cs** (+177, -4)
 - **HomeController.cs** (+58, -0)
 - **error_log.txt** (+671, -733)
 - **ScheduleDto.cs** (+30, -0)
@@ -44,7 +44,8 @@
 - **Program.cs** (+40, -0)
 - **ChatLogService.cs** (+71, -0)
 - **watch_logs.ps1** (+45, -0)
-- **test_logging.ps1** (+1, -0)
+- **test_logging.ps1** (+72, -0)
+- **TestLogging.cshtml** (+148, -0)
 
 ## Visualizations
 
@@ -53,14 +54,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 3951
-".cshtml" : 5304
+".cs" : 4013
+".cshtml" : 5452
 ".txt" : 1404
 ".css" : 566
 ".js" : 214
 ".sql" : 112
 ".json" : 15
-".ps1" : 46
+".ps1" : 117
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -72,9 +73,9 @@ title Coding activity by hour (count of changes)
 "01h" : 47
 "02h" : 93
 "03h" : 88
-"04h" : 25
+"04h" : 29
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 4:33:23 AM
+> **Last Updated:** 7/28/2025, 4:38:23 AM

@@ -2,9 +2,9 @@
   "date": "2025-07-28",
   "projects": {
     "quanlyRapChieuPhim-1": {
-      "totalLinesAdded": 10668,
+      "totalLinesAdded": 10949,
       "totalLinesRemoved": 944,
-      "totalActiveTime": 335,
+      "totalActiveTime": 339,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\ViewModels\\DanhGiaViewModels.cs": [
           {
@@ -718,6 +718,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\ChatController.cs",
             "fileType": ".cs",
             "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-27T21:33:33.285Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Controllers\\ChatController.cs",
+            "fileType": ".cs",
+            "linesAdded": 62,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-1",
             "content": {
@@ -4104,6 +4118,50 @@
             },
             "duration": 2,
             "language": "ps1"
+          },
+          {
+            "timestamp": "2025-07-27T21:33:23.798Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\test_logging.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Views\\Chat\\TestLogging.cshtml": [
+          {
+            "timestamp": "2025-07-27T21:33:53.696Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Views\\Chat\\TestLogging.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-27T21:33:54.760Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Views\\Chat\\TestLogging.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 147,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ]
       },

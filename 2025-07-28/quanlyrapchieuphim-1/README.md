@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11042                                          |
-| **Lines Removed** (➖) | 944                                        |
+| **Lines Added** (➕)   | 11220                                          |
+| **Lines Removed** (➖) | 1122                                        |
 | **Net Change** (↕)    | 10098                |
-| **Active Time** (⌚)   | 350 minutes |
+| **Active Time** (⌚)   | 358 minutes |
 
 
 ## Modified Files
@@ -40,14 +40,14 @@
 - **ChatRoom.cs** (+0, -2)
 - **appsettings.json** (+15, -0)
 - **TestConnection.cshtml** (+227, -0)
-- **create_chat_tables.sql** (+93, -0)
+- **create_chat_tables.sql** (+185, -92)
 - **Program.cs** (+40, -0)
 - **ChatLogService.cs** (+71, -0)
 - **watch_logs.ps1** (+45, -0)
 - **test_logging.ps1** (+72, -0)
 - **TestLogging.cshtml** (+148, -0)
-- **view_logs.ps1** (+49, -0)
-- **test_chat_logging.ps1** (+39, -0)
+- **view_logs.ps1** (+97, -48)
+- **test_chat_logging.ps1** (+77, -38)
 
 ## Visualizations
 
@@ -61,9 +61,9 @@ title Lines changed by file type
 ".txt" : 1406
 ".css" : 566
 ".js" : 214
-".sql" : 112
+".sql" : 296
 ".json" : 15
-".ps1" : 205
+".ps1" : 377
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -76,9 +76,9 @@ title Coding activity by hour (count of changes)
 "02h" : 93
 "03h" : 88
 "04h" : 31
-"05h" : 4
+"05h" : 10
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 5:18:23 AM
+> **Last Updated:** 7/28/2025, 5:23:23 AM

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9916                                          |
-| **Lines Removed** (➖) | 263                                        |
-| **Net Change** (↕)    | 9653                |
-| **Active Time** (⌚)   | 290 minutes |
+| **Lines Added** (➕)   | 9923                                          |
+| **Lines Removed** (➖) | 274                                        |
+| **Net Change** (↕)    | 9649                |
+| **Active Time** (⌚)   | 295 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **KhachHangController.cs** (+1615, -12)
 - **ChatController.cs** (+25, -4)
 - **HomeController.cs** (+58, -0)
-- **error_log.txt** (+665, -85)
+- **error_log.txt** (+667, -85)
 - **ScheduleDto.cs** (+30, -0)
 - **DanhGiaController.cs** (+344, -0)
 - **chi-tiet-phim.css** (+531, -35)
@@ -33,8 +33,11 @@
 - **Index.cshtml** (+1496, -0)
 - **_ScheduleForDate.cshtml** (+103, -0)
 - **ChonGhe.cshtml** (+924, -0)
-- **CinemaDbContext.cs** (+17, -0)
+- **CinemaDbContext.cs** (+17, -7)
 - **chat_tables_fixed.sql** (+19, -0)
+- **ChatHub.cs** (+5, -0)
+- **ChatMessage.cs** (+0, -2)
+- **ChatRoom.cs** (+0, -2)
 
 ## Visualizations
 
@@ -43,9 +46,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 3553
+".cs" : 3569
 ".cshtml" : 5077
-".txt" : 750
+".txt" : 752
 ".css" : 566
 ".js" : 214
 ".sql" : 19
@@ -59,9 +62,9 @@ title Coding activity by hour (count of changes)
 "00h" : 32
 "01h" : 47
 "02h" : 93
-"03h" : 83
+"03h" : 88
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 3:43:24 AM
+> **Last Updated:** 7/28/2025, 3:58:23 AM

@@ -3119,9 +3119,9 @@
       "averageChangeSize": 5
     },
     "appProject": {
-      "totalLinesAdded": 813,
+      "totalLinesAdded": 2635,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml": [
           {
@@ -3263,6 +3263,156 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\splash_screen.dart",
             "fileType": ".dart",
             "linesAdded": 202,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\onboarding\\onboarding_screen.dart": [
+          {
+            "timestamp": "2025-07-27T06:19:52.762Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\onboarding\\onboarding_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-27T06:19:53.806Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\onboarding\\onboarding_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 232,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\login_screen.dart": [
+          {
+            "timestamp": "2025-07-27T06:20:30.809Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-27T06:20:31.906Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 323,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\register_screen.dart": [
+          {
+            "timestamp": "2025-07-27T06:21:13.434Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\register_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-27T06:21:14.468Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\register_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 354,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\forgot_password_screen.dart": [
+          {
+            "timestamp": "2025-07-27T06:21:46.105Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\forgot_password_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-27T06:21:47.176Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\forgot_password_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 256,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart": [
+          {
+            "timestamp": "2025-07-27T06:23:11.387Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-27T06:23:12.437Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 652,
             "linesRemoved": 0,
             "projectName": "appProject",
             "content": {

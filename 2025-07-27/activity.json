@@ -3117,6 +3117,178 @@
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Program.cs"
       ],
       "averageChangeSize": 5
+    },
+    "appProject": {
+      "totalLinesAdded": 813,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 9,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml": [
+          {
+            "timestamp": "2025-07-27T06:18:03.194Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-07-27T06:18:04.276Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart": [
+          {
+            "timestamp": "2025-07-27T06:18:14.381Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-27T06:18:15.492Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\constants\\app_colors.dart": [
+          {
+            "timestamp": "2025-07-27T06:18:36.477Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\constants\\app_colors.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-27T06:18:37.563Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\constants\\app_colors.dart",
+            "fileType": ".dart",
+            "linesAdded": 164,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\constants\\app_routes.dart": [
+          {
+            "timestamp": "2025-07-27T06:19:04.513Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\constants\\app_routes.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-27T06:19:05.660Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\constants\\app_routes.dart",
+            "fileType": ".dart",
+            "linesAdded": 230,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\splash_screen.dart": [
+          {
+            "timestamp": "2025-07-27T06:19:24.649Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\splash_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-27T06:19:25.704Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\splash_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 202,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 1,
+        "dart": 8
+      },
+      "changeFrequency": {
+        "13": 9
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml",
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart",
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\constants\\app_colors.dart",
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\constants\\app_routes.dart",
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\splash_screen.dart"
+      ],
+      "averageChangeSize": 81.3
     }
   },
   "totalActiveTime": 7,

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10481                                          |
+| **Lines Added** (➕)   | 10668                                          |
 | **Lines Removed** (➖) | 944                                        |
-| **Net Change** (↕)    | 9537                |
-| **Active Time** (⌚)   | 320 minutes |
+| **Net Change** (↕)    | 9724                |
+| **Active Time** (⌚)   | 335 minutes |
 
 
 ## Modified Files
@@ -35,12 +35,16 @@
 - **ChonGhe.cshtml** (+924, -0)
 - **CinemaDbContext.cs** (+17, -29)
 - **chat_tables_fixed.sql** (+19, -0)
-- **ChatHub.cs** (+134, -0)
+- **ChatHub.cs** (+164, -0)
 - **ChatMessage.cs** (+0, -2)
 - **ChatRoom.cs** (+0, -2)
 - **appsettings.json** (+15, -0)
 - **TestConnection.cshtml** (+227, -0)
 - **create_chat_tables.sql** (+93, -0)
+- **Program.cs** (+40, -0)
+- **ChatLogService.cs** (+71, -0)
+- **watch_logs.ps1** (+45, -0)
+- **test_logging.ps1** (+1, -0)
 
 ## Visualizations
 
@@ -49,13 +53,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 3810
+".cs" : 3951
 ".cshtml" : 5304
 ".txt" : 1404
 ".css" : 566
 ".js" : 214
 ".sql" : 112
 ".json" : 15
+".ps1" : 46
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,9 +72,9 @@ title Coding activity by hour (count of changes)
 "01h" : 47
 "02h" : 93
 "03h" : 88
-"04h" : 16
+"04h" : 25
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 4:28:23 AM
+> **Last Updated:** 7/28/2025, 4:33:23 AM

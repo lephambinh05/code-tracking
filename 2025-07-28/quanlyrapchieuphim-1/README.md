@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 9923                                          |
-| **Lines Removed** (➖) | 274                                        |
-| **Net Change** (↕)    | 9649                |
-| **Active Time** (⌚)   | 295 minutes |
+| **Lines Removed** (➖) | 296                                        |
+| **Net Change** (↕)    | 9627                |
+| **Active Time** (⌚)   | 300 minutes |
 
 
 ## Modified Files
@@ -33,7 +33,7 @@
 - **Index.cshtml** (+1496, -0)
 - **_ScheduleForDate.cshtml** (+103, -0)
 - **ChonGhe.cshtml** (+924, -0)
-- **CinemaDbContext.cs** (+17, -7)
+- **CinemaDbContext.cs** (+17, -29)
 - **chat_tables_fixed.sql** (+19, -0)
 - **ChatHub.cs** (+5, -0)
 - **ChatMessage.cs** (+0, -2)
@@ -46,7 +46,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 3569
+".cs" : 3591
 ".cshtml" : 5077
 ".txt" : 752
 ".css" : 566
@@ -63,8 +63,9 @@ title Coding activity by hour (count of changes)
 "01h" : 47
 "02h" : 93
 "03h" : 88
+"04h" : 1
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 3:58:23 AM
+> **Last Updated:** 7/28/2025, 4:03:23 AM

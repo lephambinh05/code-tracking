@@ -3,8 +3,8 @@
   "projects": {
     "quanlyRapChieuPhim-1": {
       "totalLinesAdded": 9923,
-      "totalLinesRemoved": 274,
-      "totalActiveTime": 295,
+      "totalLinesRemoved": 296,
+      "totalActiveTime": 300,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\ViewModels\\DanhGiaViewModels.cs": [
           {
@@ -3675,6 +3675,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-27T21:02:05.971Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Data\\CinemaDbContext.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "quanlyRapChieuPhim-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "cs"
           }
         ],

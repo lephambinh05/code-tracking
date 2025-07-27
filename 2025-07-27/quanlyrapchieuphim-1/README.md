@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13515                                          |
+| **Lines Added** (➕)   | 13581                                          |
 | **Lines Removed** (➖) | 797                                        |
-| **Net Change** (↕)    | 12718                |
-| **Active Time** (⌚)   | 286 minutes |
+| **Net Change** (↕)    | 12784                |
+| **Active Time** (⌚)   | 288 minutes |
 
 
 ## Modified Files
@@ -47,7 +47,7 @@
 - **DanhGia.cs** (+38, -0)
 - **Phim.cs** (+47, -0)
 - **KhachHang.cs** (+26, -0)
-- **CinemaDbContext.cs** (+186, -0)
+- **CinemaDbContext.cs** (+190, -0)
 - **DanhGiaViewModels.cs** (+49, -0)
 - **DanhGiaController.cs** (+231, -0)
 - **Create.cshtml** (+128, -0)
@@ -64,6 +64,7 @@
 - **Manage.cshtml** (+578, -0)
 - **chat_tables.sql** (+64, -0)
 - **Demo.cshtml** (+315, -0)
+- **chat_tables_fixed.sql** (+62, -0)
 
 ## Visualizations
 
@@ -73,12 +74,12 @@
 pie showData
 title Lines changed by file type
 ".txt" : 140
-".cs" : 5021
+".cs" : 5025
 ".json" : 85
 ".cshtml" : 7535
 ".html" : 270
 ".csproj" : 45
-".sql" : 593
+".sql" : 655
 ".bat" : 116
 ".ps1" : 76
 ".css" : 431
@@ -98,7 +99,8 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "14h" : 21
 "15h" : 5
+"17h" : 3
 ```
 
 
-> **Last Updated:** 7/27/2025, 3:59:14 PM
+> **Last Updated:** 7/27/2025, 5:24:14 PM

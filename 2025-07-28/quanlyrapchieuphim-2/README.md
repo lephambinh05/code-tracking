@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3487                                          |
-| **Lines Removed** (➖) | 518                                        |
-| **Net Change** (↕)    | 2969                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Lines Removed** (➖) | 552                                        |
+| **Net Change** (↕)    | 2935                |
+| **Active Time** (⌚)   | 92 minutes |
 
 
 ## Modified Files
@@ -31,7 +31,7 @@
 - **fix_lc236_null_values.sql** (+160, -0)
 - **fix_all_null_values.sql** (+285, -0)
 - **fix_datetime_null_values.sql** (+298, -33)
-- **add_godfather_2hour_shows.sql** (+190, -4)
+- **add_godfather_2hour_shows.sql** (+190, -38)
 
 ## Visualizations
 
@@ -44,7 +44,7 @@ title Lines changed by file type
 ".ps1" : 643
 ".bat" : 127
 ".json" : 44
-".sql" : 1785
+".sql" : 1819
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +54,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 19
 "20h" : 12
-"21h" : 30
+"21h" : 31
 ```
 
 
-> **Last Updated:** 7/28/2025, 9:50:39 PM
+> **Last Updated:** 7/28/2025, 9:55:39 PM

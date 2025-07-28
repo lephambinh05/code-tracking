@@ -5668,8 +5668,8 @@
     },
     "quanlyRapChieuPhim-2": {
       "totalLinesAdded": 3487,
-      "totalLinesRemoved": 518,
-      "totalActiveTime": 88,
+      "totalLinesRemoved": 552,
+      "totalActiveTime": 92,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6564,6 +6564,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:52:40.176Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\add_godfather_2hour_shows.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 34,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "sql"
           }
         ]

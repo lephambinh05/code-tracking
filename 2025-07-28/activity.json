@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 1876,
-      "totalLinesRemoved": 472,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 2334,
+      "totalLinesRemoved": 473,
+      "totalActiveTime": 48,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6147,6 +6147,138 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\add_godfather_schedules.sql",
             "fileType": ".sql",
             "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\delete_tickets_by_time.sql": [
+          {
+            "timestamp": "2025-07-28T14:10:42.116Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\delete_tickets_by_time.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:10:43.195Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\delete_tickets_by_time.sql",
+            "fileType": ".sql",
+            "linesAdded": 145,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\check_and_delete_lc236.sql": [
+          {
+            "timestamp": "2025-07-28T14:12:13.714Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\check_and_delete_lc236.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:12:14.763Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\check_and_delete_lc236.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:12:16.353Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\check_and_delete_lc236.sql",
+            "fileType": ".sql",
+            "linesAdded": 138,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:12:46.459Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\check_and_delete_lc236.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:12:57.273Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\check_and_delete_lc236.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\add_godfather_late_shows.sql": [
+          {
+            "timestamp": "2025-07-28T14:14:59.384Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\add_godfather_late_shows.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:15:00.452Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\add_godfather_late_shows.sql",
+            "fileType": ".sql",
+            "linesAdded": 170,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-2",
             "content": {

@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 2334,
+      "totalLinesAdded": 2418,
       "totalLinesRemoved": 473,
-      "totalActiveTime": 48,
+      "totalActiveTime": 54,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6279,6 +6279,36 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\add_godfather_late_shows.sql",
             "fileType": ".sql",
             "linesAdded": 170,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\debug_godfather_tickets.sql": [
+          {
+            "timestamp": "2025-07-28T14:19:50.051Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\debug_godfather_tickets.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:19:51.068Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\debug_godfather_tickets.sql",
+            "fileType": ".sql",
+            "linesAdded": 83,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-2",
             "content": {

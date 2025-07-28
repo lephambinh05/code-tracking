@@ -2,9 +2,9 @@
   "date": "2025-07-29",
   "projects": {
     "appProject": {
-      "totalLinesAdded": 2088,
+      "totalLinesAdded": 4029,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 23,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
           {
@@ -184,6 +184,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:52:06.739Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 161,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\widgets\\common\\sync_status_widget.dart": [
@@ -304,6 +318,232 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\performance_service.dart": [
+          {
+            "timestamp": "2025-07-28T18:49:22.365Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\performance_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:49:23.415Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\performance_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 213,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\utils\\validation_utils.dart": [
+          {
+            "timestamp": "2025-07-28T18:50:07.983Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\utils\\validation_utils.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:50:09.061Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\utils\\validation_utils.dart",
+            "fileType": ".dart",
+            "linesAdded": 278,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\error_handler_service.dart": [
+          {
+            "timestamp": "2025-07-28T18:50:46.624Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\error_handler_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:50:47.689Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\error_handler_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 301,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\analytics_service.dart": [
+          {
+            "timestamp": "2025-07-28T18:51:29.946Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\analytics_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:51:31.005Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\analytics_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 322,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml": [
+          {
+            "timestamp": "2025-07-28T18:52:29.033Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 126,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\android\\app\\build.gradle": [
+          {
+            "timestamp": "2025-07-28T18:53:03.249Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-07-28T18:53:04.313Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 207,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\android\\app\\proguard-rules.pro": [
+          {
+            "timestamp": "2025-07-28T18:53:30.507Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\android\\app\\proguard-rules.pro",
+            "fileType": ".pro",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pro"
+          },
+          {
+            "timestamp": "2025-07-28T18:53:31.574Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\android\\app\\proguard-rules.pro",
+            "fileType": ".pro",
+            "linesAdded": 176,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pro"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\ios\\Runner\\Info.plist": [
+          {
+            "timestamp": "2025-07-28T18:54:01.938Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\ios\\Runner\\Info.plist",
+            "fileType": ".plist",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "plist"
+          },
+          {
+            "timestamp": "2025-07-28T18:54:03.010Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\ios\\Runner\\Info.plist",
+            "fileType": ".plist",
+            "linesAdded": 150,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "plist"
           }
         ]
       },

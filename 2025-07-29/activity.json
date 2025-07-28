@@ -2,9 +2,9 @@
   "date": "2025-07-29",
   "projects": {
     "appProject": {
-      "totalLinesAdded": 1419,
+      "totalLinesAdded": 2088,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 12,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
           {
@@ -176,6 +176,126 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart",
             "fileType": ".dart",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\widgets\\common\\sync_status_widget.dart": [
+          {
+            "timestamp": "2025-07-28T18:44:44.615Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\widgets\\common\\sync_status_widget.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:44:45.691Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\widgets\\common\\sync_status_widget.dart",
+            "fileType": ".dart",
+            "linesAdded": 242,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\connectivity_service.dart": [
+          {
+            "timestamp": "2025-07-28T18:45:00.676Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\connectivity_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:45:01.729Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\connectivity_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\config\\app_config.dart": [
+          {
+            "timestamp": "2025-07-28T18:48:23.065Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\config\\app_config.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:48:24.126Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\config\\app_config.dart",
+            "fileType": ".dart",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\logger_service.dart": [
+          {
+            "timestamp": "2025-07-28T18:48:50.613Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\logger_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:48:51.658Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\logger_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 166,
             "linesRemoved": 0,
             "projectName": "appProject",
             "content": {

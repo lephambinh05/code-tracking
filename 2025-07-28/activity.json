@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 1278,
+      "totalLinesAdded": 1410,
       "totalLinesRemoved": 471,
-      "totalActiveTime": 20,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -5946,6 +5946,66 @@
               "removed": []
             },
             "duration": 1,
+            "language": "bat"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\run-banking-cron.ps1": [
+          {
+            "timestamp": "2025-07-28T13:06:17.000Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\run-banking-cron.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ps1"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\run-banking-cron.bat": [
+          {
+            "timestamp": "2025-07-28T13:07:50.593Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\run-banking-cron.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-28T13:07:51.729Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\run-banking-cron.bat",
+            "fileType": ".bat",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-28T13:10:07.920Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\run-banking-cron.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "bat"
           }
         ]

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2421                                          |
+| **Lines Added** (➕)   | 2714                                          |
 | **Lines Removed** (➖) | 481                                        |
-| **Net Change** (↕)    | 1940                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Net Change** (↕)    | 2233                |
+| **Active Time** (⌚)   | 69 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,8 @@
 - **check_and_delete_lc236.sql** (+141, -1)
 - **add_godfather_late_shows.sql** (+174, -8)
 - **debug_godfather_tickets.sql** (+84, -0)
+- **update_lc236_and_clean_data.sql** (+133, -0)
+- **fix_lc236_null_values.sql** (+160, -0)
 
 ## Visualizations
 
@@ -39,7 +41,7 @@ title Lines changed by file type
 ".ps1" : 643
 ".bat" : 127
 ".json" : 44
-".sql" : 682
+".sql" : 975
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -49,8 +51,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 19
 "20h" : 12
-"21h" : 18
+"21h" : 22
 ```
 
 
-> **Last Updated:** 7/28/2025, 9:25:39 PM
+> **Last Updated:** 7/28/2025, 9:30:39 PM

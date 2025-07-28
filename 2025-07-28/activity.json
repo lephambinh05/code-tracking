@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 2421,
+      "totalLinesAdded": 2714,
       "totalLinesRemoved": 481,
-      "totalActiveTime": 59,
+      "totalActiveTime": 69,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6379,6 +6379,66 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\debug_godfather_tickets.sql",
             "fileType": ".sql",
             "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\update_lc236_and_clean_data.sql": [
+          {
+            "timestamp": "2025-07-28T14:25:52.090Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\update_lc236_and_clean_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:25:53.154Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\update_lc236_and_clean_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_lc236_null_values.sql": [
+          {
+            "timestamp": "2025-07-28T14:28:26.286Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_lc236_null_values.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:28:27.350Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_lc236_null_values.sql",
+            "fileType": ".sql",
+            "linesAdded": 159,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-2",
             "content": {

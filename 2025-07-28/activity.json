@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 1410,
+      "totalLinesAdded": 1705,
       "totalLinesRemoved": 471,
-      "totalActiveTime": 26,
+      "totalActiveTime": 32,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6006,6 +6006,80 @@
               "removed": []
             },
             "duration": 3,
+            "language": "bat"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Services\\BankingService.cs": [
+          {
+            "timestamp": "2025-07-28T13:15:53.144Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Services\\BankingService.cs",
+            "fileType": ".cs",
+            "linesAdded": 250,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-28T13:15:54.156Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Services\\BankingService.cs",
+            "fileType": ".cs",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-28T13:17:22.964Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Services\\BankingService.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\auto-cancel-seats.bat": [
+          {
+            "timestamp": "2025-07-28T13:18:49.846Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\auto-cancel-seats.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-28T13:18:50.981Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\auto-cancel-seats.bat",
+            "fileType": ".bat",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "bat"
           }
         ]

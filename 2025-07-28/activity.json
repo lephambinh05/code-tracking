@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 5633,
+      "totalLinesAdded": 8552,
       "totalLinesRemoved": 552,
-      "totalActiveTime": 163,
+      "totalActiveTime": 177,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -7501,6 +7501,144 @@
             },
             "duration": 1,
             "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Models\\Ve.cs": [
+          {
+            "timestamp": "2025-07-28T15:57:44.128Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Models\\Ve.cs",
+            "fileType": ".cs",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Controllers\\PhatHanhVeController.cs": [
+          {
+            "timestamp": "2025-07-28T15:57:55.588Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Controllers\\PhatHanhVeController.cs",
+            "fileType": ".cs",
+            "linesAdded": 403,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Controllers\\KhachHangController.cs": [
+          {
+            "timestamp": "2025-07-28T15:59:42.452Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Controllers\\KhachHangController.cs",
+            "fileType": ".cs",
+            "linesAdded": 1599,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\PhatHanhVe\\DanhSachVe.cshtml": [
+          {
+            "timestamp": "2025-07-28T16:00:02.888Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\PhatHanhVe\\DanhSachVe.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 203,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T16:00:03.898Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\PhatHanhVe\\DanhSachVe.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\PhatHanhVe\\ChiTietVe.cshtml": [
+          {
+            "timestamp": "2025-07-28T16:00:14.787Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\PhatHanhVe\\ChiTietVe.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 244,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T16:00:15.820Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\PhatHanhVe\\ChiTietVe.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\BanVe\\HoaDon.cshtml": [
+          {
+            "timestamp": "2025-07-28T16:00:29.952Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\BanVe\\HoaDon.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 391,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T16:00:30.972Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\BanVe\\HoaDon.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
           }
         ]
       },

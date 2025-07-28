@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5255                                          |
+| **Lines Added** (➕)   | 5327                                          |
 | **Lines Removed** (➖) | 552                                        |
-| **Net Change** (↕)    | 4703                |
-| **Active Time** (⌚)   | 140 minutes |
+| **Net Change** (↕)    | 4775                |
+| **Active Time** (⌚)   | 154 minutes |
 
 
 ## Modified Files
@@ -35,7 +35,7 @@
 - **fix_godfather_ticket_price.sql** (+101, -0)
 - **check_godfather_rooms.sql** (+95, -0)
 - **QuanLyController.cs** (+807, -0)
-- **QuanLyLichChieu.cshtml** (+735, -0)
+- **QuanLyLichChieu.cshtml** (+807, -0)
 - **check_data.sql** (+11, -0)
 - **add_sample_data.sql** (+19, -0)
 
@@ -51,7 +51,7 @@ title Lines changed by file type
 ".bat" : 127
 ".json" : 44
 ".sql" : 2045
-".cshtml" : 735
+".cshtml" : 807
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -62,8 +62,8 @@ title Coding activity by hour (count of changes)
 "19h" : 19
 "20h" : 12
 "21h" : 31
-"22h" : 47
+"22h" : 57
 ```
 
 
-> **Last Updated:** 7/28/2025, 10:45:39 PM
+> **Last Updated:** 7/28/2025, 10:50:39 PM

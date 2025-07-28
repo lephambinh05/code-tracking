@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2999                                          |
-| **Lines Removed** (➖) | 481                                        |
-| **Net Change** (↕)    | 2518                |
-| **Active Time** (⌚)   | 75 minutes |
+| **Lines Added** (➕)   | 3297                                          |
+| **Lines Removed** (➖) | 514                                        |
+| **Net Change** (↕)    | 2783                |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
@@ -30,6 +30,7 @@
 - **update_lc236_and_clean_data.sql** (+133, -0)
 - **fix_lc236_null_values.sql** (+160, -0)
 - **fix_all_null_values.sql** (+285, -0)
+- **fix_datetime_null_values.sql** (+298, -33)
 
 ## Visualizations
 
@@ -42,7 +43,7 @@ title Lines changed by file type
 ".ps1" : 643
 ".bat" : 127
 ".json" : 44
-".sql" : 1260
+".sql" : 1591
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,8 +53,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 19
 "20h" : 12
-"21h" : 24
+"21h" : 27
 ```
 
 
-> **Last Updated:** 7/28/2025, 9:35:39 PM
+> **Last Updated:** 7/28/2025, 9:40:39 PM

@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 2999,
-      "totalLinesRemoved": 481,
-      "totalActiveTime": 75,
+      "totalLinesAdded": 3297,
+      "totalLinesRemoved": 514,
+      "totalActiveTime": 84,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6476,6 +6476,50 @@
               "removed": []
             },
             "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_datetime_null_values.sql": [
+          {
+            "timestamp": "2025-07-28T14:37:30.228Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_datetime_null_values.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:37:31.275Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_datetime_null_values.sql",
+            "fileType": ".sql",
+            "linesAdded": 297,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:39:47.937Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_datetime_null_values.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "sql"
           }
         ]

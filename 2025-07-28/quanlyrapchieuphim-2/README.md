@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3588                                          |
+| **Lines Added** (➕)   | 4472                                          |
 | **Lines Removed** (➖) | 552                                        |
-| **Net Change** (↕)    | 3036                |
-| **Active Time** (⌚)   | 93 minutes |
+| **Net Change** (↕)    | 3920                |
+| **Active Time** (⌚)   | 100 minutes |
 
 
 ## Modified Files
@@ -33,6 +33,9 @@
 - **fix_datetime_null_values.sql** (+298, -33)
 - **add_godfather_2hour_shows.sql** (+190, -38)
 - **fix_godfather_ticket_price.sql** (+101, -0)
+- **check_godfather_rooms.sql** (+95, -0)
+- **QuanLyController.cs** (+655, -0)
+- **QuanLyLichChieu.cshtml** (+134, -0)
 
 ## Visualizations
 
@@ -41,11 +44,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".cs" : 1406
+".cs" : 2061
 ".ps1" : 643
 ".bat" : 127
 ".json" : 44
-".sql" : 1920
+".sql" : 2015
+".cshtml" : 134
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -56,8 +60,8 @@ title Coding activity by hour (count of changes)
 "19h" : 19
 "20h" : 12
 "21h" : 31
-"22h" : 2
+"22h" : 8
 ```
 
 
-> **Last Updated:** 7/28/2025, 10:20:39 PM
+> **Last Updated:** 7/28/2025, 10:25:39 PM

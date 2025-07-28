@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3487                                          |
+| **Lines Added** (➕)   | 3588                                          |
 | **Lines Removed** (➖) | 552                                        |
-| **Net Change** (↕)    | 2935                |
-| **Active Time** (⌚)   | 92 minutes |
+| **Net Change** (↕)    | 3036                |
+| **Active Time** (⌚)   | 93 minutes |
 
 
 ## Modified Files
@@ -32,6 +32,7 @@
 - **fix_all_null_values.sql** (+285, -0)
 - **fix_datetime_null_values.sql** (+298, -33)
 - **add_godfather_2hour_shows.sql** (+190, -38)
+- **fix_godfather_ticket_price.sql** (+101, -0)
 
 ## Visualizations
 
@@ -44,7 +45,7 @@ title Lines changed by file type
 ".ps1" : 643
 ".bat" : 127
 ".json" : 44
-".sql" : 1819
+".sql" : 1920
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,7 +56,8 @@ title Coding activity by hour (count of changes)
 "19h" : 19
 "20h" : 12
 "21h" : 31
+"22h" : 2
 ```
 
 
-> **Last Updated:** 7/28/2025, 9:55:39 PM
+> **Last Updated:** 7/28/2025, 10:20:39 PM

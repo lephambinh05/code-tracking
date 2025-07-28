@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 5093,
+      "totalLinesAdded": 5255,
       "totalLinesRemoved": 552,
-      "totalActiveTime": 133,
+      "totalActiveTime": 140,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -7083,6 +7083,104 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
             "fileType": ".cshtml",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:40:53.201Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:41:07.664Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:41:15.104Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:41:24.382Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:41:35.485Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:42:09.370Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:42:31.825Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 17,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-2",
             "content": {

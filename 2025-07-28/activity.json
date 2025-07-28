@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 2714,
+      "totalLinesAdded": 2999,
       "totalLinesRemoved": 481,
-      "totalActiveTime": 69,
+      "totalActiveTime": 75,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6439,6 +6439,36 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_lc236_null_values.sql",
             "fileType": ".sql",
             "linesAdded": 159,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_all_null_values.sql": [
+          {
+            "timestamp": "2025-07-28T14:32:54.648Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_all_null_values.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:32:55.712Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\fix_all_null_values.sql",
+            "fileType": ".sql",
+            "linesAdded": 284,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-2",
             "content": {

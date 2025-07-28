@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 884,
+      "totalLinesAdded": 1145,
       "totalLinesRemoved": 223,
-      "totalActiveTime": 6,
+      "totalActiveTime": 16,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -5773,6 +5773,110 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-28T12:50:23.582Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\run-banking-cron.ps1": [
+          {
+            "timestamp": "2025-07-28T12:48:09.643Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\run-banking-cron.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-07-28T12:48:10.761Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\run-banking-cron.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          }
+        ],
+        "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.ps1": [
+          {
+            "timestamp": "2025-07-28T12:50:48.758Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-07-28T12:50:49.860Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          }
+        ],
+        "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.bat": [
+          {
+            "timestamp": "2025-07-28T12:52:12.208Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-28T12:52:13.333Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.bat",
+            "fileType": ".bat",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
           }
         ]
       },

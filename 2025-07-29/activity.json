@@ -1,0 +1,215 @@
+{
+  "date": "2025-07-29",
+  "projects": {
+    "appProject": {
+      "totalLinesAdded": 1419,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 12,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
+          {
+            "timestamp": "2025-07-28T18:40:39.281Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:40:40.395Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\datasources\\local\\local_database.dart": [
+          {
+            "timestamp": "2025-07-28T18:41:21.433Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\datasources\\local\\local_database.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:41:22.484Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\datasources\\local\\local_database.dart",
+            "fileType": ".dart",
+            "linesAdded": 322,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\repositories\\task_repository.dart": [
+          {
+            "timestamp": "2025-07-28T18:41:58.440Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\repositories\\task_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:41:59.494Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\repositories\\task_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 263,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\models\\task.dart": [
+          {
+            "timestamp": "2025-07-28T18:43:14.559Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\models\\task.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:43:15.705Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\models\\task.dart",
+            "fileType": ".dart",
+            "linesAdded": 224,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\providers\\task_provider.dart": [
+          {
+            "timestamp": "2025-07-28T18:43:57.427Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\providers\\task_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:43:58.473Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\providers\\task_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 339,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart": [
+          {
+            "timestamp": "2025-07-28T18:44:14.948Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-28T18:44:15.973Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 12
+      },
+      "changeFrequency": {
+        "1": 12
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart",
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\datasources\\local\\local_database.dart",
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\repositories\\task_repository.dart",
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\data\\models\\task.dart",
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\providers\\task_provider.dart"
+      ],
+      "averageChangeSize": 118.25
+    }
+  },
+  "totalActiveTime": 12,
+  "totalProjects": 1,
+  "totalFiles": 6,
+  "mostActiveHours": [
+    1
+  ],
+  "mostUsedLanguages": [
+    "dart"
+  ]
+}

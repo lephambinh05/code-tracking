@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14990                                          |
-| **Lines Removed** (➖) | 1221                                        |
-| **Net Change** (↕)    | 13769                |
-| **Active Time** (⌚)   | 468 minutes |
+| **Lines Added** (➕)   | 16808                                          |
+| **Lines Removed** (➖) | 1686                                        |
+| **Net Change** (↕)    | 15122                |
+| **Active Time** (⌚)   | 479 minutes |
 
 
 ## Modified Files
@@ -63,6 +63,10 @@
 - **run_add_schedules.ps1** (+141, -70)
 - **update_ticket_prices.sql** (+76, -0)
 - **run_update_prices.ps1** (+70, -0)
+- **auth.css** (+527, -0)
+- **auth.js** (+480, -0)
+- **Login.cshtml** (+384, -206)
+- **Register.cshtml** (+427, -259)
 
 ## Visualizations
 
@@ -72,10 +76,10 @@
 pie showData
 title Lines changed by file type
 ".cs" : 4469
-".cshtml" : 5452
+".cshtml" : 6728
 ".txt" : 2449
-".css" : 566
-".js" : 214
+".css" : 1093
+".js" : 694
 ".sql" : 2128
 ".json" : 15
 ".ps1" : 918
@@ -93,9 +97,9 @@ title Coding activity by hour (count of changes)
 "04h" : 31
 "05h" : 51
 "06h" : 27
-"07h" : 8
+"07h" : 19
 "23h" : 3
 ```
 
 
-> **Last Updated:** 7/28/2025, 7:08:23 AM
+> **Last Updated:** 7/28/2025, 7:18:23 AM

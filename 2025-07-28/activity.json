@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 5037,
+      "totalLinesAdded": 5093,
       "totalLinesRemoved": 552,
-      "totalActiveTime": 129,
+      "totalActiveTime": 133,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6795,6 +6795,20 @@
             },
             "duration": 1,
             "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-28T15:40:13.931Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Controllers\\QuanLyController.cs",
+            "fileType": ".cs",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml": [
@@ -7013,6 +7027,62 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
             "fileType": ".cshtml",
             "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:39:18.265Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:39:27.866Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:39:48.041Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cshtml"
+          },
+          {
+            "timestamp": "2025-07-28T15:40:23.925Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\Views\\QuanLy\\QuanLyLichChieu.cshtml",
+            "fileType": ".cshtml",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "quanlyRapChieuPhim-2",
             "content": {

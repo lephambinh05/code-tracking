@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8552                                          |
-| **Lines Removed** (➖) | 552                                        |
-| **Net Change** (↕)    | 8000                |
-| **Active Time** (⌚)   | 177 minutes |
+| **Lines Added** (➕)   | 9737                                          |
+| **Lines Removed** (➖) | 720                                        |
+| **Net Change** (↕)    | 9017                |
+| **Active Time** (⌚)   | 186 minutes |
 
 
 ## Modified Files
@@ -44,6 +44,9 @@
 - **DanhSachVe.cshtml** (+210, -0)
 - **ChiTietVe.cshtml** (+251, -0)
 - **HoaDon.cshtml** (+399, -0)
+- **Login.cshtml** (+178, -48)
+- **auth.css** (+527, -75)
+- **auth.js** (+480, -45)
 
 ## Visualizations
 
@@ -57,7 +60,9 @@ title Lines changed by file type
 ".bat" : 127
 ".json" : 44
 ".sql" : 2045
-".cshtml" : 1879
+".cshtml" : 2105
+".css" : 602
+".js" : 525
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -69,8 +74,8 @@ title Coding activity by hour (count of changes)
 "20h" : 12
 "21h" : 31
 "22h" : 68
-"23h" : 6
+"23h" : 16
 ```
 
 
-> **Last Updated:** 7/28/2025, 11:00:39 PM
+> **Last Updated:** 7/28/2025, 11:10:39 PM

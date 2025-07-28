@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 1705,
-      "totalLinesRemoved": 471,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 1748,
+      "totalLinesRemoved": 472,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6081,6 +6081,50 @@
             },
             "duration": 1,
             "language": "bat"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\appsettings.json": [
+          {
+            "timestamp": "2025-07-28T13:40:00.424Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\appsettings.json",
+            "fileType": ".json",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T13:40:12.429Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\appsettings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-28T13:40:13.757Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\appsettings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

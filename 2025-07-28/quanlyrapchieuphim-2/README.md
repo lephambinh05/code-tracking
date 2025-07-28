@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1145                                          |
-| **Lines Removed** (➖) | 223                                        |
-| **Net Change** (↕)    | 922                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Added** (➕)   | 1278                                          |
+| **Lines Removed** (➖) | 471                                        |
+| **Net Change** (↕)    | 807                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
@@ -15,8 +15,8 @@
 - **BankingService.cs** (+250, -0)
 - **Program.cs** (+282, -0)
 - **run-banking-cron.ps1** (+91, -0)
-- **start-app.ps1** (+116, -0)
-- **start-app.bat** (+19, -0)
+- **start-app.ps1** (+231, -230)
+- **start-app.bat** (+37, -18)
 
 ## Visualizations
 
@@ -26,8 +26,8 @@
 pie showData
 title Lines changed by file type
 ".cs" : 1142
-".ps1" : 207
-".bat" : 19
+".ps1" : 552
+".bat" : 55
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"19h" : 14
+"19h" : 19
 ```
 
 
-> **Last Updated:** 7/28/2025, 7:52:53 PM
+> **Last Updated:** 7/28/2025, 7:57:53 PM

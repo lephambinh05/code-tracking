@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 1145,
-      "totalLinesRemoved": 223,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 1278,
+      "totalLinesRemoved": 471,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -5847,6 +5847,48 @@
             },
             "duration": 1,
             "language": "ps1"
+          },
+          {
+            "timestamp": "2025-07-28T12:57:17.175Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 0,
+            "linesRemoved": 115,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-07-28T12:57:18.243Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-07-28T12:57:20.542Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 0,
+            "linesRemoved": 115,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
           }
         ],
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.bat": [
@@ -5866,6 +5908,34 @@
           },
           {
             "timestamp": "2025-07-28T12:52:13.333Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.bat",
+            "fileType": ".bat",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-28T12:57:25.755Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.bat",
+            "fileType": ".bat",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-07-28T12:57:26.855Z",
             "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\start-app.bat",
             "fileType": ".bat",
             "linesAdded": 18,

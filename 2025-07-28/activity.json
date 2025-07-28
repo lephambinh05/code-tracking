@@ -5665,6 +5665,129 @@
         "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-1\\Views\\KhachHang\\TaiKhoan.cshtml"
       ],
       "averageChangeSize": 414
+    },
+    "quanlyRapChieuPhim-2": {
+      "totalLinesAdded": 884,
+      "totalLinesRemoved": 223,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
+          {
+            "timestamp": "2025-07-28T12:46:18.640Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs",
+            "fileType": ".cs",
+            "linesAdded": 292,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-28T12:46:19.786Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs",
+            "fileType": ".cs",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-28T12:47:36.838Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs",
+            "fileType": ".cs",
+            "linesAdded": 0,
+            "linesRemoved": 223,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Services\\BankingService.cs": [
+          {
+            "timestamp": "2025-07-28T12:47:03.863Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Services\\BankingService.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-28T12:47:04.932Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Services\\BankingService.cs",
+            "fileType": ".cs",
+            "linesAdded": 249,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ],
+        "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Program.cs": [
+          {
+            "timestamp": "2025-07-28T12:47:44.372Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 246,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          },
+          {
+            "timestamp": "2025-07-28T12:47:45.396Z",
+            "fileName": "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Program.cs",
+            "fileType": ".cs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cs"
+          }
+        ]
+      },
+      "languageStats": {
+        "cs": 6
+      },
+      "changeFrequency": {
+        "19": 6
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs",
+        "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Services\\BankingService.cs",
+        "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Program.cs"
+      ],
+      "averageChangeSize": 158.14285714285714
     }
   },
   "totalActiveTime": 11,

@@ -5667,9 +5667,9 @@
       "averageChangeSize": 414
     },
     "quanlyRapChieuPhim-2": {
-      "totalLinesAdded": 1748,
+      "totalLinesAdded": 1876,
       "totalLinesRemoved": 472,
-      "totalActiveTime": 34,
+      "totalActiveTime": 35,
       "files": {
         "c:\\Users\\lephambinh\\quanlyRapChieuPhim-2\\Controllers\\CronController.cs": [
           {
@@ -6125,6 +6125,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\add_godfather_schedules.sql": [
+          {
+            "timestamp": "2025-07-28T14:08:55.609Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\add_godfather_schedules.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-07-28T14:08:56.668Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\quanlyRapChieuPhim-2\\add_godfather_schedules.sql",
+            "fileType": ".sql",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "quanlyRapChieuPhim-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
           }
         ]
       },

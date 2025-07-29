@@ -3,7 +3,7 @@
   "projects": {
     "appProject": {
       "totalLinesAdded": 11775,
-      "totalLinesRemoved": 593,
+      "totalLinesRemoved": 689,
       "totalActiveTime": 130,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
@@ -643,6 +643,20 @@
             "fileType": ".yaml",
             "linesAdded": 10,
             "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-07-29T12:40:04.931Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 96,
             "projectName": "appProject",
             "content": {
               "added": [],

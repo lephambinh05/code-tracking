@@ -65,9 +65,9 @@
       "averageChangeSize": 192
     },
     "appProject": {
-      "totalLinesAdded": 71,
+      "totalLinesAdded": 1028,
       "totalLinesRemoved": 219,
-      "totalActiveTime": 11,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\firebase_options.dart": [
           {
@@ -146,6 +146,20 @@
             "fileType": ".dart",
             "linesAdded": 0,
             "linesRemoved": 63,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T18:30:49.462Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 83,
+            "linesRemoved": 0,
             "projectName": "appProject",
             "content": {
               "added": [],
@@ -286,6 +300,96 @@
               "removed": []
             },
             "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\firebase_data_seeder.dart": [
+          {
+            "timestamp": "2025-07-29T18:32:13.819Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\firebase_data_seeder.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T18:32:14.870Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\firebase_data_seeder.dart",
+            "fileType": ".dart",
+            "linesAdded": 443,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\run_firebase_seeder.dart": [
+          {
+            "timestamp": "2025-07-29T18:32:28.717Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\run_firebase_seeder.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T18:32:30.918Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\run_firebase_seeder.dart",
+            "fileType": ".dart",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\firebase_seeder.dart": [
+          {
+            "timestamp": "2025-07-29T18:35:27.544Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\firebase_seeder.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T18:35:28.604Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\firebase_seeder.dart",
+            "fileType": ".dart",
+            "linesAdded": 390,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ]

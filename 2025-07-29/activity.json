@@ -2,9 +2,9 @@
   "date": "2025-07-29",
   "projects": {
     "appProject": {
-      "totalLinesAdded": 4029,
+      "totalLinesAdded": 4557,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 39,
+      "totalActiveTime": 41,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
           {
@@ -288,6 +288,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T10:08:14.443Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\config\\app_config.dart",
+            "fileType": ".dart",
+            "linesAdded": 169,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\logger_service.dart": [
@@ -484,6 +498,20 @@
             },
             "duration": 1,
             "language": "gradle"
+          },
+          {
+            "timestamp": "2025-07-29T10:08:31.034Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 208,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\appProject\\android\\app\\proguard-rules.pro": [
@@ -536,6 +564,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\ios\\Runner\\Info.plist",
             "fileType": ".plist",
             "linesAdded": 150,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "plist"
+          },
+          {
+            "timestamp": "2025-07-29T10:08:41.673Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\ios\\Runner\\Info.plist",
+            "fileType": ".plist",
+            "linesAdded": 151,
             "linesRemoved": 0,
             "projectName": "appProject",
             "content": {

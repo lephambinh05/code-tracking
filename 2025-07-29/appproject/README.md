@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5442                                          |
-| **Lines Removed** (➖) | 113                                        |
-| **Net Change** (↕)    | 5329                |
-| **Active Time** (⌚)   | 84 minutes |
+| **Lines Added** (➕)   | 6168                                          |
+| **Lines Removed** (➖) | 232                                        |
+| **Net Change** (↕)    | 5936                |
+| **Active Time** (⌚)   | 91 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **task_repository.dart** (+264, -0)
 - **task.dart** (+225, -0)
 - **task_provider.dart** (+340, -0)
-- **main.dart** (+518, -23)
+- **main.dart** (+518, -141)
 - **sync_status_widget.dart** (+243, -0)
 - **connectivity_service.dart** (+90, -0)
 - **app_config.dart** (+349, -4)
@@ -44,6 +44,9 @@
 - **Roboto-Regular.ttf** (+2, -0)
 - **Roboto-Bold.ttf** (+2, -0)
 - **Roboto-Light.ttf** (+2, -0)
+- **splash_screen.dart** (+155, -0)
+- **onboarding_screen.dart** (+233, -1)
+- **login_screen.dart** (+338, -0)
 
 ## Visualizations
 
@@ -52,7 +55,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 4086
+".dart" : 4931
 ".yaml" : 252
 ".gradle" : 521
 ".pro" : 177
@@ -69,8 +72,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "01h" : 36
-"17h" : 41
+"17h" : 48
 ```
 
 
-> **Last Updated:** 7/29/2025, 5:35:48 PM
+> **Last Updated:** 7/29/2025, 5:45:48 PM

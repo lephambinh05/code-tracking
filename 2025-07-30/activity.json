@@ -66,8 +66,8 @@
     },
     "appProject": {
       "totalLinesAdded": 10,
-      "totalLinesRemoved": 65,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 107,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\firebase_options.dart": [
           {
@@ -155,6 +155,20 @@
             },
             "duration": 0,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T17:57:21.199Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml": [
@@ -171,6 +185,36 @@
             },
             "duration": 1,
             "language": "yaml"
+          },
+          {
+            "timestamp": "2025-07-29T17:56:59.923Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\repositories\\user_repository.dart": [
+          {
+            "timestamp": "2025-07-29T17:58:30.842Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\repositories\\user_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
           }
         ]
       },

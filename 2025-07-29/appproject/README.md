@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7242                                          |
+| **Lines Added** (➕)   | 7739                                          |
 | **Lines Removed** (➖) | 554                                        |
-| **Net Change** (↕)    | 6688                |
-| **Active Time** (⌚)   | 100 minutes |
+| **Net Change** (↕)    | 7185                |
+| **Active Time** (⌚)   | 104 minutes |
 
 
 ## Modified Files
@@ -46,8 +46,9 @@
 - **Roboto-Light.ttf** (+2, -0)
 - **splash_screen.dart** (+155, -0)
 - **onboarding_screen.dart** (+233, -1)
-- **login_screen.dart** (+437, -0)
+- **login_screen.dart** (+446, -0)
 - **dashboard_screen.dart** (+920, -267)
+- **register_screen.dart** (+488, -0)
 
 ## Visualizations
 
@@ -56,7 +57,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 6307
+".dart" : 6804
 ".yaml" : 272
 ".gradle" : 521
 ".pro" : 177
@@ -74,8 +75,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "01h" : 36
 "17h" : 52
-"18h" : 4
+"18h" : 7
 ```
 
 
-> **Last Updated:** 7/29/2025, 6:05:48 PM
+> **Last Updated:** 7/29/2025, 6:10:48 PM

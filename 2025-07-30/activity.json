@@ -2,9 +2,9 @@
   "date": "2025-07-30",
   "projects": {
     "CSDL": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 320,
       "totalLinesRemoved": 192,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\CSDL\\cau_hoi_on_thi.txt": [
           {
@@ -19,6 +19,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\CSDL\\dap_an_chi_tiet.txt": [
+          {
+            "timestamp": "2025-07-29T17:27:29.625Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CSDL\\dap_an_chi_tiet.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CSDL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-29T17:27:30.696Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CSDL\\dap_an_chi_tiet.txt",
+            "fileType": ".txt",
+            "linesAdded": 319,
+            "linesRemoved": 0,
+            "projectName": "CSDL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "txt"
           }
         ]

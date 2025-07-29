@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 262                                          |
+| **Lines Added** (➕)   | 795                                          |
 | **Lines Removed** (➖) | 29                                        |
-| **Net Change** (↕)    | 233                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Net Change** (↕)    | 766                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **noidung.txt** (+46, -29)
-- **noidung_chi_tiet.txt** (+216, -0)
+- **noidung_chi_tiet.txt** (+508, -0)
+- **cau_hoi_on_thi.txt** (+241, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 291
+".txt" : 824
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "22h" : 2
-"23h" : 3
+"23h" : 6
 ```
 
 
-> **Last Updated:** 7/29/2025, 11:35:01 PM
+> **Last Updated:** 7/29/2025, 11:50:01 PM

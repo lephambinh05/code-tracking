@@ -3,7 +3,7 @@
   "projects": {
     "appProject": {
       "totalLinesAdded": 11930,
-      "totalLinesRemoved": 695,
+      "totalLinesRemoved": 696,
       "totalActiveTime": 148,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
@@ -281,6 +281,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T13:06:52.248Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ],

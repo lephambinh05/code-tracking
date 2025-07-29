@@ -65,9 +65,9 @@
       "averageChangeSize": 192
     },
     "appProject": {
-      "totalLinesAdded": 1846,
+      "totalLinesAdded": 1899,
       "totalLinesRemoved": 219,
-      "totalActiveTime": 40,
+      "totalActiveTime": 44,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\firebase_options.dart": [
           {
@@ -585,6 +585,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\setup.js": [
+          {
+            "timestamp": "2025-07-29T20:36:38.893Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\setup.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-29T20:36:40.262Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\setup.js",
+            "fileType": ".js",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

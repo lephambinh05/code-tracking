@@ -1850,7 +1850,7 @@
     },
     "CSDL": {
       "totalLinesAdded": 46,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 29,
       "totalActiveTime": 1,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\CSDL\\noidung.txt": [
@@ -1880,6 +1880,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-29T16:29:01.231Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CSDL\\noidung.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "CSDL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "txt"
           }
         ]

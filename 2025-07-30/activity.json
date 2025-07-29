@@ -65,7 +65,7 @@
       "averageChangeSize": 192
     },
     "appProject": {
-      "totalLinesAdded": 59,
+      "totalLinesAdded": 62,
       "totalLinesRemoved": 156,
       "totalActiveTime": 10,
       "files": {
@@ -244,6 +244,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T18:19:03.254Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ]

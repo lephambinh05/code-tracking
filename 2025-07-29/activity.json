@@ -2,9 +2,9 @@
   "date": "2025-07-29",
   "projects": {
     "appProject": {
-      "totalLinesAdded": 6168,
-      "totalLinesRemoved": 232,
-      "totalActiveTime": 91,
+      "totalLinesAdded": 6821,
+      "totalLinesRemoved": 499,
+      "totalActiveTime": 92,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
           {
@@ -1245,6 +1245,36 @@
             "fileType": ".dart",
             "linesAdded": 14,
             "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart": [
+          {
+            "timestamp": "2025-07-29T10:53:26.018Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 653,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T10:53:27.044Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 267,
             "projectName": "appProject",
             "content": {
               "added": [],

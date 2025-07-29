@@ -65,9 +65,9 @@
       "averageChangeSize": 192
     },
     "appProject": {
-      "totalLinesAdded": 1524,
+      "totalLinesAdded": 1846,
       "totalLinesRemoved": 219,
-      "totalActiveTime": 30,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\firebase_options.dart": [
           {
@@ -495,6 +495,96 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\firebase_seeder.js": [
+          {
+            "timestamp": "2025-07-29T20:30:09.592Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\firebase_seeder.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-29T20:30:10.284Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\firebase_seeder.js",
+            "fileType": ".js",
+            "linesAdded": 287,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\package.json": [
+          {
+            "timestamp": "2025-07-29T20:31:34.019Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T20:31:35.293Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\package.json",
+            "fileType": ".json",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\serviceAccountKey.example.json": [
+          {
+            "timestamp": "2025-07-29T20:34:31.113Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\serviceAccountKey.example.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-29T20:34:32.302Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\serviceAccountKey.example.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

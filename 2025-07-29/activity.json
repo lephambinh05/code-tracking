@@ -2,9 +2,9 @@
   "date": "2025-07-29",
   "projects": {
     "appProject": {
-      "totalLinesAdded": 10819,
+      "totalLinesAdded": 11598,
       "totalLinesRemoved": 554,
-      "totalActiveTime": 120,
+      "totalActiveTime": 121,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
           {
@@ -1566,6 +1566,36 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\repositories\\user_repository.dart",
             "fileType": ".dart",
             "linesAdded": 437,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\admin\\user_management_screen.dart": [
+          {
+            "timestamp": "2025-07-29T11:59:17.394Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\admin\\user_management_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T11:59:18.435Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\admin\\user_management_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 778,
             "linesRemoved": 0,
             "projectName": "appProject",
             "content": {

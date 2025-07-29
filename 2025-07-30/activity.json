@@ -65,9 +65,9 @@
       "averageChangeSize": 192
     },
     "appProject": {
-      "totalLinesAdded": 1028,
+      "totalLinesAdded": 1173,
       "totalLinesRemoved": 219,
-      "totalActiveTime": 21,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\firebase_options.dart": [
           {
@@ -391,6 +391,66 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\firebase_import.js": [
+          {
+            "timestamp": "2025-07-29T18:39:42.420Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\firebase_import.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-29T18:39:43.471Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\firebase_import.js",
+            "fileType": ".js",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\quick_import.js": [
+          {
+            "timestamp": "2025-07-29T18:40:42.235Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\quick_import.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-29T18:40:43.272Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\scripts\\quick_import.js",
+            "fileType": ".js",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

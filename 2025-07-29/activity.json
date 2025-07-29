@@ -3,8 +3,8 @@
   "projects": {
     "appProject": {
       "totalLinesAdded": 11864,
-      "totalLinesRemoved": 694,
-      "totalActiveTime": 137,
+      "totalLinesRemoved": 695,
+      "totalActiveTime": 141,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
           {
@@ -1619,6 +1619,20 @@
             "fileType": ".dart",
             "linesAdded": 73,
             "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T12:49:05.845Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\profile\\profile_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "appProject",
             "content": {
               "added": [],

@@ -2,9 +2,9 @@
   "date": "2025-07-29",
   "projects": {
     "appProject": {
-      "totalLinesAdded": 5300,
+      "totalLinesAdded": 5442,
       "totalLinesRemoved": 113,
-      "totalActiveTime": 68,
+      "totalActiveTime": 84,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
           {
@@ -552,6 +552,20 @@
             },
             "duration": 1,
             "language": "yaml"
+          },
+          {
+            "timestamp": "2025-07-29T10:34:12.312Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 126,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\appProject\\android\\app\\build.gradle": [
@@ -894,6 +908,246 @@
             },
             "duration": 1,
             "language": "xml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\icons\\app_icon.png": [
+          {
+            "timestamp": "2025-07-29T10:32:47.251Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\icons\\app_icon.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "png"
+          },
+          {
+            "timestamp": "2025-07-29T10:32:48.312Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\icons\\app_icon.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "png"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\splash_logo.png": [
+          {
+            "timestamp": "2025-07-29T10:32:55.058Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\splash_logo.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "png"
+          },
+          {
+            "timestamp": "2025-07-29T10:32:56.107Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\splash_logo.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "png"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\branding.png": [
+          {
+            "timestamp": "2025-07-29T10:33:02.627Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\branding.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "png"
+          },
+          {
+            "timestamp": "2025-07-29T10:33:03.720Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\branding.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "png"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\splash_logo_dark.png": [
+          {
+            "timestamp": "2025-07-29T10:33:11.411Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\splash_logo_dark.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "png"
+          },
+          {
+            "timestamp": "2025-07-29T10:33:12.489Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\splash_logo_dark.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "png"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\branding_dark.png": [
+          {
+            "timestamp": "2025-07-29T10:33:23.410Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\branding_dark.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "png"
+          },
+          {
+            "timestamp": "2025-07-29T10:33:24.484Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\images\\branding_dark.png",
+            "fileType": ".png",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "png"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\fonts\\Roboto-Regular.ttf": [
+          {
+            "timestamp": "2025-07-29T10:33:31.004Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\fonts\\Roboto-Regular.ttf",
+            "fileType": ".ttf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ttf"
+          },
+          {
+            "timestamp": "2025-07-29T10:33:32.073Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\fonts\\Roboto-Regular.ttf",
+            "fileType": ".ttf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ttf"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\fonts\\Roboto-Bold.ttf": [
+          {
+            "timestamp": "2025-07-29T10:33:38.904Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\fonts\\Roboto-Bold.ttf",
+            "fileType": ".ttf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ttf"
+          },
+          {
+            "timestamp": "2025-07-29T10:33:40.144Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\fonts\\Roboto-Bold.ttf",
+            "fileType": ".ttf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ttf"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\fonts\\Roboto-Light.ttf": [
+          {
+            "timestamp": "2025-07-29T10:33:47.739Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\fonts\\Roboto-Light.ttf",
+            "fileType": ".ttf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ttf"
+          },
+          {
+            "timestamp": "2025-07-29T10:33:48.813Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\assets\\fonts\\Roboto-Light.ttf",
+            "fileType": ".ttf",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ttf"
           }
         ]
       },

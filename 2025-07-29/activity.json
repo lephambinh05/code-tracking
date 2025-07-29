@@ -2,9 +2,9 @@
   "date": "2025-07-29",
   "projects": {
     "appProject": {
-      "totalLinesAdded": 11598,
+      "totalLinesAdded": 11716,
       "totalLinesRemoved": 554,
-      "totalActiveTime": 121,
+      "totalActiveTime": 127,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\core\\services\\sync_service.dart": [
           {
@@ -1336,6 +1336,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T12:04:30.690Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\auth\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart": [
@@ -1513,6 +1527,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T12:03:08.200Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\profile\\profile_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "dart"
           }
         ],

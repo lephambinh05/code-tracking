@@ -1819,6 +1819,53 @@
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\providers\\task_provider.dart"
       ],
       "averageChangeSize": 118.25
+    },
+    "CSDL": {
+      "totalLinesAdded": 46,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\CSDL\\noidung.txt": [
+          {
+            "timestamp": "2025-07-29T15:55:02.866Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CSDL\\noidung.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CSDL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-07-29T15:55:03.572Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\CSDL\\noidung.txt",
+            "fileType": ".txt",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "CSDL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 1
+      },
+      "changeFrequency": {
+        "22": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\CSDL\\noidung.txt"
+      ],
+      "averageChangeSize": 23
     }
   },
   "totalActiveTime": 12,

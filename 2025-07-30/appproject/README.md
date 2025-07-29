@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10                                          |
-| **Lines Removed** (➖) | 107                                        |
+| **Lines Added** (➕)   | 59                                          |
+| **Lines Removed** (➖) | 156                                        |
 | **Net Change** (↕)    | -97                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,7 @@
 - **main.dart** (+0, -8)
 - **pubspec.yaml** (+8, -15)
 - **user_repository.dart** (+0, -21)
+- **dashboard_screen.dart** (+49, -49)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 94
+".dart" : 192
 ".yaml" : 23
 ```
 
@@ -33,7 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 10
+"01h" : 2
 ```
 
 
-> **Last Updated:** 7/30/2025, 1:00:48 AM
+> **Last Updated:** 7/30/2025, 1:15:48 AM

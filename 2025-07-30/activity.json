@@ -65,9 +65,9 @@
       "averageChangeSize": 192
     },
     "appProject": {
-      "totalLinesAdded": 10,
-      "totalLinesRemoved": 107,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 59,
+      "totalLinesRemoved": 156,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\firebase_options.dart": [
           {
@@ -214,6 +214,36 @@
               "removed": []
             },
             "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart": [
+          {
+            "timestamp": "2025-07-29T18:12:17.215Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 49,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-29T18:12:47.764Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ]

@@ -2,9 +2,9 @@
   "date": "2025-07-31",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 967,
+      "totalLinesAdded": 1508,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 10,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\models\\task.dart": [
           {
@@ -154,6 +154,96 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\dashboard\\profile\\profile_screen.dart": [
+          {
+            "timestamp": "2025-07-30T19:53:05.015Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\dashboard\\profile\\profile_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-30T19:53:05.142Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\dashboard\\profile\\profile_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 446,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\widgets\\common\\loading_indicator.dart": [
+          {
+            "timestamp": "2025-07-30T19:53:16.628Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\widgets\\common\\loading_indicator.dart",
+            "fileType": ".dart",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-30T19:53:16.744Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\widgets\\common\\loading_indicator.dart",
+            "fileType": ".dart",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\src\\main\\AndroidManifest.xml": [
+          {
+            "timestamp": "2025-07-30T19:53:38.039Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-07-30T19:53:38.177Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
           }
         ]
       },

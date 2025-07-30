@@ -1,0 +1,61 @@
+{
+  "date": "2025-07-31",
+  "projects": {
+    "studyBuddy": {
+      "totalLinesAdded": 207,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\models\\task.dart": [
+          {
+            "timestamp": "2025-07-30T19:27:18.797Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\models\\task.dart",
+            "fileType": ".dart",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-30T19:27:18.950Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\models\\task.dart",
+            "fileType": ".dart",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 1
+      },
+      "changeFrequency": {
+        "2": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\models\\task.dart"
+      ],
+      "averageChangeSize": 103.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "dart"
+  ]
+}

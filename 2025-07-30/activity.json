@@ -93,9 +93,9 @@
       "averageChangeSize": 192
     },
     "appProject": {
-      "totalLinesAdded": 1948,
+      "totalLinesAdded": 2623,
       "totalLinesRemoved": 219,
-      "totalActiveTime": 45,
+      "totalActiveTime": 48,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\firebase_options.dart": [
           {
@@ -358,6 +358,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-30T15:48:22.188Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\firebase_data_seeder.dart",
+            "fileType": ".dart",
+            "linesAdded": 444,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ],
@@ -673,6 +687,36 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\simple_firebase_seeder.dart": [
+          {
+            "timestamp": "2025-07-30T15:49:41.532Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\simple_firebase_seeder.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-07-30T15:49:42.135Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\appProject\\lib\\scripts\\simple_firebase_seeder.dart",
+            "fileType": ".dart",
+            "linesAdded": 230,
+            "linesRemoved": 0,
+            "projectName": "appProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ]
       },

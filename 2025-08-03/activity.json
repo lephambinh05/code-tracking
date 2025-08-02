@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 957,
+      "totalLinesAdded": 1360,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 22,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\build.gradle.kts": [
           {
@@ -255,6 +255,52 @@
             "fileType": ".dart",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\repositories\\user_repository.dart": [
+          {
+            "timestamp": "2025-08-02T17:29:54.574Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\repositories\\user_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\auth_provider.dart": [
+          {
+            "timestamp": "2025-08-02T17:30:06.756Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\auth_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-02T17:30:20.732Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\auth_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 14,
+            "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {
               "added": [],

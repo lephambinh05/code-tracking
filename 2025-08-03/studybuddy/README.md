@@ -4,16 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 95                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 95                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Lines Added** (➕)   | 771                                          |
+| **Lines Removed** (➖) | 16                                        |
+| **Net Change** (↕)    | 755                |
+| **Active Time** (⌚)   | 19 minutes |
 
 
 ## Modified Files
 - **build.gradle.kts** (+46, -0)
 - **build.gradle.kts** (+28, -0)
 - **app_config.dart** (+21, -0)
+- **index.html** (+62, -0)
+- **main.dart** (+64, -0)
+- **pubspec.yaml** (+121, -0)
+- **splash_screen.dart** (+109, -16)
+- **register_screen.dart** (+262, -0)
+- **auth_form_field.dart** (+58, -0)
 
 ## Visualizations
 
@@ -23,7 +29,9 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 21
+".dart" : 530
+".html" : 62
+".yaml" : 121
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +39,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 3
+"00h" : 14
 ```
 
 
-> **Last Updated:** 8/3/2025, 12:10:38 AM
+> **Last Updated:** 8/3/2025, 12:15:38 AM

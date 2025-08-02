@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 771                                          |
-| **Lines Removed** (➖) | 16                                        |
-| **Net Change** (↕)    | 755                |
-| **Active Time** (⌚)   | 19 minutes |
+| **Lines Added** (➕)   | 957                                          |
+| **Lines Removed** (➖) | 22                                        |
+| **Net Change** (↕)    | 935                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,7 @@
 - **splash_screen.dart** (+109, -16)
 - **register_screen.dart** (+262, -0)
 - **auth_form_field.dart** (+58, -0)
+- **login_screen.dart** (+186, -6)
 
 ## Visualizations
 
@@ -29,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 530
+".dart" : 722
 ".html" : 62
 ".yaml" : 121
 ```
@@ -39,8 +40,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 14
+"00h" : 17
 ```
 
 
-> **Last Updated:** 8/3/2025, 12:15:38 AM
+> **Last Updated:** 8/3/2025, 12:20:38 AM

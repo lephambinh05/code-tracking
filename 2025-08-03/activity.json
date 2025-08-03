@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 17789,
+      "totalLinesAdded": 17925,
       "totalLinesRemoved": 561,
-      "totalActiveTime": 293,
+      "totalActiveTime": 299,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\build.gradle.kts": [
           {
@@ -1276,6 +1276,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T15:42:07.192Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\task_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\connectivity_service.dart": [
@@ -1552,6 +1566,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\tasks\\tasks_screen.dart",
             "fileType": ".dart",
             "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T15:42:40.083Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\tasks\\tasks_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T15:43:16.880Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\tasks\\tasks_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 56,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

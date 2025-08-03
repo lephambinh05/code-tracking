@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16096                                          |
+| **Lines Added** (➕)   | 16484                                          |
 | **Lines Removed** (➖) | 464                                        |
-| **Net Change** (↕)    | 15632                |
-| **Active Time** (⌚)   | 224 minutes |
+| **Net Change** (↕)    | 16020                |
+| **Active Time** (⌚)   | 225 minutes |
 
 
 ## Modified Files
@@ -70,6 +70,7 @@
 - **deploy_production.py** (+428, -0)
 - **build_production.bat** (+83, -0)
 - **auth_service.dart** (+181, -0)
+- **signup_screen.dart** (+388, -0)
 
 ## Visualizations
 
@@ -79,7 +80,7 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 14504
+".dart" : 14892
 ".html" : 62
 ".yaml" : 407
 "unknown" : 4
@@ -103,8 +104,8 @@ title Coding activity by hour (count of changes)
 "18h" : 19
 "19h" : 21
 "20h" : 29
-"21h" : 15
+"21h" : 17
 ```
 
 
-> **Last Updated:** 8/3/2025, 9:19:08 PM
+> **Last Updated:** 8/3/2025, 9:24:08 PM

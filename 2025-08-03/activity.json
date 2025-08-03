@@ -1808,9 +1808,9 @@
       "averageChangeSize": 31.666666666666668
     },
     "BOZ-RAT": {
-      "totalLinesAdded": 3538,
+      "totalLinesAdded": 3557,
       "totalLinesRemoved": 176,
-      "totalActiveTime": 40,
+      "totalActiveTime": 42,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\server\\package.json": [
           {
@@ -1862,6 +1862,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\server\\server.js",
             "fileType": ".js",
             "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T12:45:39.070Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\server\\server.js",
+            "fileType": ".js",
+            "linesAdded": 14,
             "linesRemoved": 0,
             "projectName": "BOZ-RAT",
             "content": {
@@ -2114,6 +2128,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\client.js",
             "fileType": ".js",
             "linesAdded": 363,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T12:45:23.062Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\client.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T12:45:47.683Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\client.js",
+            "fileType": ".js",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "BOZ-RAT",
             "content": {

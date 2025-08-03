@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 14968,
-      "totalLinesRemoved": 462,
-      "totalActiveTime": 201,
+      "totalLinesAdded": 14970,
+      "totalLinesRemoved": 463,
+      "totalActiveTime": 207,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\build.gradle.kts": [
           {
@@ -2341,6 +2341,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-03T14:01:26.123Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\scripts\\import_data.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-03T14:01:45.125Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\scripts\\import_data.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],

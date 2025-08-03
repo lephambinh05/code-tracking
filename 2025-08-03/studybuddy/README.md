@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5701                                          |
-| **Lines Removed** (➖) | 68                                        |
-| **Net Change** (↕)    | 5633                |
-| **Active Time** (⌚)   | 95 minutes |
+| **Lines Added** (➕)   | 5768                                          |
+| **Lines Removed** (➖) | 71                                        |
+| **Net Change** (↕)    | 5697                |
+| **Active Time** (⌚)   | 106 minutes |
 
 
 ## Modified Files
@@ -19,16 +19,16 @@
 - **pubspec.yaml** (+243, -1)
 - **splash_screen.dart** (+109, -16)
 - **register_screen.dart** (+279, -0)
-- **auth_form_field.dart** (+119, -0)
+- **auth_form_field.dart** (+120, -0)
 - **login_screen.dart** (+200, -6)
 - **user_repository.dart** (+191, -1)
 - **auth_provider.dart** (+234, -16)
 - **shared_prefs_service.dart** (+51, -0)
 - **firebase_auth_service.dart** (+199, -0)
 - **app_router.dart** (+258, -0)
-- **sqlite_database.dart** (+135, -0)
+- **sqlite_database.dart** (+141, -0)
 - **sync_service.dart** (+362, -0)
-- **task_repository.dart** (+308, -0)
+- **task_repository.dart** (+368, -3)
 - **task.dart** (+268, -0)
 - **task_provider.dart** (+304, -0)
 - **connectivity_service.dart** (+87, -0)
@@ -52,7 +52,7 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 5389
+".dart" : 5459
 ".html" : 62
 ".yaml" : 244
 ```
@@ -64,8 +64,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 31
 "08h" : 14
-"09h" : 37
+"09h" : 45
 ```
 
 
-> **Last Updated:** 8/3/2025, 9:50:06 AM
+> **Last Updated:** 8/3/2025, 9:55:06 AM

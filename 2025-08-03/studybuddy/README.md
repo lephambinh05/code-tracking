@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14970                                          |
-| **Lines Removed** (➖) | 463                                        |
-| **Net Change** (↕)    | 14507                |
-| **Active Time** (⌚)   | 207 minutes |
+| **Lines Added** (➕)   | 15580                                          |
+| **Lines Removed** (➖) | 464                                        |
+| **Net Change** (↕)    | 15116                |
+| **Active Time** (⌚)   | 219 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **build.gradle.kts** (+28, -0)
 - **app_config.dart** (+21, -0)
 - **index.html** (+62, -0)
-- **main.dart** (+192, -3)
+- **main.dart** (+193, -4)
 - **pubspec.yaml** (+406, -1)
 - **splash_screen.dart** (+109, -16)
 - **register_screen.dart** (+279, -0)
@@ -66,6 +66,9 @@
 - **import_data.sh** (+37, -0)
 - **import_data.js** (+318, -0)
 - **package.json** (+21, -0)
+- **firebase_service.dart** (+107, -0)
+- **deploy_production.py** (+419, -0)
+- **build_production.bat** (+83, -0)
 
 ## Visualizations
 
@@ -75,14 +78,14 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 13888
+".dart" : 13997
 ".html" : 62
 ".yaml" : 407
 "unknown" : 4
-".py" : 410
+".py" : 829
 ".txt" : 3
 ".json" : 191
-".bat" : 39
+".bat" : 122
 ".sh" : 37
 ".js" : 318
 ```
@@ -99,8 +102,8 @@ title Coding activity by hour (count of changes)
 "18h" : 19
 "19h" : 21
 "20h" : 29
-"21h" : 2
+"21h" : 10
 ```
 
 
-> **Last Updated:** 8/3/2025, 9:04:08 PM
+> **Last Updated:** 8/3/2025, 9:09:08 PM

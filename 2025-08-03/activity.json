@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 9818,
+      "totalLinesAdded": 9973,
       "totalLinesRemoved": 73,
-      "totalActiveTime": 135,
+      "totalActiveTime": 139,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\build.gradle.kts": [
           {
@@ -191,6 +191,34 @@
             "fileType": ".yaml",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-03T11:10:23.484Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-03T11:10:24.719Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 34,
+            "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {
               "added": [],

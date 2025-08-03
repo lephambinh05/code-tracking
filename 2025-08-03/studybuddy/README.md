@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15589                                          |
+| **Lines Added** (➕)   | 16096                                          |
 | **Lines Removed** (➖) | 464                                        |
-| **Net Change** (↕)    | 15125                |
-| **Active Time** (⌚)   | 221 minutes |
+| **Net Change** (↕)    | 15632                |
+| **Active Time** (⌚)   | 224 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **splash_screen.dart** (+109, -16)
 - **register_screen.dart** (+279, -0)
 - **auth_form_field.dart** (+120, -0)
-- **login_screen.dart** (+200, -6)
+- **login_screen.dart** (+526, -6)
 - **user_repository.dart** (+568, -45)
 - **auth_provider.dart** (+234, -16)
 - **shared_prefs_service.dart** (+51, -0)
@@ -69,6 +69,7 @@
 - **firebase_service.dart** (+107, -0)
 - **deploy_production.py** (+428, -0)
 - **build_production.bat** (+83, -0)
+- **auth_service.dart** (+181, -0)
 
 ## Visualizations
 
@@ -78,7 +79,7 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 13997
+".dart" : 14504
 ".html" : 62
 ".yaml" : 407
 "unknown" : 4
@@ -102,8 +103,8 @@ title Coding activity by hour (count of changes)
 "18h" : 19
 "19h" : 21
 "20h" : 29
-"21h" : 11
+"21h" : 15
 ```
 
 
-> **Last Updated:** 8/3/2025, 9:14:08 PM
+> **Last Updated:** 8/3/2025, 9:19:08 PM

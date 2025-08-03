@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 17576,
+      "totalLinesAdded": 17619,
       "totalLinesRemoved": 519,
-      "totalActiveTime": 273,
+      "totalActiveTime": 276,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\build.gradle.kts": [
           {
@@ -1644,6 +1644,62 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\widgets\\task\\task_card.dart",
             "fileType": ".dart",
             "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T15:22:05.067Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\widgets\\task\\task_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T15:22:33.969Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\widgets\\task\\task_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T15:23:02.690Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\widgets\\task\\task_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T15:23:48.006Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\widgets\\task\\task_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 19,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 727,
-      "totalLinesRemoved": 65,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 728,
+      "totalLinesRemoved": 67,
+      "totalActiveTime": 59,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\task_provider.dart": [
           {
@@ -522,6 +522,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T19:44:06.295Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\notification_service.dart": [
@@ -687,6 +701,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "rules"
+          },
+          {
+            "timestamp": "2025-08-03T19:39:41.493Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\firestore.rules",
+            "fileType": ".rules",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "rules"
           }
         ]

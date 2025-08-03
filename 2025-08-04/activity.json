@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 1698,
-      "totalLinesRemoved": 347,
-      "totalActiveTime": 139,
+      "totalLinesAdded": 1699,
+      "totalLinesRemoved": 348,
+      "totalActiveTime": 141,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\task_provider.dart": [
           {
@@ -746,6 +746,20 @@
             },
             "duration": 2,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T21:59:35.190Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\notification_service.dart": [
@@ -1359,6 +1373,20 @@
             "fileType": ".dart",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T22:01:04.762Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\widgets\\task\\task_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {
               "added": [],

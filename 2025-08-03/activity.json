@@ -1703,8 +1703,8 @@
     },
     "BOZ-RAT": {
       "totalLinesAdded": 3538,
-      "totalLinesRemoved": 41,
-      "totalActiveTime": 39,
+      "totalLinesRemoved": 176,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\server\\package.json": [
           {
@@ -1972,6 +1972,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-03T11:14:26.983Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\client.js": [
@@ -2141,6 +2155,20 @@
             "fileType": ".js",
             "linesAdded": 326,
             "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T11:15:17.905Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\password-recovery.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 131,
             "projectName": "BOZ-RAT",
             "content": {
               "added": [],

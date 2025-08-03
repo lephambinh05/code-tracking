@@ -1504,9 +1504,9 @@
       "averageChangeSize": 31.666666666666668
     },
     "BOZ-RAT": {
-      "totalLinesAdded": 1343,
+      "totalLinesAdded": 3533,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 16,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\server\\package.json": [
           {
@@ -1746,6 +1746,276 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\client.js": [
+          {
+            "timestamp": "2025-08-03T10:54:47.682Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\client.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T10:54:48.275Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\client.js",
+            "fileType": ".js",
+            "linesAdded": 363,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\anti-analysis.js": [
+          {
+            "timestamp": "2025-08-03T10:55:10.936Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\anti-analysis.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T10:55:11.174Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\anti-analysis.js",
+            "fileType": ".js",
+            "linesAdded": 207,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\keylogger.js": [
+          {
+            "timestamp": "2025-08-03T10:55:39.010Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\keylogger.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T10:55:39.279Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\keylogger.js",
+            "fileType": ".js",
+            "linesAdded": 249,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\password-recovery.js": [
+          {
+            "timestamp": "2025-08-03T10:56:23.670Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\password-recovery.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T10:56:24.235Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\password-recovery.js",
+            "fileType": ".js",
+            "linesAdded": 326,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\file-manager.js": [
+          {
+            "timestamp": "2025-08-03T10:57:09.190Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\file-manager.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T10:57:09.788Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\file-manager.js",
+            "fileType": ".js",
+            "linesAdded": 405,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\screen-capture.js": [
+          {
+            "timestamp": "2025-08-03T10:58:07.354Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\screen-capture.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T10:58:07.941Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\screen-capture.js",
+            "fileType": ".js",
+            "linesAdded": 375,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\build.bat": [
+          {
+            "timestamp": "2025-08-03T10:58:15.639Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\build.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-08-03T10:58:15.889Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\build.bat",
+            "fileType": ".bat",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\start-server.bat": [
+          {
+            "timestamp": "2025-08-03T10:58:22.795Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\start-server.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-08-03T10:58:23.056Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\start-server.bat",
+            "fileType": ".bat",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\demo.html": [
+          {
+            "timestamp": "2025-08-03T10:59:07.722Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\demo.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-03T10:59:08.030Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\demo.html",
+            "fileType": ".html",
+            "linesAdded": 234,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },

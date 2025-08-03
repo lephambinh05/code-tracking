@@ -2111,7 +2111,7 @@
     },
     "BOZ-RAT": {
       "totalLinesAdded": 3557,
-      "totalLinesRemoved": 176,
+      "totalLinesRemoved": 186,
       "totalActiveTime": 42,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\server\\package.json": [
@@ -2465,6 +2465,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T13:02:29.937Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\client.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

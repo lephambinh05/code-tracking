@@ -1674,9 +1674,9 @@
       "averageChangeSize": 31.666666666666668
     },
     "BOZ-RAT": {
-      "totalLinesAdded": 3533,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 34,
+      "totalLinesAdded": 3538,
+      "totalLinesRemoved": 41,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\server\\package.json": [
           {
@@ -1916,6 +1916,34 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-08-03T11:05:54.696Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-03T11:06:48.469Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\client.js": [
@@ -1999,6 +2027,62 @@
             "fileType": ".js",
             "linesAdded": 249,
             "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T11:06:12.994Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\keylogger.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T11:06:22.036Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\keylogger.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T11:06:29.932Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\keylogger.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "BOZ-RAT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-03T11:06:39.358Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\BOZ-RAT\\client\\modules\\keylogger.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "BOZ-RAT",
             "content": {
               "added": [],

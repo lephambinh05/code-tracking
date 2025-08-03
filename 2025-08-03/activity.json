@@ -3,8 +3,8 @@
   "projects": {
     "studyBuddy": {
       "totalLinesAdded": 9986,
-      "totalLinesRemoved": 73,
-      "totalActiveTime": 147,
+      "totalLinesRemoved": 74,
+      "totalActiveTime": 148,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\build.gradle.kts": [
           {
@@ -147,6 +147,20 @@
             "fileType": ".dart",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T11:44:25.208Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "studyBuddy",
             "content": {
               "added": [],

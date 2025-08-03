@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9986                                          |
-| **Lines Removed** (➖) | 74                                        |
-| **Net Change** (↕)    | 9912                |
-| **Active Time** (⌚)   | 148 minutes |
+| **Lines Added** (➕)   | 11535                                          |
+| **Lines Removed** (➖) | 404                                        |
+| **Net Change** (↕)    | 11131                |
+| **Active Time** (⌚)   | 163 minutes |
 
 
 ## Modified Files
@@ -21,18 +21,18 @@
 - **register_screen.dart** (+279, -0)
 - **auth_form_field.dart** (+120, -0)
 - **login_screen.dart** (+200, -6)
-- **user_repository.dart** (+191, -1)
+- **user_repository.dart** (+568, -1)
 - **auth_provider.dart** (+234, -16)
 - **shared_prefs_service.dart** (+51, -0)
 - **firebase_auth_service.dart** (+199, -0)
 - **app_router.dart** (+258, -0)
 - **sqlite_database.dart** (+141, -0)
 - **sync_service.dart** (+362, -0)
-- **task_repository.dart** (+368, -3)
+- **task_repository.dart** (+733, -194)
 - **task.dart** (+268, -0)
-- **task_provider.dart** (+329, -0)
+- **task_provider.dart** (+658, -104)
 - **connectivity_service.dart** (+87, -0)
-- **tasks_screen.dart** (+861, -1)
+- **tasks_screen.dart** (+861, -36)
 - **error_display_widget.dart** (+57, -0)
 - **empty_state_widget.dart** (+62, -0)
 - **task_list.dart** (+72, -0)
@@ -50,6 +50,10 @@
 - **.gitkeep** (+1, -0)
 - **.gitkeep** (+1, -0)
 - **.gitkeep** (+1, -0)
+- **task_model.dart** (+85, -0)
+- **event_model.dart** (+89, -0)
+- **user_model.dart** (+104, -0)
+- **event_repository.dart** (+200, -0)
 
 ## Visualizations
 
@@ -59,7 +63,7 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 9513
+".dart" : 11392
 ".html" : 62
 ".yaml" : 407
 "unknown" : 4
@@ -75,7 +79,8 @@ title Coding activity by hour (count of changes)
 "09h" : 45
 "17h" : 13
 "18h" : 19
+"19h" : 15
 ```
 
 
-> **Last Updated:** 8/3/2025, 6:49:08 PM
+> **Last Updated:** 8/3/2025, 7:54:08 PM

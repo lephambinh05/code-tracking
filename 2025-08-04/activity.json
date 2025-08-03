@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 1183,
+      "totalLinesAdded": 1478,
       "totalLinesRemoved": 329,
-      "totalActiveTime": 96,
+      "totalActiveTime": 100,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\task_provider.dart": [
           {
@@ -1047,6 +1047,66 @@
               "removed": []
             },
             "duration": 3,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\models\\subject.dart": [
+          {
+            "timestamp": "2025-08-03T21:23:01.927Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\models\\subject.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T21:23:02.550Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\models\\subject.dart",
+            "fileType": ".dart",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\repositories\\subject_repository.dart": [
+          {
+            "timestamp": "2025-08-03T21:24:03.898Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\repositories\\subject_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T21:24:04.536Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\repositories\\subject_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 179,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ]

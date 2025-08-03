@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 862,
+      "totalLinesAdded": 955,
       "totalLinesRemoved": 82,
-      "totalActiveTime": 61,
+      "totalActiveTime": 64,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\task_provider.dart": [
           {
@@ -760,6 +760,36 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\import_userid.py": [
+          {
+            "timestamp": "2025-08-03T19:59:44.578Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\import_userid.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-03T19:59:45.801Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\import_userid.py",
+            "fileType": ".py",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },

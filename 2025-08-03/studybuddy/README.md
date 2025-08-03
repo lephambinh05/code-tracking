@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16484                                          |
+| **Lines Added** (➕)   | 17187                                          |
 | **Lines Removed** (➖) | 464                                        |
-| **Net Change** (↕)    | 16020                |
-| **Active Time** (⌚)   | 225 minutes |
+| **Net Change** (↕)    | 16723                |
+| **Active Time** (⌚)   | 236 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **build.gradle.kts** (+28, -0)
 - **app_config.dart** (+21, -0)
 - **index.html** (+62, -0)
-- **main.dart** (+193, -4)
+- **main.dart** (+220, -4)
 - **pubspec.yaml** (+406, -1)
 - **splash_screen.dart** (+109, -16)
 - **register_screen.dart** (+279, -0)
@@ -45,7 +45,7 @@
 - **task_list_item.dart** (+306, -2)
 - **app_theme.dart** (+470, -0)
 - **gradient_card.dart** (+223, -0)
-- **main_screen.dart** (+203, -0)
+- **main_screen.dart** (+248, -0)
 - **.gitkeep** (+1, -0)
 - **.gitkeep** (+1, -0)
 - **.gitkeep** (+1, -0)
@@ -71,6 +71,8 @@
 - **build_production.bat** (+83, -0)
 - **auth_service.dart** (+181, -0)
 - **signup_screen.dart** (+388, -0)
+- **realtime_service.dart** (+262, -0)
+- **notification_service.dart** (+369, -0)
 
 ## Visualizations
 
@@ -80,7 +82,7 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 14892
+".dart" : 15595
 ".html" : 62
 ".yaml" : 407
 "unknown" : 4
@@ -104,8 +106,8 @@ title Coding activity by hour (count of changes)
 "18h" : 19
 "19h" : 21
 "20h" : 29
-"21h" : 17
+"21h" : 26
 ```
 
 
-> **Last Updated:** 8/3/2025, 9:24:08 PM
+> **Last Updated:** 8/3/2025, 9:29:08 PM

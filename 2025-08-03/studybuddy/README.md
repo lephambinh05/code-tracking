@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2831                                          |
+| **Lines Added** (➕)   | 3512                                          |
 | **Lines Removed** (➖) | 39                                        |
-| **Net Change** (↕)    | 2792                |
-| **Active Time** (⌚)   | 47 minutes |
+| **Net Change** (↕)    | 3473                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
@@ -29,7 +29,10 @@
 - **sqlite_database.dart** (+135, -0)
 - **sync_service.dart** (+362, -0)
 - **task_repository.dart** (+308, -0)
-- **task.dart** (+236, -0)
+- **task.dart** (+268, -0)
+- **task_provider.dart** (+304, -0)
+- **connectivity_service.dart** (+83, -0)
+- **tasks_screen.dart** (+262, -0)
 
 ## Visualizations
 
@@ -39,7 +42,7 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 2613
+".dart" : 3294
 ".html" : 62
 ".yaml" : 121
 ```
@@ -50,8 +53,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 31
-"08h" : 7
+"08h" : 14
 ```
 
 
-> **Last Updated:** 8/3/2025, 8:40:08 AM
+> **Last Updated:** 8/3/2025, 8:45:08 AM

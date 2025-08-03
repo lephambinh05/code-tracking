@@ -2,7 +2,7 @@
   "date": "2025-08-03",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 14938,
+      "totalLinesAdded": 14968,
       "totalLinesRemoved": 462,
       "totalActiveTime": 201,
       "files": {
@@ -2327,6 +2327,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-03T13:57:10.297Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\scripts\\import_data.py",
+            "fileType": ".py",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],

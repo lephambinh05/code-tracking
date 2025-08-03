@@ -2,9 +2,9 @@
   "date": "2025-08-03",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 17197,
-      "totalLinesRemoved": 464,
-      "totalActiveTime": 239,
+      "totalLinesAdded": 17321,
+      "totalLinesRemoved": 471,
+      "totalActiveTime": 248,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\build.gradle.kts": [
           {
@@ -2720,6 +2720,34 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T14:55:52.908Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\firebase_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T14:56:29.400Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\firebase_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\scripts\\deploy_production.py": [
@@ -2956,6 +2984,66 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\firebase_options.dart": [
+          {
+            "timestamp": "2025-08-03T14:55:39.473Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-03T14:55:40.055Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\firestore.rules": [
+          {
+            "timestamp": "2025-08-03T14:56:54.270Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\firestore.rules",
+            "fileType": ".rules",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rules"
+          },
+          {
+            "timestamp": "2025-08-03T14:56:54.923Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\firestore.rules",
+            "fileType": ".rules",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rules"
           }
         ]
       },

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 17197                                          |
-| **Lines Removed** (➖) | 464                                        |
-| **Net Change** (↕)    | 16733                |
-| **Active Time** (⌚)   | 239 minutes |
+| **Lines Added** (➕)   | 17321                                          |
+| **Lines Removed** (➖) | 471                                        |
+| **Net Change** (↕)    | 16850                |
+| **Active Time** (⌚)   | 248 minutes |
 
 
 ## Modified Files
@@ -66,13 +66,15 @@
 - **import_data.sh** (+37, -0)
 - **import_data.js** (+318, -0)
 - **package.json** (+21, -0)
-- **firebase_service.dart** (+107, -0)
+- **firebase_service.dart** (+108, -7)
 - **deploy_production.py** (+428, -0)
 - **build_production.bat** (+83, -0)
 - **auth_service.dart** (+181, -0)
 - **signup_screen.dart** (+388, -0)
 - **realtime_service.dart** (+262, -0)
 - **notification_service.dart** (+378, -0)
+- **firebase_options.dart** (+85, -0)
+- **firestore.rules** (+38, -0)
 
 ## Visualizations
 
@@ -82,7 +84,7 @@
 pie showData
 title Lines changed by file type
 ".kts" : 74
-".dart" : 15605
+".dart" : 15698
 ".html" : 62
 ".yaml" : 407
 "unknown" : 4
@@ -92,6 +94,7 @@ title Lines changed by file type
 ".bat" : 122
 ".sh" : 37
 ".js" : 318
+".rules" : 38
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -106,8 +109,8 @@ title Coding activity by hour (count of changes)
 "18h" : 19
 "19h" : 21
 "20h" : 29
-"21h" : 30
+"21h" : 36
 ```
 
 
-> **Last Updated:** 8/3/2025, 9:54:08 PM
+> **Last Updated:** 8/3/2025, 9:59:08 PM

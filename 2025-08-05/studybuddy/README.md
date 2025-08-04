@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5969                                          |
+| **Lines Added** (➕)   | 6163                                          |
 | **Lines Removed** (➖) | 11                                        |
-| **Net Change** (↕)    | 5958                |
-| **Active Time** (⌚)   | 70 minutes |
+| **Net Change** (↕)    | 6152                |
+| **Active Time** (⌚)   | 71 minutes |
 
 
 ## Modified Files
@@ -30,7 +30,8 @@
 - **build.gradle.kts** (+51, -0)
 - **google-services.json** (+39, -0)
 - **main.dart** (+8, -0)
-- **firebase_service.dart** (+111, -0)
+- **firebase_service.dart** (+118, -0)
+- **auth_service.dart** (+187, -0)
 
 ## Visualizations
 
@@ -39,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 5636
+".dart" : 5830
 "unknown" : 222
 ".kts" : 83
 ".json" : 39
@@ -54,8 +55,8 @@ title Coding activity by hour (count of changes)
 "01h" : 5
 "02h" : 20
 "03h" : 20
-"04h" : 4
+"04h" : 6
 ```
 
 
-> **Last Updated:** 8/5/2025, 4:42:49 AM
+> **Last Updated:** 8/5/2025, 4:57:49 AM

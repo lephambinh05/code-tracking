@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6783                                          |
-| **Lines Removed** (➖) | 225                                        |
-| **Net Change** (↕)    | 6558                |
-| **Active Time** (⌚)   | 97 minutes |
+| **Lines Added** (➕)   | 7527                                          |
+| **Lines Removed** (➖) | 278                                        |
+| **Net Change** (↕)    | 7249                |
+| **Active Time** (⌚)   | 106 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **profile_screen.dart** (+19, -0)
 - **sync_settings_screen.dart** (+523, -1)
 - **security_settings_screen.dart** (+633, -0)
-- **main_screen.dart** (+267, -6)
+- **main_screen.dart** (+271, -6)
 - **tasks_screen.dart** (+963, -0)
 - **dashboard_screen.dart** (+777, -0)
 - **calendar_screen.dart** (+707, -0)
@@ -34,6 +34,8 @@
 - **auth_service.dart** (+187, -0)
 - **firebase_auth_service.dart** (+370, -166)
 - **auth_provider.dart** (+250, -32)
+- **login_screen.dart** (+340, -13)
+- **signup_screen.dart** (+400, -40)
 
 ## Visualizations
 
@@ -42,7 +44,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 6664
+".dart" : 7461
 "unknown" : 222
 ".kts" : 83
 ".json" : 39
@@ -58,8 +60,8 @@ title Coding activity by hour (count of changes)
 "02h" : 20
 "03h" : 20
 "04h" : 6
-"05h" : 20
+"05h" : 27
 ```
 
 
-> **Last Updated:** 8/5/2025, 5:22:49 AM
+> **Last Updated:** 8/5/2025, 5:27:49 AM

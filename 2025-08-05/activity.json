@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 4087,
+      "totalLinesAdded": 5418,
       "totalLinesRemoved": 7,
-      "totalActiveTime": 42,
+      "totalActiveTime": 49,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
           {
@@ -251,6 +251,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T20:30:32.376Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\profile\\profile_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],
@@ -508,6 +522,80 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\calendar\\calendar_screen.dart",
             "fileType": ".dart",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\notification_service.dart": [
+          {
+            "timestamp": "2025-08-04T20:27:56.618Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\notification_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 417,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T20:27:56.801Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\notification_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T20:28:57.939Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\notification_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 359,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\settings\\notification_settings_screen.dart": [
+          {
+            "timestamp": "2025-08-04T20:30:14.928Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\settings\\notification_settings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T20:30:15.546Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\settings\\notification_settings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 513,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

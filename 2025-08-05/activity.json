@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 7636,
+      "totalLinesAdded": 7743,
       "totalLinesRemoved": 305,
-      "totalActiveTime": 113,
+      "totalActiveTime": 115,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
           {
@@ -882,6 +882,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T22:55:19.543Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\firebase_service.dart": [
@@ -953,6 +967,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T22:54:28.896Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\firebase_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ],
@@ -1219,6 +1247,20 @@
             "fileType": ".dart",
             "linesAdded": 0,
             "linesRemoved": 32,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T22:54:51.894Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\auth_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 16,
+            "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {
               "added": [],

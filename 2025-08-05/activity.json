@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 6653,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 86,
+      "totalLinesAdded": 6783,
+      "totalLinesRemoved": 225,
+      "totalActiveTime": 97,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
           {
@@ -720,6 +720,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T22:20:32.678Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\build.gradle.kts": [
@@ -870,6 +884,20 @@
             },
             "duration": 0,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T22:20:53.372Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\firebase_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\auth_service.dart": [
@@ -957,6 +985,48 @@
               "removed": []
             },
             "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T22:18:51.108Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\sources\\remote\\firebase_auth_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 130,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T22:19:09.519Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\sources\\remote\\firebase_auth_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 148,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T22:21:23.874Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\sources\\remote\\firebase_auth_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],
@@ -1079,6 +1149,20 @@
             "fileType": ".dart",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T22:22:04.869Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\auth_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 32,
             "projectName": "studyBuddy",
             "content": {
               "added": [],

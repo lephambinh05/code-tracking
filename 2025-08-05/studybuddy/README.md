@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6653                                          |
-| **Lines Removed** (➖) | 11                                        |
-| **Net Change** (↕)    | 6642                |
-| **Active Time** (⌚)   | 86 minutes |
+| **Lines Added** (➕)   | 6783                                          |
+| **Lines Removed** (➖) | 225                                        |
+| **Net Change** (↕)    | 6558                |
+| **Active Time** (⌚)   | 97 minutes |
 
 
 ## Modified Files
@@ -25,15 +25,15 @@
 - **notification_service.dart** (+805, -0)
 - **notification_settings_screen.dart** (+514, -0)
 - **.gitignore** (+218, -4)
-- **firebase_options.dart** (+87, -0)
+- **firebase_options.dart** (+87, -9)
 - **build.gradle.kts** (+32, -0)
 - **build.gradle.kts** (+51, -0)
 - **google-services.json** (+39, -0)
 - **main.dart** (+8, -0)
-- **firebase_service.dart** (+118, -0)
+- **firebase_service.dart** (+118, -7)
 - **auth_service.dart** (+187, -0)
-- **firebase_auth_service.dart** (+240, -0)
-- **auth_provider.dart** (+250, -0)
+- **firebase_auth_service.dart** (+370, -166)
+- **auth_provider.dart** (+250, -32)
 
 ## Visualizations
 
@@ -42,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 6320
+".dart" : 6664
 "unknown" : 222
 ".kts" : 83
 ".json" : 39
@@ -58,8 +58,8 @@ title Coding activity by hour (count of changes)
 "02h" : 20
 "03h" : 20
 "04h" : 6
-"05h" : 14
+"05h" : 20
 ```
 
 
-> **Last Updated:** 8/5/2025, 5:17:49 AM
+> **Last Updated:** 8/5/2025, 5:22:49 AM

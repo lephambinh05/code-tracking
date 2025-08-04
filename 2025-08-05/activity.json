@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 5418,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 5723,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 56,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
           {
@@ -596,6 +596,108 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\settings\\notification_settings_screen.dart",
             "fileType": ".dart",
             "linesAdded": 513,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\.gitignore": [
+          {
+            "timestamp": "2025-08-04T20:39:38.082Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-04T20:39:38.380Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-04T20:40:47.449Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-04T20:41:50.289Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-04T20:42:00.432Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\firebase_options.dart": [
+          {
+            "timestamp": "2025-08-04T20:41:23.243Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T20:41:23.379Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

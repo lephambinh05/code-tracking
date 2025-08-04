@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 5801,
+      "totalLinesAdded": 5845,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 61,
+      "totalActiveTime": 67,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
           {
@@ -752,6 +752,50 @@
             },
             "duration": 0,
             "language": "kts"
+          },
+          {
+            "timestamp": "2025-08-04T20:54:12.110Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "kts"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\google-services.json": [
+          {
+            "timestamp": "2025-08-04T20:54:52.248Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\google-services.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-04T20:54:52.575Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\google-services.json",
+            "fileType": ".json",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

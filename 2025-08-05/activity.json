@@ -1184,6 +1184,438 @@
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\repositories\\study_target_repository.dart"
       ],
       "averageChangeSize": 7.2
+    },
+    "napXUVN": {
+      "totalLinesAdded": 1701,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 26,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\package.json": [
+          {
+            "timestamp": "2025-08-04T22:18:59.164Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-04T22:18:59.831Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\package.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\README.md": [
+          {
+            "timestamp": "2025-08-04T22:19:14.005Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\README.md",
+            "fileType": ".md",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\package.json": [
+          {
+            "timestamp": "2025-08-04T22:19:24.149Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-04T22:19:24.294Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\env.example": [
+          {
+            "timestamp": "2025-08-04T22:19:39.142Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\env.example",
+            "fileType": ".example",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "example"
+          },
+          {
+            "timestamp": "2025-08-04T22:19:39.344Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\env.example",
+            "fileType": ".example",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "example"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\server.js": [
+          {
+            "timestamp": "2025-08-04T22:19:55.476Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T22:19:55.691Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\models\\User.js": [
+          {
+            "timestamp": "2025-08-04T22:20:16.294Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\models\\User.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T22:20:16.538Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\models\\User.js",
+            "fileType": ".js",
+            "linesAdded": 171,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\models\\Transaction.js": [
+          {
+            "timestamp": "2025-08-04T22:20:42.934Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\models\\Transaction.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T22:20:43.362Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\models\\Transaction.js",
+            "fileType": ".js",
+            "linesAdded": 222,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\middleware\\auth.js": [
+          {
+            "timestamp": "2025-08-04T22:21:02.895Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\middleware\\auth.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T22:21:03.112Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\middleware\\auth.js",
+            "fileType": ".js",
+            "linesAdded": 146,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\middleware\\errorHandler.js": [
+          {
+            "timestamp": "2025-08-04T22:21:17.590Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\middleware\\errorHandler.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T22:21:17.750Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\middleware\\errorHandler.js",
+            "fileType": ".js",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\routes\\auth.js": [
+          {
+            "timestamp": "2025-08-04T22:21:52.137Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\routes\\auth.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T22:21:52.430Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\routes\\auth.js",
+            "fileType": ".js",
+            "linesAdded": 305,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\package.json": [
+          {
+            "timestamp": "2025-08-04T22:22:05.704Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-04T22:22:05.914Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\package.json",
+            "fileType": ".json",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\public\\index.html": [
+          {
+            "timestamp": "2025-08-04T22:22:18.874Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\public\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-04T22:22:19.061Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\public\\index.html",
+            "fileType": ".html",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\src\\index.js": [
+          {
+            "timestamp": "2025-08-04T22:22:30.167Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\src\\index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T22:22:30.428Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\src\\index.js",
+            "fileType": ".js",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\src\\index.css": [
+          {
+            "timestamp": "2025-08-04T22:23:04.053Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-04T22:23:04.346Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\napXUVN\\frontend\\client\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 305,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 5,
+        "md": 1,
+        "example": 2,
+        "js": 14,
+        "html": 2,
+        "css": 2
+      },
+      "changeFrequency": {
+        "5": 26
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\package.json",
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\package.json",
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\env.example",
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\server.js",
+        "c:\\Users\\lephambinh\\Downloads\\napXUVN\\backend\\models\\User.js"
+      ],
+      "averageChangeSize": 63
     }
   },
   "totalActiveTime": 9,

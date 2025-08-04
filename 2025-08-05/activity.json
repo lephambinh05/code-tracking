@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 7630,
+      "totalLinesAdded": 7636,
       "totalLinesRemoved": 305,
-      "totalActiveTime": 110,
+      "totalActiveTime": 113,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
           {
@@ -1344,6 +1344,22 @@
             },
             "duration": 1,
             "language": "xml"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\src\\main\\kotlin\\com\\example\\studybuddy\\MainActivity.kt": [
+          {
+            "timestamp": "2025-08-04T22:44:47.310Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\android\\app\\src\\main\\kotlin\\com\\example\\studybuddy\\MainActivity.kt",
+            "fileType": ".kt",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "kt"
           }
         ]
       },

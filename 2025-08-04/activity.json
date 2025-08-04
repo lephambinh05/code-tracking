@@ -2,7 +2,7 @@
   "date": "2025-08-04",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 2289,
+      "totalLinesAdded": 2290,
       "totalLinesRemoved": 361,
       "totalActiveTime": 187,
       "files": {
@@ -1847,6 +1847,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\theme_provider.dart": [
+          {
+            "timestamp": "2025-08-04T14:56:53.258Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\theme_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ]

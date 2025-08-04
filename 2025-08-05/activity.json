@@ -3,7 +3,7 @@
   "projects": {
     "studyBuddy": {
       "totalLinesAdded": 4087,
-      "totalLinesRemoved": 6,
+      "totalLinesRemoved": 7,
       "totalActiveTime": 42,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
@@ -309,6 +309,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T20:05:20.713Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\settings\\sync_settings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ],

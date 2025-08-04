@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7527                                          |
-| **Lines Removed** (➖) | 278                                        |
-| **Net Change** (↕)    | 7249                |
-| **Active Time** (⌚)   | 106 minutes |
+| **Lines Added** (➕)   | 7630                                          |
+| **Lines Removed** (➖) | 305                                        |
+| **Net Change** (↕)    | 7325                |
+| **Active Time** (⌚)   | 110 minutes |
 
 
 ## Modified Files
@@ -22,20 +22,21 @@
 - **tasks_screen.dart** (+963, -0)
 - **dashboard_screen.dart** (+777, -0)
 - **calendar_screen.dart** (+707, -0)
-- **notification_service.dart** (+805, -0)
+- **notification_service.dart** (+805, -27)
 - **notification_settings_screen.dart** (+514, -0)
 - **.gitignore** (+218, -4)
 - **firebase_options.dart** (+87, -9)
 - **build.gradle.kts** (+32, -0)
 - **build.gradle.kts** (+51, -0)
 - **google-services.json** (+39, -0)
-- **main.dart** (+8, -0)
-- **firebase_service.dart** (+118, -7)
+- **main.dart** (+49, -0)
+- **firebase_service.dart** (+121, -7)
 - **auth_service.dart** (+187, -0)
 - **firebase_auth_service.dart** (+370, -166)
 - **auth_provider.dart** (+250, -32)
 - **login_screen.dart** (+340, -13)
 - **signup_screen.dart** (+400, -40)
+- **AndroidManifest.xml** (+59, -0)
 
 ## Visualizations
 
@@ -44,10 +45,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 7461
+".dart" : 7532
 "unknown" : 222
 ".kts" : 83
 ".json" : 39
+".xml" : 59
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,8 +62,8 @@ title Coding activity by hour (count of changes)
 "02h" : 20
 "03h" : 20
 "04h" : 6
-"05h" : 27
+"05h" : 32
 ```
 
 
-> **Last Updated:** 8/5/2025, 5:27:49 AM
+> **Last Updated:** 8/5/2025, 5:42:49 AM

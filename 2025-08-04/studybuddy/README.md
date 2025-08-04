@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4697                                          |
+| **Lines Added** (➕)   | 4740                                          |
 | **Lines Removed** (➖) | 441                                        |
-| **Net Change** (↕)    | 4256                |
-| **Active Time** (⌚)   | 205 minutes |
+| **Net Change** (↕)    | 4299                |
+| **Active Time** (⌚)   | 211 minutes |
 
 
 ## Modified Files
@@ -43,6 +43,7 @@
 - **study_target_provider.dart** (+266, -0)
 - **sqlite_database.dart** (+165, -0)
 - **study_target_form_dialog.dart** (+359, -0)
+- **study_target.g.dart** (+43, -0)
 
 ## Visualizations
 
@@ -51,7 +52,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 4734
+".dart" : 4777
 ".json" : 24
 ".py" : 259
 ".js" : 74
@@ -74,8 +75,8 @@ title Coding activity by hour (count of changes)
 "20h" : 14
 "21h" : 8
 "22h" : 4
-"23h" : 15
+"23h" : 17
 ```
 
 
-> **Last Updated:** 8/4/2025, 11:12:48 PM
+> **Last Updated:** 8/4/2025, 11:17:48 PM

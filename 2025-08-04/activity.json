@@ -2,7 +2,7 @@
   "date": "2025-08-04",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 2029,
+      "totalLinesAdded": 2037,
       "totalLinesRemoved": 361,
       "totalActiveTime": 156,
       "files": {
@@ -1067,6 +1067,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T13:01:34.667Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\data\\models\\user.dart",
+            "fileType": ".dart",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ],

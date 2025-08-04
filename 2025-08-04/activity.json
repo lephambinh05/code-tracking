@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 2342,
+      "totalLinesAdded": 2451,
       "totalLinesRemoved": 441,
-      "totalActiveTime": 189,
+      "totalActiveTime": 192,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\task_provider.dart": [
           {
@@ -871,6 +871,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T15:29:35.049Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ],
@@ -1861,6 +1875,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T15:31:07.115Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\profile\\profile_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T15:31:07.292Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\screens\\profile\\profile_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],

@@ -3,8 +3,8 @@
   "projects": {
     "studyBuddy": {
       "totalLinesAdded": 7821,
-      "totalLinesRemoved": 305,
-      "totalActiveTime": 122,
+      "totalLinesRemoved": 463,
+      "totalActiveTime": 128,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
           {
@@ -924,6 +924,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T23:05:46.513Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 137,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "dart"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\firebase_service.dart": [
@@ -1303,6 +1317,20 @@
             "fileType": ".dart",
             "linesAdded": 25,
             "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-04T23:06:41.798Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\presentation\\providers\\auth_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 21,
             "projectName": "studyBuddy",
             "content": {
               "added": [],

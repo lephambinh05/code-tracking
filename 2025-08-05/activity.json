@@ -1638,9 +1638,9 @@
       "averageChangeSize": 7.2
     },
     "napXUVN": {
-      "totalLinesAdded": 3552,
+      "totalLinesAdded": 3662,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 45,
+      "totalActiveTime": 50,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\napXUVN\\package.json": [
           {
@@ -2316,6 +2316,96 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "f:\\napXUVN\\next.config.js": [
+          {
+            "timestamp": "2025-08-05T13:56:43.802Z",
+            "fileName": "f:\\napXUVN\\next.config.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:56:44.053Z",
+            "fileName": "f:\\napXUVN\\next.config.js",
+            "fileType": ".js",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\napXUVN\\tsconfig.json": [
+          {
+            "timestamp": "2025-08-05T13:56:53.677Z",
+            "fileName": "f:\\napXUVN\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-05T13:56:53.864Z",
+            "fileName": "f:\\napXUVN\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\napXUVN\\tailwind.config.js": [
+          {
+            "timestamp": "2025-08-05T13:57:09.469Z",
+            "fileName": "f:\\napXUVN\\tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T13:57:09.656Z",
+            "fileName": "f:\\napXUVN\\tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

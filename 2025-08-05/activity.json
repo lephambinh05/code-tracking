@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 8292,
-      "totalLinesRemoved": 463,
-      "totalActiveTime": 140,
+      "totalLinesAdded": 8395,
+      "totalLinesRemoved": 524,
+      "totalActiveTime": 142,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
           {
@@ -1592,6 +1592,20 @@
             },
             "duration": 1,
             "language": "bat"
+          },
+          {
+            "timestamp": "2025-08-05T13:58:21.696Z",
+            "fileName": "f:\\studyBuddy\\scripts\\build_firebase_apk.bat",
+            "fileType": ".bat",
+            "linesAdded": 0,
+            "linesRemoved": 61,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "bat"
           }
         ],
         "f:\\studyBuddy\\scripts\\verify_and_build.py": [
@@ -1614,6 +1628,36 @@
             "fileName": "f:\\studyBuddy\\scripts\\verify_and_build.py",
             "fileType": ".py",
             "linesAdded": 129,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\studyBuddy\\scripts\\debug_firebase.py": [
+          {
+            "timestamp": "2025-08-05T13:59:19.493Z",
+            "fileName": "f:\\studyBuddy\\scripts\\debug_firebase.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-05T13:59:19.743Z",
+            "fileName": "f:\\studyBuddy\\scripts\\debug_firebase.py",
+            "fileType": ".py",
+            "linesAdded": 102,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

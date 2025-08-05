@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1175                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1175                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Added** (➕)   | 1624                                          |
+| **Lines Removed** (➖) | 15                                        |
+| **Net Change** (↕)    | 1609                |
+| **Active Time** (⌚)   | 27 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,13 @@
 - **server.js** (+8, -0)
 - **adminAuth.js** (+23, -0)
 - **dashboard.js** (+219, -0)
+- **layout.tsx** (+0, -15)
+- **Button.tsx** (+82, -0)
+- **AuthContext.tsx** (+125, -0)
+- **Card.tsx** (+59, -0)
+- **ThemeContext.tsx** (+77, -0)
+- **Input.tsx** (+105, -0)
+- **user.ts** (+1, -0)
 
 ## Visualizations
 
@@ -29,6 +36,8 @@ pie showData
 title Lines changed by file type
 ".js" : 1140
 "unknown" : 35
+".tsx" : 463
+".ts" : 1
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +45,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 16
+"00h" : 28
 ```
 
 
-> **Last Updated:** 8/6/2025, 12:14:23 AM
+> **Last Updated:** 8/6/2025, 12:19:23 AM

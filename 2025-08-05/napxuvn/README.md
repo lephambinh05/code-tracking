@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4085                                          |
+| **Lines Added** (➕)   | 4718                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 4085                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Net Change** (↕)    | 4718                |
+| **Active Time** (⌚)   | 64 minutes |
 
 
 ## Modified Files
@@ -37,9 +37,13 @@
 - **next.config.js** (+19, -0)
 - **tsconfig.json** (+28, -0)
 - **tailwind.config.js** (+63, -0)
-- **layout.tsx** (+57, -0)
+- **layout.tsx** (+65, -0)
 - **globals.css** (+127, -0)
 - **page.tsx** (+239, -0)
+- **AuthProvider.tsx** (+140, -0)
+- **Header.tsx** (+172, -0)
+- **Footer.tsx** (+148, -0)
+- **page.tsx** (+165, -0)
 
 ## Visualizations
 
@@ -55,7 +59,7 @@ title Lines changed by file type
 ".html" : 45
 ".css" : 433
 "unknown" : 121
-".tsx" : 296
+".tsx" : 929
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -65,8 +69,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "05h" : 45
 "20h" : 6
-"21h" : 6
+"21h" : 15
 ```
 
 
-> **Last Updated:** 8/5/2025, 9:29:30 PM
+> **Last Updated:** 8/5/2025, 9:39:30 PM

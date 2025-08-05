@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 5051,
+      "totalLinesAdded": 5282,
       "totalLinesRemoved": 828,
-      "totalActiveTime": 116,
+      "totalActiveTime": 124,
       "files": {
         "f:\\napXUVN\\backend\\scripts\\seedData.js": [
           {
@@ -1266,6 +1266,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-05T19:20:46.130Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\sections\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\frontend\\client\\src\\app\\globals.css": [
@@ -1790,6 +1804,96 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\dev.ps1": [
+          {
+            "timestamp": "2025-08-05T19:23:02.830Z",
+            "fileName": "f:\\napXUVN\\frontend\\dev.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-08-05T19:23:03.058Z",
+            "fileName": "f:\\napXUVN\\frontend\\dev.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          }
+        ],
+        "f:\\napXUVN\\backend\\dev.ps1": [
+          {
+            "timestamp": "2025-08-05T19:23:14.785Z",
+            "fileName": "f:\\napXUVN\\backend\\dev.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-08-05T19:23:14.982Z",
+            "fileName": "f:\\napXUVN\\backend\\dev.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          }
+        ],
+        "f:\\napXUVN\\dev-all.ps1": [
+          {
+            "timestamp": "2025-08-05T19:23:34.294Z",
+            "fileName": "f:\\napXUVN\\dev-all.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-08-05T19:23:34.509Z",
+            "fileName": "f:\\napXUVN\\dev-all.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
           }
         ]
       },

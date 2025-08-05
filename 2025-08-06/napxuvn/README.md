@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5051                                          |
+| **Lines Added** (➕)   | 5282                                          |
 | **Lines Removed** (➖) | 828                                        |
-| **Net Change** (↕)    | 4223                |
-| **Active Time** (⌚)   | 116 minutes |
+| **Net Change** (↕)    | 4454                |
+| **Active Time** (⌚)   | 124 minutes |
 
 
 ## Modified Files
@@ -53,7 +53,7 @@
 - **Logo.tsx** (+41, -0)
 - **ThemeToggle.tsx** (+40, -0)
 - **page.tsx** (+0, -279)
-- **Hero.tsx** (+109, -0)
+- **Hero.tsx** (+218, -0)
 - **globals.css** (+7, -0)
 - **UserMenu.tsx** (+85, -0)
 - **MobileMenu.tsx** (+124, -0)
@@ -71,6 +71,9 @@
 - **dev.bat** (+159, -0)
 - **AuthContext.js** (+225, -224)
 - **AuthProvider.tsx** (+119, -2)
+- **dev.ps1** (+29, -0)
+- **dev.ps1** (+25, -0)
+- **dev-all.ps1** (+68, -0)
 
 ## Visualizations
 
@@ -81,11 +84,11 @@ pie showData
 title Lines changed by file type
 ".js" : 1589
 "unknown" : 148
-".tsx" : 2808
+".tsx" : 2917
 ".ts" : 438
 ".css" : 269
 ".json" : 48
-".ps1" : 123
+".ps1" : 245
 ".sh" : 195
 ".yml" : 102
 ".bat" : 159
@@ -98,8 +101,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 113
 "01h" : 2
-"02h" : 4
+"02h" : 11
 ```
 
 
-> **Last Updated:** 8/6/2025, 2:09:54 AM
+> **Last Updated:** 8/6/2025, 2:24:54 AM

@@ -2,7 +2,7 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 4877,
+      "totalLinesAdded": 4878,
       "totalLinesRemoved": 602,
       "totalActiveTime": 111,
       "files": {
@@ -1283,6 +1283,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-05T18:04:22.281Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\UserMenu.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],

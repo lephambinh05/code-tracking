@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 4878,
-      "totalLinesRemoved": 826,
-      "totalActiveTime": 113,
+      "totalLinesAdded": 5051,
+      "totalLinesRemoved": 828,
+      "totalActiveTime": 116,
       "files": {
         "f:\\napXUVN\\backend\\scripts\\seedData.js": [
           {
@@ -259,6 +259,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-05T19:07:21.385Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-05T19:07:32.684Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1732,6 +1760,36 @@
             },
             "duration": 2,
             "language": "js"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\components\\providers\\AuthProvider.tsx": [
+          {
+            "timestamp": "2025-08-05T19:06:40.474Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\providers\\AuthProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-05T19:06:49.169Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\providers\\AuthProvider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },

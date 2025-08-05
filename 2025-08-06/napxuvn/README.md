@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4878                                          |
-| **Lines Removed** (➖) | 826                                        |
-| **Net Change** (↕)    | 4052                |
-| **Active Time** (⌚)   | 113 minutes |
+| **Lines Added** (➕)   | 5051                                          |
+| **Lines Removed** (➖) | 828                                        |
+| **Net Change** (↕)    | 4223                |
+| **Active Time** (⌚)   | 116 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **server.js** (+8, -0)
 - **adminAuth.js** (+23, -0)
 - **dashboard.js** (+219, -0)
-- **layout.tsx** (+0, -15)
+- **layout.tsx** (+54, -15)
 - **Button.tsx** (+82, -0)
 - **AuthContext.tsx** (+125, -0)
 - **Card.tsx** (+59, -0)
@@ -70,6 +70,7 @@
 - **docker-compose.dev.yml** (+102, -0)
 - **dev.bat** (+159, -0)
 - **AuthContext.js** (+225, -224)
+- **AuthProvider.tsx** (+119, -2)
 
 ## Visualizations
 
@@ -80,7 +81,7 @@ pie showData
 title Lines changed by file type
 ".js" : 1589
 "unknown" : 148
-".tsx" : 2633
+".tsx" : 2808
 ".ts" : 438
 ".css" : 269
 ".json" : 48
@@ -97,7 +98,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 113
 "01h" : 2
+"02h" : 4
 ```
 
 
-> **Last Updated:** 8/6/2025, 1:09:23 AM
+> **Last Updated:** 8/6/2025, 2:09:54 AM

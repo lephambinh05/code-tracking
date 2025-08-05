@@ -1712,9 +1712,9 @@
       "averageChangeSize": 7.2
     },
     "napXUVN": {
-      "totalLinesAdded": 5715,
+      "totalLinesAdded": 5755,
       "totalLinesRemoved": 19,
-      "totalActiveTime": 89,
+      "totalActiveTime": 94,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\napXUVN\\package.json": [
           {
@@ -2986,6 +2986,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\tsconfig.json": [
+          {
+            "timestamp": "2025-08-05T15:17:11.872Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
           }
         ]
       },

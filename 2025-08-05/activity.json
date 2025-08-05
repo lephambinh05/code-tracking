@@ -1712,9 +1712,9 @@
       "averageChangeSize": 7.2
     },
     "napXUVN": {
-      "totalLinesAdded": 7784,
-      "totalLinesRemoved": 30,
-      "totalActiveTime": 118,
+      "totalLinesAdded": 8100,
+      "totalLinesRemoved": 34,
+      "totalActiveTime": 119,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\napXUVN\\package.json": [
           {
@@ -3240,6 +3240,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T16:07:01.834Z",
+            "fileName": "f:\\napXUVN\\backend\\config\\database.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "f:\\napXUVN\\backend\\server.js": [
@@ -3302,6 +3316,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "f:\\napXUVN\\backend\\routes\\payment.js": [
+          {
+            "timestamp": "2025-08-05T16:06:26.141Z",
+            "fileName": "f:\\napXUVN\\backend\\routes\\payment.js",
+            "fileType": ".js",
+            "linesAdded": 316,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },

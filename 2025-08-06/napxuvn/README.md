@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3920                                          |
-| **Lines Removed** (➖) | 594                                        |
-| **Net Change** (↕)    | 3326                |
-| **Active Time** (⌚)   | 98 minutes |
+| **Lines Added** (➕)   | 4493                                          |
+| **Lines Removed** (➖) | 602                                        |
+| **Net Change** (↕)    | 3891                |
+| **Active Time** (⌚)   | 107 minutes |
 
 
 ## Modified Files
@@ -63,6 +63,11 @@
 - **Features.tsx** (+96, -0)
 - **Testimonials.tsx** (+124, -0)
 - **CTASection.tsx** (+75, -0)
+- **package.json** (+40, -8)
+- **Makefile** (+113, -0)
+- **dev.ps1** (+123, -0)
+- **dev.sh** (+195, -0)
+- **docker-compose.dev.yml** (+102, -0)
 
 ## Visualizations
 
@@ -72,10 +77,14 @@
 pie showData
 title Lines changed by file type
 ".js" : 1140
-"unknown" : 35
+"unknown" : 148
 ".tsx" : 2632
 ".ts" : 438
 ".css" : 269
+".json" : 48
+".ps1" : 123
+".sh" : 195
+".yml" : 102
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -83,8 +92,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 99
+"00h" : 109
 ```
 
 
-> **Last Updated:** 8/6/2025, 12:34:23 AM
+> **Last Updated:** 8/6/2025, 12:44:23 AM

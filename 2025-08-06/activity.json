@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 5375,
+      "totalLinesAdded": 5422,
       "totalLinesRemoved": 878,
-      "totalActiveTime": 130,
+      "totalActiveTime": 132,
       "files": {
         "f:\\napXUVN\\backend\\scripts\\seedData.js": [
           {
@@ -1972,6 +1972,50 @@
             "fileName": "f:\\napXUVN\\frontend\\start-frontend.ps1",
             "fileType": ".ps1",
             "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-08-05T19:39:59.306Z",
+            "fileName": "f:\\napXUVN\\frontend\\start-frontend.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ps1"
+          }
+        ],
+        "f:\\napXUVN\\backend\\start-backend.ps1": [
+          {
+            "timestamp": "2025-08-05T19:40:13.732Z",
+            "fileName": "f:\\napXUVN\\backend\\start-backend.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-08-05T19:40:15.407Z",
+            "fileName": "f:\\napXUVN\\backend\\start-backend.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 24,
             "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {

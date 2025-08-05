@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 4493,
+      "totalLinesAdded": 4652,
       "totalLinesRemoved": 602,
-      "totalActiveTime": 107,
+      "totalActiveTime": 110,
       "files": {
         "f:\\napXUVN\\backend\\scripts\\seedData.js": [
           {
@@ -1644,6 +1644,36 @@
             },
             "duration": 1,
             "language": "yml"
+          }
+        ],
+        "f:\\napXUVN\\scripts\\dev.bat": [
+          {
+            "timestamp": "2025-08-05T17:44:31.036Z",
+            "fileName": "f:\\napXUVN\\scripts\\dev.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-08-05T17:44:31.731Z",
+            "fileName": "f:\\napXUVN\\scripts\\dev.bat",
+            "fileType": ".bat",
+            "linesAdded": 158,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
           }
         ]
       },

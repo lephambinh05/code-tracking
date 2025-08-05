@@ -3,8 +3,8 @@
   "projects": {
     "napXUVN": {
       "totalLinesAdded": 4878,
-      "totalLinesRemoved": 602,
-      "totalActiveTime": 111,
+      "totalLinesRemoved": 826,
+      "totalActiveTime": 113,
       "files": {
         "f:\\napXUVN\\backend\\scripts\\seedData.js": [
           {
@@ -1717,6 +1717,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T18:05:36.304Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\contexts\\AuthContext.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 224,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

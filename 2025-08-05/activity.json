@@ -2,9 +2,9 @@
   "date": "2025-08-05",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 8395,
+      "totalLinesAdded": 8424,
       "totalLinesRemoved": 524,
-      "totalActiveTime": 142,
+      "totalActiveTime": 144,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\studyBuddy\\lib\\core\\services\\sync_service.dart": [
           {
@@ -1666,6 +1666,36 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "f:\\studyBuddy\\scripts\\check_device.bat": [
+          {
+            "timestamp": "2025-08-05T13:59:33.154Z",
+            "fileName": "f:\\studyBuddy\\scripts\\check_device.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-08-05T13:59:33.377Z",
+            "fileName": "f:\\studyBuddy\\scripts\\check_device.bat",
+            "fileType": ".bat",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
           }
         ]
       },

@@ -1712,7 +1712,7 @@
       "averageChangeSize": 7.2
     },
     "napXUVN": {
-      "totalLinesAdded": 7777,
+      "totalLinesAdded": 7784,
       "totalLinesRemoved": 30,
       "totalActiveTime": 118,
       "files": {
@@ -3135,6 +3135,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T15:55:43.247Z",
+            "fileName": "f:\\napXUVN\\backend\\models\\RechargePackage.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

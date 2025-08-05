@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5446                                          |
+| **Lines Added** (➕)   | 7770                                          |
 | **Lines Removed** (➖) | 878                                        |
-| **Net Change** (↕)    | 4568                |
-| **Active Time** (⌚)   | 133 minutes |
+| **Net Change** (↕)    | 6892                |
+| **Active Time** (⌚)   | 155 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **packages.js** (+230, -0)
 - **promotions.js** (+295, -0)
 - **paymentMethods.js** (+234, -0)
-- **server.js** (+8, -0)
+- **server.js** (+109, -0)
 - **adminAuth.js** (+23, -0)
 - **dashboard.js** (+219, -0)
 - **layout.tsx** (+54, -15)
@@ -76,6 +76,16 @@
 - **dev-all.ps1** (+68, -0)
 - **start-frontend.ps1** (+43, -0)
 - **start-backend.ps1** (+25, -0)
+- **package.json** (+42, -0)
+- **User.js** (+203, -0)
+- **Transaction.js** (+165, -0)
+- **RechargePackage.js** (+149, -0)
+- **auth.js** (+359, -0)
+- **auth.js** (+104, -0)
+- **packages.js** (+302, -0)
+- **users.js** (+317, -0)
+- **transactions.js** (+286, -0)
+- **payments.js** (+296, -0)
 
 ## Visualizations
 
@@ -84,12 +94,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1589
+".js" : 3871
 "unknown" : 148
 ".tsx" : 2917
 ".ts" : 438
 ".css" : 269
-".json" : 72
+".json" : 114
 ".ps1" : 435
 ".sh" : 195
 ".yml" : 102
@@ -104,8 +114,8 @@ title Coding activity by hour (count of changes)
 "00h" : 113
 "01h" : 2
 "02h" : 20
-"03h" : 2
+"03h" : 24
 ```
 
 
-> **Last Updated:** 8/6/2025, 3:04:54 AM
+> **Last Updated:** 8/6/2025, 3:09:54 AM

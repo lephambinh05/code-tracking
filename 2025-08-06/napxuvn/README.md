@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5282                                          |
-| **Lines Removed** (➖) | 828                                        |
-| **Net Change** (↕)    | 4454                |
-| **Active Time** (⌚)   | 124 minutes |
+| **Lines Added** (➕)   | 5354                                          |
+| **Lines Removed** (➖) | 878                                        |
+| **Net Change** (↕)    | 4476                |
+| **Active Time** (⌚)   | 129 minutes |
 
 
 ## Modified Files
@@ -71,7 +71,7 @@
 - **dev.bat** (+159, -0)
 - **AuthContext.js** (+225, -224)
 - **AuthProvider.tsx** (+119, -2)
-- **dev.ps1** (+29, -0)
+- **dev.ps1** (+101, -50)
 - **dev.ps1** (+25, -0)
 - **dev-all.ps1** (+68, -0)
 
@@ -88,7 +88,7 @@ title Lines changed by file type
 ".ts" : 438
 ".css" : 269
 ".json" : 48
-".ps1" : 245
+".ps1" : 367
 ".sh" : 195
 ".yml" : 102
 ".bat" : 159
@@ -101,8 +101,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 113
 "01h" : 2
-"02h" : 11
+"02h" : 15
 ```
 
 
-> **Last Updated:** 8/6/2025, 2:24:54 AM
+> **Last Updated:** 8/6/2025, 2:29:54 AM

@@ -1712,9 +1712,9 @@
       "averageChangeSize": 7.2
     },
     "napXUVN": {
-      "totalLinesAdded": 8100,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 119,
+      "totalLinesAdded": 8235,
+      "totalLinesRemoved": 145,
+      "totalActiveTime": 120,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\napXUVN\\package.json": [
           {
@@ -3247,6 +3247,34 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T16:27:08.258Z",
+            "fileName": "f:\\napXUVN\\backend\\config\\database.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 111,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T16:27:08.443Z",
+            "fileName": "f:\\napXUVN\\backend\\config\\database.js",
+            "fileType": ".js",
+            "linesAdded": 135,
+            "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {
               "added": [],

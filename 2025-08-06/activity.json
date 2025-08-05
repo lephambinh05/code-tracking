@@ -1,0 +1,159 @@
+{
+  "date": "2025-08-06",
+  "projects": {
+    "napXUVN": {
+      "totalLinesAdded": 925,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 8,
+      "files": {
+        "f:\\napXUVN\\backend\\scripts\\seedData.js": [
+          {
+            "timestamp": "2025-08-05T17:05:49.749Z",
+            "fileName": "f:\\napXUVN\\backend\\scripts\\seedData.js",
+            "fileType": ".js",
+            "linesAdded": 131,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "f:\\napXUVN\\backend\\.env": [
+          {
+            "timestamp": "2025-08-05T17:06:11.659Z",
+            "fileName": "f:\\napXUVN\\backend\\.env",
+            "fileType": "unknown",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "f:\\napXUVN\\backend\\routes\\packages.js": [
+          {
+            "timestamp": "2025-08-05T17:08:01.324Z",
+            "fileName": "f:\\napXUVN\\backend\\routes\\packages.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:08:01.563Z",
+            "fileName": "f:\\napXUVN\\backend\\routes\\packages.js",
+            "fileType": ".js",
+            "linesAdded": 229,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\napXUVN\\backend\\routes\\promotions.js": [
+          {
+            "timestamp": "2025-08-05T17:08:38.455Z",
+            "fileName": "f:\\napXUVN\\backend\\routes\\promotions.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:08:38.827Z",
+            "fileName": "f:\\napXUVN\\backend\\routes\\promotions.js",
+            "fileType": ".js",
+            "linesAdded": 294,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\napXUVN\\backend\\routes\\paymentMethods.js": [
+          {
+            "timestamp": "2025-08-05T17:09:13.901Z",
+            "fileName": "f:\\napXUVN\\backend\\routes\\paymentMethods.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-05T17:09:14.189Z",
+            "fileName": "f:\\napXUVN\\backend\\routes\\paymentMethods.js",
+            "fileType": ".js",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 7,
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "0": 8
+      },
+      "topFiles": [
+        "f:\\napXUVN\\backend\\routes\\packages.js",
+        "f:\\napXUVN\\backend\\routes\\promotions.js",
+        "f:\\napXUVN\\backend\\routes\\paymentMethods.js",
+        "f:\\napXUVN\\backend\\scripts\\seedData.js",
+        "f:\\napXUVN\\backend\\.env"
+      ],
+      "averageChangeSize": 115.625
+    }
+  },
+  "totalActiveTime": 8,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "unknown"
+  ]
+}

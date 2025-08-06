@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 12283,
-      "totalLinesRemoved": 1636,
-      "totalActiveTime": 281,
+      "totalLinesAdded": 12427,
+      "totalLinesRemoved": 1649,
+      "totalActiveTime": 285,
       "files": {
         "f:\\napXUVN\\backend\\scripts\\seedData.js": [
           {
@@ -3946,6 +3946,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T16:43:58.156Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\config\\environment.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\frontend\\client\\env.example": [
@@ -3990,6 +4004,66 @@
             },
             "duration": 3,
             "language": "example"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\shared-config.js": [
+          {
+            "timestamp": "2025-08-06T16:43:41.074Z",
+            "fileName": "f:\\napXUVN\\frontend\\shared-config.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-06T16:43:42.118Z",
+            "fileName": "f:\\napXUVN\\frontend\\shared-config.js",
+            "fileType": ".js",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\shared-config.ts": [
+          {
+            "timestamp": "2025-08-06T16:44:15.037Z",
+            "fileName": "f:\\napXUVN\\frontend\\shared-config.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T16:44:16.109Z",
+            "fileName": "f:\\napXUVN\\frontend\\shared-config.ts",
+            "fileType": ".ts",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

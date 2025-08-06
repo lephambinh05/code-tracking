@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 11918,
-      "totalLinesRemoved": 1573,
-      "totalActiveTime": 257,
+      "totalLinesAdded": 11998,
+      "totalLinesRemoved": 1628,
+      "totalActiveTime": 262,
       "files": {
         "f:\\napXUVN\\backend\\scripts\\seedData.js": [
           {
@@ -3546,6 +3546,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T16:22:34.788Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\auth\\logout\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\frontend\\client\\src\\app\\api\\admin\\stats\\route.ts": [
@@ -3604,6 +3618,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T16:22:45.373Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\admin\\stats\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 24,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T16:22:45.562Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\admin\\stats\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\frontend\\client\\src\\app\\api\\admin\\transactions\\route.ts": [
@@ -3655,6 +3697,34 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T16:22:59.300Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\admin\\transactions\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T16:22:59.687Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\admin\\transactions\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 30,
+            "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {
               "added": [],

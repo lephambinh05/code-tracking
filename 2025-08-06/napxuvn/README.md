@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11998                                          |
-| **Lines Removed** (➖) | 1628                                        |
-| **Net Change** (↕)    | 10370                |
-| **Active Time** (⌚)   | 262 minutes |
+| **Lines Added** (➕)   | 12075                                          |
+| **Lines Removed** (➖) | 1634                                        |
+| **Net Change** (↕)    | 10441                |
+| **Active Time** (⌚)   | 271 minutes |
 
 
 ## Modified Files
@@ -54,7 +54,7 @@
 - **ThemeToggle.tsx** (+40, -0)
 - **page.tsx** (+350, -279)
 - **Hero.tsx** (+218, -0)
-- **globals.css** (+7, -0)
+- **globals.css** (+34, -0)
 - **UserMenu.tsx** (+85, -0)
 - **MobileMenu.tsx** (+124, -0)
 - **Toaster.tsx** (+35, -0)
@@ -105,13 +105,14 @@
 - **page.tsx** (+18, -0)
 - **page.tsx** (+433, -161)
 - **page.tsx** (+266, -114)
-- **route.ts** (+63, -37)
-- **route.ts** (+128, -97)
-- **route.ts** (+73, -37)
-- **route.ts** (+53, -27)
-- **route.ts** (+53, -27)
-- **route.ts** (+90, -59)
+- **route.ts** (+63, -38)
+- **route.ts** (+128, -98)
+- **route.ts** (+73, -38)
+- **route.ts** (+53, -28)
+- **route.ts** (+53, -28)
+- **route.ts** (+90, -60)
 - **api.ts** (+51, -50)
+- **environment.ts** (+50, -0)
 
 ## Visualizations
 
@@ -123,8 +124,8 @@ title Lines changed by file type
 ".js" : 4488
 "unknown" : 267
 ".tsx" : 6311
-".ts" : 1283
-".css" : 269
+".ts" : 1339
+".css" : 296
 ".json" : 117
 ".ps1" : 435
 ".sh" : 195
@@ -144,8 +145,8 @@ title Coding activity by hour (count of changes)
 "17h" : 12
 "18h" : 13
 "22h" : 1
-"23h" : 44
+"23h" : 53
 ```
 
 
-> **Last Updated:** 8/6/2025, 11:27:31 PM
+> **Last Updated:** 8/6/2025, 11:32:31 PM

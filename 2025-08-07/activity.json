@@ -2,9 +2,9 @@
   "date": "2025-08-07",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 1595,
+      "totalLinesAdded": 1690,
       "totalLinesRemoved": 29,
-      "totalActiveTime": 36,
+      "totalActiveTime": 42,
       "files": {
         "f:\\napXUVN\\frontend\\.env": [
           {
@@ -334,6 +334,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T19:12:51.079Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\config\\environment.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\frontend\\shared-config.ts": [
@@ -440,6 +454,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T19:13:44.673Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\test-connection\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\frontend\\client\\src\\app\\api\\user\\profile\\route.ts": [
@@ -518,6 +546,52 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\app\\api\\health\\route.ts": [
+          {
+            "timestamp": "2025-08-06T19:13:26.315Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\health\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T19:13:26.490Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\health\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\.env": [
+          {
+            "timestamp": "2025-08-06T19:16:02.588Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\.env",
+            "fileType": "unknown",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
           }
         ]
       },

@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 12075,
-      "totalLinesRemoved": 1634,
-      "totalActiveTime": 271,
+      "totalLinesAdded": 12164,
+      "totalLinesRemoved": 1635,
+      "totalActiveTime": 279,
       "files": {
         "f:\\napXUVN\\backend\\scripts\\seedData.js": [
           {
@@ -2952,6 +2952,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-06T16:33:53.308Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\admin\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\frontend\\client\\src\\app\\admin\\users\\page.tsx": [
@@ -3904,6 +3918,50 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\env.example": [
+          {
+            "timestamp": "2025-08-06T16:35:06.779Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\env.example",
+            "fileType": ".example",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "example"
+          },
+          {
+            "timestamp": "2025-08-06T16:35:06.988Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\env.example",
+            "fileType": ".example",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "example"
+          },
+          {
+            "timestamp": "2025-08-06T16:37:13.115Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\env.example",
+            "fileType": ".example",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "example"
           }
         ]
       },

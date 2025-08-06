@@ -3164,6 +3164,53 @@
         "f:\\napXUVN\\backend\\.env"
       ],
       "averageChangeSize": 115.625
+    },
+    "studyBuddy": {
+      "totalLinesAdded": 208,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "f:\\studyBuddy\\scripts\\build_ios_testflight.py": [
+          {
+            "timestamp": "2025-08-06T15:44:31.527Z",
+            "fileName": "f:\\studyBuddy\\scripts\\build_ios_testflight.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-06T15:44:31.734Z",
+            "fileName": "f:\\studyBuddy\\scripts\\build_ios_testflight.py",
+            "fileType": ".py",
+            "linesAdded": 207,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "22": 1
+      },
+      "topFiles": [
+        "f:\\studyBuddy\\scripts\\build_ios_testflight.py"
+      ],
+      "averageChangeSize": 104
     }
   },
   "totalActiveTime": 8,

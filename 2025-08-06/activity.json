@@ -2,7 +2,7 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 9595,
+      "totalLinesAdded": 9598,
       "totalLinesRemoved": 913,
       "totalActiveTime": 185,
       "files": {
@@ -2766,6 +2766,22 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\admin\\.next\\package.json": [
+          {
+            "timestamp": "2025-08-06T10:34:53.054Z",
+            "fileName": "f:\\napXUVN\\frontend\\admin\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },

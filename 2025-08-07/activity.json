@@ -2,9 +2,9 @@
   "date": "2025-08-07",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 1933,
+      "totalLinesAdded": 2112,
       "totalLinesRemoved": 29,
-      "totalActiveTime": 49,
+      "totalActiveTime": 60,
       "files": {
         "f:\\napXUVN\\frontend\\.env": [
           {
@@ -97,6 +97,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-06T19:25:50.237Z",
+            "fileName": "f:\\napXUVN\\backend\\src\\routes\\auth.js",
+            "fileType": ".js",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
@@ -666,6 +680,98 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\app\\register\\page.tsx": [
+          {
+            "timestamp": "2025-08-06T19:23:59.946Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\register\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\app\\login\\page.tsx": [
+          {
+            "timestamp": "2025-08-06T19:24:38.407Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\login\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\app\\api\\auth\\register\\route.ts": [
+          {
+            "timestamp": "2025-08-06T19:26:03.251Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\auth\\register\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T19:26:03.515Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\auth\\register\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\app\\api\\auth\\login\\route.ts": [
+          {
+            "timestamp": "2025-08-06T19:26:31.881Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\auth\\login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-06T19:26:32.088Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\api\\auth\\login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

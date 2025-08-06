@@ -2,9 +2,9 @@
   "date": "2025-08-06",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 12164,
-      "totalLinesRemoved": 1635,
-      "totalActiveTime": 279,
+      "totalLinesAdded": 12283,
+      "totalLinesRemoved": 1636,
+      "totalActiveTime": 281,
       "files": {
         "f:\\napXUVN\\backend\\scripts\\seedData.js": [
           {
@@ -2871,6 +2871,34 @@
             "fileType": "unknown",
             "linesAdded": 118,
             "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-06T16:38:04.963Z",
+            "fileName": "f:\\napXUVN\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-06T16:38:06.725Z",
+            "fileName": "f:\\napXUVN\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "napXUVN",
             "content": {
               "added": [],

@@ -3,7 +3,7 @@
   "projects": {
     "studyBuddy": {
       "totalLinesAdded": 944,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 10,
       "totalActiveTime": 4,
       "files": {
         "f:\\studyBuddy\\.github\\workflows\\ios.yml": [
@@ -139,6 +139,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-07T19:51:35.711Z",
+            "fileName": "f:\\studyBuddy\\ios\\Podfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ]

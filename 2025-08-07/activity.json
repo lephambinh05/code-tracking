@@ -837,9 +837,9 @@
       "averageChangeSize": 134.16666666666666
     },
     "studyBuddy": {
-      "totalLinesAdded": 315,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 333,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 5,
       "files": {
         "f:\\studyBuddy\\scripts\\build_ios_windows.py": [
           {
@@ -899,6 +899,20 @@
             },
             "duration": 1,
             "language": "yml"
+          },
+          {
+            "timestamp": "2025-08-07T15:28:14.799Z",
+            "fileName": "f:\\studyBuddy\\.github\\workflows\\ios.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ],
         "f:\\studyBuddy\\.github\\workflows\\android.yml": [
@@ -929,6 +943,36 @@
             },
             "duration": 1,
             "language": "yml"
+          }
+        ],
+        "f:\\studyBuddy\\ios\\ExportOptions.plist": [
+          {
+            "timestamp": "2025-08-07T15:28:04.247Z",
+            "fileName": "f:\\studyBuddy\\ios\\ExportOptions.plist",
+            "fileType": ".plist",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "plist"
+          },
+          {
+            "timestamp": "2025-08-07T15:28:04.487Z",
+            "fileName": "f:\\studyBuddy\\ios\\ExportOptions.plist",
+            "fileType": ".plist",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "plist"
           }
         ]
       },

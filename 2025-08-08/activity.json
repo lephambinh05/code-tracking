@@ -2,7 +2,7 @@
   "date": "2025-08-08",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 86,
+      "totalLinesAdded": 249,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -64,6 +64,22 @@
             },
             "duration": 1,
             "language": "yml"
+          }
+        ],
+        "f:\\studyBuddy\\pubspec.yaml": [
+          {
+            "timestamp": "2025-08-07T18:23:22.662Z",
+            "fileName": "f:\\studyBuddy\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
           }
         ]
       },

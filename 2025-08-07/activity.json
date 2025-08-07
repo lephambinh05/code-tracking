@@ -837,9 +837,9 @@
       "averageChangeSize": 134.16666666666666
     },
     "studyBuddy": {
-      "totalLinesAdded": 333,
+      "totalLinesAdded": 339,
       "totalLinesRemoved": 13,
-      "totalActiveTime": 5,
+      "totalActiveTime": 6,
       "files": {
         "f:\\studyBuddy\\scripts\\build_ios_windows.py": [
           {
@@ -913,6 +913,20 @@
             },
             "duration": 1,
             "language": "yml"
+          },
+          {
+            "timestamp": "2025-08-07T16:30:29.534Z",
+            "fileName": "f:\\studyBuddy\\.github\\workflows\\ios.yml",
+            "fileType": ".yml",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
           }
         ],
         "f:\\studyBuddy\\.github\\workflows\\android.yml": [
@@ -935,6 +949,20 @@
             "fileName": "f:\\studyBuddy\\.github\\workflows\\android.yml",
             "fileType": ".yml",
             "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-08-07T16:30:41.916Z",
+            "fileName": "f:\\studyBuddy\\.github\\workflows\\android.yml",
+            "fileType": ".yml",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

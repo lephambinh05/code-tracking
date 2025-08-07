@@ -837,9 +837,9 @@
       "averageChangeSize": 134.16666666666666
     },
     "studyBuddy": {
-      "totalLinesAdded": 240,
+      "totalLinesAdded": 284,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "f:\\studyBuddy\\scripts\\build_ios_windows.py": [
           {
@@ -869,6 +869,36 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "f:\\studyBuddy\\.github\\workflows\\ios.yml": [
+          {
+            "timestamp": "2025-08-07T15:08:15.884Z",
+            "fileName": "f:\\studyBuddy\\.github\\workflows\\ios.yml",
+            "fileType": ".yml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-08-07T15:08:16.188Z",
+            "fileName": "f:\\studyBuddy\\.github\\workflows\\ios.yml",
+            "fileType": ".yml",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ]
       },

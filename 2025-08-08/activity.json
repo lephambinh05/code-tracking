@@ -3,7 +3,7 @@
   "projects": {
     "studyBuddy": {
       "totalLinesAdded": 955,
-      "totalLinesRemoved": 60,
+      "totalLinesRemoved": 101,
       "totalActiveTime": 6,
       "files": {
         "f:\\studyBuddy\\.github\\workflows\\ios.yml": [
@@ -91,6 +91,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-08-07T20:19:56.666Z",
+            "fileName": "f:\\studyBuddy\\.github\\workflows\\android.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "yml"
           }
         ],

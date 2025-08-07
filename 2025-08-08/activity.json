@@ -2,8 +2,8 @@
   "date": "2025-08-08",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 965,
-      "totalLinesRemoved": 101,
+      "totalLinesAdded": 1127,
+      "totalLinesRemoved": 263,
       "totalActiveTime": 7,
       "files": {
         "f:\\studyBuddy\\.github\\workflows\\ios.yml": [
@@ -128,6 +128,34 @@
             "fileName": "f:\\studyBuddy\\pubspec.yaml",
             "fileType": ".yaml",
             "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-07T21:23:29.430Z",
+            "fileName": "f:\\studyBuddy\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 162,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-07T21:23:29.433Z",
+            "fileName": "f:\\studyBuddy\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 162,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

@@ -2,9 +2,9 @@
   "date": "2025-08-08",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 866,
+      "totalLinesAdded": 944,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 4,
       "files": {
         "f:\\studyBuddy\\.github\\workflows\\ios.yml": [
           {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-08-07T19:35:48.976Z",
+            "fileName": "f:\\studyBuddy\\.github\\workflows\\ios.yml",
+            "fileType": ".yml",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "yml"
           }
         ],
@@ -96,6 +110,36 @@
             },
             "duration": 0,
             "language": "pbxproj"
+          }
+        ],
+        "f:\\studyBuddy\\ios\\Podfile": [
+          {
+            "timestamp": "2025-08-07T19:35:25.111Z",
+            "fileName": "f:\\studyBuddy\\ios\\Podfile",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-08-07T19:35:25.283Z",
+            "fileName": "f:\\studyBuddy\\ios\\Podfile",
+            "fileType": "unknown",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },

@@ -835,6 +835,53 @@
         "f:\\napXUVN\\backend\\src\\routes\\auth.js"
       ],
       "averageChangeSize": 134.16666666666666
+    },
+    "studyBuddy": {
+      "totalLinesAdded": 240,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "f:\\studyBuddy\\scripts\\build_ios_windows.py": [
+          {
+            "timestamp": "2025-08-07T14:59:21.828Z",
+            "fileName": "f:\\studyBuddy\\scripts\\build_ios_windows.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-07T14:59:22.170Z",
+            "fileName": "f:\\studyBuddy\\scripts\\build_ios_windows.py",
+            "fileType": ".py",
+            "linesAdded": 239,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "f:\\studyBuddy\\scripts\\build_ios_windows.py"
+      ],
+      "averageChangeSize": 120
     }
   },
   "totalActiveTime": 8,

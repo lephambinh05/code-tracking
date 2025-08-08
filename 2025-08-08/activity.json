@@ -2,9 +2,9 @@
   "date": "2025-08-08",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 2473,
+      "totalLinesAdded": 2949,
       "totalLinesRemoved": 286,
-      "totalActiveTime": 15,
+      "totalActiveTime": 17,
       "files": {
         "f:\\studyBuddy\\.github\\workflows\\ios.yml": [
           {
@@ -179,6 +179,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "pbxproj"
+          },
+          {
+            "timestamp": "2025-08-08T16:08:13.698Z",
+            "fileName": "f:\\studyBuddy\\ios\\Runner.xcodeproj\\project.pbxproj",
+            "fileType": ".pbxproj",
+            "linesAdded": 362,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "pbxproj"
           }
         ],
@@ -366,6 +380,20 @@
             },
             "duration": 1,
             "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-08T16:08:20.859Z",
+            "fileName": "f:\\studyBuddy\\codemagic.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
           }
         ],
         "f:\\studyBuddy\\lib\\core\\services\\notification_service.dart": [
@@ -484,6 +512,22 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "f:\\studyBuddy\\ios\\Runner.xcodeproj\\xcshareddata\\xcschemes\\Runner.xcscheme": [
+          {
+            "timestamp": "2025-08-08T16:07:47.809Z",
+            "fileName": "f:\\studyBuddy\\ios\\Runner.xcodeproj\\xcshareddata\\xcschemes\\Runner.xcscheme",
+            "fileType": ".xcscheme",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xcscheme"
           }
         ]
       },

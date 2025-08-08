@@ -2,9 +2,9 @@
   "date": "2025-08-08",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 2170,
+      "totalLinesAdded": 2473,
       "totalLinesRemoved": 286,
-      "totalActiveTime": 11,
+      "totalActiveTime": 15,
       "files": {
         "f:\\studyBuddy\\.github\\workflows\\ios.yml": [
           {
@@ -324,6 +324,48 @@
             },
             "duration": 1,
             "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-08T10:06:08.120Z",
+            "fileName": "f:\\studyBuddy\\codemagic.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-08T10:06:08.284Z",
+            "fileName": "f:\\studyBuddy\\codemagic.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-08-08T10:07:13.327Z",
+            "fileName": "f:\\studyBuddy\\codemagic.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
           }
         ],
         "f:\\studyBuddy\\lib\\core\\services\\notification_service.dart": [
@@ -404,6 +446,36 @@
             "fileName": "f:\\studyBuddy\\scripts\\check_ios_setup.py",
             "fileType": ".py",
             "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\studyBuddy\\scripts\\fix_codemagic_ios.py": [
+          {
+            "timestamp": "2025-08-08T10:07:04.070Z",
+            "fileName": "f:\\studyBuddy\\scripts\\fix_codemagic_ios.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-08T10:07:04.370Z",
+            "fileName": "f:\\studyBuddy\\scripts\\fix_codemagic_ios.py",
+            "fileType": ".py",
+            "linesAdded": 255,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

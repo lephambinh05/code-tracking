@@ -141,9 +141,9 @@
       "averageChangeSize": 6
     },
     "napXUVN": {
-      "totalLinesAdded": 6760,
+      "totalLinesAdded": 6964,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 43,
+      "totalActiveTime": 44,
       "files": {
         "f:\\napXUVN\\next.config.js": [
           {
@@ -839,6 +839,36 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\utils\\constants\\index.ts": [
+          {
+            "timestamp": "2025-08-08T20:21:52.690Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\utils\\constants\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-08T20:21:52.948Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\utils\\constants\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 203,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

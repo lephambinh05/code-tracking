@@ -141,9 +141,9 @@
       "averageChangeSize": 6
     },
     "napXUVN": {
-      "totalLinesAdded": 6964,
+      "totalLinesAdded": 8503,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 44,
+      "totalActiveTime": 64,
       "files": {
         "f:\\napXUVN\\next.config.js": [
           {
@@ -861,6 +861,306 @@
             "fileName": "f:\\napXUVN\\frontend\\client\\src\\utils\\constants\\index.ts",
             "fileType": ".ts",
             "linesAdded": 203,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\types\\interfaces\\index.ts": [
+          {
+            "timestamp": "2025-08-08T20:22:29.841Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\types\\interfaces\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-08T20:22:30.160Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\types\\interfaces\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 321,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\services\\api\\client.ts": [
+          {
+            "timestamp": "2025-08-08T20:22:52.541Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\services\\api\\client.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-08T20:22:52.769Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\services\\api\\client.ts",
+            "fileType": ".ts",
+            "linesAdded": 167,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\services\\auth\\index.ts": [
+          {
+            "timestamp": "2025-08-08T20:23:14.967Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\services\\auth\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-08T20:23:15.323Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\services\\auth\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Button.tsx": [
+          {
+            "timestamp": "2025-08-08T20:23:35.047Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Button.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:23:35.266Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Button.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Card.tsx": [
+          {
+            "timestamp": "2025-08-08T20:23:50.233Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Card.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:23:50.514Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Card.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Input.tsx": [
+          {
+            "timestamp": "2025-08-08T20:24:08.011Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Input.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:24:08.298Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Input.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Modal.tsx": [
+          {
+            "timestamp": "2025-08-08T20:24:27.034Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:24:27.619Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\Modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\includes\\layout\\Header.tsx": [
+          {
+            "timestamp": "2025-08-08T20:25:16.055Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\includes\\layout\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:25:16.571Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\includes\\layout\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 252,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\includes\\layout\\Footer.tsx": [
+          {
+            "timestamp": "2025-08-08T20:26:01.753Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\includes\\layout\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:26:02.140Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\includes\\layout\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 232,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\hooks\\custom\\useAuth.ts": [
+          {
+            "timestamp": "2025-08-08T20:26:22.019Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\hooks\\custom\\useAuth.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-08T20:26:22.634Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\hooks\\custom\\useAuth.ts",
+            "fileType": ".ts",
+            "linesAdded": 125,
             "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {

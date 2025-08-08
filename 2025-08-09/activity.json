@@ -142,8 +142,8 @@
     },
     "napXUVN": {
       "totalLinesAdded": 8576,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 68,
+      "totalLinesRemoved": 174,
+      "totalActiveTime": 69,
       "files": {
         "f:\\napXUVN\\next.config.js": [
           {
@@ -477,6 +477,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:35:29.677Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 148,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\frontend\\client\\src\\components\\providers\\AuthProvider.tsx": [
@@ -566,6 +580,20 @@
             "fileType": ".tsx",
             "linesAdded": 216,
             "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:36:25.937Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\login\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 26,
             "projectName": "napXUVN",
             "content": {
               "added": [],

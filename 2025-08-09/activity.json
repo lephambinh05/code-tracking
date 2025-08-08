@@ -141,9 +141,9 @@
       "averageChangeSize": 6
     },
     "napXUVN": {
-      "totalLinesAdded": 8503,
+      "totalLinesAdded": 8576,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 64,
+      "totalActiveTime": 68,
       "files": {
         "f:\\napXUVN\\next.config.js": [
           {
@@ -1169,6 +1169,66 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\index.ts": [
+          {
+            "timestamp": "2025-08-08T20:27:14.209Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-08T20:27:14.851Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\components\\ui\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\styles\\components\\buttons.css": [
+          {
+            "timestamp": "2025-08-08T20:27:42.158Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\styles\\components\\buttons.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-08T20:27:42.590Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\styles\\components\\buttons.css",
+            "fileType": ".css",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },

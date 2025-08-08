@@ -2,9 +2,9 @@
   "date": "2025-08-08",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 1978,
+      "totalLinesAdded": 2170,
       "totalLinesRemoved": 286,
-      "totalActiveTime": 10,
+      "totalActiveTime": 11,
       "files": {
         "f:\\studyBuddy\\.github\\workflows\\ios.yml": [
           {
@@ -382,6 +382,36 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\scripts\\check_ios_setup.py": [
+          {
+            "timestamp": "2025-08-08T09:59:05.819Z",
+            "fileName": "f:\\studyBuddy\\scripts\\check_ios_setup.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-08T09:59:06.073Z",
+            "fileName": "f:\\studyBuddy\\scripts\\check_ios_setup.py",
+            "fileType": ".py",
+            "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },

@@ -141,9 +141,9 @@
       "averageChangeSize": 6
     },
     "napXUVN": {
-      "totalLinesAdded": 9333,
+      "totalLinesAdded": 10208,
       "totalLinesRemoved": 241,
-      "totalActiveTime": 77,
+      "totalActiveTime": 83,
       "files": {
         "f:\\napXUVN\\next.config.js": [
           {
@@ -1323,6 +1323,66 @@
             "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\dashboard\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 363,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\app\\profile\\page.tsx": [
+          {
+            "timestamp": "2025-08-08T20:42:35.711Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\profile\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:42:36.309Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\profile\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 480,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\frontend\\client\\src\\app\\about\\page.tsx": [
+          {
+            "timestamp": "2025-08-08T20:44:29.311Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\about\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-08T20:44:29.873Z",
+            "fileName": "f:\\napXUVN\\frontend\\client\\src\\app\\about\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 393,
             "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {

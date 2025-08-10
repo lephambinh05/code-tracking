@@ -1239,6 +1239,81 @@
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Dashboard.vue"
       ],
       "averageChangeSize": 161.75
+    },
+    "studyBuddy": {
+      "totalLinesAdded": 716,
+      "totalLinesRemoved": 357,
+      "totalActiveTime": 4,
+      "files": {
+        "f:\\studyBuddy\\ios\\Runner.xcodeproj\\project.pbxproj": [
+          {
+            "timestamp": "2025-08-10T15:50:38.602Z",
+            "fileName": "f:\\studyBuddy\\ios\\Runner.xcodeproj\\project.pbxproj",
+            "fileType": ".pbxproj",
+            "linesAdded": 358,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "pbxproj"
+          },
+          {
+            "timestamp": "2025-08-10T15:50:52.517Z",
+            "fileName": "f:\\studyBuddy\\ios\\Runner.xcodeproj\\project.pbxproj",
+            "fileType": ".pbxproj",
+            "linesAdded": 0,
+            "linesRemoved": 50,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pbxproj"
+          },
+          {
+            "timestamp": "2025-08-10T15:52:17.207Z",
+            "fileName": "f:\\studyBuddy\\ios\\Runner.xcodeproj\\project.pbxproj",
+            "fileType": ".pbxproj",
+            "linesAdded": 0,
+            "linesRemoved": 307,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "pbxproj"
+          },
+          {
+            "timestamp": "2025-08-10T15:52:17.386Z",
+            "fileName": "f:\\studyBuddy\\ios\\Runner.xcodeproj\\project.pbxproj",
+            "fileType": ".pbxproj",
+            "linesAdded": 358,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pbxproj"
+          }
+        ]
+      },
+      "languageStats": {
+        "pbxproj": 4
+      },
+      "changeFrequency": {
+        "22": 4
+      },
+      "topFiles": [
+        "f:\\studyBuddy\\ios\\Runner.xcodeproj\\project.pbxproj"
+      ],
+      "averageChangeSize": 268.25
     }
   },
   "totalActiveTime": 1,

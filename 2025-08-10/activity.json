@@ -397,9 +397,9 @@
       "averageChangeSize": 27
     },
     "rentOTP": {
-      "totalLinesAdded": 647,
+      "totalLinesAdded": 1533,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\layouts\\Client.vue": [
           {
@@ -459,6 +459,66 @@
             },
             "duration": 1,
             "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\RentOTP.vue": [
+          {
+            "timestamp": "2025-08-10T07:41:59.097Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\RentOTP.vue",
+            "fileType": ".vue",
+            "linesAdded": 285,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-10T07:41:59.467Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\RentOTP.vue",
+            "fileType": ".vue",
+            "linesAdded": 170,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\index.css": [
+          {
+            "timestamp": "2025-08-10T07:42:50.444Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\index.css",
+            "fileType": ".css",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-10T07:42:50.564Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\index.css",
+            "fileType": ".css",
+            "linesAdded": 425,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },

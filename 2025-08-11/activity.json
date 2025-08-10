@@ -2,7 +2,7 @@
   "date": "2025-08-11",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 163,
+      "totalLinesAdded": 779,
       "totalLinesRemoved": 358,
       "totalActiveTime": 0,
       "files": {
@@ -29,6 +29,20 @@
             "fileType": ".pbxproj",
             "linesAdded": 0,
             "linesRemoved": 358,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "pbxproj"
+          },
+          {
+            "timestamp": "2025-08-10T19:32:05.277Z",
+            "fileName": "f:\\studyBuddy\\ios\\Runner.xcodeproj\\project.pbxproj",
+            "fileType": ".pbxproj",
+            "linesAdded": 616,
+            "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {
               "added": [],

@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-11",
+  "projects": {
+    "studyBuddy": {
+      "totalLinesAdded": 163,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\studyBuddy\\pubspec.yaml": [
+          {
+            "timestamp": "2025-08-10T18:26:15.066Z",
+            "fileName": "f:\\studyBuddy\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 0
+      },
+      "changeFrequency": {
+        "1": 0
+      },
+      "topFiles": [
+        "f:\\studyBuddy\\pubspec.yaml"
+      ],
+      "averageChangeSize": 163
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    1
+  ],
+  "mostUsedLanguages": [
+    "yaml"
+  ]
+}

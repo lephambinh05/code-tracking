@@ -66,7 +66,7 @@
     },
     "rentOTP": {
       "totalLinesAdded": 12,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 12,
       "totalActiveTime": 1,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Profile.vue": [
@@ -104,6 +104,20 @@
             "fileType": ".vue",
             "linesAdded": 7,
             "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-10T19:35:41.863Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Profile.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 12,
             "projectName": "rentOTP",
             "content": {
               "added": [],

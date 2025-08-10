@@ -33,6 +33,53 @@
         "f:\\studyBuddy\\pubspec.yaml"
       ],
       "averageChangeSize": 163
+    },
+    "rentOTP": {
+      "totalLinesAdded": 5,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Profile.vue": [
+          {
+            "timestamp": "2025-08-10T18:32:38.240Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Profile.vue",
+            "fileType": ".vue",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-10T18:32:47.304Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Profile.vue",
+            "fileType": ".vue",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ]
+      },
+      "languageStats": {
+        "vue": 1
+      },
+      "changeFrequency": {
+        "1": 1
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Profile.vue"
+      ],
+      "averageChangeSize": 2.5
     }
   },
   "totalActiveTime": 0,

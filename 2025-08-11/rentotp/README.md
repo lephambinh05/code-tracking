@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1227                                          |
-| **Lines Removed** (➖) | 34                                        |
-| **Net Change** (↕)    | 1193                |
-| **Active Time** (⌚)   | 54 minutes |
+| **Lines Added** (➕)   | 1313                                          |
+| **Lines Removed** (➖) | 75                                        |
+| **Net Change** (↕)    | 1238                |
+| **Active Time** (⌚)   | 59 minutes |
 
 
 ## Modified Files
@@ -16,10 +16,11 @@
 - **apiService.js** (+47, -0)
 - **api.js** (+86, -0)
 - **main.ts** (+35, -0)
-- **.env** (+28, -0)
+- **.env** (+54, -26)
 - **user.seed.ts** (+92, -0)
-- **jwt.strategy.ts** (+38, -0)
+- **jwt.strategy.ts** (+38, -15)
 - **client.controller.ts** (+56, -0)
+- **update-password.js** (+60, -0)
 
 ## Visualizations
 
@@ -29,9 +30,9 @@
 pie showData
 title Lines changed by file type
 ".vue" : 879
-".js" : 133
-".ts" : 221
-"unknown" : 28
+".js" : 193
+".ts" : 236
+"unknown" : 80
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +44,8 @@ title Coding activity by hour (count of changes)
 "02h" : 7
 "04h" : 8
 "12h" : 11
-"13h" : 25
+"13h" : 30
 ```
 
 
-> **Last Updated:** 8/11/2025, 1:20:12 PM
+> **Last Updated:** 8/11/2025, 1:30:12 PM

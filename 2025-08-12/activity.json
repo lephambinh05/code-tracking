@@ -2,9 +2,9 @@
   "date": "2025-08-12",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 4472,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 117,
+      "totalLinesAdded": 5237,
+      "totalLinesRemoved": 18,
+      "totalActiveTime": 125,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Deposit.vue": [
           {
@@ -273,6 +273,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-11T18:49:35.926Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\services\\apiService.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
@@ -1406,6 +1420,52 @@
             },
             "duration": 1,
             "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailManagement.vue": [
+          {
+            "timestamp": "2025-08-11T18:47:26.330Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailManagement.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-11T18:47:26.916Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailManagement.vue",
+            "fileType": ".vue",
+            "linesAdded": 696,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\package.json": [
+          {
+            "timestamp": "2025-08-11T18:47:47.713Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\package.json",
+            "fileType": ".json",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

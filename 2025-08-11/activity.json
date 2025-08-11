@@ -65,7 +65,7 @@
       "averageChangeSize": 163
     },
     "rentOTP": {
-      "totalLinesAdded": 1547,
+      "totalLinesAdded": 1548,
       "totalLinesRemoved": 75,
       "totalActiveTime": 66,
       "files": {
@@ -868,6 +868,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-11T06:56:03.411Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\client\\client.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],

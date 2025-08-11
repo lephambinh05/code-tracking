@@ -65,9 +65,9 @@
       "averageChangeSize": 163
     },
     "rentOTP": {
-      "totalLinesAdded": 1562,
-      "totalLinesRemoved": 75,
-      "totalActiveTime": 67,
+      "totalLinesAdded": 1841,
+      "totalLinesRemoved": 91,
+      "totalActiveTime": 76,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Profile.vue": [
           {
@@ -615,6 +615,20 @@
             },
             "duration": 1,
             "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-11T07:18:37.406Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Profile.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "vue"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Dashboard.vue": [
@@ -795,6 +809,20 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-11T07:16:55.310Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\database\\seeds\\user.seed.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\auth\\jwt.strategy.ts": [
@@ -882,6 +910,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-11T07:15:32.674Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\client\\client.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -973,6 +1015,34 @@
             },
             "duration": 4,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-11T07:15:50.788Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\client\\client.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-11T07:16:04.876Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\client\\client.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\client\\dto\\update-profile.dto.ts": [
@@ -995,6 +1065,52 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\client\\dto\\update-profile.dto.ts",
             "fileType": ".ts",
             "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\database\\schemas\\user.schema.ts": [
+          {
+            "timestamp": "2025-08-11T07:15:23.272Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\database\\schemas\\user.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\auth\\auth.service.ts": [
+          {
+            "timestamp": "2025-08-11T07:16:18.241Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\auth\\auth.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 179,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-11T07:16:35.083Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\auth\\auth.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "rentOTP",
             "content": {

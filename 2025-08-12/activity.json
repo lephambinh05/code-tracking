@@ -2,7 +2,7 @@
   "date": "2025-08-12",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 311,
+      "totalLinesAdded": 469,
       "totalLinesRemoved": 0,
       "totalActiveTime": 21,
       "files": {
@@ -261,6 +261,22 @@
               "removed": []
             },
             "duration": 4,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\payment\\deposit.service.ts": [
+          {
+            "timestamp": "2025-08-11T17:30:26.429Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\payment\\deposit.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 158,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]

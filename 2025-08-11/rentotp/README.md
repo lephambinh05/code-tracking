@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1841                                          |
+| **Lines Added** (➕)   | 2110                                          |
 | **Lines Removed** (➖) | 91                                        |
-| **Net Change** (↕)    | 1750                |
-| **Active Time** (⌚)   | 76 minutes |
+| **Net Change** (↕)    | 2019                |
+| **Active Time** (⌚)   | 77 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **api.js** (+86, -0)
 - **main.ts** (+35, -0)
 - **.env** (+54, -26)
-- **user.seed.ts** (+92, -10)
+- **user.seed.ts** (+102, -10)
 - **jwt.strategy.ts** (+38, -15)
 - **client.controller.ts** (+58, -0)
 - **update-password.js** (+60, -0)
@@ -26,6 +26,7 @@
 - **update-profile.dto.ts** (+14, -0)
 - **user.schema.ts** (+66, -0)
 - **auth.service.ts** (+190, -0)
+- **Register.vue** (+259, -0)
 
 ## Visualizations
 
@@ -34,9 +35,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".vue" : 885
+".vue" : 1144
 ".js" : 239
-".ts" : 728
+".ts" : 738
 "unknown" : 80
 ```
 
@@ -50,8 +51,8 @@ title Coding activity by hour (count of changes)
 "04h" : 8
 "12h" : 11
 "13h" : 35
-"14h" : 10
+"14h" : 12
 ```
 
 
-> **Last Updated:** 8/11/2025, 2:20:12 PM
+> **Last Updated:** 8/11/2025, 2:25:12 PM

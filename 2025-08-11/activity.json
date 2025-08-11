@@ -65,9 +65,9 @@
       "averageChangeSize": 163
     },
     "rentOTP": {
-      "totalLinesAdded": 1841,
+      "totalLinesAdded": 2110,
       "totalLinesRemoved": 91,
-      "totalActiveTime": 76,
+      "totalActiveTime": 77,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Profile.vue": [
           {
@@ -823,6 +823,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-11T07:24:34.314Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\database\\seeds\\user.seed.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\auth\\jwt.strategy.ts": [
@@ -1119,6 +1133,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\auth\\Register.vue": [
+          {
+            "timestamp": "2025-08-11T07:24:01.141Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\auth\\Register.vue",
+            "fileType": ".vue",
+            "linesAdded": 259,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
           }
         ]
       },

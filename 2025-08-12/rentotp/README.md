@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9337                                          |
-| **Lines Removed** (➖) | 266                                        |
-| **Net Change** (↕)    | 9071                |
-| **Active Time** (⌚)   | 226 minutes |
+| **Lines Added** (➕)   | 9378                                          |
+| **Lines Removed** (➖) | 309                                        |
+| **Net Change** (↕)    | 9069                |
+| **Active Time** (⌚)   | 236 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **apiService.js** (+629, -31)
 - **deposit.controller.ts** (+43, -0)
 - **deposit.service.ts** (+158, -0)
-- **Client.vue** (+689, -1)
+- **Client.vue** (+689, -14)
 - **History.vue** (+706, -0)
 - **otp.controller.ts** (+42, -0)
 - **otp.service.ts** (+256, -0)
@@ -31,7 +31,7 @@
 - **main.js** (+199, -0)
 - **auth.guard.js** (+123, -24)
 - **UserDropdown.vue** (+184, -25)
-- **Sidebar.vue** (+514, -159)
+- **Sidebar.vue** (+555, -189)
 - **Dashboard.vue** (+597, -2)
 - **roleUtils.js** (+159, -0)
 - **Profile.vue** (+691, -16)
@@ -45,7 +45,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".vue" : 7518
+".vue" : 7602
 ".js" : 1167
 ".ts" : 850
 ".json" : 68
@@ -60,8 +60,8 @@ title Coding activity by hour (count of changes)
 "01h" : 61
 "21h" : 29
 "22h" : 24
-"23h" : 21
+"23h" : 26
 ```
 
 
-> **Last Updated:** 8/12/2025, 11:25:02 PM
+> **Last Updated:** 8/12/2025, 11:30:02 PM

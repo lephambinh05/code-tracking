@@ -1,0 +1,64 @@
+{
+  "date": "2025-08-13",
+  "projects": {
+    "rentOTP": {
+      "totalLinesAdded": 180,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\layouts\\Admin.vue": [
+          {
+            "timestamp": "2025-08-12T16:57:37.245Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\layouts\\Admin.vue",
+            "fileType": ".vue",
+            "linesAdded": 162,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\Dashboard.vue": [
+          {
+            "timestamp": "2025-08-12T16:59:47.330Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\Dashboard.vue",
+            "fileType": ".vue",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "vue"
+          }
+        ]
+      },
+      "languageStats": {
+        "vue": 6
+      },
+      "changeFrequency": {
+        "23": 6
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\layouts\\Admin.vue",
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\Dashboard.vue"
+      ],
+      "averageChangeSize": 90
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "vue"
+  ]
+}

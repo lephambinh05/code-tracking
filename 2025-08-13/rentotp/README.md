@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1481                                          |
-| **Lines Removed** (➖) | 183                                        |
-| **Net Change** (↕)    | 1298                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Lines Removed** (➖) | 263                                        |
+| **Net Change** (↕)    | 1218                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
-- **Admin.vue** (+162, -0)
+- **Admin.vue** (+162, -80)
 - **Dashboard.vue** (+18, -0)
 - **Users.vue** (+231, -0)
 - **Orders.vue** (+313, -0)
@@ -26,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".vue" : 1646
+".vue" : 1726
 ".js" : 18
 ```
 
@@ -35,9 +35,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 9
+"00h" : 10
 "23h" : 2
 ```
 
 
-> **Last Updated:** 8/13/2025, 12:10:02 AM
+> **Last Updated:** 8/13/2025, 12:15:02 AM

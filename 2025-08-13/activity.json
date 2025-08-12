@@ -3,7 +3,7 @@
   "projects": {
     "rentOTP": {
       "totalLinesAdded": 1753,
-      "totalLinesRemoved": 443,
+      "totalLinesRemoved": 485,
       "totalActiveTime": 34,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\layouts\\Admin.vue": [
@@ -227,6 +227,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-12T18:32:38.077Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Sidebar\\AdminSidebar.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 42,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "vue"
           }
         ],

@@ -2,9 +2,9 @@
   "date": "2025-08-13",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 10200,
+      "totalLinesAdded": 10753,
       "totalLinesRemoved": 1716,
-      "totalActiveTime": 174,
+      "totalActiveTime": 175,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\layouts\\Admin.vue": [
           {
@@ -1894,6 +1894,36 @@
             },
             "duration": 1,
             "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\DATABASE_SQL_SCHEMA.sql": [
+          {
+            "timestamp": "2025-08-13T08:56:45.445Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\DATABASE_SQL_SCHEMA.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-08-13T08:56:46.047Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\DATABASE_SQL_SCHEMA.sql",
+            "fileType": ".sql",
+            "linesAdded": 552,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
           }
         ]
       },

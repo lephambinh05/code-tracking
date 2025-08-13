@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15679                                          |
+| **Lines Added** (➕)   | 16616                                          |
 | **Lines Removed** (➖) | 5928                                        |
-| **Net Change** (↕)    | 9751                |
-| **Active Time** (⌚)   | 207 minutes |
+| **Net Change** (↕)    | 10688                |
+| **Active Time** (⌚)   | 225 minutes |
 
 
 ## Modified Files
@@ -22,11 +22,11 @@
 - **Client.vue** (+179, -177)
 - **Deposit.vue** (+914, -3)
 - **HeaderStats.vue** (+12, -0)
-- **admin.controller.ts** (+141, -0)
-- **admin.service.ts** (+704, -0)
-- **admin.module.ts** (+23, -0)
+- **admin.controller.ts** (+157, -0)
+- **admin.service.ts** (+783, -0)
+- **admin.module.ts** (+25, -0)
 - **app.module.ts** (+28, -0)
-- **apiService.js** (+366, -0)
+- **apiService.js** (+382, -0)
 - **roleUtils.js** (+173, -0)
 - **api.js** (+88, -0)
 - **auth.guard.js** (+99, -2)
@@ -34,6 +34,10 @@
 - **Profile.vue** (+673, -0)
 - **DATABASE_SQL_SCHEMA.sql** (+553, -0)
 - **DataTable.vue** (+4920, -4176)
+- **settings.schema.ts** (+67, -0)
+- **Settings.vue** (+650, -0)
+- **settings.seed.ts** (+76, -0)
+- **index.ts** (+31, -0)
 
 ## Visualizations
 
@@ -42,9 +46,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".vue" : 19174
-".js" : 984
-".ts" : 896
+".vue" : 19824
+".js" : 1000
+".ts" : 1167
 ".sql" : 553
 ```
 
@@ -61,9 +65,9 @@ title Coding activity by hour (count of changes)
 "14h" : 44
 "15h" : 24
 "16h" : 23
-"17h" : 7
+"17h" : 23
 "23h" : 2
 ```
 
 
-> **Last Updated:** 8/13/2025, 5:14:13 PM
+> **Last Updated:** 8/13/2025, 5:19:13 PM

@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 18200                                          |
-| **Lines Removed** (➖) | 6916                                        |
-| **Net Change** (↕)    | 11284                |
-| **Active Time** (⌚)   | 285 minutes |
+| **Lines Removed** (➖) | 6998                                        |
+| **Net Change** (↕)    | 11202                |
+| **Active Time** (⌚)   | 290 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **MailServices.vue** (+1007, -183)
 - **main.js** (+241, -15)
 - **AdminSidebar.vue** (+1365, -760)
-- **ClientSidebar.vue** (+1173, -640)
+- **ClientSidebar.vue** (+1173, -722)
 - **Client.vue** (+179, -177)
 - **Deposit.vue** (+914, -3)
 - **HeaderStats.vue** (+12, -0)
@@ -49,7 +49,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".vue" : 22147
+".vue" : 22229
 ".js" : 1170
 ".ts" : 1246
 ".sql" : 553
@@ -69,9 +69,9 @@ title Coding activity by hour (count of changes)
 "15h" : 24
 "16h" : 23
 "17h" : 50
-"18h" : 30
+"18h" : 34
 "23h" : 2
 ```
 
 
-> **Last Updated:** 8/13/2025, 6:49:13 PM
+> **Last Updated:** 8/13/2025, 6:54:13 PM

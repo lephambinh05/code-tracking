@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8013                                          |
-| **Lines Removed** (➖) | 1695                                        |
-| **Net Change** (↕)    | 6318                |
-| **Active Time** (⌚)   | 142 minutes |
+| **Lines Added** (➕)   | 8873                                          |
+| **Lines Removed** (➖) | 1716                                        |
+| **Net Change** (↕)    | 7157                |
+| **Active Time** (⌚)   | 152 minutes |
 
 
 ## Modified Files
 - **Admin.vue** (+473, -231)
 - **Dashboard.vue** (+636, -10)
-- **Users.vue** (+1807, -693)
+- **Users.vue** (+1807, -699)
 - **Orders.vue** (+626, -0)
 - **MailServices.vue** (+813, -183)
-- **main.js** (+235, -0)
-- **AdminSidebar.vue** (+1007, -396)
+- **main.js** (+235, -9)
+- **AdminSidebar.vue** (+1007, -397)
 - **ClientSidebar.vue** (+214, -3)
 - **Client.vue** (+0, -177)
-- **Deposit.vue** (+914, -0)
+- **Deposit.vue** (+914, -3)
 - **HeaderStats.vue** (+12, -0)
 - **admin.controller.ts** (+86, -0)
 - **admin.service.ts** (+428, -0)
@@ -30,6 +30,8 @@
 - **roleUtils.js** (+173, -0)
 - **api.js** (+88, -0)
 - **auth.guard.js** (+99, -2)
+- **Login.vue** (+187, -2)
+- **Profile.vue** (+673, -0)
 
 ## Visualizations
 
@@ -38,8 +40,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".vue" : 8195
-".js" : 948
+".vue" : 9067
+".js" : 957
 ".ts" : 565
 ```
 
@@ -53,9 +55,10 @@ title Coding activity by hour (count of changes)
 "02h" : 3
 "12h" : 17
 "13h" : 24
-"14h" : 43
+"14h" : 44
+"15h" : 7
 "23h" : 2
 ```
 
 
-> **Last Updated:** 8/13/2025, 2:59:13 PM
+> **Last Updated:** 8/13/2025, 3:04:13 PM

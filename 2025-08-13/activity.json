@@ -2,9 +2,9 @@
   "date": "2025-08-13",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 7826,
-      "totalLinesRemoved": 1693,
-      "totalActiveTime": 140,
+      "totalLinesAdded": 8013,
+      "totalLinesRemoved": 1695,
+      "totalActiveTime": 142,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\layouts\\Admin.vue": [
           {
@@ -1521,6 +1521,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\services\\api.js": [
+          {
+            "timestamp": "2025-08-13T07:58:36.268Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\services\\api.js",
+            "fileType": ".js",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\guards\\auth.guard.js": [
+          {
+            "timestamp": "2025-08-13T07:58:53.871Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\guards\\auth.guard.js",
+            "fileType": ".js",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-13T07:58:54.000Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\guards\\auth.guard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

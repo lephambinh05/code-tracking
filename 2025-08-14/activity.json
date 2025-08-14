@@ -2,9 +2,9 @@
   "date": "2025-08-14",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 5445,
-      "totalLinesRemoved": 2210,
-      "totalActiveTime": 44,
+      "totalLinesAdded": 5477,
+      "totalLinesRemoved": 2231,
+      "totalActiveTime": 52,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailServices.vue": [
           {
@@ -486,6 +486,90 @@
             },
             "duration": 1,
             "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:48:47.158Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailManagement.vue",
+            "fileType": ".vue",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:49:09.102Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailManagement.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:49:20.622Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailManagement.vue",
+            "fileType": ".vue",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:49:51.119Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailManagement.vue",
+            "fileType": ".vue",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:50:22.420Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailManagement.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:50:30.827Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailManagement.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\main.js": [
@@ -597,6 +681,48 @@
             "fileType": ".vue",
             "linesAdded": 498,
             "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:51:01.410Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\components\\MailModal.vue",
+            "fileType": ".vue",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:51:12.080Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\components\\MailModal.vue",
+            "fileType": ".vue",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:51:23.861Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\components\\MailModal.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 15,
             "projectName": "rentOTP",
             "content": {
               "added": [],

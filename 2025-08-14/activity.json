@@ -2,9 +2,9 @@
   "date": "2025-08-14",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 4309,
+      "totalLinesAdded": 4321,
       "totalLinesRemoved": 1138,
-      "totalActiveTime": 30,
+      "totalActiveTime": 35,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\MailServices.vue": [
           {
@@ -461,6 +461,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-14T05:15:31.185Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Sidebar\\AdminSidebar.vue",
+            "fileType": ".vue",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "vue"
           }
         ]

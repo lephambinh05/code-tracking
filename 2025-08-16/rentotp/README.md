@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6584                                          |
+| **Lines Added** (➕)   | 6911                                          |
 | **Lines Removed** (➖) | 2006                                        |
-| **Net Change** (↕)    | 4578                |
-| **Active Time** (⌚)   | 220 minutes |
+| **Net Change** (↕)    | 4905                |
+| **Active Time** (⌚)   | 233 minutes |
 
 
 ## Modified Files
 - **admin.service.ts** (+677, -248)
 - **admin.controller.ts** (+124, -24)
-- **apiService.js** (+124, -24)
+- **apiService.js** (+126, -24)
 - **admin.module.ts** (+31, -2)
 - **AdminSidebar.vue** (+394, -0)
 - **main.js** (+217, -1)
@@ -22,7 +22,7 @@
 - **Services.vue** (+1028, -27)
 - **email.schema.ts** (+62, -0)
 - **service.schema.ts** (+0, -7)
-- **otp.service.ts** (+56, -3)
+- **otp.service.ts** (+138, -3)
 - **otp.module.ts** (+6, -2)
 - **mail.schema.ts** (+105, -5)
 - **Notification.vue** (+383, -191)
@@ -30,6 +30,10 @@
 - **notification.js** (+103, -48)
 - **check-mail-db.js** (+132, -0)
 - **test-api.js** (+41, -0)
+- **service.seed.ts** (+83, -0)
+- **otp-order.schema.ts** (+57, -0)
+- **otp.controller.ts** (+12, -0)
+- **api.js** (+91, -0)
 
 ## Visualizations
 
@@ -38,8 +42,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1352
-".js" : 690
+".ts" : 1586
+".js" : 783
 ".vue" : 6548
 ```
 
@@ -50,8 +54,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 88
 "01h" : 79
-"02h" : 17
+"02h" : 24
 ```
 
 
-> **Last Updated:** 8/16/2025, 2:31:25 AM
+> **Last Updated:** 8/16/2025, 2:36:25 AM

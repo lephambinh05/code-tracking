@@ -4,30 +4,30 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3966                                          |
-| **Lines Removed** (➖) | 143                                        |
-| **Net Change** (↕)    | 3823                |
-| **Active Time** (⌚)   | 103 minutes |
+| **Lines Added** (➕)   | 4449                                          |
+| **Lines Removed** (➖) | 884                                        |
+| **Net Change** (↕)    | 3565                |
+| **Active Time** (⌚)   | 125 minutes |
 
 
 ## Modified Files
-- **admin.service.ts** (+406, -96)
-- **admin.controller.ts** (+103, -3)
-- **apiService.js** (+105, -3)
+- **admin.service.ts** (+569, -246)
+- **admin.controller.ts** (+124, -24)
+- **apiService.js** (+124, -24)
 - **admin.module.ts** (+31, -2)
 - **AdminSidebar.vue** (+394, -0)
 - **main.js** (+217, -1)
 - **Dashboard.vue** (+617, -31)
-- **EmailSMTP.vue** (+1015, -0)
+- **EmailSMTP.vue** (+1044, -288)
 - **Services.vue** (+643, -0)
 - **email.schema.ts** (+52, -0)
 - **service.schema.ts** (+0, -7)
-- **otp.service.ts** (+29, -0)
-- **otp.module.ts** (+4, -0)
-- **mail.schema.ts** (+91, -0)
-- **Notification.vue** (+192, -0)
-- **App.vue** (+18, -0)
-- **notification.js** (+49, -0)
+- **otp.service.ts** (+29, -3)
+- **otp.module.ts** (+4, -2)
+- **mail.schema.ts** (+91, -5)
+- **Notification.vue** (+383, -191)
+- **App.vue** (+30, -12)
+- **notification.js** (+97, -48)
 
 ## Visualizations
 
@@ -36,9 +36,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 824
-".js" : 375
-".vue" : 2910
+".ts" : 1189
+".js" : 511
+".vue" : 3633
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +47,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 88
-"01h" : 1
+"01h" : 22
 ```
 
 
-> **Last Updated:** 8/16/2025, 1:01:25 AM
+> **Last Updated:** 8/16/2025, 1:06:25 AM

@@ -2,9 +2,9 @@
   "date": "2025-08-16",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 4614,
+      "totalLinesAdded": 4712,
       "totalLinesRemoved": 884,
-      "totalActiveTime": 138,
+      "totalActiveTime": 144,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.service.ts": [
           {
@@ -1238,6 +1238,34 @@
             },
             "duration": 1,
             "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-15T18:15:17.218Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\EmailSMTP.vue",
+            "fileType": ".vue",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-15T18:16:13.762Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\EmailSMTP.vue",
+            "fileType": ".vue",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\Services.vue": [
@@ -1517,6 +1545,20 @@
           },
           {
             "timestamp": "2025-08-15T18:11:16.160Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\otp\\otp.module.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-15T18:11:25.833Z",
             "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\otp\\otp.module.ts",
             "fileType": ".ts",
             "linesAdded": 1,

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7919                                          |
-| **Lines Removed** (➖) | 2181                                        |
-| **Net Change** (↕)    | 5738                |
-| **Active Time** (⌚)   | 290 minutes |
+| **Lines Added** (➕)   | 8179                                          |
+| **Lines Removed** (➖) | 2185                                        |
+| **Net Change** (↕)    | 5994                |
+| **Active Time** (⌚)   | 303 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **Services.vue** (+1090, -28)
 - **email.schema.ts** (+62, -0)
 - **service.schema.ts** (+0, -7)
-- **otp.service.ts** (+138, -5)
+- **otp.service.ts** (+188, -9)
 - **otp.module.ts** (+6, -2)
 - **mail.schema.ts** (+105, -5)
 - **Notification.vue** (+383, -191)
@@ -36,8 +36,9 @@
 - **api.js** (+91, -0)
 - **order-status.cron.ts** (+49, -0)
 - **app.module.ts** (+31, -0)
-- **RentOTP.vue** (+830, -169)
+- **RentOTP.vue** (+831, -169)
 - **rent-otp.dto.ts** (+15, -0)
+- **client.service.ts** (+209, -0)
 
 ## Visualizations
 
@@ -46,9 +47,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1696
+".ts" : 1959
 ".js" : 794
-".vue" : 7610
+".vue" : 7611
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -59,8 +60,8 @@ title Coding activity by hour (count of changes)
 "00h" : 88
 "01h" : 79
 "02h" : 55
-"03h" : 14
+"03h" : 23
 ```
 
 
-> **Last Updated:** 8/16/2025, 3:11:25 AM
+> **Last Updated:** 8/16/2025, 3:16:25 AM

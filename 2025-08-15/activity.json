@@ -3,8 +3,8 @@
   "projects": {
     "rentOTP": {
       "totalLinesAdded": 3559,
-      "totalLinesRemoved": 74,
-      "totalActiveTime": 26,
+      "totalLinesRemoved": 523,
+      "totalActiveTime": 32,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\otp\\schemas\\mail-result.schema.ts": [
           {
@@ -342,6 +342,48 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-15T12:04:44.810Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 148,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-15T12:05:12.092Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 173,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-15T12:05:47.468Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\database\\schemas\\service.schema.ts": [
@@ -374,6 +416,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-15T12:04:09.100Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-15T12:04:19.980Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 34,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\services\\apiService.js": [
@@ -383,6 +453,34 @@
             "fileType": ".js",
             "linesAdded": 387,
             "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-15T12:05:23.120Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\services\\apiService.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-15T12:05:33.600Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\services\\apiService.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 29,
             "projectName": "rentOTP",
             "content": {
               "added": [],

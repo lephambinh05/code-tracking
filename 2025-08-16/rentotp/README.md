@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8179                                          |
-| **Lines Removed** (➖) | 2185                                        |
-| **Net Change** (↕)    | 5994                |
-| **Active Time** (⌚)   | 303 minutes |
+| **Lines Added** (➕)   | 8333                                          |
+| **Lines Removed** (➖) | 2197                                        |
+| **Net Change** (↕)    | 6136                |
+| **Active Time** (⌚)   | 315 minutes |
 
 
 ## Modified Files
@@ -22,8 +22,8 @@
 - **Services.vue** (+1090, -28)
 - **email.schema.ts** (+62, -0)
 - **service.schema.ts** (+0, -7)
-- **otp.service.ts** (+188, -9)
-- **otp.module.ts** (+6, -2)
+- **otp.service.ts** (+318, -9)
+- **otp.module.ts** (+7, -2)
 - **mail.schema.ts** (+105, -5)
 - **Notification.vue** (+383, -191)
 - **App.vue** (+30, -12)
@@ -32,13 +32,15 @@
 - **test-api.js** (+41, -0)
 - **service.seed.ts** (+93, -0)
 - **otp-order.schema.ts** (+57, -3)
-- **otp.controller.ts** (+12, -0)
+- **otp.controller.ts** (+14, -12)
 - **api.js** (+91, -0)
 - **order-status.cron.ts** (+49, -0)
 - **app.module.ts** (+31, -0)
 - **RentOTP.vue** (+831, -169)
 - **rent-otp.dto.ts** (+15, -0)
 - **client.service.ts** (+209, -0)
+- **mail-result.dto.ts** (+1, -0)
+- **cron.controller.ts** (+20, -0)
 
 ## Visualizations
 
@@ -47,7 +49,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1959
+".ts" : 2125
 ".js" : 794
 ".vue" : 7611
 ```
@@ -60,8 +62,8 @@ title Coding activity by hour (count of changes)
 "00h" : 88
 "01h" : 79
 "02h" : 55
-"03h" : 23
+"03h" : 31
 ```
 
 
-> **Last Updated:** 8/16/2025, 3:16:25 AM
+> **Last Updated:** 8/16/2025, 3:21:25 AM

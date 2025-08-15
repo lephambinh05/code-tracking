@@ -287,6 +287,117 @@
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\otp\\otp.module.ts"
       ],
       "averageChangeSize": 61.90909090909091
+    },
+    "getMailOTP": {
+      "totalLinesAdded": 777,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\api.txt": [
+          {
+            "timestamp": "2025-08-15T11:36:07.103Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\api.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-15T11:36:08.112Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\api.txt",
+            "fileType": ".txt",
+            "linesAdded": 477,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js": [
+          {
+            "timestamp": "2025-08-15T11:37:15.552Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js",
+            "fileType": ".js",
+            "linesAdded": 221,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-15T11:37:18.424Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js",
+            "fileType": ".js",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package.json": [
+          {
+            "timestamp": "2025-08-15T11:37:28.167Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-15T11:37:28.381Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "getMailOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 1,
+        "js": 3,
+        "json": 2
+      },
+      "changeFrequency": {
+        "18": 6
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\api.txt",
+        "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\index.js",
+        "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\package.json"
+      ],
+      "averageChangeSize": 129.5
     }
   },
   "totalActiveTime": 10,

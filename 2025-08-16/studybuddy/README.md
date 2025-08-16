@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7159                                          |
-| **Lines Removed** (➖) | 516                                        |
-| **Net Change** (↕)    | 6643                |
-| **Active Time** (⌚)   | 72 minutes |
+| **Lines Added** (➕)   | 7886                                          |
+| **Lines Removed** (➖) | 529                                        |
+| **Net Change** (↕)    | 7357                |
+| **Active Time** (⌚)   | 85 minutes |
 
 
 ## Modified Files
@@ -22,13 +22,17 @@
 - **gradient_card.dart** (+221, -0)
 - **calendar_screen.dart** (+716, -2)
 - **task_local_storage.dart** (+143, -0)
-- **event_local_storage.dart** (+140, -0)
-- **study_target_local_storage.dart** (+144, -0)
+- **event_local_storage.dart** (+144, -0)
+- **study_target_local_storage.dart** (+146, -13)
 - **task_repository.dart** (+510, -25)
 - **task_provider.dart** (+374, -0)
 - **event_repository.dart** (+394, -0)
 - **study_target_repository.dart** (+570, -19)
 - **task_model.dart** (+111, -0)
+- **event_model.dart** (+117, -0)
+- **event_provider.dart** (+249, -0)
+- **study_target_provider.dart** (+304, -0)
+- **build.gradle.kts** (+51, -0)
 
 ## Visualizations
 
@@ -37,7 +41,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 7675
+".dart" : 8364
+".kts" : 51
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +52,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "21h" : 7
 "22h" : 27
-"23h" : 35
+"23h" : 47
 ```
 
 
-> **Last Updated:** 8/16/2025, 11:38:45 PM
+> **Last Updated:** 8/16/2025, 11:43:45 PM

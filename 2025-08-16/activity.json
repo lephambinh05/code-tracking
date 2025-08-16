@@ -5768,9 +5768,9 @@
       "averageChangeSize": 123
     },
     "studyBuddy": {
-      "totalLinesAdded": 6991,
+      "totalLinesAdded": 7045,
       "totalLinesRemoved": 516,
-      "totalActiveTime": 65,
+      "totalActiveTime": 66,
       "files": {
         "f:\\studyBuddy\\lib\\core\\services\\notification_service.dart": [
           {
@@ -5864,6 +5864,20 @@
             "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\settings_screen.dart",
             "fileType": ".dart",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T16:29:03.389Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\settings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 54,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

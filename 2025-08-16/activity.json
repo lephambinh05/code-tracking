@@ -3,8 +3,8 @@
   "projects": {
     "rentOTP": {
       "totalLinesAdded": 17784,
-      "totalLinesRemoved": 2975,
-      "totalActiveTime": 500,
+      "totalLinesRemoved": 3013,
+      "totalActiveTime": 503,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.service.ts": [
           {
@@ -5143,6 +5143,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T10:37:23.589Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\check-db.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 38,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ],

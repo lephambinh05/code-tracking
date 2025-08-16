@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13912                                          |
-| **Lines Removed** (➖) | 2957                                        |
-| **Net Change** (↕)    | 10955                |
-| **Active Time** (⌚)   | 449 minutes |
+| **Lines Added** (➕)   | 14043                                          |
+| **Lines Removed** (➖) | 2974                                        |
+| **Net Change** (↕)    | 11069                |
+| **Active Time** (⌚)   | 461 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **email.schema.ts** (+62, -0)
 - **service.schema.ts** (+0, -7)
 - **otp.service.ts** (+1516, -605)
-- **otp.module.ts** (+33, -2)
+- **otp.module.ts** (+34, -2)
 - **mail.schema.ts** (+105, -5)
 - **Notification.vue** (+383, -191)
 - **App.vue** (+30, -12)
@@ -32,8 +32,8 @@
 - **test-api.js** (+41, -0)
 - **service.seed.ts** (+93, -0)
 - **otp-order.schema.ts** (+114, -3)
-- **otp.controller.ts** (+103, -12)
-- **api.js** (+92, -0)
+- **otp.controller.ts** (+108, -15)
+- **api.js** (+184, -0)
 - **order-status.cron.ts** (+49, -0)
 - **app.module.ts** (+31, -0)
 - **RentOTP.vue** (+847, -169)
@@ -53,7 +53,7 @@
 - **test-continuous-email.js** (+239, -0)
 - **index.js** (+407, -96)
 - **app.controller.ts** (+22, -0)
-- **database.module.ts** (+48, -0)
+- **database.module.ts** (+48, -14)
 - **seed-email.js** (+142, -0)
 - **email.seed.ts** (+117, -0)
 - **index.ts** (+48, -2)
@@ -63,6 +63,8 @@
 - **check-db.js** (+81, -0)
 - **seed-data.js** (+180, -0)
 - **test-services.js** (+25, -0)
+- **public.controller.ts** (+12, -0)
+- **seed-script.ts** (+21, -0)
 
 ## Visualizations
 
@@ -71,8 +73,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 5143
-".js" : 2859
+".ts" : 5199
+".js" : 2951
 ".vue" : 8867
 ```
 
@@ -88,8 +90,8 @@ title Coding activity by hour (count of changes)
 "04h" : 6
 "10h" : 13
 "11h" : 43
-"13h" : 4
+"13h" : 13
 ```
 
 
-> **Last Updated:** 8/16/2025, 1:10:48 PM
+> **Last Updated:** 8/16/2025, 1:15:48 PM

@@ -2,9 +2,9 @@
   "date": "2025-08-16",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 17742,
+      "totalLinesAdded": 17784,
       "totalLinesRemoved": 2975,
-      "totalActiveTime": 499,
+      "totalActiveTime": 500,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.service.ts": [
           {
@@ -5618,6 +5618,36 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\check-users.js",
             "fileType": ".js",
             "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\check-users.js": [
+          {
+            "timestamp": "2025-08-16T10:34:25.151Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\check-users.js",
+            "fileType": ".js",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T10:34:25.280Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\check-users.js",
+            "fileType": ".js",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "rentOTP",
             "content": {

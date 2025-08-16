@@ -5768,9 +5768,9 @@
       "averageChangeSize": 123
     },
     "studyBuddy": {
-      "totalLinesAdded": 7045,
+      "totalLinesAdded": 7159,
       "totalLinesRemoved": 516,
-      "totalActiveTime": 66,
+      "totalActiveTime": 72,
       "files": {
         "f:\\studyBuddy\\lib\\core\\services\\notification_service.dart": [
           {
@@ -6338,6 +6338,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T16:38:38.768Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\sources\\local\\task_local_storage.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "f:\\studyBuddy\\lib\\data\\sources\\local\\event_local_storage.dart": [
@@ -6664,6 +6678,92 @@
             "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\study_target_repository.dart",
             "fileType": ".dart",
             "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\data\\models\\task_model.dart": [
+          {
+            "timestamp": "2025-08-16T16:37:00.085Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\models\\task_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T16:37:09.069Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\models\\task_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T16:37:21.561Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\models\\task_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T16:37:32.101Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\models\\task_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T16:37:42.004Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\models\\task_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T16:37:51.563Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\models\\task_model.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

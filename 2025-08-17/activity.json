@@ -2,9 +2,9 @@
   "date": "2025-08-17",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 4463,
+      "totalLinesAdded": 4521,
       "totalLinesRemoved": 1428,
-      "totalActiveTime": 63,
+      "totalActiveTime": 66,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\check-db.js": [
           {
@@ -182,6 +182,20 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\OrderHistory.vue",
             "fileType": ".vue",
             "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-16T18:44:35.941Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\OrderHistory.vue",
+            "fileType": ".vue",
+            "linesAdded": 28,
             "linesRemoved": 0,
             "projectName": "rentOTP",
             "content": {
@@ -803,6 +817,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-16T18:43:49.712Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\OrderDetails.vue",
+            "fileType": ".vue",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-16T18:44:15.559Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\OrderDetails.vue",
+            "fileType": ".vue",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "vue"
           }
         ],

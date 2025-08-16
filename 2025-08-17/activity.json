@@ -2,9 +2,9 @@
   "date": "2025-08-17",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 3573,
-      "totalLinesRemoved": 1378,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 4375,
+      "totalLinesRemoved": 1428,
+      "totalActiveTime": 52,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\check-db.js": [
           {
@@ -720,6 +720,66 @@
             },
             "duration": 1,
             "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-16T18:25:33.631Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\OrderDetails.vue",
+            "fileType": ".vue",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\otp\\otp.service.ts": [
+          {
+            "timestamp": "2025-08-16T18:25:51.855Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\otp\\otp.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 718,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\check-orders.js": [
+          {
+            "timestamp": "2025-08-16T18:26:15.183Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\check-orders.js",
+            "fileType": ".js",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T18:26:15.596Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\check-orders.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 50,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

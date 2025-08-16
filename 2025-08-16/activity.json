@@ -2,9 +2,9 @@
   "date": "2025-08-16",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 11966,
-      "totalLinesRemoved": 2412,
-      "totalActiveTime": 389,
+      "totalLinesAdded": 12326,
+      "totalLinesRemoved": 2461,
+      "totalActiveTime": 398,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.service.ts": [
           {
@@ -4458,6 +4458,78 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\test-continuous-email.js",
             "fileType": ".js",
             "linesAdded": 238,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\do_not_touch\\index.js": [
+          {
+            "timestamp": "2025-08-16T04:06:23.303Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\do_not_touch\\index.js",
+            "fileType": ".js",
+            "linesAdded": 328,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T04:06:24.361Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\do_not_touch\\index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 49,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T04:08:20.840Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\do_not_touch\\index.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T04:08:37.469Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\do_not_touch\\index.js",
+            "fileType": ".js",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T04:08:51.852Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\do_not_touch\\index.js",
+            "fileType": ".js",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "rentOTP",
             "content": {

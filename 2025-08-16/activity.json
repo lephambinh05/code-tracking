@@ -2,9 +2,9 @@
   "date": "2025-08-16",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 13401,
-      "totalLinesRemoved": 2910,
-      "totalActiveTime": 431,
+      "totalLinesAdded": 13626,
+      "totalLinesRemoved": 2957,
+      "totalActiveTime": 437,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.service.ts": [
           {
@@ -2870,6 +2870,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-16T04:28:35.276Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\otp\\otp.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 178,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\otp\\otp.module.ts": [
@@ -4615,6 +4629,34 @@
             "fileType": ".js",
             "linesAdded": 11,
             "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T04:28:07.091Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\do_not_touch\\index.js",
+            "fileType": ".js",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T04:28:09.883Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\do_not_touch\\index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 47,
             "projectName": "rentOTP",
             "content": {
               "added": [],

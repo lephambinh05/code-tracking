@@ -5768,9 +5768,9 @@
       "averageChangeSize": 123
     },
     "studyBuddy": {
-      "totalLinesAdded": 2455,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 3973,
+      "totalLinesRemoved": 470,
+      "totalActiveTime": 33,
       "files": {
         "f:\\studyBuddy\\lib\\core\\services\\notification_service.dart": [
           {
@@ -5988,6 +5988,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T15:52:28.730Z",
+            "fileName": "f:\\studyBuddy\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "f:\\studyBuddy\\lib\\data\\sources\\local\\subject_local_storage.dart": [
@@ -6112,6 +6126,108 @@
             "fileName": "f:\\studyBuddy\\lib\\presentation\\providers\\subject_provider.dart",
             "fileType": ".dart",
             "linesAdded": 185,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\core\\theme\\app_theme.dart": [
+          {
+            "timestamp": "2025-08-16T15:51:28.474Z",
+            "fileName": "f:\\studyBuddy\\lib\\core\\theme\\app_theme.dart",
+            "fileType": ".dart",
+            "linesAdded": 448,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T15:51:37.225Z",
+            "fileName": "f:\\studyBuddy\\lib\\core\\theme\\app_theme.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 447,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T15:51:37.222Z",
+            "fileName": "f:\\studyBuddy\\lib\\core\\theme\\app_theme.dart",
+            "fileType": ".dart",
+            "linesAdded": 453,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T15:52:17.945Z",
+            "fileName": "f:\\studyBuddy\\lib\\core\\theme\\app_theme.dart",
+            "fileType": ".dart",
+            "linesAdded": 396,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\widgets\\common\\gradient_card.dart": [
+          {
+            "timestamp": "2025-08-16T15:52:42.649Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\common\\gradient_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 215,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T15:53:00.363Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\common\\gradient_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T15:53:12.664Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\common\\gradient_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

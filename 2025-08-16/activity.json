@@ -5766,6 +5766,53 @@
         "c:\\Users\\lephambinh\\Downloads\\getMailOTP\\getmail.php"
       ],
       "averageChangeSize": 123
+    },
+    "studyBuddy": {
+      "totalLinesAdded": 780,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "f:\\studyBuddy\\lib\\core\\services\\notification_service.dart": [
+          {
+            "timestamp": "2025-08-16T14:50:22.816Z",
+            "fileName": "f:\\studyBuddy\\lib\\core\\services\\notification_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 779,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-16T14:50:46.842Z",
+            "fileName": "f:\\studyBuddy\\lib\\core\\services\\notification_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "f:\\studyBuddy\\lib\\core\\services\\notification_service.dart"
+      ],
+      "averageChangeSize": 390
     }
   },
   "totalActiveTime": 16,

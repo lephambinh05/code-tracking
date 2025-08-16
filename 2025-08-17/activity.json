@@ -2,9 +2,9 @@
   "date": "2025-08-17",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 43,
+      "totalLinesAdded": 858,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\check-db.js": [
           {
@@ -26,6 +26,82 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\check-db.js",
             "fileType": ".js",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\OrderHistory.vue": [
+          {
+            "timestamp": "2025-08-16T17:30:45.622Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\OrderHistory.vue",
+            "fileType": ".vue",
+            "linesAdded": 696,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\test-frontend-order-history.js": [
+          {
+            "timestamp": "2025-08-16T17:31:01.563Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\test-frontend-order-history.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T17:31:01.751Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\test-frontend-order-history.js",
+            "fileType": ".js",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\test-frontend-browser.js": [
+          {
+            "timestamp": "2025-08-16T17:31:42.944Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\test-frontend-browser.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-16T17:31:43.114Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\test-frontend-browser.js",
+            "fileType": ".js",
+            "linesAdded": 57,
             "linesRemoved": 0,
             "projectName": "rentOTP",
             "content": {

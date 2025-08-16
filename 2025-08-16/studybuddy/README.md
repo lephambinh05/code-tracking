@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3973                                          |
-| **Lines Removed** (➖) | 470                                        |
-| **Net Change** (↕)    | 3503                |
-| **Active Time** (⌚)   | 33 minutes |
+| **Lines Added** (➕)   | 4689                                          |
+| **Lines Removed** (➖) | 472                                        |
+| **Net Change** (↕)    | 4217                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,7 @@
 - **subject_provider.dart** (+185, -0)
 - **app_theme.dart** (+1297, -447)
 - **gradient_card.dart** (+221, -0)
+- **calendar_screen.dart** (+716, -2)
 
 ## Visualizations
 
@@ -28,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 4443
+".dart" : 5161
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 7
-"22h" : 25
+"22h" : 27
 ```
 
 
-> **Last Updated:** 8/16/2025, 10:53:45 PM
+> **Last Updated:** 8/16/2025, 10:58:45 PM

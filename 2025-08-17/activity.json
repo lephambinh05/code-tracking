@@ -2,9 +2,9 @@
   "date": "2025-08-17",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 9373,
+      "totalLinesAdded": 9868,
       "totalLinesRemoved": 1428,
-      "totalActiveTime": 117,
+      "totalActiveTime": 125,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\check-db.js": [
           {
@@ -1516,6 +1516,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-08-17T03:41:05.922Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\utils\\sidebarStore.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Sidebar\\AdminSidebar.vue": [
@@ -1712,6 +1726,110 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\layouts\\Client.vue",
             "fileType": ".vue",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\sidebar.css": [
+          {
+            "timestamp": "2025-08-17T03:41:22.776Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\sidebar.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-17T03:41:22.957Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\sidebar.css",
+            "fileType": ".css",
+            "linesAdded": 113,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\main.js": [
+          {
+            "timestamp": "2025-08-17T03:41:31.455Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\main.js",
+            "fileType": ".js",
+            "linesAdded": 235,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-17T03:42:02.829Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\main.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-17T03:42:09.572Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\main.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Sidebar\\SidebarDemo.vue": [
+          {
+            "timestamp": "2025-08-17T03:41:55.997Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Sidebar\\SidebarDemo.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-17T03:41:56.180Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\Sidebar\\SidebarDemo.vue",
+            "fileType": ".vue",
+            "linesAdded": 138,
             "linesRemoved": 0,
             "projectName": "rentOTP",
             "content": {

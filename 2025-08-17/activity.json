@@ -1853,9 +1853,9 @@
       "averageChangeSize": 21.5
     },
     "studyBuddy": {
-      "totalLinesAdded": 3901,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 4204,
+      "totalLinesRemoved": 303,
+      "totalActiveTime": 22,
       "files": {
         "f:\\studyBuddy\\lib\\presentation\\widgets\\common\\error_display_widget.dart": [
           {
@@ -1991,6 +1991,34 @@
             "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\tasks\\add_task_screen.dart",
             "fileType": ".dart",
             "linesAdded": 304,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-17T03:48:20.814Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\tasks\\add_task_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 303,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-17T03:48:20.879Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\tasks\\add_task_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 303,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

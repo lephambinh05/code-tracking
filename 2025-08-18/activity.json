@@ -499,9 +499,9 @@
       "averageChangeSize": 164.7826086956522
     },
     "VPS-V1": {
-      "totalLinesAdded": 2367,
+      "totalLinesAdded": 3214,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 40,
+      "totalActiveTime": 47,
       "files": {
         "f:\\VPS-V1\\backend\\requirements.txt": [
           {
@@ -1123,6 +1123,96 @@
             "fileName": "f:\\VPS-V1\\backend\\api\\v1\\endpoints\\vps.py",
             "fileType": ".py",
             "linesAdded": 281,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\VPS-V1\\backend\\api\\v1\\endpoints\\hosting.py": [
+          {
+            "timestamp": "2025-08-18T03:33:03.204Z",
+            "fileName": "f:\\VPS-V1\\backend\\api\\v1\\endpoints\\hosting.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-18T03:33:03.987Z",
+            "fileName": "f:\\VPS-V1\\backend\\api\\v1\\endpoints\\hosting.py",
+            "fileType": ".py",
+            "linesAdded": 367,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\VPS-V1\\backend\\api\\v1\\endpoints\\billing.py": [
+          {
+            "timestamp": "2025-08-18T03:33:58.948Z",
+            "fileName": "f:\\VPS-V1\\backend\\api\\v1\\endpoints\\billing.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-18T03:33:59.426Z",
+            "fileName": "f:\\VPS-V1\\backend\\api\\v1\\endpoints\\billing.py",
+            "fileType": ".py",
+            "linesAdded": 362,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\VPS-V1\\backend\\scripts\\init_db.py": [
+          {
+            "timestamp": "2025-08-18T03:34:16.573Z",
+            "fileName": "f:\\VPS-V1\\backend\\scripts\\init_db.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-18T03:34:16.751Z",
+            "fileName": "f:\\VPS-V1\\backend\\scripts\\init_db.py",
+            "fileType": ".py",
+            "linesAdded": 115,
             "linesRemoved": 0,
             "projectName": "VPS-V1",
             "content": {

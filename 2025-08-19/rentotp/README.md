@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 398                                          |
+| **Lines Added** (➕)   | 552                                          |
 | **Lines Removed** (➖) | 36                                        |
-| **Net Change** (↕)    | 362                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Net Change** (↕)    | 516                |
+| **Active Time** (⌚)   | 36 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,7 @@
 - **update-existing-orders.js** (+77, -0)
 - **ecosystem.config.js** (+18, -0)
 - **deploy.sh** (+178, -0)
+- **deploy-no-otp.sh** (+154, -0)
 
 ## Visualizations
 
@@ -31,7 +32,7 @@ title Lines changed by file type
 ".vue" : 40
 ".ts" : 121
 ".js" : 95
-".sh" : 178
+".sh" : 332
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,8 +41,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 25
+"01h" : 2
 "23h" : 2
 ```
 
 
-> **Last Updated:** 8/19/2025, 12:53:14 AM
+> **Last Updated:** 8/19/2025, 1:43:14 AM

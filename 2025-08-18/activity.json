@@ -499,9 +499,9 @@
       "averageChangeSize": 164.7826086956522
     },
     "VPS-V1": {
-      "totalLinesAdded": 4336,
+      "totalLinesAdded": 5978,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 58,
+      "totalActiveTime": 90,
       "files": {
         "f:\\VPS-V1\\backend\\requirements.txt": [
           {
@@ -1393,6 +1393,456 @@
             "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Button.tsx",
             "fileType": ".tsx",
             "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\ui\\Input.tsx": [
+          {
+            "timestamp": "2025-08-18T03:57:40.535Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Input.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T03:57:40.836Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Input.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\ui\\Card.tsx": [
+          {
+            "timestamp": "2025-08-18T03:57:52.875Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Card.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T03:57:53.035Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Card.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\ui\\Modal.tsx": [
+          {
+            "timestamp": "2025-08-18T03:58:06.830Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T03:58:07.064Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\ui\\Table.tsx": [
+          {
+            "timestamp": "2025-08-18T03:58:28.413Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Table.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T03:58:28.582Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Table.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\ui\\Badge.tsx": [
+          {
+            "timestamp": "2025-08-18T03:58:39.490Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Badge.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T03:58:39.722Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Badge.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\ui\\Select.tsx": [
+          {
+            "timestamp": "2025-08-18T03:59:04.203Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Select.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T03:59:04.401Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\Select.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 190,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\ui\\index.ts": [
+          {
+            "timestamp": "2025-08-18T03:59:19.236Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-18T03:59:19.404Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\ui\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\layout\\Sidebar.tsx": [
+          {
+            "timestamp": "2025-08-18T03:59:50.051Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\layout\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T03:59:50.402Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\layout\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\layout\\Header.tsx": [
+          {
+            "timestamp": "2025-08-18T04:00:12.964Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\layout\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T04:00:15.840Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\layout\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\layout\\Layout.tsx": [
+          {
+            "timestamp": "2025-08-18T04:00:25.295Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\layout\\Layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T04:00:25.496Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\layout\\Layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\components\\layout\\index.ts": [
+          {
+            "timestamp": "2025-08-18T04:00:33.303Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\layout\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-08-18T04:00:33.481Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\components\\layout\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\pages\\auth\\LoginPage.tsx": [
+          {
+            "timestamp": "2025-08-18T04:00:58.769Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\pages\\auth\\LoginPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T04:00:58.976Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\pages\\auth\\LoginPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 182,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\pages\\DashboardPage.tsx": [
+          {
+            "timestamp": "2025-08-18T04:01:46.693Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\pages\\DashboardPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T04:01:47.083Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\pages\\DashboardPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 283,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\App.tsx": [
+          {
+            "timestamp": "2025-08-18T04:01:59.390Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T04:01:59.573Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\index.tsx": [
+          {
+            "timestamp": "2025-08-18T04:02:08.547Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T04:02:08.810Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "VPS-V1",
             "content": {

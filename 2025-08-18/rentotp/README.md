@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6153                                          |
+| **Lines Added** (➕)   | 7229                                          |
 | **Lines Removed** (➖) | 37                                        |
-| **Net Change** (↕)    | 6116                |
-| **Active Time** (⌚)   | 60 minutes |
+| **Net Change** (↕)    | 7192                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
@@ -29,6 +29,11 @@
 - **admin.service.ts** (+1196, -0)
 - **deposit.schema.ts** (+66, -0)
 - **create-deposit.dto.ts** (+18, -0)
+- **deposit.service.ts** (+230, -0)
+- **deposit.controller.ts** (+57, -0)
+- **api.js** (+93, -0)
+- **apiService.js** (+445, -0)
+- **main.js** (+251, -0)
 
 ## Visualizations
 
@@ -40,8 +45,8 @@ title Lines changed by file type
 ".css" : 1581
 ".vue" : 3081
 ".html" : 46
-".js" : 123
-".ts" : 1359
+".js" : 912
+".ts" : 1646
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,8 +57,8 @@ title Coding activity by hour (count of changes)
 "09h" : 24
 "10h" : 8
 "12h" : 21
-"15h" : 6
+"15h" : 11
 ```
 
 
-> **Last Updated:** 8/18/2025, 3:08:13 PM
+> **Last Updated:** 8/18/2025, 3:13:13 PM

@@ -2998,9 +2998,9 @@
       "averageChangeSize": 436.2
     },
     "nextui-dashboard-template": {
-      "totalLinesAdded": 941,
-      "totalLinesRemoved": 110,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 1062,
+      "totalLinesRemoved": 125,
+      "totalActiveTime": 38,
       "files": {
         "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx": [
           {
@@ -3163,6 +3163,76 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:06:31.370Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:08:08.442Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:08:31.980Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:08:50.114Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:08:51.172Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
               "added": [],
@@ -3342,6 +3412,38 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\agent-website\\orders\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 183,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\security\\page.tsx": [
+          {
+            "timestamp": "2025-08-18T07:10:55.448Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\security\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\withdraw\\page.tsx": [
+          {
+            "timestamp": "2025-08-18T07:11:08.005Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\withdraw\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 50,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {

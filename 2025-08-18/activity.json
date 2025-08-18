@@ -2996,6 +2996,39 @@
         "f:\\studyBuddy\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart"
       ],
       "averageChangeSize": 436.2
+    },
+    "nextui-dashboard-template": {
+      "totalLinesAdded": 131,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx": [
+          {
+            "timestamp": "2025-08-18T06:53:51.640Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 131,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx"
+      ],
+      "averageChangeSize": 131
     }
   },
   "totalActiveTime": 22,

@@ -3,8 +3,8 @@
   "projects": {
     "rentOTP": {
       "totalLinesAdded": 9537,
-      "totalLinesRemoved": 64,
-      "totalActiveTime": 99,
+      "totalLinesRemoved": 66,
+      "totalActiveTime": 100,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\mobile-responsive.css": [
           {
@@ -1125,6 +1125,20 @@
             "fileType": ".vue",
             "linesAdded": 6,
             "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-18T10:18:52.699Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\client\\Deposit.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "rentOTP",
             "content": {
               "added": [],

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 202                                          |
+| **Lines Added** (➕)   | 398                                          |
 | **Lines Removed** (➖) | 36                                        |
-| **Net Change** (↕)    | 166                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Net Change** (↕)    | 362                |
+| **Active Time** (⌚)   | 35 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,8 @@
 - **admin.service.ts** (+52, -0)
 - **otp-order.schema.ts** (+69, -0)
 - **update-existing-orders.js** (+77, -0)
+- **ecosystem.config.js** (+18, -0)
+- **deploy.sh** (+178, -0)
 
 ## Visualizations
 
@@ -28,7 +30,8 @@ pie showData
 title Lines changed by file type
 ".vue" : 40
 ".ts" : 121
-".js" : 77
+".js" : 95
+".sh" : 178
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,9 +39,9 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 21
+"00h" : 25
 "23h" : 2
 ```
 
 
-> **Last Updated:** 8/19/2025, 12:28:14 AM
+> **Last Updated:** 8/19/2025, 12:53:14 AM

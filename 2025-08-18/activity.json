@@ -2998,7 +2998,7 @@
       "averageChangeSize": 436.2
     },
     "nextui-dashboard-template": {
-      "totalLinesAdded": 1694,
+      "totalLinesAdded": 1750,
       "totalLinesRemoved": 125,
       "totalActiveTime": 58,
       "files": {
@@ -3751,6 +3751,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-topup\\page.tsx": [
+          {
+            "timestamp": "2025-08-18T07:47:43.310Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-topup\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]

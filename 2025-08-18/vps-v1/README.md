@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7957                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 7956                |
-| **Active Time** (⌚)   | 115 minutes |
+| **Lines Added** (➕)   | 8593                                          |
+| **Lines Removed** (➖) | 121                                        |
+| **Net Change** (↕)    | 8472                |
+| **Active Time** (⌚)   | 136 minutes |
 
 
 ## Modified Files
@@ -35,7 +35,7 @@
 - **hosting.py** (+368, -0)
 - **billing.py** (+363, -0)
 - **init_db.py** (+116, -0)
-- **package.json** (+66, -0)
+- **package.json** (+132, -23)
 - **tailwind.config.js** (+99, -0)
 - **index.ts** (+395, -0)
 - **index.ts** (+177, -0)
@@ -54,7 +54,7 @@
 - **index.ts** (+3, -0)
 - **LoginPage.tsx** (+183, -0)
 - **DashboardPage.tsx** (+284, -0)
-- **App.tsx** (+109, -0)
+- **App.tsx** (+218, -97)
 - **index.tsx** (+14, -0)
 - **index.css** (+91, -0)
 - **auth.ts** (+37, -0)
@@ -66,6 +66,13 @@
 - **BillingPage.tsx** (+614, -0)
 - **.cursorrules** (+5, -0)
 - **.env** (+36, -1)
+- **package.json** (+46, -0)
+- **app.js** (+85, -0)
+- **database.js** (+17, -0)
+- **User.js** (+108, -0)
+- **auth.js** (+161, -0)
+- **auth.js** (+22, -0)
+- **next.config.js** (+22, -0)
 
 ## Visualizations
 
@@ -79,10 +86,10 @@ title Lines changed by file type
 ".yml" : 140
 "unknown" : 80
 ".example" : 35
-".json" : 91
-".js" : 99
+".json" : 226
+".js" : 514
 ".ts" : 956
-".tsx" : 3394
+".tsx" : 3600
 ".css" : 91
 ".html" : 20
 ```
@@ -95,8 +102,8 @@ title Coding activity by hour (count of changes)
 "10h" : 76
 "11h" : 31
 "12h" : 3
-"13h" : 3
+"13h" : 21
 ```
 
 
-> **Last Updated:** 8/18/2025, 1:41:14 PM
+> **Last Updated:** 8/18/2025, 1:46:14 PM

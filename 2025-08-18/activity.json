@@ -2998,9 +2998,9 @@
       "averageChangeSize": 436.2
     },
     "nextui-dashboard-template": {
-      "totalLinesAdded": 1750,
+      "totalLinesAdded": 1798,
       "totalLinesRemoved": 125,
-      "totalActiveTime": 58,
+      "totalActiveTime": 81,
       "files": {
         "f:\\napXUVN\\nextui-dashboard-template\\components\\sidebar\\sidebar.tsx": [
           {
@@ -3344,6 +3344,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:56:48.224Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\agent-website\\manage\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\agent-website\\stats\\page.tsx": [
@@ -3366,6 +3380,20 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\agent-website\\stats\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 113,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:56:52.343Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\agent-website\\stats\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
@@ -3404,6 +3432,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:56:56.020Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\agent-website\\settings\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\agent-website\\orders\\page.tsx": [
@@ -3434,6 +3476,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:02.092Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\agent-website\\orders\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\security\\page.tsx": [
@@ -3449,6 +3505,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:56:41.435Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\security\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -3466,6 +3536,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:56:34.246Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\withdraw\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\transactions\\page.tsx": [
@@ -3474,6 +3558,20 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\transactions\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:56:42.818Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\transactions\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
@@ -3498,6 +3596,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:58:22.156Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\view\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\payments\\page.tsx": [
@@ -3506,6 +3618,20 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\payments\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:56:38.668Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\payments\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
@@ -3530,6 +3656,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:06.512Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\funds\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\buy-gifts\\page.tsx": [
@@ -3538,6 +3678,20 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\buy-gifts\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:09.728Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\buy-gifts\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
@@ -3562,6 +3716,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:13.782Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\services\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\sell-fast-coins\\page.tsx": [
@@ -3570,6 +3738,20 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\sell-fast-coins\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:18.319Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\sell-fast-coins\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
@@ -3594,6 +3776,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:22.896Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\sell-donate-coins\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\accounts\\page.tsx": [
@@ -3602,6 +3798,20 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\accounts\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:28.630Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-market\\accounts\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
@@ -3626,6 +3836,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:32.640Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\check-passkey\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\change-username\\page.tsx": [
@@ -3642,6 +3866,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:36.725Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\change-username\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\block-hidden-follow\\page.tsx": [
@@ -3650,6 +3888,20 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\block-hidden-follow\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:39.913Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\block-hidden-follow\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
@@ -3688,6 +3940,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:43.117Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\send-live-gift\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\collect-gift-bags\\page.tsx": [
@@ -3696,6 +3962,20 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\collect-gift-bags\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:46.420Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\collect-gift-bags\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
@@ -3720,6 +4000,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:50.752Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\rtmp-stream-key\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\follow-scan\\page.tsx": [
@@ -3728,6 +4022,20 @@
             "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\follow-scan\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:57:54.978Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\follow-scan\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "nextui-dashboard-template",
             "content": {
@@ -3752,6 +4060,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:58:02.275Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tools\\tiktok-history\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-topup\\page.tsx": [
@@ -3767,6 +4089,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T07:56:39.994Z",
+            "fileName": "f:\\napXUVN\\nextui-dashboard-template\\app\\(app)\\tiktok-topup\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nextui-dashboard-template",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]

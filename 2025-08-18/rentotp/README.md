@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8641                                          |
+| **Lines Added** (➕)   | 8901                                          |
 | **Lines Removed** (➖) | 37                                        |
-| **Net Change** (↕)    | 8604                |
-| **Active Time** (⌚)   | 79 minutes |
+| **Net Change** (↕)    | 8864                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
@@ -26,19 +26,22 @@
 - **OTPResultCard.vue** (+202, -0)
 - **sidebarStore.js** (+123, -0)
 - **settings.schema.ts** (+79, -0)
-- **admin.service.ts** (+1196, -0)
+- **admin.service.ts** (+1243, -0)
 - **deposit.schema.ts** (+66, -0)
 - **create-deposit.dto.ts** (+18, -0)
 - **deposit.service.ts** (+230, -0)
 - **deposit.controller.ts** (+57, -0)
 - **api.js** (+93, -0)
-- **apiService.js** (+445, -0)
-- **main.js** (+251, -0)
+- **apiService.js** (+453, -0)
+- **main.js** (+257, -0)
 - **deposit.module.ts** (+19, -0)
 - **Deposit.vue** (+940, -0)
 - **DepositOrder.vue** (+170, -0)
 - **bank.schema.ts** (+28, -0)
 - **admin.controller.ts** (+255, -0)
+- **database.module.ts** (+36, -0)
+- **Banks.vue** (+132, -0)
+- **admin.module.ts** (+31, -0)
 
 ## Visualizations
 
@@ -48,10 +51,10 @@
 pie showData
 title Lines changed by file type
 ".css" : 1581
-".vue" : 4191
+".vue" : 4323
 ".html" : 46
-".js" : 912
-".ts" : 1948
+".js" : 926
+".ts" : 2062
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -62,8 +65,8 @@ title Coding activity by hour (count of changes)
 "09h" : 24
 "10h" : 8
 "12h" : 21
-"15h" : 19
+"15h" : 25
 ```
 
 
-> **Last Updated:** 8/18/2025, 3:28:13 PM
+> **Last Updated:** 8/18/2025, 3:33:13 PM

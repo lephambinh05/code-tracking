@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7229                                          |
+| **Lines Added** (➕)   | 8356                                          |
 | **Lines Removed** (➖) | 37                                        |
-| **Net Change** (↕)    | 7192                |
-| **Active Time** (⌚)   | 65 minutes |
+| **Net Change** (↕)    | 8319                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
@@ -34,6 +34,9 @@
 - **api.js** (+93, -0)
 - **apiService.js** (+445, -0)
 - **main.js** (+251, -0)
+- **deposit.module.ts** (+19, -0)
+- **Deposit.vue** (+940, -0)
+- **DepositOrder.vue** (+168, -0)
 
 ## Visualizations
 
@@ -43,10 +46,10 @@
 pie showData
 title Lines changed by file type
 ".css" : 1581
-".vue" : 3081
+".vue" : 4189
 ".html" : 46
 ".js" : 912
-".ts" : 1646
+".ts" : 1665
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -57,8 +60,8 @@ title Coding activity by hour (count of changes)
 "09h" : 24
 "10h" : 8
 "12h" : 21
-"15h" : 11
+"15h" : 16
 ```
 
 
-> **Last Updated:** 8/18/2025, 3:13:13 PM
+> **Last Updated:** 8/18/2025, 3:18:13 PM

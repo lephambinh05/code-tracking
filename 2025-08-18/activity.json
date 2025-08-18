@@ -2421,6 +2421,107 @@
         "f:\\VPS-V1\\backend\\models\\user.py"
       ],
       "averageChangeSize": 43.333333333333336
+    },
+    "studyBuddy": {
+      "totalLinesAdded": 2181,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_list.dart": [
+          {
+            "timestamp": "2025-08-18T05:50:19.618Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_list.dart",
+            "fileType": ".dart",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\tasks\\tasks_screen.dart": [
+          {
+            "timestamp": "2025-08-18T05:50:37.171Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\tasks\\tasks_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 963,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\settings_screen.dart": [
+          {
+            "timestamp": "2025-08-18T05:51:38.125Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\settings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 230,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\main.dart": [
+          {
+            "timestamp": "2025-08-18T05:52:22.946Z",
+            "fileName": "f:\\studyBuddy\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart": [
+          {
+            "timestamp": "2025-08-18T05:52:54.154Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 791,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 5
+      },
+      "changeFrequency": {
+        "12": 5
+      },
+      "topFiles": [
+        "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_list.dart",
+        "f:\\studyBuddy\\lib\\presentation\\screens\\tasks\\tasks_screen.dart",
+        "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\settings_screen.dart",
+        "f:\\studyBuddy\\lib\\main.dart",
+        "f:\\studyBuddy\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart"
+      ],
+      "averageChangeSize": 436.2
     }
   },
   "totalActiveTime": 22,

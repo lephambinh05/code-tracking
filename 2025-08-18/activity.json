@@ -2,9 +2,9 @@
   "date": "2025-08-18",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 8358,
+      "totalLinesAdded": 8641,
       "totalLinesRemoved": 37,
-      "totalActiveTime": 78,
+      "totalActiveTime": 79,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\mobile-responsive.css": [
           {
@@ -1036,6 +1036,38 @@
             },
             "duration": 2,
             "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\database\\schemas\\bank.schema.ts": [
+          {
+            "timestamp": "2025-08-18T08:27:45.149Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\database\\schemas\\bank.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.controller.ts": [
+          {
+            "timestamp": "2025-08-18T08:27:57.630Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\backend\\src\\modules\\admin\\admin.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 255,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

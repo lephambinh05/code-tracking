@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6199                                          |
+| **Lines Added** (➕)   | 7221                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 6199                |
-| **Active Time** (⌚)   | 100 minutes |
+| **Net Change** (↕)    | 7221                |
+| **Active Time** (⌚)   | 105 minutes |
 
 
 ## Modified Files
@@ -61,6 +61,8 @@
 - **index.ts** (+48, -0)
 - **index.html** (+20, -0)
 - **manifest.json** (+25, -0)
+- **VPSListPage.tsx** (+475, -0)
+- **HostingListPage.tsx** (+547, -0)
 
 ## Visualizations
 
@@ -77,7 +79,7 @@ title Lines changed by file type
 ".json" : 91
 ".js" : 99
 ".ts" : 956
-".tsx" : 1728
+".tsx" : 2750
 ".css" : 91
 ".html" : 20
 ```
@@ -88,8 +90,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 76
-"11h" : 24
+"11h" : 28
 ```
 
 
-> **Last Updated:** 8/18/2025, 11:07:18 AM
+> **Last Updated:** 8/18/2025, 11:12:18 AM

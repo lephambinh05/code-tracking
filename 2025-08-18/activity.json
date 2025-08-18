@@ -499,9 +499,9 @@
       "averageChangeSize": 164.7826086956522
     },
     "VPS-V1": {
-      "totalLinesAdded": 6199,
+      "totalLinesAdded": 7221,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 100,
+      "totalActiveTime": 105,
       "files": {
         "f:\\VPS-V1\\backend\\requirements.txt": [
           {
@@ -2001,6 +2001,66 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\pages\\vps\\VPSListPage.tsx": [
+          {
+            "timestamp": "2025-08-18T04:09:12.161Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\pages\\vps\\VPSListPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T04:09:12.750Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\pages\\vps\\VPSListPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 474,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\VPS-V1\\frontend\\src\\pages\\hosting\\HostingListPage.tsx": [
+          {
+            "timestamp": "2025-08-18T04:11:34.973Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\pages\\hosting\\HostingListPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-18T04:11:35.576Z",
+            "fileName": "f:\\VPS-V1\\frontend\\src\\pages\\hosting\\HostingListPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 546,
+            "linesRemoved": 0,
+            "projectName": "VPS-V1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },

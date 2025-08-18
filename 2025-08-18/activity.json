@@ -2,9 +2,9 @@
   "date": "2025-08-18",
   "projects": {
     "rentOTP": {
-      "totalLinesAdded": 3824,
+      "totalLinesAdded": 4575,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 25,
+      "totalActiveTime": 36,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\mobile-responsive.css": [
           {
@@ -53,6 +53,20 @@
           },
           {
             "timestamp": "2025-08-18T02:56:28.271Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\index.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-18T03:04:59.705Z",
             "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\index.css",
             "fileType": ".css",
             "linesAdded": 1,
@@ -373,6 +387,96 @@
               "removed": []
             },
             "duration": 2,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\mobile-optimizations.css": [
+          {
+            "timestamp": "2025-08-18T03:04:50.717Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\mobile-optimizations.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-18T03:04:51.068Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\assets\\styles\\mobile-optimizations.css",
+            "fileType": ".css",
+            "linesAdded": 416,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\MobileTable.vue": [
+          {
+            "timestamp": "2025-08-18T03:05:43.405Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\MobileTable.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-18T03:05:43.606Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\MobileTable.vue",
+            "fileType": ".vue",
+            "linesAdded": 130,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\OTPResultCard.vue": [
+          {
+            "timestamp": "2025-08-18T03:06:24.161Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\OTPResultCard.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-08-18T03:06:24.422Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\components\\OTPResultCard.vue",
+            "fileType": ".vue",
+            "linesAdded": 201,
+            "linesRemoved": 0,
+            "projectName": "rentOTP",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "vue"
           }
         ]

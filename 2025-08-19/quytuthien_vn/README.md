@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3287                                          |
+| **Lines Added** (➕)   | 3850                                          |
 | **Lines Removed** (➖) | 8                                        |
-| **Net Change** (↕)    | 3279                |
-| **Active Time** (⌚)   | 130 minutes |
+| **Net Change** (↕)    | 3842                |
+| **Active Time** (⌚)   | 138 minutes |
 
 
 ## Modified Files
@@ -32,12 +32,12 @@
 - **User.php** (+64, -0)
 - **web.php** (+41, -6)
 - **CampaignController.php** (+42, -0)
-- **api.php** (+69, -2)
+- **api.php** (+70, -2)
 - **DatabaseSeeder.php** (+25, -0)
-- **payment.php** (+21, -0)
+- **payment.php** (+46, -0)
 - **VnpayService.php** (+23, -0)
 - **MomoService.php** (+21, -0)
-- **DonateController.php** (+86, -0)
+- **DonateController.php** (+209, -0)
 - **TransparencyController.php** (+37, -0)
 - **MapController.php** (+23, -0)
 - **BankImportController.php** (+47, -0)
@@ -67,7 +67,7 @@
 - **reconcile.blade.php** (+89, -0)
 - **map.blade.php** (+25, -0)
 - **DonatePageController.php** (+17, -0)
-- **donate.blade.php** (+55, -0)
+- **donate.blade.php** (+166, -0)
 - **SampleDataSeeder.php** (+36, -0)
 - **TransparencyPageController.php** (+14, -0)
 - **transparency.blade.php** (+29, -0)
@@ -90,6 +90,8 @@
 - **AdminMiddleware.php** (+43, -0)
 - **Kernel.php** (+70, -0)
 - **sanctum.php** (+84, -0)
+- **VietQRService.php** (+225, -0)
+- **ZaloPayService.php** (+78, -0)
 
 ## Visualizations
 
@@ -98,7 +100,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 3161
+".php" : 3724
 ".json" : 74
 "unknown" : 60
 ```
@@ -111,7 +113,8 @@ title Coding activity by hour (count of changes)
 "20h" : 20
 "21h" : 67
 "22h" : 33
+"23h" : 8
 ```
 
 
-> **Last Updated:** 8/19/2025, 10:57:23 PM
+> **Last Updated:** 8/19/2025, 11:32:23 PM

@@ -478,9 +478,9 @@
       "averageChangeSize": 1
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 3287,
+      "totalLinesAdded": 3850,
       "totalLinesRemoved": 8,
-      "totalActiveTime": 130,
+      "totalActiveTime": 138,
       "files": {
         "f:\\quytuthien.vn\\config\\app.php": [
           {
@@ -1126,6 +1126,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T16:31:05.528Z",
+            "fileName": "f:\\quytuthien.vn\\routes\\api.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\database\\seeders\\DatabaseSeeder.php": [
@@ -1200,6 +1214,20 @@
             },
             "duration": 3,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T16:29:00.604Z",
+            "fileName": "f:\\quytuthien.vn\\config\\payment.php",
+            "fileType": ".php",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\app\\Services\\Payments\\VnpayService.php": [
@@ -1261,6 +1289,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T16:30:28.633Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\DonateController.php",
+            "fileType": ".php",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
@@ -1924,6 +1966,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T16:31:58.537Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\donate.blade.php",
+            "fileType": ".php",
+            "linesAdded": 111,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\database\\seeders\\SampleDataSeeder.php": [
@@ -2317,6 +2373,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Services\\Payments\\VietQRService.php": [
+          {
+            "timestamp": "2025-08-19T16:28:15.984Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Services\\Payments\\VietQRService.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T16:28:16.691Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Services\\Payments\\VietQRService.php",
+            "fileType": ".php",
+            "linesAdded": 224,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Services\\Payments\\ZaloPayService.php": [
+          {
+            "timestamp": "2025-08-19T16:28:39.264Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Services\\Payments\\ZaloPayService.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T16:28:39.635Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Services\\Payments\\ZaloPayService.php",
+            "fileType": ".php",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]

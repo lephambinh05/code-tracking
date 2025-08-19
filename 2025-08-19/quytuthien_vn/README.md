@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2508                                          |
+| **Lines Added** (➕)   | 2667                                          |
 | **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 2502                |
-| **Active Time** (⌚)   | 97 minutes |
+| **Net Change** (↕)    | 2661                |
+| **Active Time** (⌚)   | 103 minutes |
 
 
 ## Modified Files
@@ -50,7 +50,7 @@
 - **PermissionSeeder.php** (+42, -0)
 - **CampaignAdminController.php** (+31, -0)
 - **CampaignPolicy.php** (+22, -0)
-- **AuthServiceProvider.php** (+29, -0)
+- **AuthServiceProvider.php** (+32, -0)
 - **PageController.php** (+41, -0)
 - **app.blade.php** (+25, -0)
 - **home.blade.php** (+30, -0)
@@ -64,7 +64,7 @@
 - **horizon.php** (+35, -0)
 - **ReconcilePageController.php** (+16, -0)
 - **MapPageController.php** (+14, -0)
-- **reconcile.blade.php** (+56, -0)
+- **reconcile.blade.php** (+89, -0)
 - **map.blade.php** (+25, -0)
 - **DonatePageController.php** (+17, -0)
 - **donate.blade.php** (+55, -0)
@@ -74,6 +74,10 @@
 - **index.blade.php** (+30, -0)
 - **DonateWebhookTest.php** (+39, -0)
 - **BankImportReconcileTest.php** (+45, -0)
+- **CampaignFactory.php** (+30, -0)
+- **DonationFactory.php** (+33, -0)
+- **ExpensePolicy.php** (+22, -0)
+- **ExpenseAdminController.php** (+38, -0)
 
 ## Visualizations
 
@@ -82,7 +86,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 2380
+".php" : 2539
 ".json" : 74
 "unknown" : 60
 ```
@@ -94,7 +98,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "20h" : 20
 "21h" : 67
+"22h" : 6
 ```
 
 
-> **Last Updated:** 8/19/2025, 9:57:23 PM
+> **Last Updated:** 8/19/2025, 10:07:23 PM

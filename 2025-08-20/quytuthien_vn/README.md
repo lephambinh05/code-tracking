@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2679                                          |
-| **Lines Removed** (➖) | 175                                        |
-| **Net Change** (↕)    | 2504                |
-| **Active Time** (⌚)   | 144 minutes |
+| **Lines Added** (➕)   | 2912                                          |
+| **Lines Removed** (➖) | 195                                        |
+| **Net Change** (↕)    | 2717                |
+| **Active Time** (⌚)   | 153 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **Kernel.php** (+66, -0)
 - **seo-meta.blade.php** (+59, -6)
 - **breadcrumb.blade.php** (+34, -0)
-- **app.blade.php** (+149, -30)
+- **app.blade.php** (+152, -30)
 - **Kernel.php** (+1, -0)
 - **web.php** (+16, -0)
 - **api.php** (+23, -0)
@@ -49,7 +49,7 @@
 - **primary-button.blade.php** (+4, -0)
 - **auth-session-status.blade.php** (+8, -0)
 - **app.css** (+118, -0)
-- **app.js** (+241, -106)
+- **app.js** (+242, -106)
 - **verify-email.blade.php** (+32, -0)
 - **forgot-password.blade.php** (+26, -0)
 - **reset-password.blade.php** (+40, -0)
@@ -66,12 +66,15 @@
 - **ProfileController.php** (+61, -0)
 - **ProfileUpdateRequest.php** (+24, -0)
 - **edit.blade.php** (+26, -0)
-- **update-profile-information-form.blade.php** (+65, -0)
-- **update-password-form.blade.php** (+49, -0)
+- **update-profile-information-form.blade.php** (+65, -10)
+- **update-password-form.blade.php** (+49, -10)
 - **delete-user-form.blade.php** (+56, -0)
 - **secondary-button.blade.php** (+4, -0)
 - **danger-button.blade.php** (+4, -0)
 - **modal.blade.php** (+66, -0)
+- **notification.blade.php** (+79, -0)
+- **notification-manager.blade.php** (+123, -0)
+- **notification.js** (+27, -0)
 
 ## Visualizations
 
@@ -80,11 +83,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 2252
+".php" : 2477
 ".txt" : 26
 ".webmanifest" : 41
 ".css" : 118
-".js" : 403
+".js" : 431
 ".ico" : 4
 ".png" : 6
 "unknown" : 4
@@ -97,9 +100,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 54
 "01h" : 38
-"02h" : 22
+"02h" : 32
 "23h" : 14
 ```
 
 
-> **Last Updated:** 8/20/2025, 2:07:23 AM
+> **Last Updated:** 8/20/2025, 2:17:23 AM

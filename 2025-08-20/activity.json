@@ -2,9 +2,9 @@
   "date": "2025-08-20",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 2679,
-      "totalLinesRemoved": 175,
-      "totalActiveTime": 144,
+      "totalLinesAdded": 2912,
+      "totalLinesRemoved": 195,
+      "totalActiveTime": 153,
       "files": {
         "f:\\quytuthien.vn\\app\\Services\\VirusScanService.php": [
           {
@@ -334,6 +334,20 @@
             "fileName": "f:\\quytuthien.vn\\resources\\views\\layouts\\app.blade.php",
             "fileType": ".php",
             "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T19:16:25.691Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {
@@ -1258,6 +1272,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-08-19T19:17:13.578Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\js\\app.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\auth\\verify-email.blade.php": [
@@ -1768,6 +1796,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T19:16:44.890Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\profile\\partials\\update-profile-information-form.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\profile\\partials\\update-password-form.blade.php": [
@@ -1791,6 +1833,20 @@
             "fileType": ".php",
             "linesAdded": 48,
             "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T19:16:53.717Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\profile\\partials\\update-password-form.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 10,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],
@@ -1918,6 +1974,96 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\resources\\views\\components\\notification.blade.php": [
+          {
+            "timestamp": "2025-08-19T19:15:48.158Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\notification.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T19:15:48.370Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\notification.blade.php",
+            "fileType": ".php",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\resources\\views\\components\\notification-manager.blade.php": [
+          {
+            "timestamp": "2025-08-19T19:16:18.158Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\notification-manager.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T19:16:18.357Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\notification-manager.blade.php",
+            "fileType": ".php",
+            "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\resources\\js\\notification.js": [
+          {
+            "timestamp": "2025-08-19T19:17:04.691Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\js\\notification.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-19T19:17:04.931Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\js\\notification.js",
+            "fileType": ".js",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

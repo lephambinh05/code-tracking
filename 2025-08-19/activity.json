@@ -478,9 +478,9 @@
       "averageChangeSize": 1
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 3078,
+      "totalLinesAdded": 3191,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 123,
+      "totalActiveTime": 124,
       "files": {
         "f:\\quytuthien.vn\\config\\app.php": [
           {
@@ -2178,6 +2178,38 @@
             "fileName": "f:\\quytuthien.vn\\resources\\views\\admin\\dashboard.blade.php",
             "fileType": ".php",
             "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Middleware\\AdminMiddleware.php": [
+          {
+            "timestamp": "2025-08-19T15:30:17.518Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Middleware\\AdminMiddleware.php",
+            "fileType": ".php",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Kernel.php": [
+          {
+            "timestamp": "2025-08-19T15:30:27.833Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Kernel.php",
+            "fileType": ".php",
+            "linesAdded": 70,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

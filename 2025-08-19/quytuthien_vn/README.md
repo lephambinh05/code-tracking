@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3850                                          |
+| **Lines Added** (➕)   | 4338                                          |
 | **Lines Removed** (➖) | 8                                        |
-| **Net Change** (↕)    | 3842                |
-| **Active Time** (⌚)   | 138 minutes |
+| **Net Change** (↕)    | 4330                |
+| **Active Time** (⌚)   | 148 minutes |
 
 
 ## Modified Files
@@ -30,7 +30,7 @@
 - **Reconciliation.php** (+38, -0)
 - **Location.php** (+19, -0)
 - **User.php** (+64, -0)
-- **web.php** (+41, -6)
+- **web.php** (+46, -6)
 - **CampaignController.php** (+42, -0)
 - **api.php** (+70, -2)
 - **DatabaseSeeder.php** (+25, -0)
@@ -51,8 +51,8 @@
 - **CampaignAdminController.php** (+50, -0)
 - **CampaignPolicy.php** (+27, -0)
 - **AuthServiceProvider.php** (+32, -0)
-- **PageController.php** (+41, -0)
-- **app.blade.php** (+38, -0)
+- **PageController.php** (+78, -0)
+- **app.blade.php** (+85, -0)
 - **home.blade.php** (+30, -0)
 - **campaign.blade.php** (+43, -0)
 - **BankStatementsImport.php** (+35, -0)
@@ -92,6 +92,9 @@
 - **sanctum.php** (+84, -0)
 - **VietQRService.php** (+225, -0)
 - **ZaloPayService.php** (+78, -0)
+- **about.blade.php** (+106, -0)
+- **terms.blade.php** (+131, -0)
+- **privacy.blade.php** (+162, -0)
 
 ## Visualizations
 
@@ -100,7 +103,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 3724
+".php" : 4212
 ".json" : 74
 "unknown" : 60
 ```
@@ -113,8 +116,8 @@ title Coding activity by hour (count of changes)
 "20h" : 20
 "21h" : 67
 "22h" : 33
-"23h" : 8
+"23h" : 17
 ```
 
 
-> **Last Updated:** 8/19/2025, 11:32:23 PM
+> **Last Updated:** 8/19/2025, 11:37:23 PM

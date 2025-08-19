@@ -2,9 +2,9 @@
   "date": "2025-08-20",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 2261,
+      "totalLinesAdded": 2286,
       "totalLinesRemoved": 173,
-      "totalActiveTime": 116,
+      "totalActiveTime": 118,
       "files": {
         "f:\\quytuthien.vn\\app\\Services\\VirusScanService.php": [
           {
@@ -366,6 +366,20 @@
             "fileName": "f:\\quytuthien.vn\\routes\\web.php",
             "fileType": ".php",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T18:48:31.793Z",
+            "fileName": "f:\\quytuthien.vn\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {
@@ -1532,6 +1546,36 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Controllers\\CampaignPageController.php": [
+          {
+            "timestamp": "2025-08-19T18:48:17.119Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\CampaignPageController.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T18:48:17.288Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\CampaignPageController.php",
+            "fileType": ".php",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },

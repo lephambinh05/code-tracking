@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2045                                          |
+| **Lines Added** (➕)   | 2300                                          |
 | **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 2039                |
-| **Active Time** (⌚)   | 69 minutes |
+| **Net Change** (↕)    | 2294                |
+| **Active Time** (⌚)   | 87 minutes |
 
 
 ## Modified Files
@@ -30,10 +30,10 @@
 - **Reconciliation.php** (+38, -0)
 - **Location.php** (+19, -0)
 - **User.php** (+64, -0)
-- **web.php** (+30, -6)
+- **web.php** (+33, -6)
 - **CampaignController.php** (+42, -0)
-- **api.php** (+48, -0)
-- **DatabaseSeeder.php** (+24, -0)
+- **api.php** (+49, -0)
+- **DatabaseSeeder.php** (+25, -0)
 - **payment.php** (+21, -0)
 - **VnpayService.php** (+23, -0)
 - **MomoService.php** (+21, -0)
@@ -41,7 +41,7 @@
 - **TransparencyController.php** (+37, -0)
 - **MapController.php** (+23, -0)
 - **BankImportController.php** (+47, -0)
-- **ReconcileController.php** (+65, -0)
+- **ReconcileController.php** (+76, -0)
 - **ReceiptService.php** (+50, -0)
 - **ReceiptController.php** (+30, -0)
 - **receipt.blade.php** (+33, -0)
@@ -51,9 +51,9 @@
 - **CampaignAdminController.php** (+31, -0)
 - **CampaignPolicy.php** (+22, -0)
 - **AuthServiceProvider.php** (+29, -0)
-- **PageController.php** (+23, -0)
+- **PageController.php** (+29, -0)
 - **app.blade.php** (+25, -0)
-- **home.blade.php** (+16, -0)
+- **home.blade.php** (+30, -0)
 - **campaign.blade.php** (+10, -0)
 - **BankStatementsImport.php** (+35, -0)
 - **GenerateReceiptPdf.php** (+32, -0)
@@ -62,6 +62,13 @@
 - **SendReceiptEmail.php** (+37, -0)
 - **.env** (+60, -0)
 - **horizon.php** (+35, -0)
+- **ReconcilePageController.php** (+16, -0)
+- **MapPageController.php** (+14, -0)
+- **reconcile.blade.php** (+56, -0)
+- **map.blade.php** (+25, -0)
+- **DonatePageController.php** (+17, -0)
+- **donate.blade.php** (+55, -0)
+- **SampleDataSeeder.php** (+36, -0)
 
 ## Visualizations
 
@@ -70,7 +77,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 1917
+".php" : 2172
 ".json" : 74
 "unknown" : 60
 ```
@@ -81,8 +88,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "20h" : 20
-"21h" : 42
+"21h" : 56
 ```
 
 
-> **Last Updated:** 8/19/2025, 9:27:23 PM
+> **Last Updated:** 8/19/2025, 9:32:23 PM

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2667                                          |
+| **Lines Added** (➕)   | 3015                                          |
 | **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 2661                |
-| **Active Time** (⌚)   | 103 minutes |
+| **Net Change** (↕)    | 3009                |
+| **Active Time** (⌚)   | 117 minutes |
 
 
 ## Modified Files
@@ -30,9 +30,9 @@
 - **Reconciliation.php** (+38, -0)
 - **Location.php** (+19, -0)
 - **User.php** (+64, -0)
-- **web.php** (+35, -6)
+- **web.php** (+38, -6)
 - **CampaignController.php** (+42, -0)
-- **api.php** (+49, -0)
+- **api.php** (+57, -0)
 - **DatabaseSeeder.php** (+25, -0)
 - **payment.php** (+21, -0)
 - **VnpayService.php** (+23, -0)
@@ -48,8 +48,8 @@
 - **LookupSeeder.php** (+36, -0)
 - **2025_08_19_100050_add_permission_tables.php** (+64, -0)
 - **PermissionSeeder.php** (+42, -0)
-- **CampaignAdminController.php** (+31, -0)
-- **CampaignPolicy.php** (+22, -0)
+- **CampaignAdminController.php** (+50, -0)
+- **CampaignPolicy.php** (+27, -0)
 - **AuthServiceProvider.php** (+32, -0)
 - **PageController.php** (+41, -0)
 - **app.blade.php** (+25, -0)
@@ -77,7 +77,14 @@
 - **CampaignFactory.php** (+30, -0)
 - **DonationFactory.php** (+33, -0)
 - **ExpensePolicy.php** (+22, -0)
-- **ExpenseAdminController.php** (+38, -0)
+- **ExpenseAdminController.php** (+48, -0)
+- **CampaignUpdateAdminController.php** (+40, -0)
+- **CampaignPageController.php** (+18, -0)
+- **campaigns.blade.php** (+65, -0)
+- **ExpensePageController.php** (+20, -0)
+- **expenses.blade.php** (+71, -0)
+- **CampaignUpdatePageController.php** (+20, -0)
+- **campaign_updates.blade.php** (+69, -0)
 
 ## Visualizations
 
@@ -86,7 +93,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 2539
+".php" : 2887
 ".json" : 74
 "unknown" : 60
 ```
@@ -98,8 +105,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "20h" : 20
 "21h" : 67
-"22h" : 6
+"22h" : 20
 ```
 
 
-> **Last Updated:** 8/19/2025, 10:07:23 PM
+> **Last Updated:** 8/19/2025, 10:12:23 PM

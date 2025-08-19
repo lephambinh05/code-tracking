@@ -2,9 +2,9 @@
   "date": "2025-08-20",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 613,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 19,
+      "totalLinesAdded": 865,
+      "totalLinesRemoved": 31,
+      "totalActiveTime": 23,
       "files": {
         "f:\\quytuthien.vn\\app\\Services\\VirusScanService.php": [
           {
@@ -270,6 +270,82 @@
             "fileName": "f:\\quytuthien.vn\\routes\\api.php",
             "fileType": ".php",
             "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Requests\\DonateRequest.php": [
+          {
+            "timestamp": "2025-08-19T17:42:30.758Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Requests\\DonateRequest.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T17:42:30.979Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Requests\\DonateRequest.php",
+            "fileType": ".php",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Controllers\\DonateController.php": [
+          {
+            "timestamp": "2025-08-19T17:42:59.927Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\DonateController.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\tests\\Feature\\SecurityFeaturesTest.php": [
+          {
+            "timestamp": "2025-08-19T17:43:27.883Z",
+            "fileName": "f:\\quytuthien.vn\\tests\\Feature\\SecurityFeaturesTest.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T17:43:28.069Z",
+            "fileName": "f:\\quytuthien.vn\\tests\\Feature\\SecurityFeaturesTest.php",
+            "fileType": ".php",
+            "linesAdded": 168,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

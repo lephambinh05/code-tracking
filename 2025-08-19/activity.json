@@ -863,6 +863,39 @@
         "f:\\quytuthien.vn\\composer.json"
       ],
       "averageChangeSize": 131.5
+    },
+    "studyBuddy": {
+      "totalLinesAdded": 129,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\studyBuddy\\lib\\main.dart": [
+          {
+            "timestamp": "2025-08-19T14:14:58.189Z",
+            "fileName": "f:\\studyBuddy\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 129,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "dart": 0
+      },
+      "changeFrequency": {
+        "21": 0
+      },
+      "topFiles": [
+        "f:\\studyBuddy\\lib\\main.dart"
+      ],
+      "averageChangeSize": 129
     }
   },
   "totalActiveTime": 3,

@@ -476,6 +476,57 @@
         "c:\\Users\\lephambinh\\Downloads\\rentOTP\\src\\views\\admin\\Dashboard.vue"
       ],
       "averageChangeSize": 1
+    },
+    "quytuthien.vn": {
+      "totalLinesAdded": 263,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "f:\\quytuthien.vn\\config\\app.php": [
+          {
+            "timestamp": "2025-08-19T13:49:00.982Z",
+            "fileName": "f:\\quytuthien.vn\\config\\app.php",
+            "fileType": ".php",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\composer.json": [
+          {
+            "timestamp": "2025-08-19T13:49:05.025Z",
+            "fileName": "f:\\quytuthien.vn\\composer.json",
+            "fileType": ".json",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0,
+        "json": 1
+      },
+      "changeFrequency": {
+        "20": 1
+      },
+      "topFiles": [
+        "f:\\quytuthien.vn\\config\\app.php",
+        "f:\\quytuthien.vn\\composer.json"
+      ],
+      "averageChangeSize": 131.5
     }
   },
   "totalActiveTime": 3,

@@ -478,9 +478,9 @@
       "averageChangeSize": 1
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 958,
+      "totalLinesAdded": 1044,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 22,
+      "totalActiveTime": 24,
       "files": {
         "f:\\quytuthien.vn\\config\\app.php": [
           {
@@ -792,6 +792,54 @@
             "fileName": "f:\\quytuthien.vn\\routes\\web.php",
             "fileType": ".php",
             "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Controllers\\CampaignController.php": [
+          {
+            "timestamp": "2025-08-19T14:11:46.550Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\CampaignController.php",
+            "fileType": ".php",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\routes\\api.php": [
+          {
+            "timestamp": "2025-08-19T14:11:57.990Z",
+            "fileName": "f:\\quytuthien.vn\\routes\\api.php",
+            "fileType": ".php",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\database\\seeders\\DatabaseSeeder.php": [
+          {
+            "timestamp": "2025-08-19T14:12:04.675Z",
+            "fileName": "f:\\quytuthien.vn\\database\\seeders\\DatabaseSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 21,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

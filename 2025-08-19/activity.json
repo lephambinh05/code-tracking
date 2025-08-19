@@ -478,9 +478,9 @@
       "averageChangeSize": 1
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 4338,
+      "totalLinesAdded": 4791,
       "totalLinesRemoved": 8,
-      "totalActiveTime": 148,
+      "totalActiveTime": 154,
       "files": {
         "f:\\quytuthien.vn\\config\\app.php": [
           {
@@ -2558,6 +2558,66 @@
             "fileName": "f:\\quytuthien.vn\\resources\\views\\pages\\privacy.blade.php",
             "fileType": ".php",
             "linesAdded": 161,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\resources\\views\\pages\\contact.blade.php": [
+          {
+            "timestamp": "2025-08-19T16:37:42.248Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\pages\\contact.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T16:37:42.479Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\pages\\contact.blade.php",
+            "fileType": ".php",
+            "linesAdded": 195,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\resources\\views\\pages\\faq.blade.php": [
+          {
+            "timestamp": "2025-08-19T16:39:12.410Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\pages\\faq.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T16:39:12.764Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\pages\\faq.blade.php",
+            "fileType": ".php",
+            "linesAdded": 256,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

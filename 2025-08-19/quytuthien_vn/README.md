@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2377                                          |
+| **Lines Added** (➕)   | 2508                                          |
 | **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 2371                |
-| **Active Time** (⌚)   | 92 minutes |
+| **Net Change** (↕)    | 2502                |
+| **Active Time** (⌚)   | 97 minutes |
 
 
 ## Modified Files
@@ -30,7 +30,7 @@
 - **Reconciliation.php** (+38, -0)
 - **Location.php** (+19, -0)
 - **User.php** (+64, -0)
-- **web.php** (+34, -6)
+- **web.php** (+35, -6)
 - **CampaignController.php** (+42, -0)
 - **api.php** (+49, -0)
 - **DatabaseSeeder.php** (+25, -0)
@@ -47,11 +47,11 @@
 - **receipt.blade.php** (+33, -0)
 - **LookupSeeder.php** (+36, -0)
 - **2025_08_19_100050_add_permission_tables.php** (+64, -0)
-- **PermissionSeeder.php** (+38, -0)
+- **PermissionSeeder.php** (+42, -0)
 - **CampaignAdminController.php** (+31, -0)
 - **CampaignPolicy.php** (+22, -0)
 - **AuthServiceProvider.php** (+29, -0)
-- **PageController.php** (+29, -0)
+- **PageController.php** (+41, -0)
 - **app.blade.php** (+25, -0)
 - **home.blade.php** (+30, -0)
 - **campaign.blade.php** (+43, -0)
@@ -71,6 +71,9 @@
 - **SampleDataSeeder.php** (+36, -0)
 - **TransparencyPageController.php** (+14, -0)
 - **transparency.blade.php** (+29, -0)
+- **index.blade.php** (+30, -0)
+- **DonateWebhookTest.php** (+39, -0)
+- **BankImportReconcileTest.php** (+45, -0)
 
 ## Visualizations
 
@@ -79,7 +82,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 2249
+".php" : 2380
 ".json" : 74
 "unknown" : 60
 ```
@@ -90,8 +93,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "20h" : 20
-"21h" : 61
+"21h" : 67
 ```
 
 
-> **Last Updated:** 8/19/2025, 9:37:23 PM
+> **Last Updated:** 8/19/2025, 9:57:23 PM

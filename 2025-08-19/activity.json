@@ -478,9 +478,9 @@
       "averageChangeSize": 1
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 2377,
+      "totalLinesAdded": 2508,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 92,
+      "totalActiveTime": 97,
       "files": {
         "f:\\quytuthien.vn\\config\\app.php": [
           {
@@ -873,6 +873,20 @@
           },
           {
             "timestamp": "2025-08-19T14:32:59.730Z",
+            "fileName": "f:\\quytuthien.vn\\routes\\web.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T14:53:18.534Z",
             "fileName": "f:\\quytuthien.vn\\routes\\web.php",
             "fileType": ".php",
             "linesAdded": 1,
@@ -1310,6 +1324,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T14:53:24.485Z",
+            "fileName": "f:\\quytuthien.vn\\database\\seeders\\PermissionSeeder.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\app\\Http\\Controllers\\Admin\\CampaignAdminController.php": [
@@ -1387,6 +1415,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T14:52:48.337Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\PageController.php",
+            "fileType": ".php",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
@@ -1726,6 +1768,54 @@
             "fileName": "f:\\quytuthien.vn\\resources\\views\\transparency.blade.php",
             "fileType": ".php",
             "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\resources\\views\\campaigns\\index.blade.php": [
+          {
+            "timestamp": "2025-08-19T14:53:08.101Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\campaigns\\index.blade.php",
+            "fileType": ".php",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\tests\\Feature\\DonateWebhookTest.php": [
+          {
+            "timestamp": "2025-08-19T14:53:37.656Z",
+            "fileName": "f:\\quytuthien.vn\\tests\\Feature\\DonateWebhookTest.php",
+            "fileType": ".php",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\tests\\Feature\\BankImportReconcileTest.php": [
+          {
+            "timestamp": "2025-08-19T14:53:50.377Z",
+            "fileName": "f:\\quytuthien.vn\\tests\\Feature\\BankImportReconcileTest.php",
+            "fileType": ".php",
+            "linesAdded": 45,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2401                                          |
+| **Lines Added** (➕)   | 2679                                          |
 | **Lines Removed** (➖) | 175                                        |
-| **Net Change** (↕)    | 2226                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Net Change** (↕)    | 2504                |
+| **Active Time** (⌚)   | 144 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **breadcrumb.blade.php** (+34, -0)
 - **app.blade.php** (+149, -30)
 - **Kernel.php** (+1, -0)
-- **web.php** (+8, -0)
+- **web.php** (+16, -0)
 - **api.php** (+23, -0)
 - **DonateRequest.php** (+83, -0)
 - **DonateController.php** (+0, -31)
@@ -65,6 +65,13 @@
 - **.env** (+2, -2)
 - **ProfileController.php** (+61, -0)
 - **ProfileUpdateRequest.php** (+24, -0)
+- **edit.blade.php** (+26, -0)
+- **update-profile-information-form.blade.php** (+65, -0)
+- **update-password-form.blade.php** (+49, -0)
+- **delete-user-form.blade.php** (+56, -0)
+- **secondary-button.blade.php** (+4, -0)
+- **danger-button.blade.php** (+4, -0)
+- **modal.blade.php** (+66, -0)
 
 ## Visualizations
 
@@ -73,7 +80,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 1974
+".php" : 2252
 ".txt" : 26
 ".webmanifest" : 41
 ".css" : 118
@@ -90,9 +97,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 54
 "01h" : 38
-"02h" : 6
+"02h" : 22
 "23h" : 14
 ```
 
 
-> **Last Updated:** 8/20/2025, 2:02:23 AM
+> **Last Updated:** 8/20/2025, 2:07:23 AM

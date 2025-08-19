@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4791                                          |
+| **Lines Added** (➕)   | 5076                                          |
 | **Lines Removed** (➖) | 8                                        |
-| **Net Change** (↕)    | 4783                |
-| **Active Time** (⌚)   | 154 minutes |
+| **Net Change** (↕)    | 5068                |
+| **Active Time** (⌚)   | 163 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **2025_08_19_100300_create_donations_and_receipts_tables.php** (+49, -0)
 - **2025_08_19_100400_create_expenses_table.php** (+34, -0)
 - **2025_08_19_100500_create_bank_and_reconciliation_tables.php** (+46, -0)
-- **Campaign.php** (+64, -0)
+- **Campaign.php** (+127, -0)
 - **Category.php** (+22, -0)
 - **CampaignUpdate.php** (+33, -0)
 - **Donation.php** (+49, -0)
@@ -29,7 +29,7 @@
 - **BankStatement.php** (+36, -0)
 - **Reconciliation.php** (+38, -0)
 - **Location.php** (+19, -0)
-- **User.php** (+64, -0)
+- **User.php** (+110, -0)
 - **web.php** (+46, -6)
 - **CampaignController.php** (+42, -0)
 - **api.php** (+70, -2)
@@ -97,6 +97,10 @@
 - **privacy.blade.php** (+162, -0)
 - **contact.blade.php** (+196, -0)
 - **faq.blade.php** (+257, -0)
+- **2024_01_01_000000_add_two_factor_to_users_table.php** (+33, -0)
+- **PasswordPolicy.php** (+48, -0)
+- **IpAllowlistMiddleware.php** (+35, -0)
+- **security.php** (+60, -0)
 
 ## Visualizations
 
@@ -105,7 +109,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 4665
+".php" : 4950
 ".json" : 74
 "unknown" : 60
 ```
@@ -118,8 +122,8 @@ title Coding activity by hour (count of changes)
 "20h" : 20
 "21h" : 67
 "22h" : 33
-"23h" : 21
+"23h" : 31
 ```
 
 
-> **Last Updated:** 8/19/2025, 11:42:23 PM
+> **Last Updated:** 8/19/2025, 11:57:23 PM

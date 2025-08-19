@@ -3,8 +3,8 @@
   "projects": {
     "quytuthien.vn": {
       "totalLinesAdded": 3133,
-      "totalLinesRemoved": 279,
-      "totalActiveTime": 164,
+      "totalLinesRemoved": 348,
+      "totalActiveTime": 165,
       "files": {
         "f:\\quytuthien.vn\\app\\Services\\VirusScanService.php": [
           {
@@ -2147,6 +2147,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-19T19:22:25.459Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\js\\notification.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 69,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],

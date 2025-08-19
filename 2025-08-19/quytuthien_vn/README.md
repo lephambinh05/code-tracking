@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3191                                          |
-| **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 3185                |
-| **Active Time** (⌚)   | 124 minutes |
+| **Lines Added** (➕)   | 3287                                          |
+| **Lines Removed** (➖) | 8                                        |
+| **Net Change** (↕)    | 3279                |
+| **Active Time** (⌚)   | 130 minutes |
 
 
 ## Modified Files
@@ -32,7 +32,7 @@
 - **User.php** (+64, -0)
 - **web.php** (+41, -6)
 - **CampaignController.php** (+42, -0)
-- **api.php** (+57, -0)
+- **api.php** (+69, -2)
 - **DatabaseSeeder.php** (+25, -0)
 - **payment.php** (+21, -0)
 - **VnpayService.php** (+23, -0)
@@ -89,6 +89,7 @@
 - **dashboard.blade.php** (+21, -0)
 - **AdminMiddleware.php** (+43, -0)
 - **Kernel.php** (+70, -0)
+- **sanctum.php** (+84, -0)
 
 ## Visualizations
 
@@ -97,7 +98,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 3063
+".php" : 3161
 ".json" : 74
 "unknown" : 60
 ```
@@ -109,8 +110,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "20h" : 20
 "21h" : 67
-"22h" : 26
+"22h" : 33
 ```
 
 
-> **Last Updated:** 8/19/2025, 10:32:23 PM
+> **Last Updated:** 8/19/2025, 10:57:23 PM

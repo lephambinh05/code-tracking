@@ -2,9 +2,9 @@
   "date": "2025-08-20",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 865,
+      "totalLinesAdded": 1263,
       "totalLinesRemoved": 31,
-      "totalActiveTime": 23,
+      "totalActiveTime": 47,
       "files": {
         "f:\\quytuthien.vn\\app\\Services\\VirusScanService.php": [
           {
@@ -346,6 +346,276 @@
             "fileName": "f:\\quytuthien.vn\\tests\\Feature\\SecurityFeaturesTest.php",
             "fileType": ".php",
             "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\public\\robots.txt": [
+          {
+            "timestamp": "2025-08-19T17:47:40.707Z",
+            "fileName": "f:\\quytuthien.vn\\public\\robots.txt",
+            "fileType": ".txt",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-19T17:47:40.888Z",
+            "fileName": "f:\\quytuthien.vn\\public\\robots.txt",
+            "fileType": ".txt",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "f:\\quytuthien.vn\\public\\site.webmanifest": [
+          {
+            "timestamp": "2025-08-19T17:47:55.070Z",
+            "fileName": "f:\\quytuthien.vn\\public\\site.webmanifest",
+            "fileType": ".webmanifest",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "webmanifest"
+          },
+          {
+            "timestamp": "2025-08-19T17:47:55.249Z",
+            "fileName": "f:\\quytuthien.vn\\public\\site.webmanifest",
+            "fileType": ".webmanifest",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "webmanifest"
+          }
+        ],
+        "f:\\quytuthien.vn\\routes\\auth.php": [
+          {
+            "timestamp": "2025-08-19T17:50:40.034Z",
+            "fileName": "f:\\quytuthien.vn\\routes\\auth.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T17:50:40.222Z",
+            "fileName": "f:\\quytuthien.vn\\routes\\auth.php",
+            "fileType": ".php",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\AuthenticatedSessionController.php": [
+          {
+            "timestamp": "2025-08-19T17:51:00.159Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\AuthenticatedSessionController.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T17:51:00.361Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\AuthenticatedSessionController.php",
+            "fileType": ".php",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\RegisteredUserController.php": [
+          {
+            "timestamp": "2025-08-19T17:51:15.254Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\RegisteredUserController.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T17:51:15.440Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\RegisteredUserController.php",
+            "fileType": ".php",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Requests\\Auth\\LoginRequest.php": [
+          {
+            "timestamp": "2025-08-19T17:51:33.557Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Requests\\Auth\\LoginRequest.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T17:51:33.716Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Requests\\Auth\\LoginRequest.php",
+            "fileType": ".php",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\EmailVerificationPromptController.php": [
+          {
+            "timestamp": "2025-08-19T17:51:47.304Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\EmailVerificationPromptController.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T17:51:47.472Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\EmailVerificationPromptController.php",
+            "fileType": ".php",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\VerifyEmailController.php": [
+          {
+            "timestamp": "2025-08-19T17:52:01.723Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\VerifyEmailController.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T17:52:01.925Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\VerifyEmailController.php",
+            "fileType": ".php",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\EmailVerificationNotificationController.php": [
+          {
+            "timestamp": "2025-08-19T17:52:15.347Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\EmailVerificationNotificationController.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-19T17:52:15.505Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\Auth\\EmailVerificationNotificationController.php",
+            "fileType": ".php",
+            "linesAdded": 27,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

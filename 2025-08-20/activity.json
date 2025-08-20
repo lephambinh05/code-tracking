@@ -2686,6 +2686,311 @@
         "f:\\quytuthien.vn\\app\\Console\\Kernel.php"
       ],
       "averageChangeSize": 34.05555555555556
+    },
+    "napXUVN": {
+      "totalLinesAdded": 316,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 18,
+      "files": {
+        "f:\\napXUVN\\components\\icons\\sidebar\\money-icon.tsx": [
+          {
+            "timestamp": "2025-08-20T15:52:09.812Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\money-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:52:10.020Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\money-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\components\\icons\\sidebar\\tiktok-icon.tsx": [
+          {
+            "timestamp": "2025-08-20T15:52:20.571Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\tiktok-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:52:20.804Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\tiktok-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\components\\icons\\sidebar\\coin-icon.tsx": [
+          {
+            "timestamp": "2025-08-20T15:52:31.054Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\coin-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:52:31.313Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\coin-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\components\\icons\\sidebar\\user-icon.tsx": [
+          {
+            "timestamp": "2025-08-20T15:52:41.592Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\user-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:52:41.895Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\user-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\components\\icons\\sidebar\\shield-icon.tsx": [
+          {
+            "timestamp": "2025-08-20T15:52:54.670Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\shield-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:52:54.802Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\shield-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\components\\icons\\sidebar\\market-icon.tsx": [
+          {
+            "timestamp": "2025-08-20T15:53:08.548Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\market-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:53:09.562Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\market-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:53:09.944Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\market-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\components\\icons\\sidebar\\tools-icon.tsx": [
+          {
+            "timestamp": "2025-08-20T15:53:22.907Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\tools-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:53:23.925Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\tools-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:53:24.305Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\tools-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\components\\icons\\sidebar\\api-icon.tsx": [
+          {
+            "timestamp": "2025-08-20T15:53:34.398Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\api-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T15:53:34.620Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\api-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\components\\sidebar\\sidebar.tsx": [
+          {
+            "timestamp": "2025-08-20T15:53:45.948Z",
+            "fileName": "f:\\napXUVN\\components\\sidebar\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 148,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 18
+      },
+      "changeFrequency": {
+        "22": 18
+      },
+      "topFiles": [
+        "f:\\napXUVN\\components\\icons\\sidebar\\market-icon.tsx",
+        "f:\\napXUVN\\components\\icons\\sidebar\\tools-icon.tsx",
+        "f:\\napXUVN\\components\\icons\\sidebar\\money-icon.tsx",
+        "f:\\napXUVN\\components\\icons\\sidebar\\tiktok-icon.tsx",
+        "f:\\napXUVN\\components\\icons\\sidebar\\coin-icon.tsx"
+      ],
+      "averageChangeSize": 16.63157894736842
     }
   },
   "totalActiveTime": 19,

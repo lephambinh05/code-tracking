@@ -2716,9 +2716,9 @@
       "averageChangeSize": 34.05555555555556
     },
     "napXUVN": {
-      "totalLinesAdded": 347,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 29,
+      "totalLinesAdded": 358,
+      "totalLinesRemoved": 17,
+      "totalActiveTime": 34,
       "files": {
         "f:\\napXUVN\\components\\icons\\sidebar\\money-icon.tsx": [
           {
@@ -2877,6 +2877,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:04:58.061Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\coin-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:07:25.253Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\coin-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],

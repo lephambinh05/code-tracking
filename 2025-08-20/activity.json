@@ -2717,8 +2717,8 @@
     },
     "napXUVN": {
       "totalLinesAdded": 358,
-      "totalLinesRemoved": 17,
-      "totalActiveTime": 34,
+      "totalLinesRemoved": 120,
+      "totalActiveTime": 44,
       "files": {
         "f:\\napXUVN\\components\\icons\\sidebar\\money-icon.tsx": [
           {
@@ -2762,6 +2762,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:09:16.498Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\money-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\components\\icons\\sidebar\\tiktok-icon.tsx": [
@@ -2799,6 +2813,20 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:09:24.707Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\tiktok-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
             "projectName": "napXUVN",
             "content": {
               "added": [],
@@ -2906,6 +2934,20 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:09:00.991Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\coin-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\components\\icons\\sidebar\\user-icon.tsx": [
@@ -2950,6 +2992,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:09:34.567Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\user-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\components\\icons\\sidebar\\shield-icon.tsx": [
@@ -2987,6 +3043,20 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:09:44.510Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\shield-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
             "projectName": "napXUVN",
             "content": {
               "added": [],
@@ -3052,6 +3122,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:09:54.900Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\market-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\components\\icons\\sidebar\\tools-icon.tsx": [
@@ -3110,6 +3194,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:10:03.606Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\tools-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\components\\icons\\sidebar\\api-icon.tsx": [
@@ -3147,6 +3245,20 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:10:12.260Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\api-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
             "projectName": "napXUVN",
             "content": {
               "added": [],
@@ -3193,6 +3305,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:10:23.711Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\home-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
             "projectName": "napXUVN",
             "content": {
               "added": [],

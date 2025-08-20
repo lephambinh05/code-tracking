@@ -1,0 +1,156 @@
+{
+  "date": "2025-08-21",
+  "projects": {
+    "napXUVN": {
+      "totalLinesAdded": 750,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 10,
+      "files": {
+        "f:\\napXUVN\\app\\(app)\\tiktok-market\\accounts\\page.tsx": [
+          {
+            "timestamp": "2025-08-20T16:59:01.360Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-market\\accounts\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:59:01.504Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-market\\accounts\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\(app)\\tools\\change-username\\page.tsx": [
+          {
+            "timestamp": "2025-08-20T16:59:37.995Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tools\\change-username\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:59:38.174Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tools\\change-username\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\(app)\\tools\\block-hidden-follow\\page.tsx": [
+          {
+            "timestamp": "2025-08-20T17:01:33.471Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tools\\block-hidden-follow\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T17:01:33.691Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tools\\block-hidden-follow\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 136,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\(app)\\accounts\\page.tsx": [
+          {
+            "timestamp": "2025-08-20T17:03:15.804Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\accounts\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T17:03:16.476Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\accounts\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 289,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 10
+      },
+      "changeFrequency": {
+        "0": 6,
+        "23": 4
+      },
+      "topFiles": [
+        "f:\\napXUVN\\app\\(app)\\tiktok-market\\accounts\\page.tsx",
+        "f:\\napXUVN\\app\\(app)\\tools\\change-username\\page.tsx",
+        "f:\\napXUVN\\app\\(app)\\tools\\block-hidden-follow\\page.tsx",
+        "f:\\napXUVN\\app\\(app)\\accounts\\page.tsx"
+      ],
+      "averageChangeSize": 93.75
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    0,
+    23
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}

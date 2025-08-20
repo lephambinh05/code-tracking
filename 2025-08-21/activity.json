@@ -2,9 +2,9 @@
   "date": "2025-08-21",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 3497,
+      "totalLinesAdded": 3548,
       "totalLinesRemoved": 261,
-      "totalActiveTime": 45,
+      "totalActiveTime": 48,
       "files": {
         "f:\\napXUVN\\app\\(app)\\tiktok-market\\accounts\\page.tsx": [
           {
@@ -540,6 +540,66 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\layout.tsx": [
+          {
+            "timestamp": "2025-08-20T18:21:30.181Z",
+            "fileName": "f:\\napXUVN\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T18:21:30.364Z",
+            "fileName": "f:\\napXUVN\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\next.config.js": [
+          {
+            "timestamp": "2025-08-20T18:21:42.665Z",
+            "fileName": "f:\\napXUVN\\next.config.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-20T18:21:42.844Z",
+            "fileName": "f:\\napXUVN\\next.config.js",
+            "fileType": ".js",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

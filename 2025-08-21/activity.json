@@ -2,9 +2,9 @@
   "date": "2025-08-21",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 940,
+      "totalLinesAdded": 947,
       "totalLinesRemoved": 261,
-      "totalActiveTime": 11,
+      "totalActiveTime": 15,
       "files": {
         "f:\\napXUVN\\app\\(app)\\tiktok-market\\accounts\\page.tsx": [
           {
@@ -137,6 +137,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T17:15:30.446Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\accounts\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],

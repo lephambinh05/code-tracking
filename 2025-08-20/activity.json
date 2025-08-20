@@ -2,9 +2,9 @@
   "date": "2025-08-20",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 8216,
+      "totalLinesAdded": 8522,
       "totalLinesRemoved": 456,
-      "totalActiveTime": 197,
+      "totalActiveTime": 198,
       "files": {
         "f:\\quytuthien.vn\\app\\Services\\VirusScanService.php": [
           {
@@ -2630,6 +2630,36 @@
             "fileName": "f:\\quytuthien.vn\\assign_admin_final.php",
             "fileType": ".php",
             "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\resources\\views\\layouts\\admin.blade.php": [
+          {
+            "timestamp": "2025-08-20T15:45:47.008Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\layouts\\admin.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-20T15:45:47.160Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\layouts\\admin.blade.php",
+            "fileType": ".php",
+            "linesAdded": 305,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

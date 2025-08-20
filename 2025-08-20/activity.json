@@ -2,7 +2,7 @@
   "date": "2025-08-20",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 3220,
+      "totalLinesAdded": 3265,
       "totalLinesRemoved": 348,
       "totalActiveTime": 165,
       "files": {
@@ -2200,6 +2200,22 @@
             "fileName": "f:\\quytuthien.vn\\manage_roles.php",
             "fileType": ".php",
             "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Middleware\\IpAllowlistMiddleware.php": [
+          {
+            "timestamp": "2025-08-20T15:03:53.010Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Middleware\\IpAllowlistMiddleware.php",
+            "fileType": ".php",
+            "linesAdded": 45,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

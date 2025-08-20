@@ -2717,8 +2717,8 @@
     },
     "napXUVN": {
       "totalLinesAdded": 384,
-      "totalLinesRemoved": 132,
-      "totalActiveTime": 49,
+      "totalLinesRemoved": 138,
+      "totalActiveTime": 52,
       "files": {
         "f:\\napXUVN\\components\\icons\\sidebar\\money-icon.tsx": [
           {
@@ -3292,6 +3292,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:28:56.682Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\tools-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\components\\icons\\sidebar\\api-icon.tsx": [
@@ -3343,6 +3357,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 11,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:29:06.595Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\api-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "napXUVN",
             "content": {
               "added": [],
@@ -3403,6 +3431,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 11,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:29:16.357Z",
+            "fileName": "f:\\napXUVN\\components\\icons\\sidebar\\home-icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "napXUVN",
             "content": {
               "added": [],

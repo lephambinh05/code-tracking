@@ -2716,7 +2716,7 @@
       "averageChangeSize": 34.05555555555556
     },
     "napXUVN": {
-      "totalLinesAdded": 358,
+      "totalLinesAdded": 384,
       "totalLinesRemoved": 120,
       "totalActiveTime": 44,
       "files": {
@@ -3325,6 +3325,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\layout.tsx": [
+          {
+            "timestamp": "2025-08-20T16:19:00.813Z",
+            "fileName": "f:\\napXUVN\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]

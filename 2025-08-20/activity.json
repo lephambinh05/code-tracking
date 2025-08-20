@@ -2716,9 +2716,9 @@
       "averageChangeSize": 34.05555555555556
     },
     "napXUVN": {
-      "totalLinesAdded": 506,
-      "totalLinesRemoved": 138,
-      "totalActiveTime": 53,
+      "totalLinesAdded": 744,
+      "totalLinesRemoved": 140,
+      "totalActiveTime": 58,
       "files": {
         "f:\\napXUVN\\components\\icons\\sidebar\\money-icon.tsx": [
           {
@@ -3506,6 +3506,80 @@
             "fileName": "f:\\napXUVN\\components\\home\\card-transactions.tsx",
             "fileType": ".tsx",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\(app)\\page.tsx": [
+          {
+            "timestamp": "2025-08-20T16:56:03.850Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:56:04.120Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 133,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:57:31.487Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\(app)\\tiktok-market\\sell-donate-coins\\page.tsx": [
+          {
+            "timestamp": "2025-08-20T16:58:26.183Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-market\\sell-donate-coins\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-20T16:58:26.363Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-market\\sell-donate-coins\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 66,
             "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {

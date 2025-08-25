@@ -2,9 +2,9 @@
   "date": "2025-08-25",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 10032,
-      "totalLinesRemoved": 102,
-      "totalActiveTime": 55,
+      "totalLinesAdded": 10062,
+      "totalLinesRemoved": 181,
+      "totalActiveTime": 66,
       "files": {
         "f:\\studyBuddy\\lib\\presentation\\screens\\calendar\\calendar_screen.dart": [
           {
@@ -382,6 +382,20 @@
             "fileName": "f:\\studyBuddy\\lib\\presentation\\providers\\task_provider.dart",
             "fileType": ".dart",
             "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T05:56:06.332Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\providers\\task_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {
@@ -774,6 +788,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T05:59:28.187Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\task_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 53,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "dart"
           }
         ],
         "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart": [
@@ -782,6 +810,90 @@
             "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart",
             "fileType": ".dart",
             "linesAdded": 397,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T05:59:42.284Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T05:59:56.451Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:00:14.670Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:00:28.817Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:00:41.384Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:00:54.910Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

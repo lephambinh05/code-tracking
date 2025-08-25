@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10032                                          |
-| **Lines Removed** (➖) | 102                                        |
-| **Net Change** (↕)    | 9930                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Lines Added** (➕)   | 10062                                          |
+| **Lines Removed** (➖) | 181                                        |
+| **Net Change** (↕)    | 9881                |
+| **Active Time** (⌚)   | 66 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **event_provider.dart** (+249, -0)
 - **study_target_provider.dart** (+304, -0)
 - **subject_provider.dart** (+185, -0)
-- **task_provider.dart** (+393, -0)
+- **task_provider.dart** (+394, -0)
 - **user_provider.dart** (+137, -33)
 - **forgot_password_screen.dart** (+18, -0)
 - **login_screen.dart** (+327, -0)
@@ -38,8 +38,8 @@
 - **empty_state.dart** (+204, -0)
 - **firebase_auth_service.dart** (+236, -0)
 - **build.gradle.kts** (+75, -0)
-- **task_repository.dart** (+488, -4)
-- **event_repository.dart** (+397, -0)
+- **task_repository.dart** (+488, -57)
+- **event_repository.dart** (+426, -26)
 
 ## Visualizations
 
@@ -48,7 +48,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 10054
+".dart" : 10163
 ".properties" : 5
 ".kts" : 75
 ```
@@ -59,8 +59,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 30
-"12h" : 22
+"12h" : 26
+"13h" : 4
 ```
 
 
-> **Last Updated:** 8/25/2025, 12:56:00 PM
+> **Last Updated:** 8/25/2025, 1:01:00 PM

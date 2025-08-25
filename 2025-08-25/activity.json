@@ -2,9 +2,9 @@
   "date": "2025-08-25",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 7757,
+      "totalLinesAdded": 8602,
       "totalLinesRemoved": 65,
-      "totalActiveTime": 38,
+      "totalActiveTime": 43,
       "files": {
         "f:\\studyBuddy\\lib\\presentation\\screens\\calendar\\calendar_screen.dart": [
           {
@@ -498,6 +498,54 @@
             "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\security_settings_screen.dart",
             "fileType": ".dart",
             "linesAdded": 633,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\settings_screen.dart": [
+          {
+            "timestamp": "2025-08-25T05:17:16.738Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\settings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 230,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\sync_settings_screen.dart": [
+          {
+            "timestamp": "2025-08-25T05:17:46.219Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\sync_settings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 522,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\splash\\splash_screen.dart": [
+          {
+            "timestamp": "2025-08-25T05:18:57.946Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\splash\\splash_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 93,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

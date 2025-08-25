@@ -1259,9 +1259,9 @@
       "averageChangeSize": 327.1666666666667
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 1523,
+      "totalLinesAdded": 1538,
       "totalLinesRemoved": 72,
-      "totalActiveTime": 32,
+      "totalActiveTime": 35,
       "files": {
         "f:\\quytuthien.vn\\tailwind.config.js": [
           {
@@ -1349,6 +1349,20 @@
             },
             "duration": 3,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-08-25T07:18:53.997Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\css\\app.css",
+            "fileType": ".css",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\layouts\\app.blade.php": [
@@ -1392,6 +1406,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T07:20:01.006Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
@@ -1570,6 +1598,20 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 28,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T07:20:16.150Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\guest-layout.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],

@@ -1259,7 +1259,7 @@
       "averageChangeSize": 327.1666666666667
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 2419,
+      "totalLinesAdded": 2853,
       "totalLinesRemoved": 412,
       "totalActiveTime": 41,
       "files": {
@@ -1514,6 +1514,20 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 340,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T07:48:42.380Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\home.blade.php",
+            "fileType": ".php",
+            "linesAdded": 434,
+            "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1886                                          |
+| **Lines Added** (➕)   | 2239                                          |
 | **Lines Removed** (➖) | 72                                        |
-| **Net Change** (↕)    | 1814                |
-| **Active Time** (⌚)   | 37 minutes |
+| **Net Change** (↕)    | 2167                |
+| **Active Time** (⌚)   | 40 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,7 @@
 - **transparency.blade.php** (+84, -0)
 - **vite.config.js** (+20, -8)
 - **postcss.config.js** (+7, -6)
+- **schools.blade.php** (+353, -0)
 
 ## Visualizations
 
@@ -37,7 +38,7 @@ pie showData
 title Lines changed by file type
 ".js" : 100
 ".css" : 636
-".php" : 1222
+".php" : 1575
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +48,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 24
 "13h" : 7
-"14h" : 5
+"14h" : 7
 ```
 
 
-> **Last Updated:** 8/25/2025, 2:30:26 PM
+> **Last Updated:** 8/25/2025, 2:35:26 PM

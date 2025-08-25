@@ -1259,9 +1259,9 @@
       "averageChangeSize": 327.1666666666667
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 1886,
+      "totalLinesAdded": 2239,
       "totalLinesRemoved": 72,
-      "totalActiveTime": 37,
+      "totalActiveTime": 40,
       "files": {
         "f:\\quytuthien.vn\\tailwind.config.js": [
           {
@@ -1797,6 +1797,36 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\resources\\views\\schools.blade.php": [
+          {
+            "timestamp": "2025-08-25T07:30:42.188Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\schools.blade.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T07:30:42.358Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\schools.blade.php",
+            "fileType": ".php",
+            "linesAdded": 352,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },

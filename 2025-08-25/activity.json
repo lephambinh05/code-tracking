@@ -604,8 +604,8 @@
     },
     "quytuthien.vn": {
       "totalLinesAdded": 1031,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 22,
+      "totalLinesRemoved": 58,
+      "totalActiveTime": 23,
       "files": {
         "f:\\quytuthien.vn\\tailwind.config.js": [
           {
@@ -694,6 +694,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T05:37:00.100Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\layouts\\app.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
@@ -858,6 +872,20 @@
             "fileType": ".php",
             "linesAdded": 59,
             "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T05:37:13.315Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\guest-layout.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],

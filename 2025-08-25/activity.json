@@ -2,9 +2,9 @@
   "date": "2025-08-25",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 11121,
+      "totalLinesAdded": 11190,
       "totalLinesRemoved": 581,
-      "totalActiveTime": 83,
+      "totalActiveTime": 86,
       "files": {
         "f:\\studyBuddy\\lib\\presentation\\screens\\calendar\\calendar_screen.dart": [
           {
@@ -234,6 +234,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:44:58.464Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\profile\\profile_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
           }
         ],
         "f:\\studyBuddy\\lib\\presentation\\screens\\dashboard\\dashboard_screen.dart": [
@@ -318,6 +332,34 @@
             "fileName": "f:\\studyBuddy\\lib\\presentation\\providers\\auth_provider.dart",
             "fileType": ".dart",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:45:15.762Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\providers\\auth_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:45:42.751Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\providers\\auth_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 21,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {
@@ -846,6 +888,20 @@
             "fileName": "f:\\studyBuddy\\lib\\data\\sources\\remote\\firebase_auth_service.dart",
             "fileType": ".dart",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:45:26.356Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\sources\\remote\\firebase_auth_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

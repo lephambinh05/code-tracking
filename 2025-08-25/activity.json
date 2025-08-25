@@ -2,9 +2,9 @@
   "date": "2025-08-25",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 10062,
+      "totalLinesAdded": 10072,
       "totalLinesRemoved": 181,
-      "totalActiveTime": 66,
+      "totalActiveTime": 67,
       "files": {
         "f:\\studyBuddy\\lib\\presentation\\screens\\calendar\\calendar_screen.dart": [
           {
@@ -894,6 +894,20 @@
             "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart",
             "fileType": ".dart",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:01:06.750Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\repositories\\event_repository.dart",
+            "fileType": ".dart",
+            "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

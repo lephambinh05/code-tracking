@@ -1019,9 +1019,9 @@
       "averageChangeSize": 327.1666666666667
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 1103,
-      "totalLinesRemoved": 66,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 1523,
+      "totalLinesRemoved": 72,
+      "totalActiveTime": 32,
       "files": {
         "f:\\quytuthien.vn\\tailwind.config.js": [
           {
@@ -1094,6 +1094,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-25T06:27:01.016Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\css\\app.css",
+            "fileType": ".css",
+            "linesAdded": 420,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "css"
           }
         ],
@@ -1452,6 +1466,20 @@
             "fileType": ".js",
             "linesAdded": 7,
             "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-25T06:27:49.892Z",
+            "fileName": "f:\\quytuthien.vn\\postcss.config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],

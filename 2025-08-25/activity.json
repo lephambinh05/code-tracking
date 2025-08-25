@@ -1275,9 +1275,9 @@
       "averageChangeSize": 327.1666666666667
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 3468,
-      "totalLinesRemoved": 412,
-      "totalActiveTime": 57,
+      "totalLinesAdded": 3673,
+      "totalLinesRemoved": 435,
+      "totalActiveTime": 65,
       "files": {
         "f:\\quytuthien.vn\\tailwind.config.js": [
           {
@@ -1929,6 +1929,20 @@
             },
             "duration": 0,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T08:09:29.588Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\statistics.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\projects.blade.php": [
@@ -1938,6 +1952,20 @@
             "fileType": ".php",
             "linesAdded": 55,
             "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T08:08:52.870Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\projects.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 14,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],
@@ -1977,6 +2005,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T08:09:44.721Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\news.blade.php",
+            "fileType": ".php",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\gallery.blade.php": [
@@ -1993,6 +2035,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T08:10:00.773Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\gallery.blade.php",
+            "fileType": ".php",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\videos.blade.php": [
@@ -2001,6 +2057,20 @@
             "fileName": "f:\\quytuthien.vn\\resources\\views\\videos.blade.php",
             "fileType": ".php",
             "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-25T08:10:19.681Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\videos.blade.php",
+            "fileType": ".php",
+            "linesAdded": 18,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {
@@ -2120,6 +2190,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\app\\Http\\Controllers\\PageController.php": [
+          {
+            "timestamp": "2025-08-25T08:07:53.364Z",
+            "fileName": "f:\\quytuthien.vn\\app\\Http\\Controllers\\PageController.php",
+            "fileType": ".php",
+            "linesAdded": 169,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ]

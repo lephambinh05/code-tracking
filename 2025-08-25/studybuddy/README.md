@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10079                                          |
+| **Lines Added** (➕)   | 10094                                          |
 | **Lines Removed** (➖) | 181                                        |
-| **Net Change** (↕)    | 9898                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Net Change** (↕)    | 9913                |
+| **Active Time** (⌚)   | 71 minutes |
 
 
 ## Modified Files
@@ -17,16 +17,16 @@
 - **dashboard_screen.dart** (+797, -0)
 - **main_screen.dart** (+280, -0)
 - **onboarding_screen.dart** (+176, -0)
-- **auth_provider.dart** (+238, -0)
+- **auth_provider.dart** (+243, -0)
 - **event_provider.dart** (+249, -0)
 - **study_target_provider.dart** (+304, -0)
 - **subject_provider.dart** (+185, -0)
 - **task_provider.dart** (+394, -0)
 - **user_provider.dart** (+137, -33)
 - **forgot_password_screen.dart** (+18, -0)
-- **login_screen.dart** (+331, -0)
+- **login_screen.dart** (+333, -0)
 - **register_screen.dart** (+279, -0)
-- **signup_screen.dart** (+363, -0)
+- **signup_screen.dart** (+371, -0)
 - **calendar_screen.dart** (+18, -0)
 - **tasks_screen.dart** (+18, -0)
 - **notification_settings_screen.dart** (+514, -0)
@@ -48,7 +48,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".dart" : 10180
+".dart" : 10195
 ".properties" : 5
 ".kts" : 75
 ```
@@ -60,8 +60,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 30
 "12h" : 26
-"13h" : 7
+"13h" : 11
 ```
 
 
-> **Last Updated:** 8/25/2025, 1:11:00 PM
+> **Last Updated:** 8/25/2025, 1:16:00 PM

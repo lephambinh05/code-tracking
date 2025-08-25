@@ -2,7 +2,7 @@
   "date": "2025-08-25",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 11246,
+      "totalLinesAdded": 11304,
       "totalLinesRemoved": 581,
       "totalActiveTime": 88,
       "files": {
@@ -1240,6 +1240,22 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\README.md": [
+          {
+            "timestamp": "2025-08-25T07:57:59.064Z",
+            "fileName": "f:\\studyBuddy\\README.md",
+            "fileType": ".md",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "md"
           }
         ]
       },

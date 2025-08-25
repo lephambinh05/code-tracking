@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3673                                          |
-| **Lines Removed** (➖) | 435                                        |
-| **Net Change** (↕)    | 3238                |
-| **Active Time** (⌚)   | 65 minutes |
+| **Lines Added** (➕)   | 4455                                          |
+| **Lines Removed** (➖) | 614                                        |
+| **Net Change** (↕)    | 3841                |
+| **Active Time** (⌚)   | 72 minutes |
 
 
 ## Modified Files
@@ -27,21 +27,21 @@
 - **transparency.blade.php** (+84, -0)
 - **vite.config.js** (+20, -8)
 - **postcss.config.js** (+7, -6)
-- **schools.blade.php** (+442, -0)
+- **schools.blade.php** (+884, -179)
 - **statistics.blade.php** (+81, -9)
 - **projects.blade.php** (+55, -14)
 - **project-statistics.blade.php** (+61, -0)
 - **news.blade.php** (+36, -0)
 - **gallery.blade.php** (+26, -0)
 - **videos.blade.php** (+48, -0)
-- **shop.blade.php** (+27, -0)
+- **shop.blade.php** (+72, -0)
 - **about.blade.php** (+40, -0)
 - **contact.blade.php** (+45, -0)
 - **faq.blade.php** (+28, -0)
 - **terms.blade.php** (+22, -0)
 - **privacy.blade.php** (+22, -0)
-- **web.php** (+71, -0)
-- **PageController.php** (+169, -0)
+- **web.php** (+142, -0)
+- **PageController.php** (+393, -0)
 
 ## Visualizations
 
@@ -52,7 +52,7 @@ pie showData
 title Lines changed by file type
 ".js" : 100
 ".css" : 816
-".php" : 3192
+".php" : 4153
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,7 +64,8 @@ title Coding activity by hour (count of changes)
 "13h" : 7
 "14h" : 12
 "15h" : 19
+"22h" : 7
 ```
 
 
-> **Last Updated:** 8/25/2025, 3:10:26 PM
+> **Last Updated:** 8/25/2025, 10:19:59 PM

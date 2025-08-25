@@ -2,7 +2,7 @@
   "date": "2025-08-25",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 9120,
+      "totalLinesAdded": 9124,
       "totalLinesRemoved": 65,
       "totalActiveTime": 49,
       "files": {
@@ -673,6 +673,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-08-25T05:47:58.169Z",
+            "fileName": "f:\\studyBuddy\\android\\app\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "kts"
           }
         ]

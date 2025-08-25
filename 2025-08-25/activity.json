@@ -2,9 +2,9 @@
   "date": "2025-08-25",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 5457,
+      "totalLinesAdded": 6574,
       "totalLinesRemoved": 65,
-      "totalActiveTime": 23,
+      "totalActiveTime": 30,
       "files": {
         "f:\\studyBuddy\\lib\\presentation\\screens\\calendar\\calendar_screen.dart": [
           {
@@ -354,6 +354,86 @@
             "fileName": "f:\\studyBuddy\\lib\\presentation\\providers\\task_provider.dart",
             "fileType": ".dart",
             "linesAdded": 374,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\providers\\user_provider.dart": [
+          {
+            "timestamp": "2025-08-25T04:51:41.974Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\providers\\user_provider.dart",
+            "fileType": ".dart",
+            "linesAdded": 133,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\auth\\forgot_password_screen.dart": [
+          {
+            "timestamp": "2025-08-25T04:52:40.849Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\auth\\forgot_password_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\auth\\login_screen.dart": [
+          {
+            "timestamp": "2025-08-25T04:54:01.956Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\auth\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 327,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\auth\\register_screen.dart": [
+          {
+            "timestamp": "2025-08-25T04:54:41.944Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\auth\\register_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 279,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\auth\\signup_screen.dart": [
+          {
+            "timestamp": "2025-08-25T04:55:40.575Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\auth\\signup_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 360,
             "linesRemoved": 0,
             "projectName": "studyBuddy",
             "content": {

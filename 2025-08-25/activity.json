@@ -2,7 +2,7 @@
   "date": "2025-08-25",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 10094,
+      "totalLinesAdded": 10187,
       "totalLinesRemoved": 181,
       "totalActiveTime": 71,
       "files": {
@@ -783,6 +783,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-25T06:30:51.136Z",
+            "fileName": "f:\\studyBuddy\\lib\\data\\sources\\remote\\firebase_auth_service.dart",
+            "fileType": ".dart",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ],

@@ -2,9 +2,9 @@
   "date": "2025-08-25",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 6610,
+      "totalLinesAdded": 7757,
       "totalLinesRemoved": 65,
-      "totalActiveTime": 36,
+      "totalActiveTime": 38,
       "files": {
         "f:\\studyBuddy\\lib\\presentation\\screens\\calendar\\calendar_screen.dart": [
           {
@@ -473,6 +473,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\notification_settings_screen.dart": [
+          {
+            "timestamp": "2025-08-25T05:14:33.312Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\notification_settings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 514,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\security_settings_screen.dart": [
+          {
+            "timestamp": "2025-08-25T05:15:45.969Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\screens\\settings\\security_settings_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 633,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "dart"
           }
         ]

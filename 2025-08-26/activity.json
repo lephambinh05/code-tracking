@@ -97,9 +97,9 @@
       "averageChangeSize": 361
     },
     "tool-auto-exchangr-tiktok-coins": {
-      "totalLinesAdded": 842,
+      "totalLinesAdded": 1566,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\requirements.txt": [
           {
@@ -189,6 +189,112 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\auto_coin_purchaser.py": [
+          {
+            "timestamp": "2025-08-26T15:58:50.288Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\auto_coin_purchaser.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-26T15:58:50.421Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\auto_coin_purchaser.py",
+            "fileType": ".py",
+            "linesAdded": 373,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\README.md": [
+          {
+            "timestamp": "2025-08-26T15:59:22.126Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\README.md",
+            "fileType": ".md",
+            "linesAdded": 181,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "md"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\start_tool.bat": [
+          {
+            "timestamp": "2025-08-26T15:59:31.459Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\start_tool.bat",
+            "fileType": ".bat",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-08-26T15:59:31.664Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\start_tool.bat",
+            "fileType": ".bat",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\config.json": [
+          {
+            "timestamp": "2025-08-26T15:59:45.454Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\config.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-26T15:59:45.656Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\config.json",
+            "fileType": ".json",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

@@ -95,6 +95,116 @@
         "f:\\studyBuddy\\lib\\presentation\\screens\\calendar\\calendar_screen.dart"
       ],
       "averageChangeSize": 361
+    },
+    "tool-auto-exchangr-tiktok-coins": {
+      "totalLinesAdded": 842,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\requirements.txt": [
+          {
+            "timestamp": "2025-08-26T15:53:49.936Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-08-26T15:53:50.071Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\tiktok_coin_tool.py": [
+          {
+            "timestamp": "2025-08-26T15:56:49.172Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\tiktok_coin_tool.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-26T15:56:49.297Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\tiktok_coin_tool.py",
+            "fileType": ".py",
+            "linesAdded": 597,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\proxy_capture.py": [
+          {
+            "timestamp": "2025-08-26T15:57:28.180Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\proxy_capture.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-08-26T15:57:28.606Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\proxy_capture.py",
+            "fileType": ".py",
+            "linesAdded": 232,
+            "linesRemoved": 0,
+            "projectName": "tool-auto-exchangr-tiktok-coins",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 1,
+        "py": 6
+      },
+      "changeFrequency": {
+        "22": 7
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\requirements.txt",
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\tiktok_coin_tool.py",
+        "c:\\Users\\lephambinh\\Downloads\\tool-auto-exchangr-tiktok-coins\\proxy_capture.py"
+      ],
+      "averageChangeSize": 140.33333333333334
     }
   },
   "totalActiveTime": 1,

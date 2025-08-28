@@ -2,9 +2,9 @@
   "date": "2025-08-28",
   "projects": {
     "studyBuddy": {
-      "totalLinesAdded": 4634,
+      "totalLinesAdded": 4691,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 14,
+      "totalActiveTime": 20,
       "files": {
         "f:\\studyBuddy\\lib\\presentation\\screens\\tasks\\tasks_screen.dart": [
           {
@@ -83,6 +83,104 @@
               "removed": []
             },
             "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-28T04:53:12.585Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-28T04:53:26.431Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-28T04:53:40.022Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-28T04:53:48.830Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-28T04:54:42.882Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-28T04:54:50.769Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-08-28T04:55:00.748Z",
+            "fileName": "f:\\studyBuddy\\lib\\presentation\\widgets\\task\\task_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "studyBuddy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "dart"
           }
         ],

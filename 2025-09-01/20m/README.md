@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2597                                          |
-| **Lines Removed** (➖) | 9                                        |
-| **Net Change** (↕)    | 2588                |
-| **Active Time** (⌚)   | 56 minutes |
+| **Lines Added** (➕)   | 2685                                          |
+| **Lines Removed** (➖) | 91                                        |
+| **Net Change** (↕)    | 2594                |
+| **Active Time** (⌚)   | 59 minutes |
 
 
 ## Modified Files
@@ -25,8 +25,8 @@
 - **AddYouTubeLink.js** (+202, -0)
 - **EditYouTubeLink.js** (+202, -0)
 - **package.json** (+49, -5)
-- **firebase.js** (+28, -4)
-- **App.js** (+80, -0)
+- **firebase.js** (+51, -27)
+- **App.js** (+145, -59)
 - **HomeScreen.js** (+193, -0)
 - **VideoCard.js** (+230, -0)
 - **SearchBar.js** (+65, -0)
@@ -46,7 +46,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 2434
+".js" : 2604
 ".rules" : 21
 ".json" : 93
 ".html" : 23
@@ -59,8 +59,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "20h" : 55
-"21h" : 5
+"21h" : 9
 ```
 
 
-> **Last Updated:** 9/1/2025, 9:33:58 PM
+> **Last Updated:** 9/1/2025, 9:43:58 PM

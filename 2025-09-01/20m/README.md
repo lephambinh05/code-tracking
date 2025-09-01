@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3264                                          |
-| **Lines Removed** (➖) | 889                                        |
-| **Net Change** (↕)    | 2375                |
-| **Active Time** (⌚)   | 70 minutes |
+| **Lines Added** (➕)   | 4013                                          |
+| **Lines Removed** (➖) | 960                                        |
+| **Net Change** (↕)    | 3053                |
+| **Active Time** (⌚)   | 81 minutes |
 
 
 ## Modified Files
@@ -38,6 +38,12 @@
 - **metro.config.js** (+12, -0)
 - **babel.config.js** (+4, -0)
 - **start-project.bat** (+36, -0)
+- **pubspec.yaml** (+110, -0)
+- **main.dart** (+123, -71)
+- **home_screen.dart** (+182, -0)
+- **youtube_link.dart** (+64, -0)
+- **firebase_service.dart** (+137, -0)
+- **video_card.dart** (+133, -0)
 
 ## Visualizations
 
@@ -51,6 +57,8 @@ title Lines changed by file type
 ".json" : 104
 ".html" : 23
 ".bat" : 36
+".yaml" : 110
+".dart" : 710
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -60,7 +68,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "20h" : 55
 "21h" : 20
+"22h" : 12
 ```
 
 
-> **Last Updated:** 9/1/2025, 9:48:58 PM
+> **Last Updated:** 9/1/2025, 10:23:58 PM

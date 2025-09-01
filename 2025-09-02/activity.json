@@ -3,8 +3,8 @@
   "projects": {
     "20m": {
       "totalLinesAdded": 287,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 21,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 22,
       "files": {
         "f:\\20m\\youtube_link_manager\\android\\app\\google-services.json": [
           {
@@ -276,6 +276,36 @@
             },
             "duration": 1,
             "language": "yaml"
+          },
+          {
+            "timestamp": "2025-09-01T17:39:00.979Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\lib\\screens\\login_screen.dart": [
+          {
+            "timestamp": "2025-09-01T17:39:26.351Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\lib\\screens\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ]
       },

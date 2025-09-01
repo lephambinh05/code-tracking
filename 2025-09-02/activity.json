@@ -1,0 +1,253 @@
+{
+  "date": "2025-09-02",
+  "projects": {
+    "20m": {
+      "totalLinesAdded": 274,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 13,
+      "files": {
+        "f:\\20m\\youtube_link_manager\\android\\app\\google-services.json": [
+          {
+            "timestamp": "2025-09-01T17:02:02.775Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\android\\app\\google-services.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-01T17:02:03.000Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\android\\app\\google-services.json",
+            "fileType": ".json",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\android\\build.gradle.kts": [
+          {
+            "timestamp": "2025-09-01T17:02:20.864Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\android\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-09-01T17:02:21.117Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\android\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kts"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\android\\app\\build.gradle.kts": [
+          {
+            "timestamp": "2025-09-01T17:02:35.759Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\android\\app\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kts"
+          },
+          {
+            "timestamp": "2025-09-01T17:02:35.929Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\android\\app\\build.gradle.kts",
+            "fileType": ".kts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "kts"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\ios\\Runner\\GoogleService-Info.plist": [
+          {
+            "timestamp": "2025-09-01T17:02:55.711Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\ios\\Runner\\GoogleService-Info.plist",
+            "fileType": ".plist",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "plist"
+          },
+          {
+            "timestamp": "2025-09-01T17:02:55.934Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\ios\\Runner\\GoogleService-Info.plist",
+            "fileType": ".plist",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "plist"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\ios\\Runner\\Info.plist": [
+          {
+            "timestamp": "2025-09-01T17:03:17.010Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\ios\\Runner\\Info.plist",
+            "fileType": ".plist",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "plist"
+          },
+          {
+            "timestamp": "2025-09-01T17:03:17.201Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\ios\\Runner\\Info.plist",
+            "fileType": ".plist",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "plist"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\ios\\Runner\\AppDelegate.swift": [
+          {
+            "timestamp": "2025-09-01T17:03:29.374Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\ios\\Runner\\AppDelegate.swift",
+            "fileType": ".swift",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "swift"
+          },
+          {
+            "timestamp": "2025-09-01T17:03:30.015Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\ios\\Runner\\AppDelegate.swift",
+            "fileType": ".swift",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "swift"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\ios\\Podfile": [
+          {
+            "timestamp": "2025-09-01T17:03:48.906Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\ios\\Podfile",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-09-01T17:03:49.064Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\ios\\Podfile",
+            "fileType": "unknown",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1,
+        "kts": 4,
+        "plist": 4,
+        "swift": 2,
+        "unknown": 2
+      },
+      "changeFrequency": {
+        "0": 13
+      },
+      "topFiles": [
+        "f:\\20m\\youtube_link_manager\\android\\app\\google-services.json",
+        "f:\\20m\\youtube_link_manager\\android\\build.gradle.kts",
+        "f:\\20m\\youtube_link_manager\\android\\app\\build.gradle.kts",
+        "f:\\20m\\youtube_link_manager\\ios\\Runner\\GoogleService-Info.plist",
+        "f:\\20m\\youtube_link_manager\\ios\\Runner\\Info.plist"
+      ],
+      "averageChangeSize": 19.571428571428573
+    }
+  },
+  "totalActiveTime": 13,
+  "totalProjects": 1,
+  "totalFiles": 7,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "kts",
+    "plist",
+    "swift",
+    "unknown",
+    "json"
+  ]
+}

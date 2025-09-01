@@ -1,0 +1,189 @@
+{
+  "date": "2025-09-01",
+  "projects": {
+    "20m": {
+      "totalLinesAdded": 177,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 9,
+      "files": {
+        "f:\\20m\\firebase-config\\firebase.js": [
+          {
+            "timestamp": "2025-09-01T13:31:49.230Z",
+            "fileName": "f:\\20m\\firebase-config\\firebase.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:31:49.372Z",
+            "fileName": "f:\\20m\\firebase-config\\firebase.js",
+            "fileType": ".js",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\firebase-config\\firestore.rules": [
+          {
+            "timestamp": "2025-09-01T13:32:12.090Z",
+            "fileName": "f:\\20m\\firebase-config\\firestore.rules",
+            "fileType": ".rules",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rules"
+          },
+          {
+            "timestamp": "2025-09-01T13:32:12.197Z",
+            "fileName": "f:\\20m\\firebase-config\\firestore.rules",
+            "fileType": ".rules",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rules"
+          }
+        ],
+        "f:\\20m\\web-admin\\package.json": [
+          {
+            "timestamp": "2025-09-01T13:32:37.504Z",
+            "fileName": "f:\\20m\\web-admin\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-01T13:32:37.634Z",
+            "fileName": "f:\\20m\\web-admin\\package.json",
+            "fileType": ".json",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\20m\\web-admin\\src\\firebase.js": [
+          {
+            "timestamp": "2025-09-01T13:32:54.965Z",
+            "fileName": "f:\\20m\\web-admin\\src\\firebase.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:32:55.184Z",
+            "fileName": "f:\\20m\\web-admin\\src\\firebase.js",
+            "fileType": ".js",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\web-admin\\src\\App.js": [
+          {
+            "timestamp": "2025-09-01T13:33:46.621Z",
+            "fileName": "f:\\20m\\web-admin\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:33:46.851Z",
+            "fileName": "f:\\20m\\web-admin\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 5,
+        "rules": 2,
+        "json": 2
+      },
+      "changeFrequency": {
+        "20": 9
+      },
+      "topFiles": [
+        "f:\\20m\\firebase-config\\firebase.js",
+        "f:\\20m\\firebase-config\\firestore.rules",
+        "f:\\20m\\web-admin\\package.json",
+        "f:\\20m\\web-admin\\src\\firebase.js",
+        "f:\\20m\\web-admin\\src\\App.js"
+      ],
+      "averageChangeSize": 17.7
+    }
+  },
+  "totalActiveTime": 9,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "rules",
+    "json"
+  ]
+}

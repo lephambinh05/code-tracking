@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2685                                          |
-| **Lines Removed** (➖) | 91                                        |
-| **Net Change** (↕)    | 2594                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Lines Added** (➕)   | 3264                                          |
+| **Lines Removed** (➖) | 889                                        |
+| **Net Change** (↕)    | 2375                |
+| **Active Time** (⌚)   | 70 minutes |
 
 
 ## Modified Files
@@ -24,20 +24,20 @@
 - **Dashboard.js** (+220, -0)
 - **AddYouTubeLink.js** (+202, -0)
 - **EditYouTubeLink.js** (+202, -0)
-- **package.json** (+49, -5)
+- **package.json** (+49, -16)
 - **firebase.js** (+51, -27)
-- **App.js** (+145, -59)
-- **HomeScreen.js** (+193, -0)
+- **App.js** (+146, -59)
+- **HomeScreen.js** (+453, -192)
 - **VideoCard.js** (+230, -0)
 - **SearchBar.js** (+65, -0)
 - **CategoryFilter.js** (+91, -0)
-- **VideoDetailScreen.js** (+343, -0)
-- **FavoritesScreen.js** (+99, -0)
-- **ProfileScreen.js** (+156, -0)
+- **VideoDetailScreen.js** (+495, -342)
+- **FavoritesScreen.js** (+142, -98)
+- **ProfileScreen.js** (+278, -155)
 - **index.js** (+6, -0)
 - **metro.config.js** (+12, -0)
 - **babel.config.js** (+4, -0)
-- **start-project.bat** (+35, -0)
+- **start-project.bat** (+36, -0)
 
 ## Visualizations
 
@@ -46,11 +46,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 2604
+".js" : 3969
 ".rules" : 21
-".json" : 93
+".json" : 104
 ".html" : 23
-".bat" : 35
+".bat" : 36
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -59,8 +59,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "20h" : 55
-"21h" : 9
+"21h" : 20
 ```
 
 
-> **Last Updated:** 9/1/2025, 9:43:58 PM
+> **Last Updated:** 9/1/2025, 9:48:58 PM

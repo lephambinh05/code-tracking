@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1878                                          |
-| **Lines Removed** (➖) | 0                                        |
+| **Lines Added** (➕)   | 1887                                          |
+| **Lines Removed** (➖) | 9                                        |
 | **Net Change** (↕)    | 1878                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Active Time** (⌚)   | 47 minutes |
 
 
 ## Modified Files
 - **pubspec.yaml** (+27, -0)
 - **main.dart** (+63, -0)
-- **firebase_options.dart** (+93, -0)
+- **firebase_options.dart** (+102, -9)
 - **youtube_link.dart** (+71, -0)
 - **login_screen.dart** (+200, -0)
 - **admin_dashboard.dart** (+270, -0)
@@ -41,7 +41,7 @@
 pie showData
 title Lines changed by file type
 ".yaml" : 53
-".dart" : 1411
+".dart" : 1429
 ".gradle" : 104
 "unknown" : 137
 ".html" : 100
@@ -54,8 +54,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"01h" : 42
+"01h" : 49
 ```
 
 
-> **Last Updated:** 9/2/2025, 1:20:34 AM
+> **Last Updated:** 9/2/2025, 1:25:34 AM

@@ -387,6 +387,448 @@
         "f:\\20m\\youtube_link_manager\\ios\\Runner\\Info.plist"
       ],
       "averageChangeSize": 19.571428571428573
+    },
+    "quanLyLink": {
+      "totalLinesAdded": 1464,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 27,
+      "files": {
+        "f:\\quanLyLink\\admin_web\\pubspec.yaml": [
+          {
+            "timestamp": "2025-09-01T18:11:01.087Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-09-01T18:11:01.308Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\main.dart": [
+          {
+            "timestamp": "2025-09-01T18:11:13.820Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:11:14.089Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\firebase_options.dart": [
+          {
+            "timestamp": "2025-09-01T18:11:33.798Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:11:34.072Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\models\\youtube_link.dart": [
+          {
+            "timestamp": "2025-09-01T18:11:48.736Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\models\\youtube_link.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:11:49.007Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\models\\youtube_link.dart",
+            "fileType": ".dart",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\screens\\login_screen.dart": [
+          {
+            "timestamp": "2025-09-01T18:12:16.509Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\screens\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:12:16.643Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\screens\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 199,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\screens\\admin_dashboard.dart": [
+          {
+            "timestamp": "2025-09-01T18:12:49.020Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\screens\\admin_dashboard.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:12:49.113Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\screens\\admin_dashboard.dart",
+            "fileType": ".dart",
+            "linesAdded": 269,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\widgets\\link_form_dialog.dart": [
+          {
+            "timestamp": "2025-09-01T18:13:15.790Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\widgets\\link_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:13:16.016Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\widgets\\link_form_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 165,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\widgets\\confirm_dialog.dart": [
+          {
+            "timestamp": "2025-09-01T18:13:26.767Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\widgets\\confirm_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:13:27.009Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\widgets\\confirm_dialog.dart",
+            "fileType": ".dart",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\pubspec.yaml": [
+          {
+            "timestamp": "2025-09-01T18:13:38.015Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-09-01T18:13:38.237Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\lib\\main.dart": [
+          {
+            "timestamp": "2025-09-01T18:13:49.287Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:13:49.502Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\lib\\firebase_options.dart": [
+          {
+            "timestamp": "2025-09-01T18:14:09.961Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:14:10.131Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\lib\\models\\youtube_link.dart": [
+          {
+            "timestamp": "2025-09-01T18:14:27.513Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\models\\youtube_link.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:14:27.741Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\models\\youtube_link.dart",
+            "fileType": ".dart",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\lib\\screens\\home_screen.dart": [
+          {
+            "timestamp": "2025-09-01T18:14:49.079Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:14:49.272Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 160,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\lib\\widgets\\link_card.dart": [
+          {
+            "timestamp": "2025-09-01T18:15:10.145Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\widgets\\link_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T18:15:10.375Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\widgets\\link_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 128,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 3,
+        "dart": 24
+      },
+      "changeFrequency": {
+        "1": 27
+      },
+      "topFiles": [
+        "f:\\quanLyLink\\admin_web\\pubspec.yaml",
+        "f:\\quanLyLink\\admin_web\\lib\\main.dart",
+        "f:\\quanLyLink\\admin_web\\lib\\firebase_options.dart",
+        "f:\\quanLyLink\\admin_web\\lib\\models\\youtube_link.dart",
+        "f:\\quanLyLink\\admin_web\\lib\\screens\\login_screen.dart"
+      ],
+      "averageChangeSize": 52.285714285714285
     }
   },
   "totalActiveTime": 13,

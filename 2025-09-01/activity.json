@@ -2,9 +2,9 @@
   "date": "2025-09-01",
   "projects": {
     "20m": {
-      "totalLinesAdded": 4013,
+      "totalLinesAdded": 4588,
       "totalLinesRemoved": 960,
-      "totalActiveTime": 81,
+      "totalActiveTime": 88,
       "files": {
         "f:\\20m\\firebase-config\\firebase.js": [
           {
@@ -1280,6 +1280,96 @@
             "fileName": "f:\\20m\\youtube_link_manager\\lib\\widgets\\video_card.dart",
             "fileType": ".dart",
             "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\lib\\screens\\login_screen.dart": [
+          {
+            "timestamp": "2025-09-01T15:24:24.816Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\lib\\screens\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T15:24:24.981Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\lib\\screens\\login_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 174,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\lib\\screens\\admin_dashboard_screen.dart": [
+          {
+            "timestamp": "2025-09-01T15:25:25.119Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\lib\\screens\\admin_dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T15:25:25.286Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\lib\\screens\\admin_dashboard_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 324,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\lib\\firebase_options.dart": [
+          {
+            "timestamp": "2025-09-01T15:25:56.359Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T15:25:56.539Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\lib\\firebase_options.dart",
+            "fileType": ".dart",
+            "linesAdded": 74,
             "linesRemoved": 0,
             "projectName": "20m",
             "content": {

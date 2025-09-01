@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4013                                          |
+| **Lines Added** (➕)   | 4588                                          |
 | **Lines Removed** (➖) | 960                                        |
-| **Net Change** (↕)    | 3053                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Net Change** (↕)    | 3628                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
@@ -44,6 +44,9 @@
 - **youtube_link.dart** (+64, -0)
 - **firebase_service.dart** (+137, -0)
 - **video_card.dart** (+133, -0)
+- **login_screen.dart** (+175, -0)
+- **admin_dashboard_screen.dart** (+325, -0)
+- **firebase_options.dart** (+75, -0)
 
 ## Visualizations
 
@@ -58,7 +61,7 @@ title Lines changed by file type
 ".html" : 23
 ".bat" : 36
 ".yaml" : 110
-".dart" : 710
+".dart" : 1285
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -68,8 +71,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "20h" : 55
 "21h" : 20
-"22h" : 12
+"22h" : 18
 ```
 
 
-> **Last Updated:** 9/1/2025, 10:23:58 PM
+> **Last Updated:** 9/1/2025, 10:28:58 PM

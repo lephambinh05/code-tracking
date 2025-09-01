@@ -2,9 +2,9 @@
   "date": "2025-09-01",
   "projects": {
     "20m": {
-      "totalLinesAdded": 177,
+      "totalLinesAdded": 1542,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 33,
       "files": {
         "f:\\20m\\firebase-config\\firebase.js": [
           {
@@ -146,6 +146,366 @@
             "fileName": "f:\\20m\\web-admin\\src\\App.js",
             "fileType": ".js",
             "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\web-admin\\src\\index.js": [
+          {
+            "timestamp": "2025-09-01T13:34:08.158Z",
+            "fileName": "f:\\20m\\web-admin\\src\\index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:34:08.311Z",
+            "fileName": "f:\\20m\\web-admin\\src\\index.js",
+            "fileType": ".js",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\web-admin\\public\\index.html": [
+          {
+            "timestamp": "2025-09-01T13:34:31.387Z",
+            "fileName": "f:\\20m\\web-admin\\public\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T13:34:31.659Z",
+            "fileName": "f:\\20m\\web-admin\\public\\index.html",
+            "fileType": ".html",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "f:\\20m\\web-admin\\src\\contexts\\AuthContext.js": [
+          {
+            "timestamp": "2025-09-01T13:35:01.916Z",
+            "fileName": "f:\\20m\\web-admin\\src\\contexts\\AuthContext.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:35:02.153Z",
+            "fileName": "f:\\20m\\web-admin\\src\\contexts\\AuthContext.js",
+            "fileType": ".js",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\web-admin\\src\\components\\Login.js": [
+          {
+            "timestamp": "2025-09-01T13:35:30.670Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\Login.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:35:31.217Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\Login.js",
+            "fileType": ".js",
+            "linesAdded": 124,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\web-admin\\src\\components\\Layout.js": [
+          {
+            "timestamp": "2025-09-01T13:36:04.250Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\Layout.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:36:04.407Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\Layout.js",
+            "fileType": ".js",
+            "linesAdded": 150,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\web-admin\\src\\components\\Dashboard.js": [
+          {
+            "timestamp": "2025-09-01T13:36:36.729Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\Dashboard.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:36:36.953Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\Dashboard.js",
+            "fileType": ".js",
+            "linesAdded": 219,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\web-admin\\src\\components\\AddYouTubeLink.js": [
+          {
+            "timestamp": "2025-09-01T13:37:00.677Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\AddYouTubeLink.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:37:00.827Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\AddYouTubeLink.js",
+            "fileType": ".js",
+            "linesAdded": 201,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\web-admin\\src\\components\\EditYouTubeLink.js": [
+          {
+            "timestamp": "2025-09-01T13:37:23.572Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\EditYouTubeLink.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:37:23.697Z",
+            "fileName": "f:\\20m\\web-admin\\src\\components\\EditYouTubeLink.js",
+            "fileType": ".js",
+            "linesAdded": 201,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\mobile-app\\package.json": [
+          {
+            "timestamp": "2025-09-01T13:37:37.850Z",
+            "fileName": "f:\\20m\\mobile-app\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-01T13:37:38.059Z",
+            "fileName": "f:\\20m\\mobile-app\\package.json",
+            "fileType": ".json",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\20m\\mobile-app\\src\\firebase.js": [
+          {
+            "timestamp": "2025-09-01T13:37:49.432Z",
+            "fileName": "f:\\20m\\mobile-app\\src\\firebase.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:37:49.654Z",
+            "fileName": "f:\\20m\\mobile-app\\src\\firebase.js",
+            "fileType": ".js",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\mobile-app\\App.js": [
+          {
+            "timestamp": "2025-09-01T13:38:05.045Z",
+            "fileName": "f:\\20m\\mobile-app\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:38:05.226Z",
+            "fileName": "f:\\20m\\mobile-app\\App.js",
+            "fileType": ".js",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\20m\\mobile-app\\src\\screens\\HomeScreen.js": [
+          {
+            "timestamp": "2025-09-01T13:38:29.340Z",
+            "fileName": "f:\\20m\\mobile-app\\src\\screens\\HomeScreen.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T13:38:29.493Z",
+            "fileName": "f:\\20m\\mobile-app\\src\\screens\\HomeScreen.js",
+            "fileType": ".js",
+            "linesAdded": 192,
             "linesRemoved": 0,
             "projectName": "20m",
             "content": {

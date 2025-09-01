@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 287                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 283                |
-| **Active Time** (⌚)   | 22 minutes |
+| **Lines Added** (➕)   | 315                                          |
+| **Lines Removed** (➖) | 20                                        |
+| **Net Change** (↕)    | 295                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
@@ -19,9 +19,10 @@
 - **AppDelegate.swift** (+16, -0)
 - **Podfile** (+52, -0)
 - **firebase_service.dart** (+6, -0)
-- **main.dart** (+6, -0)
-- **pubspec.yaml** (+1, -2)
+- **main.dart** (+6, -12)
+- **pubspec.yaml** (+1, -6)
 - **login_screen.dart** (+0, -2)
+- **home_screen.dart** (+28, -0)
 
 ## Visualizations
 
@@ -35,8 +36,8 @@ title Lines changed by file type
 ".plist" : 92
 ".swift" : 16
 "unknown" : 52
-".dart" : 14
-".yaml" : 3
+".dart" : 54
+".yaml" : 7
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +45,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 20
+"00h" : 23
 ```
 
 
-> **Last Updated:** 9/2/2025, 12:43:58 AM
+> **Last Updated:** 9/2/2025, 12:58:58 AM

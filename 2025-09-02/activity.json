@@ -2,9 +2,9 @@
   "date": "2025-09-02",
   "projects": {
     "20m": {
-      "totalLinesAdded": 287,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 315,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 24,
       "files": {
         "f:\\20m\\youtube_link_manager\\android\\app\\google-services.json": [
           {
@@ -246,6 +246,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-01T17:58:01.936Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "f:\\20m\\youtube_link_manager\\pubspec.yaml": [
@@ -290,6 +304,20 @@
             },
             "duration": 0,
             "language": "yaml"
+          },
+          {
+            "timestamp": "2025-09-01T17:57:46.923Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
           }
         ],
         "f:\\20m\\youtube_link_manager\\lib\\screens\\login_screen.dart": [
@@ -299,6 +327,22 @@
             "fileType": ".dart",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "20m",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\20m\\youtube_link_manager\\lib\\screens\\home_screen.dart": [
+          {
+            "timestamp": "2025-09-01T17:58:37.776Z",
+            "fileName": "f:\\20m\\youtube_link_manager\\lib\\screens\\home_screen.dart",
+            "fileType": ".dart",
+            "linesAdded": 28,
+            "linesRemoved": 0,
             "projectName": "20m",
             "content": {
               "added": [],

@@ -389,9 +389,9 @@
       "averageChangeSize": 19.571428571428573
     },
     "quanLyLink": {
-      "totalLinesAdded": 1464,
+      "totalLinesAdded": 1878,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 27,
+      "totalActiveTime": 41,
       "files": {
         "f:\\quanLyLink\\admin_web\\pubspec.yaml": [
           {
@@ -811,6 +811,216 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle": [
+          {
+            "timestamp": "2025-09-01T18:15:52.301Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-09-01T18:15:52.604Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\android\\build.gradle": [
+          {
+            "timestamp": "2025-09-01T18:16:02.663Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-09-01T18:16:02.936Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\ios\\Podfile": [
+          {
+            "timestamp": "2025-09-01T18:16:14.742Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\ios\\Podfile",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-09-01T18:16:14.955Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\ios\\Podfile",
+            "fileType": "unknown",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\index.html": [
+          {
+            "timestamp": "2025-09-01T18:16:31.375Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T18:16:31.628Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\index.html",
+            "fileType": ".html",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "f:\\quanLyLink\\.gitignore": [
+          {
+            "timestamp": "2025-09-01T18:17:06.442Z",
+            "fileName": "f:\\quanLyLink\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-09-01T18:17:06.665Z",
+            "fileName": "f:\\quanLyLink\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\manifest.json": [
+          {
+            "timestamp": "2025-09-01T18:17:18.249Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\manifest.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-01T18:17:18.544Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\manifest.json",
+            "fileType": ".json",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\android\\app\\src\\main\\AndroidManifest.xml": [
+          {
+            "timestamp": "2025-09-01T18:17:31.575Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-09-01T18:17:31.785Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
           }
         ]
       },

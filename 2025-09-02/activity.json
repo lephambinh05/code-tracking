@@ -389,7 +389,7 @@
       "averageChangeSize": 19.571428571428573
     },
     "quanLyLink": {
-      "totalLinesAdded": 3154,
+      "totalLinesAdded": 3160,
       "totalLinesRemoved": 32,
       "totalActiveTime": 66,
       "files": {
@@ -1449,6 +1449,22 @@
             },
             "duration": 1,
             "language": "gradle"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\android\\app\\src\\main\\kotlin\\com\\quanlylink20m\\mobile_app\\MainActivity.kt": [
+          {
+            "timestamp": "2025-09-02T09:58:57.092Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\app\\src\\main\\kotlin\\com\\quanlylink20m\\mobile_app\\MainActivity.kt",
+            "fileType": ".kt",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "kt"
           }
         ]
       },

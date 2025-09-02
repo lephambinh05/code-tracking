@@ -3,8 +3,8 @@
   "projects": {
     "quytuthien.vn": {
       "totalLinesAdded": 2809,
-      "totalLinesRemoved": 116,
-      "totalActiveTime": 55,
+      "totalLinesRemoved": 203,
+      "totalActiveTime": 60,
       "files": {
         "f:\\quytuthien.vn\\src\\layouts\\MainLayout.js": [
           {
@@ -412,6 +412,20 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-09-02T18:29:29.347Z",
+            "fileName": "f:\\quytuthien.vn\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ],
         "f:\\quytuthien.vn\\src\\components\\Button.js": [
@@ -472,6 +486,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T18:29:11.323Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Card.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "f:\\quytuthien.vn\\src\\components\\Section.js": [
@@ -495,6 +523,20 @@
             "fileType": ".js",
             "linesAdded": 31,
             "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T18:29:13.744Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Section.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 31,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],
@@ -599,6 +641,20 @@
             "fileType": ".js",
             "linesAdded": 29,
             "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T18:29:16.261Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\TailwindTest.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 29,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],

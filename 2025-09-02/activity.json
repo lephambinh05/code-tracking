@@ -1139,9 +1139,9 @@
       "averageChangeSize": 52.285714285714285
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 1457,
-      "totalLinesRemoved": 729,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 2183,
+      "totalLinesRemoved": 1455,
+      "totalActiveTime": 3,
       "files": {
         "f:\\quytuthien.vn\\resources\\views\\donate.blade.php": [
           {
@@ -1198,6 +1198,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T06:34:54.359Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\donate.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 726,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T06:34:57.722Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\donate.blade.php",
+            "fileType": ".php",
+            "linesAdded": 726,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]

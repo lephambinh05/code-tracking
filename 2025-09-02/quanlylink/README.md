@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4304                                          |
-| **Lines Removed** (➖) | 96                                        |
+| **Lines Added** (➕)   | 4305                                          |
+| **Lines Removed** (➖) | 97                                        |
 | **Net Change** (↕)    | 4208                |
-| **Active Time** (⌚)   | 82 minutes |
+| **Active Time** (⌚)   | 86 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **firebase_options.dart** (+102, -9)
 - **youtube_link.dart** (+71, -0)
 - **login_screen.dart** (+609, -0)
-- **admin_dashboard.dart** (+856, -4)
+- **admin_dashboard.dart** (+857, -4)
 - **link_form_dialog.dart** (+331, -0)
 - **confirm_dialog.dart** (+39, -0)
 - **pubspec.yaml** (+26, -0)
@@ -37,7 +37,7 @@
 - **gradle.properties** (+6, -0)
 - **settings.gradle** (+50, -22)
 - **MainActivity.kt** (+6, -0)
-- **admin_settings.dart** (+175, -0)
+- **admin_settings.dart** (+175, -1)
 
 ## Visualizations
 
@@ -47,7 +47,7 @@
 pie showData
 title Lines changed by file type
 ".yaml" : 53
-".dart" : 3636
+".dart" : 3638
 ".gradle" : 282
 "unknown" : 137
 ".html" : 201
@@ -68,8 +68,8 @@ title Coding activity by hour (count of changes)
 "15h" : 13
 "16h" : 1
 "17h" : 5
-"18h" : 9
+"18h" : 11
 ```
 
 
-> **Last Updated:** 9/2/2025, 6:33:53 PM
+> **Last Updated:** 9/2/2025, 6:38:53 PM

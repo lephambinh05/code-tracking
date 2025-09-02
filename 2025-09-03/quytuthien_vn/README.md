@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1145                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 1141                |
+| **Lines Removed** (➖) | 39                                        |
+| **Net Change** (↕)    | 1106                |
 | **Active Time** (⌚)   | 28 minutes |
 
 
@@ -14,7 +14,7 @@
 - **MainLayout.js** (+18, -0)
 - **Header.js** (+93, -0)
 - **Footer.js** (+81, -0)
-- **Home.js** (+159, -0)
+- **Home.js** (+159, -35)
 - **About.js** (+188, -0)
 - **App.js** (+80, -4)
 - **tailwind.config.js** (+36, -0)
@@ -33,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1131
+".js" : 1166
 ".css" : 18
 ```
 
@@ -43,8 +43,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 27
-"01h" : 3
+"01h" : 4
 ```
 
 
-> **Last Updated:** 9/3/2025, 1:09:11 AM
+> **Last Updated:** 9/3/2025, 1:14:11 AM

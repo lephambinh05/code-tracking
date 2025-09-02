@@ -3,7 +3,7 @@
   "projects": {
     "quytuthien.vn": {
       "totalLinesAdded": 1145,
-      "totalLinesRemoved": 4,
+      "totalLinesRemoved": 39,
       "totalActiveTime": 28,
       "files": {
         "f:\\quytuthien.vn\\src\\layouts\\MainLayout.js": [
@@ -137,6 +137,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T18:13:41.246Z",
+            "fileName": "f:\\quytuthien.vn\\src\\pages\\Home.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

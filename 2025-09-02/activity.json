@@ -389,7 +389,7 @@
       "averageChangeSize": 19.571428571428573
     },
     "quanLyLink": {
-      "totalLinesAdded": 4461,
+      "totalLinesAdded": 4489,
       "totalLinesRemoved": 142,
       "totalActiveTime": 90,
       "files": {
@@ -1734,6 +1734,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-02T12:03:20.453Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\widgets\\admin_shell.dart",
+            "fileType": ".dart",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "dart"
           }
         ]

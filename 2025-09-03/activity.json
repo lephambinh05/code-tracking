@@ -2,9 +2,9 @@
   "date": "2025-09-03",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 2003,
-      "totalLinesRemoved": 82,
-      "totalActiveTime": 47,
+      "totalLinesAdded": 2809,
+      "totalLinesRemoved": 116,
+      "totalActiveTime": 55,
       "files": {
         "f:\\quytuthien.vn\\src\\layouts\\MainLayout.js": [
           {
@@ -64,6 +64,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T18:25:41.198Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Header.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "f:\\quytuthien.vn\\src\\components\\Footer.js": [
@@ -101,6 +115,20 @@
             "fileType": ".js",
             "linesAdded": 34,
             "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T18:26:09.050Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Footer.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 25,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],
@@ -245,6 +273,20 @@
             "fileType": ".js",
             "linesAdded": 187,
             "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T18:26:42.076Z",
+            "fileName": "f:\\quytuthien.vn\\src\\pages\\About.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],
@@ -490,6 +532,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T18:27:30.299Z",
+            "fileName": "f:\\quytuthien.vn\\src\\pages\\Donate.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "f:\\quytuthien.vn\\src\\components\\index.js": [
@@ -632,6 +688,66 @@
             "fileName": "f:\\quytuthien.vn\\src\\styles\\Footer.css",
             "fileType": ".css",
             "linesAdded": 195,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\styles\\About.css": [
+          {
+            "timestamp": "2025-09-02T18:24:34.945Z",
+            "fileName": "f:\\quytuthien.vn\\src\\styles\\About.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-02T18:24:35.089Z",
+            "fileName": "f:\\quytuthien.vn\\src\\styles\\About.css",
+            "fileType": ".css",
+            "linesAdded": 361,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\styles\\Donate.css": [
+          {
+            "timestamp": "2025-09-02T18:25:21.870Z",
+            "fileName": "f:\\quytuthien.vn\\src\\styles\\Donate.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-02T18:25:22.135Z",
+            "fileName": "f:\\quytuthien.vn\\src\\styles\\Donate.css",
+            "fileType": ".css",
+            "linesAdded": 440,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

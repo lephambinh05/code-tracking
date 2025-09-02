@@ -389,9 +389,9 @@
       "averageChangeSize": 19.571428571428573
     },
     "quanLyLink": {
-      "totalLinesAdded": 4608,
+      "totalLinesAdded": 4898,
       "totalLinesRemoved": 142,
-      "totalActiveTime": 91,
+      "totalActiveTime": 93,
       "files": {
         "f:\\quanLyLink\\admin_web\\pubspec.yaml": [
           {
@@ -983,6 +983,20 @@
             },
             "duration": 1,
             "language": "yaml"
+          },
+          {
+            "timestamp": "2025-09-02T14:10:32.715Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
           }
         ],
         "f:\\quanLyLink\\mobile_app\\lib\\main.dart": [
@@ -1171,6 +1185,20 @@
             },
             "duration": 1,
             "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-02T14:11:19.415Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\models\\youtube_link.dart",
+            "fileType": ".dart",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ],
         "f:\\quanLyLink\\mobile_app\\lib\\screens\\home_screen.dart": [
@@ -1237,6 +1265,20 @@
             "fileName": "f:\\quanLyLink\\mobile_app\\lib\\widgets\\link_card.dart",
             "fileType": ".dart",
             "linesAdded": 128,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-09-02T14:11:47.757Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\lib\\widgets\\link_card.dart",
+            "fileType": ".dart",
+            "linesAdded": 175,
             "linesRemoved": 0,
             "projectName": "quanLyLink",
             "content": {

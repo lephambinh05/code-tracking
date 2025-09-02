@@ -1853,9 +1853,9 @@
       "averageChangeSize": 52.285714285714285
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 4348,
-      "totalLinesRemoved": 2518,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 4881,
+      "totalLinesRemoved": 2839,
+      "totalActiveTime": 48,
       "files": {
         "f:\\quytuthien.vn\\resources\\views\\donate.blade.php": [
           {
@@ -2247,6 +2247,34 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:24:23.861Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\bank-accounts.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 97,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:24:24.066Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\bank-accounts.blade.php",
+            "fileType": ".php",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\components\\home\\transactions.blade.php": [
@@ -2269,6 +2297,34 @@
             "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\transactions.blade.php",
             "fileType": ".php",
             "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:25:26.652Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\transactions.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 107,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:25:28.371Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\transactions.blade.php",
+            "fileType": ".php",
+            "linesAdded": 118,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {
@@ -2307,6 +2363,34 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:26:01.889Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\about.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:26:03.869Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\about.blade.php",
+            "fileType": ".php",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\components\\home\\info-cards.blade.php": [
@@ -2329,6 +2413,34 @@
             "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\info-cards.blade.php",
             "fileType": ".php",
             "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:26:37.569Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\info-cards.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:26:39.009Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\info-cards.blade.php",
+            "fileType": ".php",
+            "linesAdded": 49,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {
@@ -2367,6 +2479,34 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:27:13.561Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\activities.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:27:15.333Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\activities.blade.php",
+            "fileType": ".php",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\components\\home\\slogan.blade.php": [
@@ -2397,6 +2537,34 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:27:45.257Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\slogan.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:27:46.137Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\slogan.blade.php",
+            "fileType": ".php",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "f:\\quytuthien.vn\\resources\\views\\components\\home\\news.blade.php": [
@@ -2419,6 +2587,34 @@
             "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\news.blade.php",
             "fileType": ".php",
             "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:28:29.973Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\news.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T16:28:32.237Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\components\\home\\news.blade.php",
+            "fileType": ".php",
+            "linesAdded": 88,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

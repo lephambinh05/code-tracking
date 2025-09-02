@@ -1137,6 +1137,67 @@
         "f:\\quanLyLink\\admin_web\\lib\\screens\\login_screen.dart"
       ],
       "averageChangeSize": 52.285714285714285
+    },
+    "quytuthien.vn": {
+      "totalLinesAdded": 730,
+      "totalLinesRemoved": 729,
+      "totalActiveTime": 2,
+      "files": {
+        "f:\\quytuthien.vn\\resources\\views\\donate.blade.php": [
+          {
+            "timestamp": "2025-09-02T06:20:27.392Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\donate.blade.php",
+            "fileType": ".php",
+            "linesAdded": 622,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T06:20:29.565Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\donate.blade.php",
+            "fileType": ".php",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T06:20:33.175Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\donate.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 729,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "f:\\quytuthien.vn\\resources\\views\\donate.blade.php"
+      ],
+      "averageChangeSize": 486.3333333333333
     }
   },
   "totalActiveTime": 13,

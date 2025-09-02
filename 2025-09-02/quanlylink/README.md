@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2646                                          |
+| **Lines Added** (➕)   | 2930                                          |
 | **Lines Removed** (➖) | 9                                        |
-| **Net Change** (↕)    | 2637                |
-| **Active Time** (⌚)   | 49 minutes |
+| **Net Change** (↕)    | 2921                |
+| **Active Time** (⌚)   | 51 minutes |
 
 
 ## Modified Files
 - **pubspec.yaml** (+27, -0)
-- **main.dart** (+63, -0)
+- **main.dart** (+144, -0)
 - **firebase_options.dart** (+102, -9)
 - **youtube_link.dart** (+71, -0)
 - **login_screen.dart** (+409, -0)
@@ -32,6 +32,7 @@
 - **.gitignore** (+90, -0)
 - **manifest.json** (+36, -0)
 - **AndroidManifest.xml** (+37, -0)
+- **admin_first_setup.dart** (+203, -0)
 
 ## Visualizations
 
@@ -41,7 +42,7 @@
 pie showData
 title Lines changed by file type
 ".yaml" : 53
-".dart" : 2087
+".dart" : 2371
 ".gradle" : 104
 "unknown" : 137
 ".html" : 201
@@ -55,8 +56,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "01h" : 49
-"13h" : 4
+"13h" : 7
 ```
 
 
-> **Last Updated:** 9/2/2025, 1:45:02 PM
+> **Last Updated:** 9/2/2025, 1:55:02 PM

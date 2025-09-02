@@ -1853,9 +1853,9 @@
       "averageChangeSize": 52.285714285714285
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 2183,
-      "totalLinesRemoved": 1455,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 3232,
+      "totalLinesRemoved": 1532,
+      "totalActiveTime": 6,
       "files": {
         "f:\\quytuthien.vn\\resources\\views\\donate.blade.php": [
           {
@@ -1941,6 +1941,66 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\resources\\views\\home.blade.php": [
+          {
+            "timestamp": "2025-09-02T15:34:17.053Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\home.blade.php",
+            "fileType": ".php",
+            "linesAdded": 469,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-02T15:34:17.071Z",
+            "fileName": "f:\\quytuthien.vn\\resources\\views\\home.blade.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 77,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "f:\\quytuthien.vn\\form.html": [
+          {
+            "timestamp": "2025-09-02T15:35:51.514Z",
+            "fileName": "f:\\quytuthien.vn\\form.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-02T15:35:52.545Z",
+            "fileName": "f:\\quytuthien.vn\\form.html",
+            "fileType": ".html",
+            "linesAdded": 579,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },

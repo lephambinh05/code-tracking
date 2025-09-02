@@ -2,9 +2,9 @@
   "date": "2025-09-03",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 665,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 1107,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 26,
       "files": {
         "f:\\quytuthien.vn\\src\\layouts\\MainLayout.js": [
           {
@@ -184,6 +184,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T17:47:08.002Z",
+            "fileName": "f:\\quytuthien.vn\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "f:\\quytuthien.vn\\tailwind.config.js": [
@@ -244,6 +258,156 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\components\\Button.js": [
+          {
+            "timestamp": "2025-09-02T17:45:26.885Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Button.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T17:45:27.056Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Button.js",
+            "fileType": ".js",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\components\\Card.js": [
+          {
+            "timestamp": "2025-09-02T17:45:37.192Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Card.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T17:45:37.518Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Card.js",
+            "fileType": ".js",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\components\\Section.js": [
+          {
+            "timestamp": "2025-09-02T17:45:52.987Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Section.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T17:45:53.158Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\Section.js",
+            "fileType": ".js",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\pages\\Donate.js": [
+          {
+            "timestamp": "2025-09-02T17:46:50.490Z",
+            "fileName": "f:\\quytuthien.vn\\src\\pages\\Donate.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T17:46:50.658Z",
+            "fileName": "f:\\quytuthien.vn\\src\\pages\\Donate.js",
+            "fileType": ".js",
+            "linesAdded": 296,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\components\\index.js": [
+          {
+            "timestamp": "2025-09-02T17:47:19.111Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T17:47:19.367Z",
+            "fileName": "f:\\quytuthien.vn\\src\\components\\index.js",
+            "fileType": ".js",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

@@ -389,9 +389,9 @@
       "averageChangeSize": 19.571428571428573
     },
     "quanLyLink": {
-      "totalLinesAdded": 3049,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 55,
+      "totalLinesAdded": 3099,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 61,
       "files": {
         "f:\\quanLyLink\\admin_web\\pubspec.yaml": [
           {
@@ -1321,6 +1321,92 @@
             },
             "duration": 1,
             "language": "properties"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\android\\settings.gradle": [
+          {
+            "timestamp": "2025-09-02T08:31:19.385Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-09-02T08:32:42.179Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-09-02T08:33:09.528Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-09-02T08:33:43.321Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-09-02T08:34:14.116Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-09-02T08:34:54.891Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
           }
         ]
       },

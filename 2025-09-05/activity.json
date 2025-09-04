@@ -3,8 +3,8 @@
   "projects": {
     "hiAI-PHF": {
       "totalLinesAdded": 1278,
-      "totalLinesRemoved": 18,
-      "totalActiveTime": 36,
+      "totalLinesRemoved": 24,
+      "totalActiveTime": 44,
       "files": {
         "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx": [
           {
@@ -104,6 +104,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-04T18:55:24.390Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx": [
@@ -155,6 +169,48 @@
             "fileType": ".tsx",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-04T18:55:09.527Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-04T18:55:14.321Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-04T18:55:18.742Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "hiAI-PHF",
             "content": {
               "added": [],
@@ -381,6 +437,34 @@
             "fileType": ".tsx",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-04T18:54:50.050Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-tables\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-04T18:54:55.767Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-tables\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "hiAI-PHF",
             "content": {
               "added": [],

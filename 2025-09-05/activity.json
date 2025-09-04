@@ -2,9 +2,9 @@
   "date": "2025-09-05",
   "projects": {
     "hiAI-PHF": {
-      "totalLinesAdded": 1234,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 1278,
+      "totalLinesRemoved": 18,
+      "totalActiveTime": 36,
       "files": {
         "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx": [
           {
@@ -69,6 +69,34 @@
             "fileType": ".tsx",
             "linesAdded": 9,
             "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-04T18:48:46.847Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-04T18:49:00.646Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "hiAI-PHF",
             "content": {
               "added": [],
@@ -448,6 +476,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-tables\\columns.tsx": [
+          {
+            "timestamp": "2025-09-04T18:52:26.394Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-tables\\columns.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ]
       },

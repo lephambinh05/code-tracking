@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1278                                          |
+| **Lines Added** (➕)   | 1390                                          |
 | **Lines Removed** (➖) | 24                                        |
-| **Net Change** (↕)    | 1254                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Net Change** (↕)    | 1366                |
+| **Active Time** (⌚)   | 51 minutes |
 
 
 ## Modified Files
-- **supplier-type-listing.tsx** (+40, -18)
+- **supplier-type-listing.tsx** (+77, -18)
 - **supplier-type-listing-content.tsx** (+58, -3)
 - **supplier.ts** (+32, -0)
 - **supplier.ts** (+30, -0)
@@ -23,7 +23,8 @@
 - **index.tsx** (+63, -2)
 - **supplier-type-form-modal.tsx** (+210, -1)
 - **use-table-filters.ts** (+80, -0)
-- **columns.tsx** (+44, -0)
+- **columns.tsx** (+53, -0)
+- **cell-action.tsx** (+66, -0)
 
 ## Visualizations
 
@@ -32,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 439
+".tsx" : 551
 ".ts" : 863
 ```
 
@@ -43,7 +44,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 3
 "01h" : 36
+"02h" : 8
 ```
 
 
-> **Last Updated:** 9/5/2025, 1:58:29 AM
+> **Last Updated:** 9/5/2025, 2:03:29 AM

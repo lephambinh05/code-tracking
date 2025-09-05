@@ -2,9 +2,9 @@
   "date": "2025-09-05",
   "projects": {
     "hiAI-PHF": {
-      "totalLinesAdded": 5934,
+      "totalLinesAdded": 6899,
       "totalLinesRemoved": 105,
-      "totalActiveTime": 152,
+      "totalActiveTime": 156,
       "files": {
         "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx": [
           {
@@ -2045,6 +2045,70 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\backend\\src\\dto\\warehouseImportDto.ts": [
+          {
+            "timestamp": "2025-09-05T07:03:43.174Z",
+            "fileName": "f:\\hiAI-PHF\\backend\\src\\dto\\warehouseImportDto.ts",
+            "fileType": ".ts",
+            "linesAdded": 235,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\backend\\src\\types\\warehouseImport.ts": [
+          {
+            "timestamp": "2025-09-05T07:04:04.556Z",
+            "fileName": "f:\\hiAI-PHF\\backend\\src\\types\\warehouseImport.ts",
+            "fileType": ".ts",
+            "linesAdded": 276,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\backend\\src\\db\\warehouseImportDb.ts": [
+          {
+            "timestamp": "2025-09-05T07:04:47.292Z",
+            "fileName": "f:\\hiAI-PHF\\backend\\src\\db\\warehouseImportDb.ts",
+            "fileType": ".ts",
+            "linesAdded": 340,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\backend\\src\\routes\\warehouseImportRoutes.ts": [
+          {
+            "timestamp": "2025-09-05T07:05:02.626Z",
+            "fileName": "f:\\hiAI-PHF\\backend\\src\\routes\\warehouseImportRoutes.ts",
+            "fileType": ".ts",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]

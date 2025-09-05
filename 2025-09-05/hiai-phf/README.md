@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6985                                          |
-| **Lines Removed** (➖) | 190                                        |
-| **Net Change** (↕)    | 6795                |
-| **Active Time** (⌚)   | 156 minutes |
+| **Lines Added** (➕)   | 7176                                          |
+| **Lines Removed** (➖) | 437                                        |
+| **Net Change** (↕)    | 6739                |
+| **Active Time** (⌚)   | 163 minutes |
 
 
 ## Modified Files
@@ -28,7 +28,7 @@
 - **delete-confirmation-modal.tsx** (+72, -2)
 - **V01_inventories_data__update_inventory_menu.sql** (+33, -0)
 - **warehouse-import.ts** (+117, -0)
-- **warehouseImportApi.ts** (+233, -0)
+- **warehouseImportApi.ts** (+381, -247)
 - **columns.tsx** (+134, -3)
 - **status-badge.tsx** (+62, -0)
 - **cell-action.tsx** (+116, -7)
@@ -64,6 +64,7 @@
 - **warehouseImportDb.ts** (+340, -0)
 - **warehouseImportRoutes.ts** (+114, -0)
 - **V03_Warehouse_Import_codes.sql** (+86, -85)
+- **run_warehouse_import_setup.sql** (+43, -0)
 
 ## Visualizations
 
@@ -73,8 +74,8 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2730
-".ts" : 3414
-".sql" : 1031
+".ts" : 3809
+".sql" : 1074
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -89,8 +90,8 @@ title Coding activity by hour (count of changes)
 "11h" : 44
 "12h" : 4
 "13h" : 27
-"14h" : 10
+"14h" : 18
 ```
 
 
-> **Last Updated:** 9/5/2025, 2:18:42 PM
+> **Last Updated:** 9/5/2025, 2:33:42 PM

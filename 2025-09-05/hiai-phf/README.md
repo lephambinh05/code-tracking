@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3956                                          |
-| **Lines Removed** (➖) | 78                                        |
-| **Net Change** (↕)    | 3878                |
-| **Active Time** (⌚)   | 127 minutes |
+| **Lines Added** (➕)   | 4491                                          |
+| **Lines Removed** (➖) | 105                                        |
+| **Net Change** (↕)    | 4386                |
+| **Active Time** (⌚)   | 146 minutes |
 
 
 ## Modified Files
@@ -29,13 +29,13 @@
 - **V01_inventories_data__update_inventory_menu.sql** (+33, -0)
 - **warehouse-import.ts** (+117, -0)
 - **warehouseImportApi.ts** (+233, -0)
-- **columns.tsx** (+134, -0)
+- **columns.tsx** (+134, -3)
 - **status-badge.tsx** (+62, -0)
-- **cell-action.tsx** (+114, -3)
-- **index.tsx** (+61, -12)
+- **cell-action.tsx** (+116, -7)
+- **index.tsx** (+61, -14)
 - **warehouse-import-filters.tsx** (+180, -0)
 - **warehouse-import-form-modal.tsx** (+361, -0)
-- **warehouse-import-listing.tsx** (+191, -19)
+- **warehouse-import-listing.tsx** (+191, -25)
 - **warehouse-import-listing-page.tsx** (+26, -0)
 - **date-picker-with-range.tsx** (+80, -0)
 - **utils.ts** (+129, -0)
@@ -48,6 +48,12 @@
 - **index.ts** (+3, -0)
 - **page.tsx** (+31, -0)
 - **V01_inventories_warehouse_import_menu.sql** (+48, -12)
+- **warehouse-import-detail-page.tsx** (+26, -0)
+- **warehouse-import-detail.tsx** (+109, -0)
+- **warehouse-import-order-info.tsx** (+131, -12)
+- **warehouse-import-supplier-info.tsx** (+76, -0)
+- **warehouse-import-product-info.tsx** (+179, -0)
+- **page.tsx** (+12, -0)
 
 ## Visualizations
 
@@ -56,7 +62,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2168
+".tsx" : 2730
 ".ts" : 1773
 ".sql" : 93
 ```
@@ -72,8 +78,8 @@ title Coding activity by hour (count of changes)
 "10h" : 1
 "11h" : 44
 "12h" : 4
-"13h" : 6
+"13h" : 25
 ```
 
 
-> **Last Updated:** 9/5/2025, 1:48:42 PM
+> **Last Updated:** 9/5/2025, 1:53:42 PM

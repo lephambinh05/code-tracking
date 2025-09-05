@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9267                                          |
-| **Lines Removed** (➖) | 443                                        |
-| **Net Change** (↕)    | 8824                |
-| **Active Time** (⌚)   | 199 minutes |
+| **Lines Added** (➕)   | 9310                                          |
+| **Lines Removed** (➖) | 452                                        |
+| **Net Change** (↕)    | 8858                |
+| **Active Time** (⌚)   | 209 minutes |
 
 
 ## Modified Files
@@ -29,7 +29,7 @@
 - **V01_inventories_data__update_inventory_menu.sql** (+33, -0)
 - **warehouse-import.ts** (+117, -0)
 - **warehouseImportApi.ts** (+515, -247)
-- **columns.tsx** (+417, -3)
+- **columns.tsx** (+417, -12)
 - **status-badge.tsx** (+62, -0)
 - **cell-action.tsx** (+225, -7)
 - **index.tsx** (+61, -14)
@@ -69,6 +69,8 @@
 - **warehouseImport.route.ts** (+284, -4)
 - **auth-background-section.tsx** (+18, -0)
 - **auth-layout.tsx** (+54, -0)
+- **page.tsx** (+31, -0)
+- **page.tsx** (+12, -0)
 
 ## Visualizations
 
@@ -77,7 +79,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3364
+".tsx" : 3416
 ".ts" : 5168
 ".sql" : 1178
 ```
@@ -97,8 +99,8 @@ title Coding activity by hour (count of changes)
 "14h" : 18
 "15h" : 12
 "16h" : 8
-"19h" : 2
+"19h" : 7
 ```
 
 
-> **Last Updated:** 9/5/2025, 7:48:38 PM
+> **Last Updated:** 9/5/2025, 7:53:38 PM

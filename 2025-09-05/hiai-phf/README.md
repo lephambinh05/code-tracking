@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8506                                          |
+| **Lines Added** (➕)   | 8814                                          |
 | **Lines Removed** (➖) | 443                                        |
-| **Net Change** (↕)    | 8063                |
-| **Active Time** (⌚)   | 182 minutes |
+| **Net Change** (↕)    | 8371                |
+| **Active Time** (⌚)   | 188 minutes |
 
 
 ## Modified Files
@@ -29,13 +29,13 @@
 - **V01_inventories_data__update_inventory_menu.sql** (+33, -0)
 - **warehouse-import.ts** (+117, -0)
 - **warehouseImportApi.ts** (+515, -247)
-- **columns.tsx** (+134, -3)
+- **columns.tsx** (+274, -3)
 - **status-badge.tsx** (+62, -0)
 - **cell-action.tsx** (+116, -7)
 - **index.tsx** (+61, -14)
 - **warehouse-import-filters.tsx** (+180, -0)
 - **warehouse-import-form-modal.tsx** (+361, -0)
-- **warehouse-import-listing.tsx** (+191, -25)
+- **warehouse-import-listing.tsx** (+359, -25)
 - **warehouse-import-listing-page.tsx** (+26, -0)
 - **date-picker-with-range.tsx** (+80, -0)
 - **utils.ts** (+129, -0)
@@ -75,7 +75,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2730
+".tsx" : 3038
 ".ts" : 5041
 ".sql" : 1178
 ```
@@ -93,8 +93,8 @@ title Coding activity by hour (count of changes)
 "12h" : 4
 "13h" : 27
 "14h" : 18
-"15h" : 10
+"15h" : 12
 ```
 
 
-> **Last Updated:** 9/5/2025, 3:58:35 PM
+> **Last Updated:** 9/5/2025, 4:03:35 PM

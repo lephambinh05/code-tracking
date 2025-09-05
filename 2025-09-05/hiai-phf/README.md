@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3742                                          |
-| **Lines Removed** (➖) | 49                                        |
-| **Net Change** (↕)    | 3693                |
-| **Active Time** (⌚)   | 109 minutes |
+| **Lines Added** (➕)   | 3780                                          |
+| **Lines Removed** (➖) | 54                                        |
+| **Net Change** (↕)    | 3726                |
+| **Active Time** (⌚)   | 115 minutes |
 
 
 ## Modified Files
@@ -35,17 +35,18 @@
 - **index.tsx** (+61, -12)
 - **warehouse-import-filters.tsx** (+180, -0)
 - **warehouse-import-form-modal.tsx** (+361, -0)
-- **warehouse-import-listing.tsx** (+191, -2)
-- **warehouse-import-listing-page.tsx** (+8, -0)
+- **warehouse-import-listing.tsx** (+191, -7)
+- **warehouse-import-listing-page.tsx** (+26, -0)
 - **date-picker-with-range.tsx** (+80, -0)
 - **utils.ts** (+129, -0)
 - **data-table-skeleton-simple.tsx** (+73, -0)
-- **simple-data-table.tsx** (+125, -0)
+- **simple-data-table.tsx** (+131, -0)
 - **mock-data.ts** (+152, -0)
 - **mockWarehouseImportApi.ts** (+162, -2)
 - **page.tsx** (+18, -0)
 - **store.ts** (+112, -0)
 - **index.ts** (+3, -0)
+- **page.tsx** (+14, -0)
 
 ## Visualizations
 
@@ -54,7 +55,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2096
+".tsx" : 2139
 ".ts" : 1662
 ".sql" : 33
 ```
@@ -68,8 +69,8 @@ title Coding activity by hour (count of changes)
 "01h" : 36
 "02h" : 21
 "10h" : 1
-"11h" : 35
+"11h" : 41
 ```
 
 
-> **Last Updated:** 9/5/2025, 11:38:42 AM
+> **Last Updated:** 9/5/2025, 11:53:42 AM

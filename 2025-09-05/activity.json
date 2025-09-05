@@ -2,9 +2,9 @@
   "date": "2025-09-05",
   "projects": {
     "hiAI-PHF": {
-      "totalLinesAdded": 3627,
-      "totalLinesRemoved": 40,
-      "totalActiveTime": 98,
+      "totalLinesAdded": 3742,
+      "totalLinesRemoved": 49,
+      "totalActiveTime": 109,
       "files": {
         "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx": [
           {
@@ -1040,6 +1040,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-05T04:35:02.529Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-tables\\cell-action.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-tables\\index.tsx": [
@@ -1063,6 +1077,34 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 10,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-05T04:35:07.367Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-tables\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-05T04:35:11.023Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-tables\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "hiAI-PHF",
             "content": {
               "added": [],
@@ -1139,6 +1181,34 @@
             "fileType": ".tsx",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-05T04:34:53.035Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-listing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-05T04:35:14.387Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-listing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "hiAI-PHF",
             "content": {
               "added": [],
@@ -1258,6 +1328,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-05T04:35:18.123Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\features\\warehouse-import\\mockWarehouseImportApi.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\warehouse-import-demo\\page.tsx": [
@@ -1274,6 +1358,66 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\store.ts": [
+          {
+            "timestamp": "2025-09-05T04:33:46.039Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\store.ts",
+            "fileType": ".ts",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-05T04:33:49.702Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\store.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-05T04:33:53.351Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\store.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\index.ts": [
+          {
+            "timestamp": "2025-09-05T04:34:04.396Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

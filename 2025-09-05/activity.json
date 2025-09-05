@@ -2,9 +2,9 @@
   "date": "2025-09-05",
   "projects": {
     "hiAI-PHF": {
-      "totalLinesAdded": 9994,
-      "totalLinesRemoved": 452,
-      "totalActiveTime": 216,
+      "totalLinesAdded": 10441,
+      "totalLinesRemoved": 815,
+      "totalActiveTime": 219,
       "files": {
         "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx": [
           {
@@ -442,6 +442,34 @@
             "fileName": "f:\\hiAI-PHF\\phf-api\\src\\services\\supplier.service.ts",
             "fileType": ".ts",
             "linesAdded": 364,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-05T15:24:03.234Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\services\\supplier.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 363,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-05T15:24:03.272Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\services\\supplier.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 363,
             "linesRemoved": 0,
             "projectName": "hiAI-PHF",
             "content": {
@@ -2733,6 +2761,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-05T15:23:45.889Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\db\\supplier.db-prisma.ts",
+            "fileType": ".ts",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]

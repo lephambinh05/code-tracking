@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7735                                          |
+| **Lines Added** (➕)   | 8138                                          |
 | **Lines Removed** (➖) | 439                                        |
-| **Net Change** (↕)    | 7296                |
+| **Net Change** (↕)    | 7699                |
 | **Active Time** (⌚)   | 167 minutes |
 
 
@@ -58,7 +58,7 @@
 - **V02_Warehouse_Import_data.sql** (+204, -2)
 - **warehouse_import_procedures.sql** (+454, -0)
 - **warehouseImportController.ts** (+318, -0)
-- **warehouseImportService.ts** (+358, -0)
+- **warehouseImportService.ts** (+761, -0)
 - **warehouseImportDto.ts** (+235, -0)
 - **warehouseImport.ts** (+276, -0)
 - **warehouseImportDb.ts** (+797, -0)
@@ -74,7 +74,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2730
-".ts" : 4266
+".ts" : 4669
 ".sql" : 1178
 ```
 
@@ -91,8 +91,8 @@ title Coding activity by hour (count of changes)
 "12h" : 4
 "13h" : 27
 "14h" : 18
-"15h" : 3
+"15h" : 4
 ```
 
 
-> **Last Updated:** 9/5/2025, 3:28:34 PM
+> **Last Updated:** 9/5/2025, 3:38:35 PM

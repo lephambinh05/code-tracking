@@ -2,7 +2,7 @@
   "date": "2025-09-06",
   "projects": {
     "quanLyLink": {
-      "totalLinesAdded": 181,
+      "totalLinesAdded": 186,
       "totalLinesRemoved": 10,
       "totalActiveTime": 11,
       "files": {
@@ -94,6 +94,22 @@
             },
             "duration": 2,
             "language": "gradle"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\android\\key.properties": [
+          {
+            "timestamp": "2025-09-06T15:39:08.735Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\key.properties",
+            "fileType": ".properties",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
           }
         ]
       },

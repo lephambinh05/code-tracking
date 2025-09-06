@@ -1,0 +1,80 @@
+{
+  "date": "2025-09-06",
+  "projects": {
+    "quanLyLink": {
+      "totalLinesAdded": 93,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "f:\\quanLyLink\\android\\key.properties": [
+          {
+            "timestamp": "2025-09-06T09:20:36.246Z",
+            "fileName": "f:\\quanLyLink\\android\\key.properties",
+            "fileType": ".properties",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          }
+        ],
+        "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle": [
+          {
+            "timestamp": "2025-09-06T09:21:18.168Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-09-06T09:21:43.115Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ]
+      },
+      "languageStats": {
+        "properties": 0,
+        "gradle": 2
+      },
+      "changeFrequency": {
+        "16": 2
+      },
+      "topFiles": [
+        "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle",
+        "f:\\quanLyLink\\android\\key.properties"
+      ],
+      "averageChangeSize": 31
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "gradle",
+    "properties"
+  ]
+}

@@ -4,17 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 164                                          |
+| **Lines Added** (➕)   | 437                                          |
 | **Lines Removed** (➖) | 8                                        |
-| **Net Change** (↕)    | 156                |
-| **Active Time** (⌚)   | 49 minutes |
+| **Net Change** (↕)    | 429                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
 - **News.js** (+44, -0)
 - **App.js** (+87, -5)
 - **News.css** (+32, -3)
-- **newsService.js** (+1, -0)
+- **newsService.js** (+80, -0)
+- **firebase.js** (+27, -0)
+- **firebaseService.js** (+138, -0)
+- **firebase.example.js** (+29, -0)
 
 ## Visualizations
 
@@ -23,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 137
+".js" : 410
 ".css" : 35
 ```
 
@@ -33,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "03h" : 29
-"04h" : 8
+"04h" : 12
 ```
 
 
-> **Last Updated:** 9/7/2025, 4:06:29 AM
+> **Last Updated:** 9/7/2025, 5:06:29 AM

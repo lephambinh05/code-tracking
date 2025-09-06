@@ -3,8 +3,8 @@
   "projects": {
     "quanLyLink": {
       "totalLinesAdded": 181,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 9,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 11,
       "files": {
         "f:\\quanLyLink\\android\\key.properties": [
           {
@@ -79,6 +79,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-09-06T09:28:26.020Z",
+            "fileName": "f:\\quanLyLink\\android\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "gradle"
           }
         ]

@@ -851,9 +851,9 @@
       "averageChangeSize": 1290
     },
     "quanLyLink": {
-      "totalLinesAdded": 446,
+      "totalLinesAdded": 1149,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 4,
       "files": {
         "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle": [
           {
@@ -901,6 +901,70 @@
             },
             "duration": 1,
             "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\main.dart": [
+          {
+            "timestamp": "2025-09-07T14:39:39.736Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\main.dart",
+            "fileType": ".dart",
+            "linesAdded": 184,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\screens\\support_public.dart": [
+          {
+            "timestamp": "2025-09-07T14:39:53.346Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\screens\\support_public.dart",
+            "fileType": ".dart",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\screens\\admin_dashboard.dart": [
+          {
+            "timestamp": "2025-09-07T14:39:57.648Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\screens\\admin_dashboard.dart",
+            "fileType": ".dart",
+            "linesAdded": 397,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\pubspec.yaml": [
+          {
+            "timestamp": "2025-09-07T14:40:01.682Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
           }
         ]
       },

@@ -851,9 +851,9 @@
       "averageChangeSize": 1290
     },
     "quanLyLink": {
-      "totalLinesAdded": 88,
+      "totalLinesAdded": 446,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle": [
           {
@@ -869,6 +869,38 @@
             },
             "duration": 0,
             "language": "gradle"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\screens\\admin_support.dart": [
+          {
+            "timestamp": "2025-09-07T13:47:36.408Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\screens\\admin_support.dart",
+            "fileType": ".dart",
+            "linesAdded": 149,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\lib\\widgets\\admin_shell.dart": [
+          {
+            "timestamp": "2025-09-07T13:47:43.782Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\lib\\widgets\\admin_shell.dart",
+            "fileType": ".dart",
+            "linesAdded": 209,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
           }
         ]
       },

@@ -851,9 +851,9 @@
       "averageChangeSize": 1290
     },
     "quanLyLink": {
-      "totalLinesAdded": 1683,
+      "totalLinesAdded": 1720,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalActiveTime": 9,
       "files": {
         "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle": [
           {
@@ -1043,6 +1043,38 @@
             },
             "duration": 0,
             "language": "dart"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\.htaccess": [
+          {
+            "timestamp": "2025-09-07T16:26:57.621Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\.htaccess",
+            "fileType": "unknown",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\admin\\.htaccess": [
+          {
+            "timestamp": "2025-09-07T16:27:01.365Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\admin\\.htaccess",
+            "fileType": "unknown",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },

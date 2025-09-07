@@ -851,9 +851,9 @@
       "averageChangeSize": 1290
     },
     "quanLyLink": {
-      "totalLinesAdded": 1720,
+      "totalLinesAdded": 1767,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 13,
       "files": {
         "f:\\quanLyLink\\mobile_app\\android\\app\\build.gradle": [
           {
@@ -1074,6 +1074,54 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\admin\\version.json": [
+          {
+            "timestamp": "2025-09-07T16:32:48.733Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\admin\\version.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\admin\\flutter_bootstrap.js": [
+          {
+            "timestamp": "2025-09-07T16:32:51.288Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\admin\\flutter_bootstrap.js",
+            "fileType": ".js",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\admin\\assets\\NOTICES": [
+          {
+            "timestamp": "2025-09-07T16:35:07.129Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\admin\\assets\\NOTICES",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "unknown"
           }
         ]

@@ -3,7 +3,7 @@
   "projects": {
     "quanLyLink": {
       "totalLinesAdded": 1417,
-      "totalLinesRemoved": 19,
+      "totalLinesRemoved": 37,
       "totalActiveTime": 11,
       "files": {
         "f:\\quanLyLink\\admin_web\\lib\\models\\youtube_link.dart": [
@@ -203,6 +203,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-08T12:51:26.419Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ],

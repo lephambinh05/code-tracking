@@ -2,9 +2,9 @@
   "date": "2025-09-08",
   "projects": {
     "quanLyLink": {
-      "totalLinesAdded": 1113,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 1417,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 11,
       "files": {
         "f:\\quanLyLink\\admin_web\\lib\\models\\youtube_link.dart": [
           {
@@ -158,6 +158,84 @@
             },
             "duration": 0,
             "language": "yaml"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\privacy\\index.html": [
+          {
+            "timestamp": "2025-09-08T11:43:18.841Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\privacy\\index.html",
+            "fileType": ".html",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\index.html": [
+          {
+            "timestamp": "2025-09-08T11:44:09.088Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\index.html",
+            "fileType": ".html",
+            "linesAdded": 103,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-08T11:45:49.397Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\js\\firebase-config.js": [
+          {
+            "timestamp": "2025-09-08T11:45:42.971Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\js\\firebase-config.js",
+            "fileType": ".js",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "f:\\quanLyLink\\admin_web\\web\\support\\index.html": [
+          {
+            "timestamp": "2025-09-08T11:46:01.785Z",
+            "fileName": "f:\\quanLyLink\\admin_web\\web\\support\\index.html",
+            "fileType": ".html",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },

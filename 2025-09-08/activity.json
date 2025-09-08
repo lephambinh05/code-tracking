@@ -2,7 +2,7 @@
   "date": "2025-09-08",
   "projects": {
     "quanLyLink": {
-      "totalLinesAdded": 1573,
+      "totalLinesAdded": 1600,
       "totalLinesRemoved": 53,
       "totalActiveTime": 22,
       "files": {
@@ -147,6 +147,20 @@
         "f:\\quanLyLink\\mobile_app\\pubspec.yaml": [
           {
             "timestamp": "2025-09-07T19:42:17.402Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\pubspec.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-09-08T15:50:34.189Z",
             "fileName": "f:\\quanLyLink\\mobile_app\\pubspec.yaml",
             "fileType": ".yaml",
             "linesAdded": 27,

@@ -3,8 +3,8 @@
   "projects": {
     "hiAI-PHF": {
       "totalLinesAdded": 1515,
-      "totalLinesRemoved": 67,
-      "totalActiveTime": 46,
+      "totalLinesRemoved": 150,
+      "totalActiveTime": 50,
       "files": {
         "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\warehouse-import\\[id]\\page.tsx": [
           {
@@ -499,6 +499,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-08T19:01:37.935Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\create\\warehouse-import-create-page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 62,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-08T19:01:56.132Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\create\\warehouse-import-create-page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]

@@ -1,0 +1,135 @@
+{
+  "date": "2025-09-09",
+  "projects": {
+    "hiAI-PHF": {
+      "totalLinesAdded": 451,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\warehouse-import\\[id]\\page.tsx": [
+          {
+            "timestamp": "2025-09-08T17:22:20.118Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\warehouse-import\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\database\\data\\identity\\V27_Identity_data__update_warehouse_import_menu_link.sql": [
+          {
+            "timestamp": "2025-09-08T17:22:20.304Z",
+            "fileName": "f:\\hiAI-PHF\\database\\data\\identity\\V27_Identity_data__update_warehouse_import_menu_link.sql",
+            "fileType": ".sql",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "f:\\hiAI-PHF\\database\\data\\inventories\\V03_Check_warehouse_import_data.sql": [
+          {
+            "timestamp": "2025-09-08T17:22:20.241Z",
+            "fileName": "f:\\hiAI-PHF\\database\\data\\inventories\\V03_Check_warehouse_import_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\warehouse-import\\page.tsx": [
+          {
+            "timestamp": "2025-09-08T17:22:20.198Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\warehouse-import\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-detail.tsx": [
+          {
+            "timestamp": "2025-09-08T17:22:20.166Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-api\\src\\db\\supplier.db-prisma.ts": [
+          {
+            "timestamp": "2025-09-08T17:23:51.244Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\db\\supplier.db-prisma.ts",
+            "fileType": ".ts",
+            "linesAdded": 204,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0,
+        "sql": 0,
+        "ts": 2
+      },
+      "changeFrequency": {
+        "0": 2
+      },
+      "topFiles": [
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\warehouse-import\\[id]\\page.tsx",
+        "f:\\hiAI-PHF\\database\\data\\identity\\V27_Identity_data__update_warehouse_import_menu_link.sql",
+        "f:\\hiAI-PHF\\database\\data\\inventories\\V03_Check_warehouse_import_data.sql",
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\warehouse-import\\page.tsx",
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-detail.tsx"
+      ],
+      "averageChangeSize": 75.16666666666667
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 6,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "tsx",
+    "sql"
+  ]
+}

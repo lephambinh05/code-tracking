@@ -2,9 +2,9 @@
   "date": "2025-09-09",
   "projects": {
     "hiAI-PHF": {
-      "totalLinesAdded": 1099,
-      "totalLinesRemoved": 54,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 1326,
+      "totalLinesRemoved": 67,
+      "totalActiveTime": 33,
       "files": {
         "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\warehouse-import\\[id]\\page.tsx": [
           {
@@ -214,6 +214,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-08T18:40:36.804Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-listing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\warehouse-import-tables\\index.tsx": [
@@ -387,6 +401,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-08T18:42:45.053Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\warehouse-import\\create\\warehouse-import-create-page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 227,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]

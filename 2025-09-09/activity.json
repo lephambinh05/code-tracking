@@ -2,9 +2,9 @@
   "date": "2025-09-09",
   "projects": {
     "hiAI-PHF": {
-      "totalLinesAdded": 2487,
-      "totalLinesRemoved": 151,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 2613,
+      "totalLinesRemoved": 160,
+      "totalActiveTime": 80,
       "files": {
         "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\warehouse-import\\[id]\\page.tsx": [
           {
@@ -712,6 +712,36 @@
             },
             "duration": 3,
             "language": "txt"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\store.ts": [
+          {
+            "timestamp": "2025-09-09T03:27:11.106Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\store.ts",
+            "fileType": ".ts",
+            "linesAdded": 126,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-09T03:27:11.306Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\store.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

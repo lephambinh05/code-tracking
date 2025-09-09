@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-10",
+  "projects": {
+    "quanLyLink": {
+      "totalLinesAdded": 49,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\quanLyLink\\mobile_app\\ios\\Podfile": [
+          {
+            "timestamp": "2025-09-09T21:55:05.233Z",
+            "fileName": "f:\\quanLyLink\\mobile_app\\ios\\Podfile",
+            "fileType": "unknown",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "quanLyLink",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "4": 0
+      },
+      "topFiles": [
+        "f:\\quanLyLink\\mobile_app\\ios\\Podfile"
+      ],
+      "averageChangeSize": 49
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    4
+  ],
+  "mostUsedLanguages": [
+    "unknown"
+  ]
+}

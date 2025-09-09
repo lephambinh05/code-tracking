@@ -81,6 +81,39 @@
         "f:\\quanLyLink\\mobile_app\\ios\\Podfile"
       ],
       "averageChangeSize": 49
+    },
+    "hiAI-PHF": {
+      "totalLinesAdded": 69,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\hiAI-PHF\\phf-api\\src\\api\\index.ts": [
+          {
+            "timestamp": "2025-09-09T22:44:52.443Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\api\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "5": 0
+      },
+      "topFiles": [
+        "f:\\hiAI-PHF\\phf-api\\src\\api\\index.ts"
+      ],
+      "averageChangeSize": 69
     }
   },
   "totalActiveTime": 0,

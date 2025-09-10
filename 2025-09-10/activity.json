@@ -84,8 +84,8 @@
     },
     "hiAI-PHF": {
       "totalLinesAdded": 3335,
-      "totalLinesRemoved": 439,
-      "totalActiveTime": 68,
+      "totalLinesRemoved": 521,
+      "totalActiveTime": 73,
       "files": {
         "f:\\hiAI-PHF\\phf-api\\src\\api\\index.ts": [
           {
@@ -590,6 +590,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T15:36:44.725Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\db\\supplier.db-prisma.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 82,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ],

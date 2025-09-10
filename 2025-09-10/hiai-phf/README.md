@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3335                                          |
-| **Lines Removed** (➖) | 439                                        |
-| **Net Change** (↕)    | 2896                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Lines Removed** (➖) | 521                                        |
+| **Net Change** (↕)    | 2814                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **tore package.json** (+1, -0)
 - **.gitignore** (+15, -0)
 - **customer.db-prisma.ts** (+1009, -54)
-- **supplier.db-prisma.ts** (+307, -19)
+- **supplier.db-prisma.ts** (+307, -101)
 - **customer.service.ts** (+402, -0)
 - **department.service.ts** (+451, -69)
 
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 3687
+".ts" : 3769
 ".json" : 72
 "unknown" : 15
 ```
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "12h" : 4
 "13h" : 9
 "20h" : 6
-"22h" : 10
+"22h" : 11
 ```
 
 
-> **Last Updated:** 9/10/2025, 10:34:57 PM
+> **Last Updated:** 9/10/2025, 10:39:57 PM

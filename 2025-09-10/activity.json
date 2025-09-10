@@ -554,9 +554,9 @@
       "averageChangeSize": 69
     },
     "data": {
-      "totalLinesAdded": 544,
-      "totalLinesRemoved": 19,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 756,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 25,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\data\\data.txt": [
           {
@@ -578,6 +578,90 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
             "fileType": ".txt",
             "linesAdded": 343,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-10T06:51:55.651Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-10T06:52:06.486Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-10T06:52:12.286Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-10T06:52:16.772Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-10T06:52:23.187Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-10T06:52:27.858Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "data",
             "content": {
@@ -660,6 +744,54 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\export_data.py": [
+          {
+            "timestamp": "2025-09-10T06:53:00.846Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\export_data.py",
+            "fileType": ".py",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\simple_export.py": [
+          {
+            "timestamp": "2025-09-10T06:54:16.562Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\simple_export.py",
+            "fileType": ".py",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\clean_data_export.py": [
+          {
+            "timestamp": "2025-09-10T06:54:48.665Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\clean_data_export.py",
+            "fileType": ".py",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },

@@ -540,9 +540,9 @@
       "averageChangeSize": 69
     },
     "data": {
-      "totalLinesAdded": 543,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 544,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\data\\data.txt": [
           {
@@ -601,6 +601,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-10T06:46:27.610Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\create_excel_form.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-10T06:47:18.855Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\create_excel_form.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],

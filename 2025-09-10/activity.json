@@ -554,7 +554,7 @@
       "averageChangeSize": 69
     },
     "data": {
-      "totalLinesAdded": 952,
+      "totalLinesAdded": 1060,
       "totalLinesRemoved": 22,
       "totalActiveTime": 33,
       "files": {
@@ -870,6 +870,22 @@
             },
             "duration": 1,
             "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\generate_inserts.ps1": [
+          {
+            "timestamp": "2025-09-10T10:23:54.478Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\generate_inserts.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ps1"
           }
         ]
       },

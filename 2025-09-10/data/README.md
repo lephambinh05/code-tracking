@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 887                                          |
+| **Lines Added** (➕)   | 952                                          |
 | **Lines Removed** (➖) | 22                                        |
-| **Net Change** (↕)    | 865                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Net Change** (↕)    | 930                |
+| **Active Time** (⌚)   | 33 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,8 @@
 - **clean_data_export.py** (+95, -0)
 - **final_export.py** (+93, -0)
 - **show_data.py** (+38, -0)
+- **danh_sach_nhan_vien_chinh_xac.csv** (+44, -0)
+- **structure.sql** (+21, -0)
 
 ## Visualizations
 
@@ -29,6 +31,8 @@ pie showData
 title Lines changed by file type
 ".txt" : 353
 ".py" : 556
+".csv" : 44
+".sql" : 21
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,7 +41,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 18
+"17h" : 3
 ```
 
 
-> **Last Updated:** 9/10/2025, 2:00:18 PM
+> **Last Updated:** 9/10/2025, 5:10:24 PM

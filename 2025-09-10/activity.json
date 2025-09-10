@@ -554,9 +554,9 @@
       "averageChangeSize": 69
     },
     "data": {
-      "totalLinesAdded": 887,
+      "totalLinesAdded": 952,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 31,
+      "totalActiveTime": 33,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\data\\data.txt": [
           {
@@ -824,6 +824,52 @@
             },
             "duration": 4,
             "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\danh_sach_nhan_vien_chinh_xac.csv": [
+          {
+            "timestamp": "2025-09-10T10:05:39.485Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\danh_sach_nhan_vien_chinh_xac.csv",
+            "fileType": ".csv",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\structure.sql": [
+          {
+            "timestamp": "2025-09-10T10:06:08.827Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\structure.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-10T10:06:09.609Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\structure.sql",
+            "fileType": ".sql",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
           }
         ]
       },

@@ -84,8 +84,8 @@
     },
     "hiAI-PHF": {
       "totalLinesAdded": 2829,
-      "totalLinesRemoved": 296,
-      "totalActiveTime": 34,
+      "totalLinesRemoved": 301,
+      "totalActiveTime": 41,
       "files": {
         "f:\\hiAI-PHF\\phf-api\\src\\api\\index.ts": [
           {
@@ -454,6 +454,76 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T06:46:34.221Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\services\\department.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T06:46:43.656Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\services\\department.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T06:46:51.556Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\services\\department.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T06:46:56.412Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\services\\department.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T06:47:06.512Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\services\\department.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]

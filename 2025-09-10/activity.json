@@ -83,9 +83,9 @@
       "averageChangeSize": 49
     },
     "hiAI-PHF": {
-      "totalLinesAdded": 773,
-      "totalLinesRemoved": 289,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 873,
+      "totalLinesRemoved": 290,
+      "totalActiveTime": 21,
       "files": {
         "f:\\hiAI-PHF\\phf-api\\src\\api\\index.ts": [
           {
@@ -143,6 +143,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T04:56:34.216Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\api\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T04:56:39.400Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\api\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\hiAI-PHF\\phf-api\\src\\constant\\status.constant.ts": [
@@ -172,6 +200,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T04:56:48.156Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\constant\\status.constant.ts",
+            "fileType": ".ts",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -244,6 +286,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-10T04:56:26.091Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\api\\routes\\warehouseImport.route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],

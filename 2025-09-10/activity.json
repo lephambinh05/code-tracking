@@ -554,9 +554,9 @@
       "averageChangeSize": 69
     },
     "data": {
-      "totalLinesAdded": 756,
+      "totalLinesAdded": 887,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 25,
+      "totalActiveTime": 31,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\data\\data.txt": [
           {
@@ -791,6 +791,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\final_export.py": [
+          {
+            "timestamp": "2025-09-10T06:56:32.163Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\final_export.py",
+            "fileType": ".py",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\show_data.py": [
+          {
+            "timestamp": "2025-09-10T06:59:37.476Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\show_data.py",
+            "fileType": ".py",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "py"
           }
         ]

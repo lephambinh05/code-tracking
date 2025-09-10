@@ -468,6 +468,102 @@
         "f:\\hiAI-PHF\\phf-api\\src\\api\\index.ts"
       ],
       "averageChangeSize": 69
+    },
+    "data": {
+      "totalLinesAdded": 543,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\data\\data.txt": [
+          {
+            "timestamp": "2025-09-10T06:40:26.549Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-10T06:40:27.571Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
+            "fileType": ".txt",
+            "linesAdded": 343,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\create_excel_form.py": [
+          {
+            "timestamp": "2025-09-10T06:41:32.583Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\create_excel_form.py",
+            "fileType": ".py",
+            "linesAdded": 187,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-10T06:43:24.555Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\create_excel_form.py",
+            "fileType": ".py",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\data\\requirements.txt": [
+          {
+            "timestamp": "2025-09-10T06:41:49.240Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\data\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 2,
+        "py": 4
+      },
+      "changeFrequency": {
+        "13": 6
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\data\\data.txt",
+        "c:\\Users\\lephambinh\\Downloads\\data\\create_excel_form.py",
+        "c:\\Users\\lephambinh\\Downloads\\data\\requirements.txt"
+      ],
+      "averageChangeSize": 108.6
     }
   },
   "totalActiveTime": 0,

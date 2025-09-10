@@ -840,6 +840,53 @@
         "c:\\Users\\lephambinh\\Downloads\\data\\requirements.txt"
       ],
       "averageChangeSize": 108.6
+    },
+    "keynode1": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "g:\\keynode1\\keynode1\\.gitignore": [
+          {
+            "timestamp": "2025-09-10T09:22:55.468Z",
+            "fileName": "g:\\keynode1\\keynode1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "keynode1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-09-10T09:22:58.281Z",
+            "fileName": "g:\\keynode1\\keynode1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "keynode1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "16": 1
+      },
+      "topFiles": [
+        "g:\\keynode1\\keynode1\\.gitignore"
+      ],
+      "averageChangeSize": 1.5
     }
   },
   "totalActiveTime": 0,

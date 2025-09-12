@@ -474,7 +474,7 @@
       "averageChangeSize": 237.71428571428572
     },
     "dataNV": {
-      "totalLinesAdded": 219,
+      "totalLinesAdded": 305,
       "totalLinesRemoved": 1,
       "totalActiveTime": 8,
       "files": {
@@ -580,6 +580,22 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\employees_insert.sql": [
+          {
+            "timestamp": "2025-09-12T14:50:54.984Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\employees_insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
           }
         ]
       },

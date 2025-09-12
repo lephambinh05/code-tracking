@@ -1,0 +1,215 @@
+{
+  "date": "2025-09-12",
+  "projects": {
+    "dataNV": {
+      "totalLinesAdded": 65,
+      "totalLinesRemoved": 31,
+      "totalActiveTime": 12,
+      "files": {
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql": [
+          {
+            "timestamp": "2025-09-12T15:30:20.021Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:21.029Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:25.659Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:28.235Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:29.956Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:31.686Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:33.156Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:34.559Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:38.202Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:43.934Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:46.119Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:53.657Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:30:55.591Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 12
+      },
+      "changeFrequency": {
+        "22": 12
+      },
+      "topFiles": [
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\error_data.sql"
+      ],
+      "averageChangeSize": 7.384615384615385
+    }
+  },
+  "totalActiveTime": 12,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "sql"
+  ]
+}

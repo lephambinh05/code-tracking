@@ -4,17 +4,13 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 451                                          |
-| **Lines Removed** (➖) | 32                                        |
-| **Net Change** (↕)    | 419                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Lines Added** (➕)   | 65                                          |
+| **Lines Removed** (➖) | 31                                        |
+| **Net Change** (↕)    | 34                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
-- **structuresql.txt** (+20, -1)
-- **generate_sql.py** (+273, -0)
-- **requirements.txt** (+5, -0)
-- **employees_insert.sql** (+88, -0)
 - **error_data.sql** (+65, -31)
 
 ## Visualizations
@@ -24,9 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 26
-".py" : 273
-".sql" : 184
+".sql" : 96
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,10 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"17h" : 7
-"21h" : 3
-"22h" : 21
+"22h" : 13
 ```
 
 
-> **Last Updated:** 9/12/2025, 10:32:21 PM
+> **Last Updated:** 9/12/2025, 10:37:21 PM

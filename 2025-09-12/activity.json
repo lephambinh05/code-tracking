@@ -474,9 +474,9 @@
       "averageChangeSize": 237.71428571428572
     },
     "dataNV": {
-      "totalLinesAdded": 20,
+      "totalLinesAdded": 219,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 4,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -527,6 +527,52 @@
             "fileType": ".txt",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_sql.py": [
+          {
+            "timestamp": "2025-09-12T10:37:48.101Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_sql.py",
+            "fileType": ".py",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-12T10:41:10.070Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_sql.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\requirements.txt": [
+          {
+            "timestamp": "2025-09-12T10:38:10.395Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 5,
+            "linesRemoved": 0,
             "projectName": "dataNV",
             "content": {
               "added": [],

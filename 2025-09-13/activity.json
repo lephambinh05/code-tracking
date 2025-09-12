@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 721,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 1132,
+      "totalLinesRemoved": 80,
+      "totalActiveTime": 29,
       "files": {
         "f:\\napXUVN\\package.json": [
           {
@@ -120,6 +120,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-12T20:39:59.568Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-login.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\app\\api\\tiktok\\login\\route.ts": [
@@ -150,6 +164,48 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-12T20:41:00.530Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-12T20:41:08.495Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-12T20:41:08.537Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\app\\api\\tiktok\\wait-login\\route.ts": [
@@ -158,6 +214,34 @@
             "fileName": "f:\\napXUVN\\app\\api\\tiktok\\wait-login\\route.ts",
             "fileType": ".ts",
             "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-12T20:41:12.931Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\wait-login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-12T20:41:19.942Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\wait-login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
             "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {
@@ -227,6 +311,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-12T20:39:53.893Z",
+            "fileName": "f:\\napXUVN\\lib\\puppeteer-config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 60,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-12T20:39:53.895Z",
+            "fileName": "f:\\napXUVN\\lib\\puppeteer-config.ts",
+            "fileType": ".ts",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\lib\\tiktok-login-playwright.ts": [
+          {
+            "timestamp": "2025-09-12T20:40:57.303Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-login-playwright.ts",
+            "fileType": ".ts",
+            "linesAdded": 278,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]

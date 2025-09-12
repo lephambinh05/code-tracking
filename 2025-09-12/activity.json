@@ -474,9 +474,9 @@
       "averageChangeSize": 237.71428571428572
     },
     "dataNV": {
-      "totalLinesAdded": 323,
+      "totalLinesAdded": 359,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 11,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -577,6 +577,48 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-12T14:58:00.193Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_sql.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-12T15:00:37.577Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_sql.py",
+            "fileType": ".py",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-12T15:02:11.988Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_sql.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ],

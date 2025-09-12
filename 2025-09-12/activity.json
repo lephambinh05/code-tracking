@@ -474,9 +474,9 @@
       "averageChangeSize": 237.71428571428572
     },
     "dataNV": {
-      "totalLinesAdded": 377,
+      "totalLinesAdded": 386,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 25,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -648,6 +648,48 @@
             },
             "duration": 4,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-09-12T15:17:28.291Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_sql.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-12T15:17:37.862Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_sql.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-12T15:17:43.812Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_sql.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\requirements.txt": [
@@ -679,6 +721,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-12T15:17:47.886Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\employees_insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sql"
           }
         ]

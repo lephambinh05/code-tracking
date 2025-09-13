@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 14729,
+      "totalLinesAdded": 14962,
       "totalLinesRemoved": 718,
-      "totalActiveTime": 133,
+      "totalActiveTime": 135,
       "files": {
         "f:\\napXUVN\\package.json": [
           {
@@ -1658,6 +1658,54 @@
             "fileName": "f:\\napXUVN\\app\\api\\tiktok\\napxu-complete-login\\route.ts",
             "fileType": ".ts",
             "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\lib\\napxu-webcast-api.ts": [
+          {
+            "timestamp": "2025-09-13T14:39:55.449Z",
+            "fileName": "f:\\napXUVN\\lib\\napxu-webcast-api.ts",
+            "fileType": ".ts",
+            "linesAdded": 153,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\app\\api\\tiktok\\napxu-webcast-qr\\route.ts": [
+          {
+            "timestamp": "2025-09-13T14:40:00.880Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\napxu-webcast-qr\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\app\\api\\tiktok\\napxu-webcast-status\\route.ts": [
+          {
+            "timestamp": "2025-09-13T14:40:07.346Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\napxu-webcast-status\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 48,
             "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14729                                          |
+| **Lines Added** (➕)   | 14962                                          |
 | **Lines Removed** (➖) | 718                                        |
-| **Net Change** (↕)    | 14011                |
-| **Active Time** (⌚)   | 133 minutes |
+| **Net Change** (↕)    | 14244                |
+| **Active Time** (⌚)   | 135 minutes |
 
 
 ## Modified Files
@@ -51,6 +51,9 @@
 - **route.ts** (+33, -0)
 - **route.ts** (+34, -0)
 - **route.ts** (+34, -0)
+- **napxu-webcast-api.ts** (+153, -0)
+- **route.ts** (+32, -0)
+- **route.ts** (+48, -0)
 
 ## Visualizations
 
@@ -60,7 +63,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 39
-".ts" : 5517
+".ts" : 5750
 ".tsx" : 1948
 ".log" : 7841
 ".txt" : 102
@@ -77,7 +80,8 @@ title Coding activity by hour (count of changes)
 "13h" : 3
 "14h" : 9
 "15h" : 30
+"21h" : 3
 ```
 
 
-> **Last Updated:** 9/13/2025, 3:16:03 PM
+> **Last Updated:** 9/13/2025, 9:40:09 PM

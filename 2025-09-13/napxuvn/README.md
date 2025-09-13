@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 19880                                          |
+| **Lines Added** (➕)   | 19946                                          |
 | **Lines Removed** (➖) | 729                                        |
-| **Net Change** (↕)    | 19151                |
-| **Active Time** (⌚)   | 199 minutes |
+| **Net Change** (↕)    | 19217                |
+| **Active Time** (⌚)   | 209 minutes |
 
 
 ## Modified Files
@@ -72,13 +72,14 @@
 - **route.ts** (+97, -0)
 - **route.ts** (+68, -0)
 - **page.tsx** (+376, -0)
-- **tiktok-chrome-connector.ts** (+539, -0)
+- **tiktok-chrome-connector.ts** (+548, -0)
 - **route.ts** (+92, -0)
-- **page.tsx** (+290, -0)
+- **page.tsx** (+301, -0)
 - **start-chrome-debug.bat** (+15, -0)
 - **start-chrome-debug.sh** (+15, -0)
-- **simple-chrome-test.ts** (+112, -0)
+- **simple-chrome-test.ts** (+121, -0)
 - **route.ts** (+38, -0)
+- **start-chrome-debug.ps1** (+37, -0)
 
 ## Visualizations
 
@@ -88,12 +89,13 @@
 pie showData
 title Lines changed by file type
 ".json" : 39
-".ts" : 8771
-".tsx" : 3826
+".ts" : 8789
+".tsx" : 3837
 ".log" : 7841
 ".txt" : 102
 ".bat" : 15
 ".sh" : 15
+".ps1" : 37
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -108,8 +110,8 @@ title Coding activity by hour (count of changes)
 "14h" : 9
 "15h" : 30
 "21h" : 6
-"22h" : 49
+"22h" : 54
 ```
 
 
-> **Last Updated:** 9/13/2025, 10:50:09 PM
+> **Last Updated:** 9/13/2025, 10:55:09 PM

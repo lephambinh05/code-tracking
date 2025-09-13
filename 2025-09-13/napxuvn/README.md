@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4666                                          |
-| **Lines Removed** (➖) | 632                                        |
-| **Net Change** (↕)    | 4034                |
-| **Active Time** (⌚)   | 61 minutes |
+| **Lines Added** (➕)   | 4961                                          |
+| **Lines Removed** (➖) | 673                                        |
+| **Net Change** (↕)    | 4288                |
+| **Active Time** (⌚)   | 72 minutes |
 
 
 ## Modified Files
@@ -19,19 +19,21 @@
 - **page.tsx** (+63, -0)
 - **puppeteer-config.ts** (+139, -60)
 - **tiktok-login-playwright.ts** (+652, -13)
-- **tiktok-login-stealth.ts** (+264, -0)
+- **tiktok-login-stealth.ts** (+282, -0)
 - **page.tsx** (+253, -0)
-- **route.ts** (+113, -0)
+- **route.ts** (+131, -0)
 - **tiktok-qr-enhanced.ts** (+456, -0)
 - **route.ts** (+42, -0)
 - **route.ts** (+62, -0)
-- **tiktok-coin-qr.ts** (+1054, -524)
+- **tiktok-coin-qr.ts** (+1071, -524)
 - **route.ts** (+43, -0)
 - **route.ts** (+62, -0)
 - **tiktok-coin-qr.tsx** (+335, -0)
 - **page.tsx** (+131, -0)
-- **tiktok-coin-simple.ts** (+213, -0)
+- **tiktok-coin-simple.ts** (+254, -41)
 - **route.ts** (+41, -0)
+- **chrome-config.ts** (+65, -0)
+- **page.tsx** (+136, -0)
 
 ## Visualizations
 
@@ -41,8 +43,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 39
-".ts" : 4274
-".tsx" : 985
+".ts" : 4474
+".tsx" : 1121
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,8 +54,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "03h" : 30
 "11h" : 6
-"12h" : 14
+"12h" : 23
 ```
 
 
-> **Last Updated:** 9/13/2025, 12:21:02 PM
+> **Last Updated:** 9/13/2025, 12:26:02 PM

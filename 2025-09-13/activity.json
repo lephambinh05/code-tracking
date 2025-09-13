@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 14398,
-      "totalLinesRemoved": 679,
-      "totalActiveTime": 109,
+      "totalLinesAdded": 14639,
+      "totalLinesRemoved": 696,
+      "totalActiveTime": 123,
       "files": {
         "f:\\napXUVN\\package.json": [
           {
@@ -1214,6 +1214,48 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T08:07:17.052Z",
+            "fileName": "f:\\napXUVN\\lib\\napxu-tiktok-api.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T08:07:31.050Z",
+            "fileName": "f:\\napXUVN\\lib\\napxu-tiktok-api.ts",
+            "fileType": ".ts",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T08:10:18.192Z",
+            "fileName": "f:\\napXUVN\\lib\\napxu-tiktok-api.ts",
+            "fileType": ".ts",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\app\\api\\tiktok\\napxu-qr\\route.ts": [
@@ -1388,6 +1430,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-13T08:07:44.384Z",
+            "fileName": "f:\\napXUVN\\components\\tiktok\\napxu-tiktok-qr.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-13T08:10:33.079Z",
+            "fileName": "f:\\napXUVN\\components\\tiktok\\napxu-tiktok-qr.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\app\\(app)\\tiktok-napxu-demo\\page.tsx": [
@@ -1450,6 +1520,66 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-13T08:07:55.676Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-api-test\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-13T08:08:01.159Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-api-test\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\api\\tiktok\\napxu-login-check\\route.ts": [
+          {
+            "timestamp": "2025-09-13T08:07:35.913Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\napxu-login-check\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\app\\api\\tiktok\\napxu-validate\\route.ts": [
+          {
+            "timestamp": "2025-09-13T08:10:23.224Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\napxu-validate\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

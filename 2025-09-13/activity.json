@@ -1119,9 +1119,9 @@
       "averageChangeSize": 97.57142857142857
     },
     "hiAI-PHF": {
-      "totalLinesAdded": 1088,
-      "totalLinesRemoved": 95,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 1151,
+      "totalLinesRemoved": 107,
+      "totalActiveTime": 8,
       "files": {
         "f:\\hiAI-PHF\\phf-api\\src\\services\\customer.service.ts": [
           {
@@ -1174,6 +1174,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 86,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T06:44:19.807Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\db\\supplier.db-prisma.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
             "projectName": "hiAI-PHF",
             "content": {
               "added": [],
@@ -1240,6 +1254,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-api\\src\\types\\request\\supplier.ts": [
+          {
+            "timestamp": "2025-09-13T06:44:14.184Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\types\\request\\supplier.ts",
+            "fileType": ".ts",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]

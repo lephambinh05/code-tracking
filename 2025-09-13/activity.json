@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 16447,
+      "totalLinesAdded": 16593,
       "totalLinesRemoved": 718,
-      "totalActiveTime": 145,
+      "totalActiveTime": 149,
       "files": {
         "f:\\napXUVN\\package.json": [
           {
@@ -1871,6 +1871,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\components\\sidebar\\sidebar.tsx": [
+          {
+            "timestamp": "2025-09-13T15:05:56.185Z",
+            "fileName": "f:\\napXUVN\\components\\sidebar\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 146,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]

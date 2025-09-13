@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 14962,
+      "totalLinesAdded": 15250,
       "totalLinesRemoved": 718,
-      "totalActiveTime": 135,
+      "totalActiveTime": 137,
       "files": {
         "f:\\napXUVN\\package.json": [
           {
@@ -1714,6 +1714,38 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\components\\tiktok\\napxu-webcast-qr.tsx": [
+          {
+            "timestamp": "2025-09-13T14:40:48.403Z",
+            "fileName": "f:\\napXUVN\\components\\tiktok\\napxu-webcast-qr.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 226,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\(app)\\tiktok-webcast-demo\\page.tsx": [
+          {
+            "timestamp": "2025-09-13T14:40:58.557Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-webcast-demo\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },

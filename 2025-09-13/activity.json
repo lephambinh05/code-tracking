@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 17456,
-      "totalLinesRemoved": 722,
-      "totalActiveTime": 160,
+      "totalLinesAdded": 17643,
+      "totalLinesRemoved": 723,
+      "totalActiveTime": 175,
       "files": {
         "f:\\napXUVN\\package.json": [
           {
@@ -1832,6 +1832,62 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:20:15.331Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-coin-stealth.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:23:27.977Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-coin-stealth.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:23:43.930Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-coin-stealth.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:23:49.710Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-coin-stealth.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\app\\api\\tiktok\\coin-stealth\\route.ts": [
@@ -1872,6 +1928,34 @@
             "fileName": "f:\\napXUVN\\app\\api\\tiktok\\coin-login\\route.ts",
             "fileType": ".ts",
             "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:20:20.515Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\coin-login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:23:34.835Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\coin-login\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {
@@ -1974,6 +2058,34 @@
             },
             "duration": 3,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:20:24.892Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-guest-profile.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:20:35.012Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-guest-profile.ts",
+            "fileType": ".ts",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\app\\api\\tiktok\\guest-profile\\route.ts": [
@@ -1982,6 +2094,20 @@
             "fileName": "f:\\napXUVN\\app\\api\\tiktok\\guest-profile\\route.ts",
             "fileType": ".ts",
             "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:20:40.704Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\guest-profile\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "napXUVN",
             "content": {
@@ -2006,6 +2132,64 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-13T15:24:03.312Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-guest-demo\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-13T15:24:11.666Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-guest-demo\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-13T15:24:32.835Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-guest-demo\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\napXUVN\\app\\api\\tiktok\\close-browser\\route.ts": [
+          {
+            "timestamp": "2025-09-13T15:23:53.717Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\close-browser\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

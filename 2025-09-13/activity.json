@@ -3,7 +3,7 @@
   "projects": {
     "napXUVN": {
       "totalLinesAdded": 16593,
-      "totalLinesRemoved": 718,
+      "totalLinesRemoved": 721,
       "totalActiveTime": 149,
       "files": {
         "f:\\napXUVN\\package.json": [
@@ -1775,6 +1775,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:13:53.937Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-coin-stealth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],

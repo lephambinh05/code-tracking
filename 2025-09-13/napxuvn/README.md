@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 19682                                          |
-| **Lines Removed** (➖) | 723                                        |
-| **Net Change** (↕)    | 18959                |
-| **Active Time** (⌚)   | 191 minutes |
+| **Lines Added** (➕)   | 19880                                          |
+| **Lines Removed** (➖) | 729                                        |
+| **Net Change** (↕)    | 19151                |
+| **Active Time** (⌚)   | 199 minutes |
 
 
 ## Modified Files
@@ -56,7 +56,7 @@
 - **route.ts** (+48, -0)
 - **napxu-webcast-qr.tsx** (+226, -0)
 - **page.tsx** (+62, -0)
-- **tiktok-coin-stealth.ts** (+594, -4)
+- **tiktok-coin-stealth.ts** (+605, -4)
 - **route.ts** (+33, -0)
 - **tiktok-coin-stealth-qr.tsx** (+220, -0)
 - **route.ts** (+96, -0)
@@ -68,15 +68,17 @@
 - **route.ts** (+95, -0)
 - **page.tsx** (+249, -0)
 - **route.ts** (+26, -0)
-- **tiktok-profile-manager.ts** (+572, -0)
+- **tiktok-profile-manager.ts** (+572, -6)
 - **route.ts** (+97, -0)
 - **route.ts** (+68, -0)
 - **page.tsx** (+376, -0)
 - **tiktok-chrome-connector.ts** (+539, -0)
 - **route.ts** (+92, -0)
-- **page.tsx** (+253, -0)
+- **page.tsx** (+290, -0)
 - **start-chrome-debug.bat** (+15, -0)
 - **start-chrome-debug.sh** (+15, -0)
+- **simple-chrome-test.ts** (+112, -0)
+- **route.ts** (+38, -0)
 
 ## Visualizations
 
@@ -86,8 +88,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 39
-".ts" : 8604
-".tsx" : 3789
+".ts" : 8771
+".tsx" : 3826
 ".log" : 7841
 ".txt" : 102
 ".bat" : 15
@@ -106,8 +108,8 @@ title Coding activity by hour (count of changes)
 "14h" : 9
 "15h" : 30
 "21h" : 6
-"22h" : 40
+"22h" : 49
 ```
 
 
-> **Last Updated:** 9/13/2025, 10:45:09 PM
+> **Last Updated:** 9/13/2025, 10:50:09 PM

@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "napXUVN": {
-      "totalLinesAdded": 19682,
-      "totalLinesRemoved": 723,
-      "totalActiveTime": 191,
+      "totalLinesAdded": 19880,
+      "totalLinesRemoved": 729,
+      "totalActiveTime": 199,
       "files": {
         "f:\\napXUVN\\package.json": [
           {
@@ -1888,6 +1888,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:46:52.676Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-coin-stealth.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:46:58.657Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-coin-stealth.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\app\\api\\tiktok\\coin-stealth\\route.ts": [
@@ -2234,6 +2262,48 @@
             },
             "duration": 5,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:46:23.817Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-profile-manager.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:46:36.248Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-profile-manager.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-13T15:46:47.997Z",
+            "fileName": "f:\\napXUVN\\lib\\tiktok-profile-manager.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\napXUVN\\app\\api\\tiktok\\profile-login\\route.ts": [
@@ -2330,6 +2400,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-13T15:47:20.345Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-chrome-demo\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-13T15:47:27.406Z",
+            "fileName": "f:\\napXUVN\\app\\(app)\\tiktok-chrome-demo\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\napXUVN\\scripts\\start-chrome-debug.bat": [
@@ -2362,6 +2460,38 @@
             },
             "duration": 1,
             "language": "sh"
+          }
+        ],
+        "f:\\napXUVN\\lib\\simple-chrome-test.ts": [
+          {
+            "timestamp": "2025-09-13T15:47:09.387Z",
+            "fileName": "f:\\napXUVN\\lib\\simple-chrome-test.ts",
+            "fileType": ".ts",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\napXUVN\\app\\api\\tiktok\\test-chrome\\route.ts": [
+          {
+            "timestamp": "2025-09-13T15:47:14.751Z",
+            "fileName": "f:\\napXUVN\\app\\api\\tiktok\\test-chrome\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "napXUVN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

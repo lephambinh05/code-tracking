@@ -338,9 +338,9 @@
       "averageChangeSize": 119.5
     },
     "hiAI-PHF": {
-      "totalLinesAdded": 3036,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 19,
+      "totalLinesAdded": 3270,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 22,
       "files": {
         "f:\\hiAI-PHF\\phf-api\\src\\types\\response\\supplier.ts": [
           {
@@ -600,6 +600,66 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\supplier-type-management\\page.tsx": [
+          {
+            "timestamp": "2025-09-14T16:20:20.500Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\supplier-type-management\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T16:20:21.537Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\supplier-type-management\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx": [
+          {
+            "timestamp": "2025-09-14T16:21:13.423Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 222,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T16:21:14.457Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },

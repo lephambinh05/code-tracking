@@ -338,9 +338,9 @@
       "averageChangeSize": 119.5
     },
     "hiAI-PHF": {
-      "totalLinesAdded": 3270,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 4071,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 27,
       "files": {
         "f:\\hiAI-PHF\\phf-api\\src\\types\\response\\supplier.ts": [
           {
@@ -653,6 +653,52 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T16:23:43.368Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx": [
+          {
+            "timestamp": "2025-09-14T16:23:50.371Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\hooks\\use-breadcrumbs.tsx": [
+          {
+            "timestamp": "2025-09-14T16:23:54.587Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\hooks\\use-breadcrumbs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 748,
+            "linesRemoved": 0,
             "projectName": "hiAI-PHF",
             "content": {
               "added": [],

@@ -336,6 +336,73 @@
         "f:\\napXUVN\\app\\(app)\\tiktok-api-test\\page.tsx"
       ],
       "averageChangeSize": 119.5
+    },
+    "hiAI-PHF": {
+      "totalLinesAdded": 196,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "f:\\hiAI-PHF\\phf-api\\src\\types\\response\\supplier.ts": [
+          {
+            "timestamp": "2025-09-14T15:52:08.139Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\types\\response\\supplier.ts",
+            "fileType": ".ts",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-api\\src\\types\\request\\base\\index.ts": [
+          {
+            "timestamp": "2025-09-14T15:52:35.672Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\types\\request\\base\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-api\\src\\types\\request\\supplier.ts": [
+          {
+            "timestamp": "2025-09-14T15:52:43.575Z",
+            "fileName": "f:\\hiAI-PHF\\phf-api\\src\\types\\request\\supplier.ts",
+            "fileType": ".ts",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2
+      },
+      "changeFrequency": {
+        "22": 2
+      },
+      "topFiles": [
+        "f:\\hiAI-PHF\\phf-api\\src\\types\\response\\supplier.ts",
+        "f:\\hiAI-PHF\\phf-api\\src\\types\\request\\base\\index.ts",
+        "f:\\hiAI-PHF\\phf-api\\src\\types\\request\\supplier.ts"
+      ],
+      "averageChangeSize": 65.33333333333333
     }
   },
   "totalActiveTime": 19,

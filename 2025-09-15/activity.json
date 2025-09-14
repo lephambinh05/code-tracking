@@ -1,0 +1,365 @@
+{
+  "date": "2025-09-15",
+  "projects": {
+    "hiAI-PHF": {
+      "totalLinesAdded": 123,
+      "totalLinesRemoved": 162,
+      "totalActiveTime": 24,
+      "files": {
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx": [
+          {
+            "timestamp": "2025-09-14T16:58:09.812Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T16:59:57.281Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:01:26.867Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:02:05.430Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx": [
+          {
+            "timestamp": "2025-09-14T16:58:09.815Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 45,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T16:59:10.963Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T16:59:14.095Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:01:26.861Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:01:35.119Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:01:43.229Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\types\\supplier.ts": [
+          {
+            "timestamp": "2025-09-14T16:58:09.818Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\types\\supplier.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-14T17:02:28.046Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\types\\supplier.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\features\\supplier\\supplierApi.ts": [
+          {
+            "timestamp": "2025-09-14T16:58:09.823Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\store\\features\\supplier\\supplierApi.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 71,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\hooks\\use-breadcrumbs.tsx": [
+          {
+            "timestamp": "2025-09-14T16:58:09.828Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\hooks\\use-breadcrumbs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:00:02.506Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\hooks\\use-breadcrumbs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:01:26.864Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\hooks\\use-breadcrumbs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:02:11.547Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\hooks\\use-breadcrumbs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\supplier-management\\supplier-type-management\\page.tsx": [
+          {
+            "timestamp": "2025-09-14T17:00:08.745Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\supplier-management\\supplier-type-management\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:01:26.883Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\supplier-management\\supplier-type-management\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-09-14T17:01:52.505Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\supplier-management\\supplier-type-management\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\lephambinh\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2025-09-14T17:01:24.848Z",
+            "fileName": "c:\\Users\\lephambinh\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx": [
+          {
+            "timestamp": "2025-09-14T17:02:24.554Z",
+            "fileName": "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 19,
+        "ts": 3,
+        "json": 2
+      },
+      "changeFrequency": {
+        "0": 15,
+        "23": 9
+      },
+      "topFiles": [
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\modal\\supplier-type-form-modal.tsx",
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\features\\inventory-management\\supplier-management\\supplier-type\\supplier-type-listing-content.tsx",
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\hooks\\use-breadcrumbs.tsx",
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\app\\inventory-management\\supplier-management\\supplier-type-management\\page.tsx",
+        "f:\\hiAI-PHF\\phf-ui-web\\src\\types\\supplier.ts"
+      ],
+      "averageChangeSize": 12.954545454545455
+    }
+  },
+  "totalActiveTime": 24,
+  "totalProjects": 1,
+  "totalFiles": 8,
+  "mostActiveHours": [
+    0,
+    23
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts",
+    "json"
+  ]
+}

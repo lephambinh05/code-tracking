@@ -2,9 +2,9 @@
   "date": "2025-09-17",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 509,
+      "totalLinesAdded": 690,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 35,
+      "totalActiveTime": 49,
       "files": {
         "f:\\quytuthien.vn\\src\\pages\\Contact.js": [
           {
@@ -334,6 +334,148 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-16T19:06:06.428Z",
+            "fileName": "f:\\quytuthien.vn\\server\\src\\seed.js",
+            "fileType": ".js",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\sample-data\\activities.json": [
+          {
+            "timestamp": "2025-09-16T19:03:21.414Z",
+            "fileName": "f:\\quytuthien.vn\\sample-data\\activities.json",
+            "fileType": ".json",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          }
+        ],
+        "f:\\quytuthien.vn\\sample-data\\news.json": [
+          {
+            "timestamp": "2025-09-16T19:03:29.143Z",
+            "fileName": "f:\\quytuthien.vn\\sample-data\\news.json",
+            "fileType": ".json",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\quytuthien.vn\\sample-data\\settings.json": [
+          {
+            "timestamp": "2025-09-16T19:03:31.475Z",
+            "fileName": "f:\\quytuthien.vn\\sample-data\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\quytuthien.vn\\sample-data\\banks.json": [
+          {
+            "timestamp": "2025-09-16T19:03:40.081Z",
+            "fileName": "f:\\quytuthien.vn\\sample-data\\banks.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\quytuthien.vn\\sample-data\\charity-funds.json": [
+          {
+            "timestamp": "2025-09-16T19:04:00.660Z",
+            "fileName": "f:\\quytuthien.vn\\sample-data\\charity-funds.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\quytuthien.vn\\sample-data\\transactions.json": [
+          {
+            "timestamp": "2025-09-16T19:04:12.508Z",
+            "fileName": "f:\\quytuthien.vn\\sample-data\\transactions.json",
+            "fileType": ".json",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\quytuthien.vn\\sample-data\\users.json": [
+          {
+            "timestamp": "2025-09-16T19:05:37.838Z",
+            "fileName": "f:\\quytuthien.vn\\sample-data\\users.json",
+            "fileType": ".json",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "f:\\quytuthien.vn\\sample-data\\shop.json": [
+          {
+            "timestamp": "2025-09-16T19:05:46.499Z",
+            "fileName": "f:\\quytuthien.vn\\sample-data\\shop.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

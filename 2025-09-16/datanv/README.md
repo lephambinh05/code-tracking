@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2822                                          |
+| **Lines Added** (➕)   | 3851                                          |
 | **Lines Removed** (➖) | 288                                        |
-| **Net Change** (↕)    | 2534                |
+| **Net Change** (↕)    | 3563                |
 | **Active Time** (⌚)   | 51 minutes |
 
 
@@ -27,6 +27,7 @@
 - **test_positions.py** (+49, -0)
 - **create_clean_positions.py** (+109, -0)
 - **manual_clean_positions.py** (+147, -0)
+- **positions_insert_clean.sql** (+1029, -0)
 
 ## Visualizations
 
@@ -37,7 +38,7 @@ pie showData
 title Lines changed by file type
 ".txt" : 428
 ".py" : 1189
-".sql" : 1493
+".sql" : 2522
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +48,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 15
 "10h" : 12
-"11h" : 20
+"11h" : 21
 ```
 
 
-> **Last Updated:** 9/16/2025, 11:20:45 AM
+> **Last Updated:** 9/16/2025, 11:30:45 AM

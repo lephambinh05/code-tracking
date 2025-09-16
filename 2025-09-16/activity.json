@@ -177,7 +177,7 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 2822,
+      "totalLinesAdded": 3851,
       "totalLinesRemoved": 288,
       "totalActiveTime": 51,
       "files": {
@@ -869,6 +869,22 @@
             },
             "duration": 2,
             "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\positions_insert_clean.sql": [
+          {
+            "timestamp": "2025-09-16T04:27:32.697Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\positions_insert_clean.sql",
+            "fileType": ".sql",
+            "linesAdded": 1029,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
           }
         ]
       },

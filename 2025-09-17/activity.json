@@ -2,9 +2,9 @@
   "date": "2025-09-17",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 492,
+      "totalLinesAdded": 509,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 32,
+      "totalActiveTime": 35,
       "files": {
         "f:\\quytuthien.vn\\src\\pages\\Contact.js": [
           {
@@ -98,6 +98,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-16T18:57:43.723Z",
+            "fileName": "f:\\quytuthien.vn\\server\\src\\firebase.js",
+            "fileType": ".js",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "f:\\quytuthien.vn\\server\\src\\index.js": [
@@ -171,6 +185,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-09-16T18:58:49.549Z",
+            "fileName": "f:\\quytuthien.vn\\server\\.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "unknown"
           }
         ],

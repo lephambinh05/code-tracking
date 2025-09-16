@@ -1158,9 +1158,9 @@
       "averageChangeSize": 47
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 482,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 610,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 18,
       "files": {
         "f:\\quytuthien.vn\\package.json": [
           {
@@ -1252,6 +1252,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-16T15:42:09.413Z",
+            "fileName": "f:\\quytuthien.vn\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "f:\\quytuthien.vn\\src\\pages\\ActivityDetails.js": [
@@ -1308,6 +1322,38 @@
             "fileName": "f:\\quytuthien.vn\\src\\styles\\Statistics.css",
             "fileType": ".css",
             "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\pages\\News.js": [
+          {
+            "timestamp": "2025-09-16T15:46:15.052Z",
+            "fileName": "f:\\quytuthien.vn\\src\\pages\\News.js",
+            "fileType": ".js",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\styles\\News.css": [
+          {
+            "timestamp": "2025-09-16T15:46:27.032Z",
+            "fileName": "f:\\quytuthien.vn\\src\\styles\\News.css",
+            "fileType": ".css",
+            "linesAdded": 43,
             "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {

@@ -2,9 +2,9 @@
   "date": "2025-09-17",
   "projects": {
     "quytuthien.vn": {
-      "totalLinesAdded": 80,
+      "totalLinesAdded": 242,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 2,
+      "totalActiveTime": 9,
       "files": {
         "f:\\quytuthien.vn\\src\\pages\\Contact.js": [
           {
@@ -45,6 +45,54 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\server\\package.json": [
+          {
+            "timestamp": "2025-09-16T18:07:58.859Z",
+            "fileName": "f:\\quytuthien.vn\\server\\package.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          }
+        ],
+        "f:\\quytuthien.vn\\server\\src\\firebase.js": [
+          {
+            "timestamp": "2025-09-16T18:08:12.033Z",
+            "fileName": "f:\\quytuthien.vn\\server\\src\\firebase.js",
+            "fileType": ".js",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\server\\src\\index.js": [
+          {
+            "timestamp": "2025-09-16T18:08:50.610Z",
+            "fileName": "f:\\quytuthien.vn\\server\\src\\index.js",
+            "fileType": ".js",
+            "linesAdded": 117,
+            "linesRemoved": 0,
             "projectName": "quytuthien.vn",
             "content": {
               "added": [],

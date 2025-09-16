@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4076                                          |
-| **Lines Removed** (➖) | 288                                        |
-| **Net Change** (↕)    | 3788                |
-| **Active Time** (⌚)   | 58 minutes |
+| **Lines Added** (➕)   | 4224                                          |
+| **Lines Removed** (➖) | 325                                        |
+| **Net Change** (↕)    | 3899                |
+| **Active Time** (⌚)   | 62 minutes |
 
 
 ## Modified Files
@@ -32,6 +32,8 @@
 - **simple_map.py** (+35, -0)
 - **verify_mapping.py** (+49, -0)
 - **check_mapping.py** (+66, -0)
+- **employees_insert.sql** (+88, -37)
+- **modify_fullname.py** (+60, -0)
 
 ## Visualizations
 
@@ -41,8 +43,8 @@
 pie showData
 title Lines changed by file type
 ".txt" : 428
-".py" : 1414
-".sql" : 2522
+".py" : 1474
+".sql" : 2647
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,7 +55,8 @@ title Coding activity by hour (count of changes)
 "09h" : 15
 "10h" : 12
 "11h" : 25
+"15h" : 3
 ```
 
 
-> **Last Updated:** 9/16/2025, 11:45:45 AM
+> **Last Updated:** 9/16/2025, 3:15:45 PM

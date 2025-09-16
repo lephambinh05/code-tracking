@@ -177,9 +177,9 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 4076,
-      "totalLinesRemoved": 288,
-      "totalActiveTime": 58,
+      "totalLinesAdded": 4224,
+      "totalLinesRemoved": 325,
+      "totalActiveTime": 62,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -948,6 +948,52 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\employees_insert.sql": [
+          {
+            "timestamp": "2025-09-16T08:12:47.889Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\employees_insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-16T08:12:48.891Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\employees_insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\modify_fullname.py": [
+          {
+            "timestamp": "2025-09-16T08:14:49.845Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\modify_fullname.py",
+            "fileType": ".py",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]

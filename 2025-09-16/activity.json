@@ -177,9 +177,9 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 1452,
+      "totalLinesAdded": 2822,
       "totalLinesRemoved": 285,
-      "totalActiveTime": 44,
+      "totalActiveTime": 51,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -669,6 +669,20 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T04:11:47.226Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_positions_sql.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
           }
         ],
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\run_positions_generator.py": [
@@ -777,6 +791,70 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\positions_insert.sql": [
+          {
+            "timestamp": "2025-09-16T04:11:50.815Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\positions_insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 1060,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\test_positions.py": [
+          {
+            "timestamp": "2025-09-16T04:12:47.472Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\test_positions.py",
+            "fileType": ".py",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\create_clean_positions.py": [
+          {
+            "timestamp": "2025-09-16T04:13:15.571Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\create_clean_positions.py",
+            "fileType": ".py",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\manual_clean_positions.py": [
+          {
+            "timestamp": "2025-09-16T04:14:22.068Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\manual_clean_positions.py",
+            "fileType": ".py",
+            "linesAdded": 147,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
           }
         ]
       },

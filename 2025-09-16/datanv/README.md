@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1452                                          |
+| **Lines Added** (➕)   | 2822                                          |
 | **Lines Removed** (➖) | 285                                        |
-| **Net Change** (↕)    | 1167                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Net Change** (↕)    | 2537                |
+| **Active Time** (⌚)   | 51 minutes |
 
 
 ## Modified Files
@@ -17,12 +17,16 @@
 - **debug_excel_data.py** (+58, -0)
 - **summary_departments.py** (+78, -0)
 - **departments_insert.sql** (+329, -104)
-- **generate_positions_sql.py** (+186, -0)
+- **generate_positions_sql.py** (+191, -0)
 - **run_positions_generator.py** (+41, -0)
 - **run_all_generators.py** (+77, -0)
 - **extract_positions.py** (+66, -0)
 - **simple_extract_positions.py** (+74, -0)
 - **data123.txt** (+36, -0)
+- **positions_insert.sql** (+1060, -0)
+- **test_positions.py** (+49, -0)
+- **create_clean_positions.py** (+109, -0)
+- **manual_clean_positions.py** (+147, -0)
 
 ## Visualizations
 
@@ -32,8 +36,8 @@
 pie showData
 title Lines changed by file type
 ".txt" : 425
-".py" : 879
-".sql" : 433
+".py" : 1189
+".sql" : 1493
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +47,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 15
 "10h" : 12
-"11h" : 14
+"11h" : 19
 ```
 
 
-> **Last Updated:** 9/16/2025, 11:10:45 AM
+> **Last Updated:** 9/16/2025, 11:15:45 AM

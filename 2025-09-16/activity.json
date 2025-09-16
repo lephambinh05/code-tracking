@@ -178,8 +178,8 @@
     },
     "dataNV": {
       "totalLinesAdded": 942,
-      "totalLinesRemoved": 149,
-      "totalActiveTime": 23,
+      "totalLinesRemoved": 233,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -526,6 +526,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-16T03:31:21.435Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\departments_insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-16T03:31:50.769Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\departments_insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-16T03:32:09.046Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\departments_insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sql"
           }
         ]

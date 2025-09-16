@@ -1,0 +1,83 @@
+{
+  "date": "2025-09-17",
+  "projects": {
+    "quytuthien.vn": {
+      "totalLinesAdded": 80,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 2,
+      "files": {
+        "f:\\quytuthien.vn\\src\\pages\\Contact.js": [
+          {
+            "timestamp": "2025-09-16T18:03:35.210Z",
+            "fileName": "f:\\quytuthien.vn\\src\\pages\\Contact.js",
+            "fileType": ".js",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\styles\\Contact.css": [
+          {
+            "timestamp": "2025-09-16T18:03:43.713Z",
+            "fileName": "f:\\quytuthien.vn\\src\\styles\\Contact.css",
+            "fileType": ".css",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\App.js": [
+          {
+            "timestamp": "2025-09-16T18:03:48.327Z",
+            "fileName": "f:\\quytuthien.vn\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 1,
+        "css": 1
+      },
+      "changeFrequency": {
+        "1": 2
+      },
+      "topFiles": [
+        "f:\\quytuthien.vn\\src\\pages\\Contact.js",
+        "f:\\quytuthien.vn\\src\\styles\\Contact.css",
+        "f:\\quytuthien.vn\\src\\App.js"
+      ],
+      "averageChangeSize": 28
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    1
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "css"
+  ]
+}

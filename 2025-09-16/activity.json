@@ -177,9 +177,9 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 4010,
+      "totalLinesAdded": 4076,
       "totalLinesRemoved": 288,
-      "totalActiveTime": 54,
+      "totalActiveTime": 58,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -932,6 +932,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\check_mapping.py": [
+          {
+            "timestamp": "2025-09-16T04:42:34.921Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\check_mapping.py",
+            "fileType": ".py",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "py"
           }
         ]

@@ -177,7 +177,7 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 877,
+      "totalLinesAdded": 942,
       "totalLinesRemoved": 149,
       "totalActiveTime": 23,
       "files": {
@@ -512,6 +512,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-09-16T03:30:34.311Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\departments_insert.sql",
+            "fileType": ".sql",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "sql"
           }
         ]

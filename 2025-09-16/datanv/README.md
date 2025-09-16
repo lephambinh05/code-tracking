@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3851                                          |
+| **Lines Added** (➕)   | 4010                                          |
 | **Lines Removed** (➖) | 288                                        |
-| **Net Change** (↕)    | 3563                |
-| **Active Time** (⌚)   | 51 minutes |
+| **Net Change** (↕)    | 3722                |
+| **Active Time** (⌚)   | 54 minutes |
 
 
 ## Modified Files
@@ -28,6 +28,9 @@
 - **create_clean_positions.py** (+109, -0)
 - **manual_clean_positions.py** (+147, -0)
 - **positions_insert_clean.sql** (+1029, -0)
+- **map_employee_to_userid.py** (+75, -0)
+- **simple_map.py** (+35, -0)
+- **verify_mapping.py** (+49, -0)
 
 ## Visualizations
 
@@ -37,7 +40,7 @@
 pie showData
 title Lines changed by file type
 ".txt" : 428
-".py" : 1189
+".py" : 1348
 ".sql" : 2522
 ```
 
@@ -48,8 +51,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 15
 "10h" : 12
-"11h" : 21
+"11h" : 24
 ```
 
 
-> **Last Updated:** 9/16/2025, 11:30:45 AM
+> **Last Updated:** 9/16/2025, 11:40:45 AM

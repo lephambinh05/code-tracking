@@ -177,9 +177,9 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 3851,
+      "totalLinesAdded": 4010,
       "totalLinesRemoved": 288,
-      "totalActiveTime": 51,
+      "totalActiveTime": 54,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -885,6 +885,54 @@
             },
             "duration": 0,
             "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\map_employee_to_userid.py": [
+          {
+            "timestamp": "2025-09-16T04:36:51.860Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\map_employee_to_userid.py",
+            "fileType": ".py",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\simple_map.py": [
+          {
+            "timestamp": "2025-09-16T04:38:11.487Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\simple_map.py",
+            "fileType": ".py",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\verify_mapping.py": [
+          {
+            "timestamp": "2025-09-16T04:38:59.869Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\verify_mapping.py",
+            "fileType": ".py",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },

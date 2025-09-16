@@ -161,9 +161,9 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 34,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 561,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 14,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -207,6 +207,182 @@
             },
             "duration": 2,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T02:56:16.703Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T02:58:29.372Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py": [
+          {
+            "timestamp": "2025-09-16T02:56:42.947Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
+            "fileType": ".py",
+            "linesAdded": 222,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T02:56:50.577Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T02:57:20.839Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T02:57:27.436Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T02:57:32.411Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T02:58:01.696Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\run_departments_generator.py": [
+          {
+            "timestamp": "2025-09-16T02:56:55.531Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\run_departments_generator.py",
+            "fileType": ".py",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\debug_excel_data.py": [
+          {
+            "timestamp": "2025-09-16T02:57:41.793Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\debug_excel_data.py",
+            "fileType": ".py",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T02:57:45.317Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\debug_excel_data.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\summary_departments.py": [
+          {
+            "timestamp": "2025-09-16T02:58:21.394Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\summary_departments.py",
+            "fileType": ".py",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },

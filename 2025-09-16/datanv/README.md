@@ -4,14 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34                                          |
-| **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 31                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Lines Added** (➕)   | 561                                          |
+| **Lines Removed** (➖) | 15                                        |
+| **Net Change** (↕)    | 546                |
+| **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
-- **structuresql.txt** (+34, -3)
+- **structuresql.txt** (+155, -15)
+- **generate_departments_sql.py** (+245, -0)
+- **run_departments_generator.py** (+41, -0)
+- **debug_excel_data.py** (+58, -0)
+- **summary_departments.py** (+62, -0)
 
 ## Visualizations
 
@@ -20,7 +24,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 37
+".txt" : 170
+".py" : 406
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 3
+"09h" : 15
 ```
 
 
-> **Last Updated:** 9/16/2025, 9:50:44 AM
+> **Last Updated:** 9/16/2025, 10:00:44 AM

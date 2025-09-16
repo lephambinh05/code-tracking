@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1276                                          |
+| **Lines Added** (➕)   | 1452                                          |
 | **Lines Removed** (➖) | 285                                        |
-| **Net Change** (↕)    | 991                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Net Change** (↕)    | 1167                |
+| **Active Time** (⌚)   | 44 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,9 @@
 - **generate_positions_sql.py** (+186, -0)
 - **run_positions_generator.py** (+41, -0)
 - **run_all_generators.py** (+77, -0)
+- **extract_positions.py** (+66, -0)
+- **simple_extract_positions.py** (+74, -0)
+- **data123.txt** (+36, -0)
 
 ## Visualizations
 
@@ -28,8 +31,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".txt" : 389
-".py" : 739
+".txt" : 425
+".py" : 879
 ".sql" : 433
 ```
 
@@ -40,8 +43,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 15
 "10h" : 12
-"11h" : 9
+"11h" : 14
 ```
 
 
-> **Last Updated:** 9/16/2025, 11:05:45 AM
+> **Last Updated:** 9/16/2025, 11:10:45 AM

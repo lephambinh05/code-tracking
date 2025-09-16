@@ -177,9 +177,9 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 1276,
+      "totalLinesAdded": 1452,
       "totalLinesRemoved": 285,
-      "totalActiveTime": 35,
+      "totalActiveTime": 44,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -701,6 +701,82 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\extract_positions.py": [
+          {
+            "timestamp": "2025-09-16T04:07:22.972Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\extract_positions.py",
+            "fileType": ".py",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T04:07:31.116Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\extract_positions.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\simple_extract_positions.py": [
+          {
+            "timestamp": "2025-09-16T04:07:59.535Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\simple_extract_positions.py",
+            "fileType": ".py",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\data123.txt": [
+          {
+            "timestamp": "2025-09-16T04:09:51.980Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\data123.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T04:09:52.993Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\data123.txt",
+            "fileType": ".txt",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },

@@ -161,9 +161,9 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 854,
-      "totalLinesRemoved": 35,
-      "totalActiveTime": 22,
+      "totalLinesAdded": 877,
+      "totalLinesRemoved": 149,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -227,6 +227,34 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
             "fileType": ".txt",
             "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T03:18:11.489Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 114,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T03:18:20.038Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 23,
             "linesRemoved": 0,
             "projectName": "dataNV",
             "content": {

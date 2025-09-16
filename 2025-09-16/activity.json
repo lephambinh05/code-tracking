@@ -177,9 +177,9 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 942,
-      "totalLinesRemoved": 233,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 1276,
+      "totalLinesRemoved": 285,
+      "totalActiveTime": 35,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -272,6 +272,90 @@
             "fileType": ".txt",
             "linesAdded": 23,
             "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T04:01:36.287Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T04:01:39.016Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T04:01:47.140Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T04:01:57.218Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T04:02:06.004Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-09-16T04:02:09.826Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 21,
             "projectName": "dataNV",
             "content": {
               "added": [],
@@ -569,6 +653,54 @@
             },
             "duration": 1,
             "language": "sql"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_positions_sql.py": [
+          {
+            "timestamp": "2025-09-16T04:03:23.838Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_positions_sql.py",
+            "fileType": ".py",
+            "linesAdded": 186,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\run_positions_generator.py": [
+          {
+            "timestamp": "2025-09-16T04:03:29.726Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\run_positions_generator.py",
+            "fileType": ".py",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\lephambinh\\Downloads\\dataNV\\run_all_generators.py": [
+          {
+            "timestamp": "2025-09-16T04:03:47.190Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\run_all_generators.py",
+            "fileType": ".py",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },

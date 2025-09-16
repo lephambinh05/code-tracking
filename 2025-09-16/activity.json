@@ -161,9 +161,9 @@
       "averageChangeSize": 5.5
     },
     "dataNV": {
-      "totalLinesAdded": 841,
+      "totalLinesAdded": 854,
       "totalLinesRemoved": 35,
-      "totalActiveTime": 19,
+      "totalActiveTime": 22,
       "files": {
         "c:\\Users\\lephambinh\\Downloads\\dataNV\\structuresql.txt": [
           {
@@ -313,6 +313,48 @@
             "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
             "fileType": ".py",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T03:11:27.327Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T03:11:43.090Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "dataNV",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-09-16T03:12:03.059Z",
+            "fileName": "c:\\Users\\lephambinh\\Downloads\\dataNV\\generate_departments_sql.py",
+            "fileType": ".py",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "dataNV",
             "content": {

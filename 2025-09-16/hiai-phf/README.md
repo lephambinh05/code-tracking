@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 55                                          |
+| **Lines Added** (➕)   | 999                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 55                |
+| **Net Change** (↕)    | 999                |
 | **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
 - **structure-personnel.txt** (+55, -0)
+- **V00_Personnel_structure.sql** (+944, -0)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".txt" : 55
+".sql" : 944
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 10
+"10h" : 1
 ```
 
 
-> **Last Updated:** 9/16/2025, 9:29:39 AM
+> **Last Updated:** 9/16/2025, 10:29:39 AM

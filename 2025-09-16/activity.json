@@ -2,7 +2,7 @@
   "date": "2025-09-16",
   "projects": {
     "hiAI-PHF": {
-      "totalLinesAdded": 55,
+      "totalLinesAdded": 999,
       "totalLinesRemoved": 0,
       "totalActiveTime": 9,
       "files": {
@@ -146,6 +146,22 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "f:\\hiAI-PHF\\database\\structure\\personnel\\V00_Personnel_structure.sql": [
+          {
+            "timestamp": "2025-09-16T03:29:32.972Z",
+            "fileName": "f:\\hiAI-PHF\\database\\structure\\personnel\\V00_Personnel_structure.sql",
+            "fileType": ".sql",
+            "linesAdded": 944,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
           }
         ]
       },

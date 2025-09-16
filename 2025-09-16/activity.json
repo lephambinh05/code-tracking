@@ -1158,9 +1158,9 @@
       "averageChangeSize": 47
     },
     "quytuthien.vn": {
-      "totalLinesAdded": 42,
+      "totalLinesAdded": 204,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "f:\\quytuthien.vn\\package.json": [
           {
@@ -1176,6 +1176,54 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\pages\\Activities.js": [
+          {
+            "timestamp": "2025-09-16T15:36:15.435Z",
+            "fileName": "f:\\quytuthien.vn\\src\\pages\\Activities.js",
+            "fileType": ".js",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\styles\\Activities.css": [
+          {
+            "timestamp": "2025-09-16T15:36:23.602Z",
+            "fileName": "f:\\quytuthien.vn\\src\\styles\\Activities.css",
+            "fileType": ".css",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\quytuthien.vn\\src\\App.js": [
+          {
+            "timestamp": "2025-09-16T15:36:46.502Z",
+            "fileName": "f:\\quytuthien.vn\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "quytuthien.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

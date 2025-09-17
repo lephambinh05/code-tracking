@@ -630,9 +630,9 @@
       "averageChangeSize": 28
     },
     "leeApp": {
-      "totalLinesAdded": 440,
+      "totalLinesAdded": 644,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 4,
       "files": {
         "f:\\leeApp\\database\\structure\\patient\\V00_patient_structure.sql": [
           {
@@ -647,6 +647,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "f:\\leeApp\\database\\structure\\clinic\\V00_clinic_structure.sql": [
+          {
+            "timestamp": "2025-09-17T09:55:08.754Z",
+            "fileName": "f:\\leeApp\\database\\structure\\clinic\\V00_clinic_structure.sql",
+            "fileType": ".sql",
+            "linesAdded": 204,
+            "linesRemoved": 0,
+            "projectName": "leeApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "sql"
           }
         ]

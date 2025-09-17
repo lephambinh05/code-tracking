@@ -66,6 +66,39 @@
         "f:\\quytuthien2.0\\mirror.ps1"
       ],
       "averageChangeSize": 137.66666666666666
+    },
+    "forum.cybernix.vn": {
+      "totalLinesAdded": 27,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\forum.cybernix.vn\\config.php": [
+          {
+            "timestamp": "2025-09-17T20:03:06.562Z",
+            "fileName": "f:\\forum.cybernix.vn\\config.php",
+            "fileType": ".php",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "forum.cybernix.vn",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "3": 0
+      },
+      "topFiles": [
+        "f:\\forum.cybernix.vn\\config.php"
+      ],
+      "averageChangeSize": 27
     }
   },
   "totalActiveTime": 4,

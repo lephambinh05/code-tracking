@@ -309,6 +309,73 @@
         "f:\\forum.cybernix.vn\\config.php"
       ],
       "averageChangeSize": 27
+    },
+    "hiAI-PHF": {
+      "totalLinesAdded": 100,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "f:\\hiAI-PHF\\database\\data\\personnel\\V08_personnel_update_data_employees.sql": [
+          {
+            "timestamp": "2025-09-18T11:57:51.270Z",
+            "fileName": "f:\\hiAI-PHF\\database\\data\\personnel\\V08_personnel_update_data_employees.sql",
+            "fileType": ".sql",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "f:\\hiAI-PHF\\database\\data\\personnel\\V07_personnel_update_data_positions.sql": [
+          {
+            "timestamp": "2025-09-18T11:58:06.058Z",
+            "fileName": "f:\\hiAI-PHF\\database\\data\\personnel\\V07_personnel_update_data_positions.sql",
+            "fileType": ".sql",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "f:\\hiAI-PHF\\database\\data\\personnel\\V06_personnel_update_data_departments.sql": [
+          {
+            "timestamp": "2025-09-18T11:58:12.067Z",
+            "fileName": "f:\\hiAI-PHF\\database\\data\\personnel\\V06_personnel_update_data_departments.sql",
+            "fileType": ".sql",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "hiAI-PHF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 2
+      },
+      "changeFrequency": {
+        "18": 2
+      },
+      "topFiles": [
+        "f:\\hiAI-PHF\\database\\data\\personnel\\V08_personnel_update_data_employees.sql",
+        "f:\\hiAI-PHF\\database\\data\\personnel\\V07_personnel_update_data_positions.sql",
+        "f:\\hiAI-PHF\\database\\data\\personnel\\V06_personnel_update_data_departments.sql"
+      ],
+      "averageChangeSize": 33.333333333333336
     }
   },
   "totalActiveTime": 4,
